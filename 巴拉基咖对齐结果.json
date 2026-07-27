@@ -1,0 +1,1589 @@
+[
+  {
+    "idx": 80,
+    "text": "tatrime cattaro parajikadhamma uddesam agacchanti",
+    "start": 0.98,
+    "end": 8.4,
+    "score": -2.448,
+    "words": [
+      {
+        "word": "tatrime",
+        "start": 0.98,
+        "end": 1.58,
+        "score": -1.99
+      },
+      {
+        "word": "cattaro",
+        "start": 2.06,
+        "end": 2.7,
+        "score": -2.142
+      },
+      {
+        "word": "parajikadhamma",
+        "start": 3.5,
+        "end": 5.22,
+        "score": -1.528
+      },
+      {
+        "word": "uddesam",
+        "start": 5.98,
+        "end": 6.94,
+        "score": -4.201
+      },
+      {
+        "word": "agacchanti",
+        "start": 7.2,
+        "end": 8.4,
+        "score": -2.38
+      }
+    ]
+  },
+  {
+    "idx": 81,
+    "text": "yo pana bhikkhu bhikkhunam sikkha sajiva samapanno",
+    "start": 9.9,
+    "end": 15.5,
+    "score": -2.075,
+    "words": [
+      {
+        "word": "yo",
+        "start": 9.9,
+        "end": 10.0,
+        "score": -0.698
+      },
+      {
+        "word": "pana",
+        "start": 10.22,
+        "end": 10.48,
+        "score": -1.033
+      },
+      {
+        "word": "bhikkhu",
+        "start": 10.54,
+        "end": 10.9,
+        "score": -3.404
+      },
+      {
+        "word": "bhikkhunam",
+        "start": 11.44,
+        "end": 12.5,
+        "score": -3.687
+      },
+      {
+        "word": "sikkha",
+        "start": 12.92,
+        "end": 13.28,
+        "score": -2.356
+      },
+      {
+        "word": "sajiva",
+        "start": 13.42,
+        "end": 14.18,
+        "score": -2.372
+      },
+      {
+        "word": "samapanno",
+        "start": 14.52,
+        "end": 15.5,
+        "score": -0.973
+      }
+    ]
+  },
+  {
+    "idx": 82,
+    "text": "sikkham appaccakkhaya dubbalyam anavikatva",
+    "start": 16.66,
+    "end": 22.181,
+    "score": -3.075,
+    "words": [
+      {
+        "word": "sikkham",
+        "start": 16.66,
+        "end": 17.3,
+        "score": -3.008
+      },
+      {
+        "word": "appaccakkhaya",
+        "start": 17.44,
+        "end": 18.641,
+        "score": -2.452
+      },
+      {
+        "word": "dubbalyam",
+        "start": 19.141,
+        "end": 20.321,
+        "score": -3.691
+      },
+      {
+        "word": "anavikatva",
+        "start": 20.961,
+        "end": 22.181,
+        "score": -3.149
+      }
+    ]
+  },
+  {
+    "idx": 83,
+    "text": "methunam dhammam patiseveyya",
+    "start": 22.601,
+    "end": 25.661,
+    "score": -2.494,
+    "words": [
+      {
+        "word": "methunam",
+        "start": 22.601,
+        "end": 23.301,
+        "score": -2.228
+      },
+      {
+        "word": "dhammam",
+        "start": 23.441,
+        "end": 24.061,
+        "score": -2.628
+      },
+      {
+        "word": "patiseveyya",
+        "start": 24.221,
+        "end": 25.661,
+        "score": -2.627
+      }
+    ]
+  },
+  {
+    "idx": 84,
+    "text": "antamaso tiracchana gatayapi",
+    "start": 26.741,
+    "end": 30.301,
+    "score": -1.375,
+    "words": [
+      {
+        "word": "antamaso",
+        "start": 26.741,
+        "end": 27.481,
+        "score": -0.785
+      },
+      {
+        "word": "tiracchana",
+        "start": 28.061,
+        "end": 29.161,
+        "score": -2.392
+      },
+      {
+        "word": "gatayapi",
+        "start": 29.481,
+        "end": 30.301,
+        "score": -0.947
+      }
+    ]
+  },
+  {
+    "idx": 85,
+    "text": "parajiko hoti asamvaso",
+    "start": 31.181,
+    "end": 34.321,
+    "score": -2.226,
+    "words": [
+      {
+        "word": "parajiko",
+        "start": 31.181,
+        "end": 31.921,
+        "score": -1.491
+      },
+      {
+        "word": "hoti",
+        "start": 32.441,
+        "end": 32.861,
+        "score": -1.559
+      },
+      {
+        "word": "asamvaso",
+        "start": 33.341,
+        "end": 34.321,
+        "score": -3.628
+      }
+    ]
+  },
+  {
+    "idx": 86,
+    "text": "yo pana bhikkhu gama va aranna va",
+    "start": 35.761,
+    "end": 39.081,
+    "score": -3.139,
+    "words": [
+      {
+        "word": "yo",
+        "start": 35.761,
+        "end": 35.881,
+        "score": -0.695
+      },
+      {
+        "word": "pana",
+        "start": 36.081,
+        "end": 36.301,
+        "score": -1.131
+      },
+      {
+        "word": "bhikkhu",
+        "start": 36.381,
+        "end": 36.701,
+        "score": -3.164
+      },
+      {
+        "word": "gama",
+        "start": 37.341,
+        "end": 37.641,
+        "score": -2.285
+      },
+      {
+        "word": "va",
+        "start": 37.821,
+        "end": 37.901,
+        "score": -5.754
+      },
+      {
+        "word": "aranna",
+        "start": 38.261,
+        "end": 38.781,
+        "score": -3.452
+      },
+      {
+        "word": "va",
+        "start": 38.981,
+        "end": 39.081,
+        "score": -5.493
+      }
+    ]
+  },
+  {
+    "idx": 87,
+    "text": "adinnam theyya sankhatam adiyeyya",
+    "start": 40.101,
+    "end": 43.881,
+    "score": -2.755,
+    "words": [
+      {
+        "word": "adinnam",
+        "start": 40.101,
+        "end": 40.861,
+        "score": -2.191
+      },
+      {
+        "word": "theyya",
+        "start": 41.021,
+        "end": 41.361,
+        "score": -4.279
+      },
+      {
+        "word": "sankhatam",
+        "start": 41.681,
+        "end": 42.701,
+        "score": -1.594
+      },
+      {
+        "word": "adiyeyya",
+        "start": 42.961,
+        "end": 43.881,
+        "score": -2.954
+      }
+    ]
+  },
+  {
+    "idx": 88,
+    "text": "yatharupe adinnadane rajano coram gahetva",
+    "start": 45.081,
+    "end": 51.001,
+    "score": -2.421,
+    "words": [
+      {
+        "word": "yatharupe",
+        "start": 45.081,
+        "end": 46.001,
+        "score": -1.508
+      },
+      {
+        "word": "adinnadane",
+        "start": 46.501,
+        "end": 48.001,
+        "score": -1.161
+      },
+      {
+        "word": "rajano",
+        "start": 48.481,
+        "end": 49.021,
+        "score": -3.366
+      },
+      {
+        "word": "coram",
+        "start": 49.401,
+        "end": 49.941,
+        "score": -3.305
+      },
+      {
+        "word": "gahetva",
+        "start": 49.941,
+        "end": 51.001,
+        "score": -2.763
+      }
+    ]
+  },
+  {
+    "idx": 89,
+    "text": "haneyyum va bandheyyum va pabbajeyyum va",
+    "start": 52.281,
+    "end": 56.482,
+    "score": -4.873,
+    "words": [
+      {
+        "word": "haneyyum",
+        "start": 52.281,
+        "end": 52.861,
+        "score": -3.278
+      },
+      {
+        "word": "va",
+        "start": 52.941,
+        "end": 53.041,
+        "score": -5.625
+      },
+      {
+        "word": "bandheyyum",
+        "start": 53.481,
+        "end": 54.221,
+        "score": -4.563
+      },
+      {
+        "word": "va",
+        "start": 54.341,
+        "end": 54.441,
+        "score": -5.89
+      },
+      {
+        "word": "pabbajeyyum",
+        "start": 54.981,
+        "end": 56.242,
+        "score": -3.678
+      },
+      {
+        "word": "va",
+        "start": 56.362,
+        "end": 56.482,
+        "score": -6.205
+      }
+    ]
+  },
+  {
+    "idx": 90,
+    "text": "corosi balosi mulhosi thenositi",
+    "start": 57.542,
+    "end": 62.682,
+    "score": -1.831,
+    "words": [
+      {
+        "word": "corosi",
+        "start": 57.542,
+        "end": 58.402,
+        "score": -2.544
+      },
+      {
+        "word": "balosi",
+        "start": 58.902,
+        "end": 59.562,
+        "score": -1.147
+      },
+      {
+        "word": "mulhosi",
+        "start": 60.082,
+        "end": 61.202,
+        "score": -1.147
+      },
+      {
+        "word": "thenositi",
+        "start": 61.722,
+        "end": 62.682,
+        "score": -2.487
+      }
+    ]
+  },
+  {
+    "idx": 91,
+    "text": "tatharupam bhikkhu adinnam adiyamano",
+    "start": 63.962,
+    "end": 68.542,
+    "score": -2.12,
+    "words": [
+      {
+        "word": "tatharupam",
+        "start": 63.962,
+        "end": 65.142,
+        "score": -1.656
+      },
+      {
+        "word": "bhikkhu",
+        "start": 65.322,
+        "end": 65.722,
+        "score": -3.21
+      },
+      {
+        "word": "adinnam",
+        "start": 66.342,
+        "end": 67.262,
+        "score": -2.22
+      },
+      {
+        "word": "adiyamano",
+        "start": 67.582,
+        "end": 68.542,
+        "score": -1.393
+      }
+    ]
+  },
+  {
+    "idx": 92,
+    "text": "ayampi parajiko hoti asamvaso",
+    "start": 69.482,
+    "end": 74.082,
+    "score": -1.862,
+    "words": [
+      {
+        "word": "ayampi",
+        "start": 69.482,
+        "end": 70.082,
+        "score": -0.781
+      },
+      {
+        "word": "parajiko",
+        "start": 70.602,
+        "end": 71.342,
+        "score": -1.489
+      },
+      {
+        "word": "hoti",
+        "start": 71.782,
+        "end": 72.182,
+        "score": -1.727
+      },
+      {
+        "word": "asamvaso",
+        "start": 72.822,
+        "end": 74.082,
+        "score": -3.453
+      }
+    ]
+  },
+  {
+    "idx": 93,
+    "text": "yo pana bhikkhu sancicca",
+    "start": 76.642,
+    "end": 78.702,
+    "score": -1.872,
+    "words": [
+      {
+        "word": "yo",
+        "start": 76.642,
+        "end": 76.742,
+        "score": -0.697
+      },
+      {
+        "word": "pana",
+        "start": 76.942,
+        "end": 77.202,
+        "score": -1.168
+      },
+      {
+        "word": "bhikkhu",
+        "start": 77.262,
+        "end": 77.602,
+        "score": -3.326
+      },
+      {
+        "word": "sancicca",
+        "start": 78.042,
+        "end": 78.702,
+        "score": -2.297
+      }
+    ]
+  },
+  {
+    "idx": 94,
+    "text": "manussa viggaham jivita voropeyya",
+    "start": 79.122,
+    "end": 83.522,
+    "score": -3.466,
+    "words": [
+      {
+        "word": "manussa",
+        "start": 79.122,
+        "end": 79.722,
+        "score": -2.355
+      },
+      {
+        "word": "viggaham",
+        "start": 80.122,
+        "end": 81.022,
+        "score": -4.955
+      },
+      {
+        "word": "jivita",
+        "start": 81.302,
+        "end": 81.922,
+        "score": -2.511
+      },
+      {
+        "word": "voropeyya",
+        "start": 82.422,
+        "end": 83.522,
+        "score": -4.043
+      }
+    ]
+  },
+  {
+    "idx": 95,
+    "text": "sattha harakam vassa pariyeseyya",
+    "start": 84.722,
+    "end": 88.662,
+    "score": -2.885,
+    "words": [
+      {
+        "word": "sattha",
+        "start": 84.722,
+        "end": 85.042,
+        "score": -2.3
+      },
+      {
+        "word": "harakam",
+        "start": 85.442,
+        "end": 86.342,
+        "score": -2.186
+      },
+      {
+        "word": "vassa",
+        "start": 86.462,
+        "end": 86.882,
+        "score": -5.0
+      },
+      {
+        "word": "pariyeseyya",
+        "start": 87.322,
+        "end": 88.662,
+        "score": -2.053
+      }
+    ]
+  },
+  {
+    "idx": 96,
+    "text": "marana vannam va samvanneyya",
+    "start": 89.682,
+    "end": 92.582,
+    "score": -3.515,
+    "words": [
+      {
+        "word": "marana",
+        "start": 89.682,
+        "end": 90.202,
+        "score": -0.982
+      },
+      {
+        "word": "vannam",
+        "start": 90.602,
+        "end": 91.042,
+        "score": -3.526
+      },
+      {
+        "word": "va",
+        "start": 91.102,
+        "end": 91.202,
+        "score": -5.664
+      },
+      {
+        "word": "samvanneyya",
+        "start": 91.622,
+        "end": 92.582,
+        "score": -3.887
+      }
+    ]
+  },
+  {
+    "idx": 97,
+    "text": "maranaya va samadapeyya",
+    "start": 93.483,
+    "end": 96.643,
+    "score": -2.96,
+    "words": [
+      {
+        "word": "maranaya",
+        "start": 93.483,
+        "end": 94.423,
+        "score": -1.143
+      },
+      {
+        "word": "va",
+        "start": 94.623,
+        "end": 94.723,
+        "score": -5.515
+      },
+      {
+        "word": "samadapeyya",
+        "start": 95.183,
+        "end": 96.643,
+        "score": -2.223
+      }
+    ]
+  },
+  {
+    "idx": 98,
+    "text": "ambho purisa kim",
+    "start": 97.703,
+    "end": 99.683,
+    "score": -1.92,
+    "words": [
+      {
+        "word": "ambho",
+        "start": 97.703,
+        "end": 98.043,
+        "score": -1.507
+      },
+      {
+        "word": "purisa",
+        "start": 98.403,
+        "end": 98.943,
+        "score": -1.139
+      },
+      {
+        "word": "kim",
+        "start": 99.223,
+        "end": 99.683,
+        "score": -3.113
+      }
+    ]
+  },
+  {
+    "idx": 99,
+    "text": "tuyhimina papakena dujjivitena",
+    "start": 99.863,
+    "end": 104.883,
+    "score": -1.894,
+    "words": [
+      {
+        "word": "tuyhimina",
+        "start": 99.863,
+        "end": 100.843,
+        "score": -2.105
+      },
+      {
+        "word": "papakena",
+        "start": 101.503,
+        "end": 102.763,
+        "score": -0.877
+      },
+      {
+        "word": "dujjivitena",
+        "start": 103.323,
+        "end": 104.883,
+        "score": -2.7
+      }
+    ]
+  },
+  {
+    "idx": 100,
+    "text": "matam te jivita seyyo ti",
+    "start": 105.943,
+    "end": 109.003,
+    "score": -1.945,
+    "words": [
+      {
+        "word": "matam",
+        "start": 105.943,
+        "end": 106.383,
+        "score": -2.144
+      },
+      {
+        "word": "te",
+        "start": 106.483,
+        "end": 106.603,
+        "score": -0.701
+      },
+      {
+        "word": "jivita",
+        "start": 107.003,
+        "end": 107.523,
+        "score": -2.275
+      },
+      {
+        "word": "seyyo",
+        "start": 108.123,
+        "end": 108.663,
+        "score": -3.012
+      },
+      {
+        "word": "ti",
+        "start": 108.883,
+        "end": 109.003,
+        "score": -1.595
+      }
+    ]
+  },
+  {
+    "idx": 101,
+    "text": "iti cittamano cittasankappo",
+    "start": 110.323,
+    "end": 113.603,
+    "score": -1.747,
+    "words": [
+      {
+        "word": "iti",
+        "start": 110.323,
+        "end": 110.563,
+        "score": -0.873
+      },
+      {
+        "word": "cittamano",
+        "start": 110.903,
+        "end": 111.683,
+        "score": -1.936
+      },
+      {
+        "word": "cittasankappo",
+        "start": 112.143,
+        "end": 113.603,
+        "score": -2.432
+      }
+    ]
+  },
+  {
+    "idx": 102,
+    "text": "aneka pariyayena marana vannam va samvanneyya",
+    "start": 114.723,
+    "end": 120.183,
+    "score": -2.673,
+    "words": [
+      {
+        "word": "aneka",
+        "start": 114.723,
+        "end": 115.223,
+        "score": -0.727
+      },
+      {
+        "word": "pariyayena",
+        "start": 115.563,
+        "end": 116.643,
+        "score": -0.935
+      },
+      {
+        "word": "marana",
+        "start": 117.203,
+        "end": 117.663,
+        "score": -1.345
+      },
+      {
+        "word": "vannam",
+        "start": 118.023,
+        "end": 118.443,
+        "score": -3.298
+      },
+      {
+        "word": "va",
+        "start": 118.523,
+        "end": 118.603,
+        "score": -5.876
+      },
+      {
+        "word": "samvanneyya",
+        "start": 119.143,
+        "end": 120.183,
+        "score": -3.859
+      }
+    ]
+  },
+  {
+    "idx": 103,
+    "text": "maranaya va samadapeyya",
+    "start": 121.123,
+    "end": 123.703,
+    "score": -2.837,
+    "words": [
+      {
+        "word": "maranaya",
+        "start": 121.123,
+        "end": 121.903,
+        "score": -0.941
+      },
+      {
+        "word": "va",
+        "start": 122.063,
+        "end": 122.163,
+        "score": -5.29
+      },
+      {
+        "word": "samadapeyya",
+        "start": 122.583,
+        "end": 123.703,
+        "score": -2.279
+      }
+    ]
+  },
+  {
+    "idx": 104,
+    "text": "ayampi parajiko hoti asamvaso",
+    "start": 124.663,
+    "end": 129.343,
+    "score": -1.937,
+    "words": [
+      {
+        "word": "ayampi",
+        "start": 124.663,
+        "end": 125.323,
+        "score": -0.818
+      },
+      {
+        "word": "parajiko",
+        "start": 125.963,
+        "end": 126.663,
+        "score": -1.485
+      },
+      {
+        "word": "hoti",
+        "start": 127.163,
+        "end": 127.603,
+        "score": -1.835
+      },
+      {
+        "word": "asamvaso",
+        "start": 128.183,
+        "end": 129.343,
+        "score": -3.608
+      }
+    ]
+  },
+  {
+    "idx": 105,
+    "text": "yo pana bhikkhu anabhijanam",
+    "start": 132.284,
+    "end": 135.064,
+    "score": -1.793,
+    "words": [
+      {
+        "word": "yo",
+        "start": 132.284,
+        "end": 132.384,
+        "score": -0.698
+      },
+      {
+        "word": "pana",
+        "start": 132.584,
+        "end": 132.824,
+        "score": -1.226
+      },
+      {
+        "word": "bhikkhu",
+        "start": 132.884,
+        "end": 133.244,
+        "score": -3.173
+      },
+      {
+        "word": "anabhijanam",
+        "start": 133.684,
+        "end": 135.064,
+        "score": -2.077
+      }
+    ]
+  },
+  {
+    "idx": 106,
+    "text": "uttari manussa dhammam attupanayikam",
+    "start": 135.324,
+    "end": 140.904,
+    "score": -2.695,
+    "words": [
+      {
+        "word": "uttari",
+        "start": 135.324,
+        "end": 136.064,
+        "score": -2.642
+      },
+      {
+        "word": "manussa",
+        "start": 136.484,
+        "end": 137.084,
+        "score": -2.301
+      },
+      {
+        "word": "dhammam",
+        "start": 137.384,
+        "end": 137.804,
+        "score": -3.425
+      },
+      {
+        "word": "attupanayikam",
+        "start": 138.984,
+        "end": 140.904,
+        "score": -2.414
+      }
+    ]
+  },
+  {
+    "idx": 107,
+    "text": "alamariya nanadassanam samudacareyya",
+    "start": 141.524,
+    "end": 147.724,
+    "score": -2.414,
+    "words": [
+      {
+        "word": "alamariya",
+        "start": 141.524,
+        "end": 143.064,
+        "score": -1.305
+      },
+      {
+        "word": "nanadassanam",
+        "start": 143.604,
+        "end": 145.304,
+        "score": -3.661
+      },
+      {
+        "word": "samudacareyya",
+        "start": 145.904,
+        "end": 147.724,
+        "score": -2.275
+      }
+    ]
+  },
+  {
+    "idx": 108,
+    "text": "iti janami iti passami ti",
+    "start": 148.704,
+    "end": 152.104,
+    "score": -1.106,
+    "words": [
+      {
+        "word": "iti",
+        "start": 148.704,
+        "end": 148.924,
+        "score": -0.758
+      },
+      {
+        "word": "janami",
+        "start": 149.264,
+        "end": 149.824,
+        "score": -0.833
+      },
+      {
+        "word": "iti",
+        "start": 150.344,
+        "end": 150.684,
+        "score": -0.753
+      },
+      {
+        "word": "passami",
+        "start": 151.064,
+        "end": 151.844,
+        "score": -2.218
+      },
+      {
+        "word": "ti",
+        "start": 152.004,
+        "end": 152.104,
+        "score": -0.969
+      }
+    ]
+  },
+  {
+    "idx": 109,
+    "text": "tato aparena samayena",
+    "start": 153.244,
+    "end": 156.304,
+    "score": -1.209,
+    "words": [
+      {
+        "word": "tato",
+        "start": 153.244,
+        "end": 153.524,
+        "score": -1.308
+      },
+      {
+        "word": "aparena",
+        "start": 153.984,
+        "end": 154.824,
+        "score": -1.619
+      },
+      {
+        "word": "samayena",
+        "start": 155.304,
+        "end": 156.304,
+        "score": -0.701
+      }
+    ]
+  },
+  {
+    "idx": 110,
+    "text": "samanu ggahiyamano va asamanu ggahiyamano va",
+    "start": 157.264,
+    "end": 162.984,
+    "score": -3.207,
+    "words": [
+      {
+        "word": "samanu",
+        "start": 157.264,
+        "end": 157.724,
+        "score": -0.7
+      },
+      {
+        "word": "ggahiyamano",
+        "start": 157.944,
+        "end": 159.244,
+        "score": -2.172
+      },
+      {
+        "word": "va",
+        "start": 159.424,
+        "end": 159.524,
+        "score": -7.263
+      },
+      {
+        "word": "asamanu",
+        "start": 160.344,
+        "end": 161.164,
+        "score": -0.697
+      },
+      {
+        "word": "ggahiyamano",
+        "start": 161.344,
+        "end": 162.704,
+        "score": -2.28
+      },
+      {
+        "word": "va",
+        "start": 162.864,
+        "end": 162.984,
+        "score": -6.131
+      }
+    ]
+  },
+  {
+    "idx": 111,
+    "text": "apanno visuddhapekkho evam vadeyya",
+    "start": 164.044,
+    "end": 168.605,
+    "score": -3.415,
+    "words": [
+      {
+        "word": "apanno",
+        "start": 164.044,
+        "end": 164.584,
+        "score": -0.737
+      },
+      {
+        "word": "visuddhapekkho",
+        "start": 164.904,
+        "end": 166.724,
+        "score": -3.544
+      },
+      {
+        "word": "evam",
+        "start": 167.184,
+        "end": 167.765,
+        "score": -4.849
+      },
+      {
+        "word": "vadeyya",
+        "start": 167.945,
+        "end": 168.605,
+        "score": -4.529
+      }
+    ]
+  },
+  {
+    "idx": 112,
+    "text": "ajanamevam avuso avacam janami",
+    "start": 169.785,
+    "end": 174.165,
+    "score": -2.7,
+    "words": [
+      {
+        "word": "ajanamevam",
+        "start": 169.785,
+        "end": 170.925,
+        "score": -2.912
+      },
+      {
+        "word": "avuso",
+        "start": 171.305,
+        "end": 171.765,
+        "score": -2.971
+      },
+      {
+        "word": "avacam",
+        "start": 172.345,
+        "end": 172.865,
+        "score": -4.075
+      },
+      {
+        "word": "janami",
+        "start": 173.405,
+        "end": 174.165,
+        "score": -0.843
+      }
+    ]
+  },
+  {
+    "idx": 113,
+    "text": "apassam passami",
+    "start": 175.385,
+    "end": 176.925,
+    "score": -2.289,
+    "words": [
+      {
+        "word": "apassam",
+        "start": 175.385,
+        "end": 176.205,
+        "score": -2.389
+      },
+      {
+        "word": "passami",
+        "start": 176.305,
+        "end": 176.925,
+        "score": -2.19
+      }
+    ]
+  },
+  {
+    "idx": 114,
+    "text": "tuccham musa vilapin ti",
+    "start": 177.845,
+    "end": 180.225,
+    "score": -1.875,
+    "words": [
+      {
+        "word": "tuccham",
+        "start": 177.845,
+        "end": 178.545,
+        "score": -3.333
+      },
+      {
+        "word": "musa",
+        "start": 178.645,
+        "end": 179.065,
+        "score": -0.695
+      },
+      {
+        "word": "vilapin",
+        "start": 179.405,
+        "end": 180.005,
+        "score": -2.486
+      },
+      {
+        "word": "ti",
+        "start": 180.125,
+        "end": 180.225,
+        "score": -0.984
+      }
+    ]
+  },
+  {
+    "idx": 115,
+    "text": "annatra adhimana ayampi parajiko hoti asamvaso",
+    "start": 181.105,
+    "end": 188.405,
+    "score": -2.054,
+    "words": [
+      {
+        "word": "annatra",
+        "start": 181.105,
+        "end": 182.025,
+        "score": -3.012
+      },
+      {
+        "word": "adhimana",
+        "start": 182.525,
+        "end": 183.345,
+        "score": -1.702
+      },
+      {
+        "word": "ayampi",
+        "start": 184.305,
+        "end": 184.885,
+        "score": -0.79
+      },
+      {
+        "word": "parajiko",
+        "start": 185.425,
+        "end": 186.125,
+        "score": -1.527
+      },
+      {
+        "word": "hoti",
+        "start": 186.505,
+        "end": 186.905,
+        "score": -1.559
+      },
+      {
+        "word": "asamvaso",
+        "start": 187.425,
+        "end": 188.405,
+        "score": -3.735
+      }
+    ]
+  },
+  {
+    "idx": 116,
+    "text": "uddittha kho ayasmanto cattaro parajika dhamma",
+    "start": 190.065,
+    "end": 196.365,
+    "score": -1.994,
+    "words": [
+      {
+        "word": "uddittha",
+        "start": 190.065,
+        "end": 190.625,
+        "score": -3.594
+      },
+      {
+        "word": "kho",
+        "start": 190.805,
+        "end": 190.925,
+        "score": -0.851
+      },
+      {
+        "word": "ayasmanto",
+        "start": 191.385,
+        "end": 192.465,
+        "score": -0.709
+      },
+      {
+        "word": "cattaro",
+        "start": 193.505,
+        "end": 194.125,
+        "score": -3.074
+      },
+      {
+        "word": "parajika",
+        "start": 194.605,
+        "end": 195.625,
+        "score": -1.531
+      },
+      {
+        "word": "dhamma",
+        "start": 195.965,
+        "end": 196.365,
+        "score": -2.206
+      }
+    ]
+  },
+  {
+    "idx": 117,
+    "text": "yesam bhikkhu annataram va annataram va apajjitva",
+    "start": 197.665,
+    "end": 203.825,
+    "score": -3.222,
+    "words": [
+      {
+        "word": "yesam",
+        "start": 197.665,
+        "end": 198.185,
+        "score": -0.779
+      },
+      {
+        "word": "bhikkhu",
+        "start": 198.265,
+        "end": 198.665,
+        "score": -3.51
+      },
+      {
+        "word": "annataram",
+        "start": 199.065,
+        "end": 200.045,
+        "score": -2.315
+      },
+      {
+        "word": "va",
+        "start": 200.125,
+        "end": 200.225,
+        "score": -5.392
+      },
+      {
+        "word": "annataram",
+        "start": 200.585,
+        "end": 201.485,
+        "score": -2.395
+      },
+      {
+        "word": "va",
+        "start": 201.545,
+        "end": 201.665,
+        "score": -5.678
+      },
+      {
+        "word": "apajjitva",
+        "start": 202.705,
+        "end": 203.825,
+        "score": -2.486
+      }
+    ]
+  },
+  {
+    "idx": 118,
+    "text": "na labhati bhikkhuhi saddhim samvasam",
+    "start": 204.926,
+    "end": 209.846,
+    "score": -2.61,
+    "words": [
+      {
+        "word": "na",
+        "start": 204.926,
+        "end": 205.026,
+        "score": -0.804
+      },
+      {
+        "word": "labhati",
+        "start": 205.306,
+        "end": 205.846,
+        "score": -1.591
+      },
+      {
+        "word": "bhikkhuhi",
+        "start": 206.166,
+        "end": 207.006,
+        "score": -2.362
+      },
+      {
+        "word": "saddhim",
+        "start": 207.526,
+        "end": 208.246,
+        "score": -4.545
+      },
+      {
+        "word": "samvasam",
+        "start": 208.966,
+        "end": 209.846,
+        "score": -3.748
+      }
+    ]
+  },
+  {
+    "idx": 119,
+    "text": "yatha pure tatha paccha",
+    "start": 209.966,
+    "end": 212.766,
+    "score": -1.603,
+    "words": [
+      {
+        "word": "yatha",
+        "start": 209.966,
+        "end": 210.326,
+        "score": -1.043
+      },
+      {
+        "word": "pure",
+        "start": 210.626,
+        "end": 211.006,
+        "score": -2.106
+      },
+      {
+        "word": "tatha",
+        "start": 211.826,
+        "end": 212.166,
+        "score": -1.199
+      },
+      {
+        "word": "paccha",
+        "start": 212.386,
+        "end": 212.766,
+        "score": -2.063
+      }
+    ]
+  },
+  {
+    "idx": 120,
+    "text": "parajiko hoti asamvaso",
+    "start": 213.306,
+    "end": 216.126,
+    "score": -2.411,
+    "words": [
+      {
+        "word": "parajiko",
+        "start": 213.306,
+        "end": 213.906,
+        "score": -1.558
+      },
+      {
+        "word": "hoti",
+        "start": 214.146,
+        "end": 214.506,
+        "score": -2.084
+      },
+      {
+        "word": "asamvaso",
+        "start": 215.066,
+        "end": 216.126,
+        "score": -3.591
+      }
+    ]
+  },
+  {
+    "idx": 121,
+    "text": "tatthayasmante pucchami kaccittha parisuddha",
+    "start": 217.886,
+    "end": 223.286,
+    "score": -2.7,
+    "words": [
+      {
+        "word": "tatthayasmante",
+        "start": 217.886,
+        "end": 219.346,
+        "score": -1.39
+      },
+      {
+        "word": "pucchami",
+        "start": 219.726,
+        "end": 220.686,
+        "score": -2.325
+      },
+      {
+        "word": "kaccittha",
+        "start": 221.306,
+        "end": 221.846,
+        "score": -3.468
+      },
+      {
+        "word": "parisuddha",
+        "start": 222.246,
+        "end": 223.286,
+        "score": -3.618
+      }
+    ]
+  },
+  {
+    "idx": 122,
+    "text": "dutiyampi pucchami kaccittha parisuddha",
+    "start": 224.506,
+    "end": 228.526,
+    "score": -3.0,
+    "words": [
+      {
+        "word": "dutiyampi",
+        "start": 224.506,
+        "end": 225.186,
+        "score": -1.207
+      },
+      {
+        "word": "pucchami",
+        "start": 225.666,
+        "end": 226.446,
+        "score": -2.896
+      },
+      {
+        "word": "kaccittha",
+        "start": 226.926,
+        "end": 227.506,
+        "score": -4.302
+      },
+      {
+        "word": "parisuddha",
+        "start": 227.826,
+        "end": 228.526,
+        "score": -3.597
+      }
+    ]
+  },
+  {
+    "idx": 123,
+    "text": "tatiyampi pucchami kaccittha parisuddha",
+    "start": 229.466,
+    "end": 233.846,
+    "score": -2.731,
+    "words": [
+      {
+        "word": "tatiyampi",
+        "start": 229.466,
+        "end": 230.246,
+        "score": -0.847
+      },
+      {
+        "word": "pucchami",
+        "start": 230.766,
+        "end": 231.526,
+        "score": -2.685
+      },
+      {
+        "word": "kaccittha",
+        "start": 232.126,
+        "end": 232.646,
+        "score": -3.996
+      },
+      {
+        "word": "parisuddha",
+        "start": 233.026,
+        "end": 233.846,
+        "score": -3.397
+      }
+    ]
+  },
+  {
+    "idx": 124,
+    "text": "parisuddhetthayasmanto",
+    "start": 235.066,
+    "end": 237.466,
+    "score": -2.28,
+    "words": [
+      {
+        "word": "parisuddhetthayasmanto",
+        "start": 235.066,
+        "end": 237.466,
+        "score": -2.28
+      }
+    ]
+  },
+  {
+    "idx": 125,
+    "text": "tasma tunhi evametam dharayamiti",
+    "start": 238.386,
+    "end": 243.727,
+    "score": -1.901,
+    "words": [
+      {
+        "word": "tasma",
+        "start": 238.386,
+        "end": 238.826,
+        "score": -0.801
+      },
+      {
+        "word": "tunhi",
+        "start": 239.326,
+        "end": 239.746,
+        "score": -0.803
+      },
+      {
+        "word": "evametam",
+        "start": 240.286,
+        "end": 241.546,
+        "score": -2.428
+      },
+      {
+        "word": "dharayamiti",
+        "start": 241.766,
+        "end": 243.727,
+        "score": -3.572
+      }
+    ]
+  },
+  {
+    "idx": 126,
+    "text": "parajikuddeso dutiyo",
+    "start": 243.727,
+    "end": 246.767,
+    "score": -2.139,
+    "words": [
+      {
+        "word": "parajikuddeso",
+        "start": 243.727,
+        "end": 245.287,
+        "score": -2.827
+      },
+      {
+        "word": "dutiyo",
+        "start": 246.067,
+        "end": 246.767,
+        "score": -1.45
+      }
+    ]
+  }
+]

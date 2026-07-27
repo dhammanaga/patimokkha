@@ -1,0 +1,44 @@
+# ===== Secrets / credentials (NEVER commit) =====
+bhashini_creds.json
+openl_creds.json
+*_creds.json
+
+# ===== AI project memory (not part of the app) =====
+.workbuddy/
+
+# ===== Build / tooling caches =====
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+
+# ===== Local logs =====
+*.log
+
+# ===== Test / sample audio artifacts =====
+pm_sample_*.mp3
+pm_test.mp3
+
+# ===== Generated bulky alignment HTML reports (not source) =====
+/*.html
+/align_reports/
+/source/
+
+# ===== Dev codegen scripts needing external creds (not needed to run app) =====
+/gen_audio.js
+/gen_audio_*.js
+/gen_audio_*.py
+/build.js
+/build_manifest.js
+/bhashini.js
+/openl.js
+/shrink_image.py
+/nidana_ascii.txt
+
+# ===== Windows reserved device-name files (accidental, never valid) =====
+/nul
+/con
+/prn
+/aux
+/com1
+/lpt1

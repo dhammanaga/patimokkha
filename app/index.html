@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>巴帝摩卡 · 背诵</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">巴帝摩卡 <small>Pāṭimokkha 背诵 · 按次序背下全文</small></div>
+  <nav class="tabs" id="tabs">
+    <button data-view="dashboard" class="active">仪表盘</button>
+    <button data-view="study">学习</button>
+    <button data-view="recite">连诵</button>
+    <button data-view="browse">浏览</button>
+    <button data-view="settings">设置</button>
+  </nav>
+</header>
+
+<main>
+  <div id="banner" class="banner"></div>
+
+  <!-- 仪表盘 -->
+  <section class="view active" id="view-dashboard">
+    <div class="stat-grid" id="statGrid"></div>
+    <div class="panel">
+      <h3>各章节进度 <span class="sub">蓝条＝熟练(可入连诵)，金条＝已学</span></h3>
+      <div id="sectionBars"></div>
+    </div>
+    <div class="panel center">
+      <button class="btn" id="startStudy">▶ 开始今日学习</button>
+      <div class="btn-row" style="justify-content:center">
+        <button class="btn ghost gold" id="startRecite">📿 连诵模式</button>
+        <button class="btn ghost" id="gotoBrowse">📖 全文浏览</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 学习 -->
+  <section class="view" id="view-study">
+    <div class="study-wrap" id="studyWrap"></div>
+  </section>
+
+  <!-- 连诵 -->
+  <section class="view" id="view-recite">
+    <div class="recite-controls">
+      <button class="btn ghost" id="reciteRefresh">↻ 刷新</button>
+      <button class="btn ghost" id="toggleBlur">👁 显示/隐藏 巴利</button>
+      <span class="info" id="reciteInfo"></span>
+    </div>
+    <div id="reciteList"></div>
+  </section>
+
+  <!-- 浏览 -->
+  <section class="view" id="view-browse">
+    <input class="search" id="browseSearch" placeholder="搜索巴利 / 汉译…">
+    <div id="browseList"></div>
+  </section>
+
+  <!-- 设置 -->
+  <section class="view" id="view-settings">
+    <div class="setting-card">
+      <h3>学习曲线（间隔重复）</h3>
+      <p class="muted" style="margin:4px 0 12px">
+        采用 Leitner 盒子 + Anki 式间隔重复：每张卡片按掌握程度进入不同复习周期（当天→1天→3天→7天→16天→35天）。
+        新句子按全文<b>顺序逐句解锁</b>——前一句达标后，下一句才出现，避免贪多嚼不烂，正是百词斩式的「最优曲线」。
+      </p>
+      <div class="field">
+        <label>每日新学上限：<span id="dailyNewVal">10</span> 句</label>
+        <input type="range" id="dailyNew" min="3" max="40" step="1" value="10">
+        <div class="hint">控制每天新出现的句子数量，配合复习队列形成稳定记忆曲线。</div>
+      </div>
+      <div class="field">
+        <label>朗读语速：<span id="speakRateVal">0.72</span></label>
+        <input type="range" id="speakRate" min="0.5" max="1.2" step="0.05" value="0.72">
+        <div class="hint">整句用<b>真人诵戒录音</b>；逐词用<b>本地巴利神经嗓音</b>（Edge hi-IN，罗马转写经天城体合成，最接近真人念诵）。本机装有印度英语语音时，未覆盖词的 Web Speech 兜底也更准。学习卡与浏览里点 🔊 可<b>整句</b>或<b>逐词</b>发音。</div>
+      </div>
+    </div>
+
+    <div class="setting-card">
+      <h3>导入源文件（修改逐词对照后刷新）</h3>
+      <p class="muted" style="margin:4px 0 12px">
+        把修改后的 <code>巴帝摩卡_逐词对照.html</code> 拖入下方，或点击选择。应用会在浏览器内重新解析，
+        并<b>按巴利内容保留你已有的学习进度</b>；源文件有改动时会提示。
+      </p>
+      <label class="file-drop" id="dropZone">
+        <input type="file" id="fileInput" accept=".html,.htm">
+        📂 点击或拖入 HTML 源文件（巴帝摩卡_逐词对照.html）
+      </label>
+      <div class="hint" id="importInfo" style="margin-top:10px"></div>
+    </div>
+
+    <div class="setting-card">
+      <h3>数据与备份</h3>
+      <div class="btn-row">
+        <button class="btn ghost" id="exportBtn">⬇ 导出进度</button>
+        <label class="btn ghost" style="cursor:pointer">
+          ⬆ 导入进度<input type="file" id="importProgress" accept=".json" style="display:none">
+        </label>
+        <button class="btn ghost" id="resetBtn">🗑 清空进度</button>
+      </div>
+      <div class="hint" id="dataInfo" style="margin-top:10px"></div>
+    </div>
+  </section>
+</main>
+
+<script src="parser.js"></script>
+<script src="data.js"></script>
+<script src="audio/words/manifest_pali_words.js"></script>
+<script src="pali-tts.js"></script>
+<script src="images/manifest.js"></script>
+<script src="audio/manifest_audio.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
