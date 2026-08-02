@@ -2389,303 +2389,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "80": {
-      "clip": "audio/sent_new/80.mp3",
-      "t0": 0,
-      "t1": 8.24,
-      "rep": 1,
-      "words": [
-        {
-          "p": "Tatrime",
-          "t0": 0.15,
-          "t1": 0.73
-        },
-        {
-          "p": "cattāro",
-          "t0": 1.23,
-          "t1": 1.87
-        },
-        {
-          "p": "pārājikādhammā",
-          "t0": 2.67,
-          "t1": 4.37
-        },
-        {
-          "p": "uddesaṃ",
-          "t0": 5.13,
-          "t1": 6.09
-        },
-        {
-          "p": "āgacchanti",
-          "t0": 6.37,
-          "t1": 8.24
-        }
-      ]
-    },
-    "81": {
-      "clip": "audio/sent_new/81.mp3",
-      "t0": 0,
-      "t1": 6.5,
-      "rep": 1,
-      "words": [
-        {
-          "p": "Yo",
-          "t0": 0.15,
-          "t1": 0.23
-        },
-        {
-          "p": "pana",
-          "t0": 0.47,
-          "t1": 0.71
-        },
-        {
-          "p": "bhikkhu",
-          "t0": 0.79,
-          "t1": 1.13
-        },
-        {
-          "p": "bhikkhūnaṃ",
-          "t0": 1.69,
-          "t1": 2.77
-        },
-        {
-          "p": "sikkhā-sājīva-samāpanno",
-          "t0": 3.17,
-          "t1": 6.5
-        }
-      ]
-    },
-    "82": {
-      "clip": "audio/sent_new/82.mp3",
-      "t0": 0,
-      "t1": 6.55,
-      "rep": 1,
-      "words": [
-        {
-          "p": "sikkhaṃ",
-          "t0": 0.15,
-          "t1": 0.77
-        },
-        {
-          "p": "appaccakkhāya",
-          "t0": 0.93,
-          "t1": 2.11
-        },
-        {
-          "p": "dubbalyaṃ",
-          "t0": 2.63,
-          "t1": 3.79
-        },
-        {
-          "p": "anāvikatvā",
-          "t0": 4.47,
-          "t1": 6.55
-        }
-      ]
-    },
-    "83": {
-      "clip": "audio/sent_new/83.mp3",
-      "t0": 0,
-      "t1": 3.41,
-      "rep": 1,
-      "words": [
-        {
-          "p": "methunaṃ",
-          "t0": 0.15,
-          "t1": 0.83
-        },
-        {
-          "p": "dhammaṃ",
-          "t0": 0.99,
-          "t1": 1.59
-        },
-        {
-          "p": "paṭiseveyya",
-          "t0": 1.77,
-          "t1": 3.41
-        }
-      ]
-    },
-    "84": {
-      "clip": "audio/sent_new/84.mp3",
-      "t0": 0,
-      "t1": 4.41,
-      "rep": 1,
-      "words": [
-        {
-          "p": "antamaso",
-          "t0": 0.15,
-          "t1": 0.87
-        },
-        {
-          "p": "tiracchāna-gatāyapi",
-          "t0": 1.47,
-          "t1": 4.41
-        }
-      ]
-    },
-    "85": {
-      "clip": "audio/sent_new/85.mp3",
-      "t0": 0,
-      "t1": 4.15,
-      "rep": 1,
-      "words": [
-        {
-          "p": "pārājiko",
-          "t0": 0.15,
-          "t1": 0.89
-        },
-        {
-          "p": "hoti",
-          "t0": 1.43,
-          "t1": 1.83
-        },
-        {
-          "p": "asaṃvāso",
-          "t0": 2.33,
-          "t1": 4.15
-        }
-      ]
-    },
-    "86": {
-      "clip": "audio/sent_new/86.mp3",
-      "t0": 0,
-      "t1": 4.11,
-      "rep": 1,
-      "words": [
-        {
-          "p": "Yo",
-          "t0": 0.15,
-          "t1": 0.25
-        },
-        {
-          "p": "pana",
-          "t0": 0.47,
-          "t1": 0.67
-        },
-        {
-          "p": "bhikkhu",
-          "t0": 0.77,
-          "t1": 1.07
-        },
-        {
-          "p": "gāmā",
-          "t0": 1.73,
-          "t1": 2.01
-        },
-        {
-          "p": "vā",
-          "t0": 2.14,
-          "t1": 2.27
-        },
-        {
-          "p": "araññā",
-          "t0": 2.65,
-          "t1": 3.15
-        },
-        {
-          "p": "vā",
-          "t0": 3.3,
-          "t1": 4.11
-        }
-      ]
-    },
-    "87": {
-      "clip": "audio/sent_new/87.mp3",
-      "t0": 0,
-      "t1": 4.62,
-      "rep": 1,
-      "words": [
-        {
-          "p": "adinnaṃ",
-          "t0": 0.15,
-          "t1": 0.88
-        },
-        {
-          "p": "theyya-saṅkhātaṃ",
-          "t0": 1.07,
-          "t1": 2.73
-        },
-        {
-          "p": "ādiyeyya",
-          "t0": 3.01,
-          "t1": 4.62
-        }
-      ]
-    },
-    "88": {
-      "clip": "audio/sent_new/88.mp3",
-      "t0": 0,
-      "t1": 6.6,
-      "rep": 1,
-      "words": [
-        {
-          "p": "yathārūpe",
-          "t0": 0.15,
-          "t1": 1.05
-        },
-        {
-          "p": "adinnādāne",
-          "t0": 1.57,
-          "t1": 3.05
-        },
-        {
-          "p": "rājāno",
-          "t0": 3.55,
-          "t1": 4.07
-        },
-        {
-          "p": "coraṃ",
-          "t0": 4.47,
-          "t1": 4.93
-        },
-        {
-          "p": "gahetvā",
-          "t0": 4.97,
-          "t1": 6.6
-        }
-      ]
-    },
-    "89": {
-      "clip": "audio/sent_new/89.mp3",
-      "t0": 0,
-      "t1": 5.05,
-      "rep": 1,
-      "words": [
-        {
-          "p": "haneyyuṃ",
-          "t0": 0.15,
-          "t1": 0.71
-        },
-        {
-          "p": "vā",
-          "t0": 0.8,
-          "t1": 0.89
-        },
-        {
-          "p": "bandheyyuṃ",
-          "t0": 1.35,
-          "t1": 2.07
-        },
-        {
-          "p": "vā",
-          "t0": 2.19,
-          "t1": 2.29
-        },
-        {
-          "p": "pabbājeyyuṃ",
-          "t0": 2.85,
-          "t1": 4.09
-        },
-        {
-          "p": "vā",
-          "t0": 4.21,
-          "t1": 5.05
-        }
-      ]
-    },
-    "90": {
-      "clip": "audio/sent_new/90.mp3",
+    "70": {
+      "clip": "audio/sent_new/70.mp3",
       "t0": 0,
       "t1": 5.95,
       "rep": 1,
@@ -2712,8 +2417,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "91": {
-      "clip": "audio/sent_new/91.mp3",
+    "71": {
+      "clip": "audio/sent_new/71.mp3",
       "t0": 0,
       "t1": 5.32,
       "rep": 1,
@@ -2740,8 +2445,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "92": {
-      "clip": "audio/sent_new/92.mp3",
+    "72": {
+      "clip": "audio/sent_new/72.mp3",
       "t0": 0,
       "t1": 5.62,
       "rep": 1,
@@ -2768,8 +2473,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "93": {
-      "clip": "audio/sent_new/93.mp3",
+    "73": {
+      "clip": "audio/sent_new/73.mp3",
       "t0": 0,
       "t1": 3.09,
       "rep": 1,
@@ -2796,8 +2501,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "94": {
-      "clip": "audio/sent_new/94.mp3",
+    "74": {
+      "clip": "audio/sent_new/74.mp3",
       "t0": 0,
       "t1": 5.25,
       "rep": 1,
@@ -2819,8 +2524,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "95": {
-      "clip": "audio/sent_new/95.mp3",
+    "75": {
+      "clip": "audio/sent_new/75.mp3",
       "t0": 0,
       "t1": 4.81,
       "rep": 1,
@@ -2842,8 +2547,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "96": {
-      "clip": "audio/sent_new/96.mp3",
+    "76": {
+      "clip": "audio/sent_new/76.mp3",
       "t0": 0,
       "t1": 3.61,
       "rep": 1,
@@ -2865,8 +2570,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "97": {
-      "clip": "audio/sent_new/97.mp3",
+    "77": {
+      "clip": "audio/sent_new/77.mp3",
       "t0": 0,
       "t1": 3.92,
       "rep": 1,
@@ -2888,8 +2593,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "98": {
-      "clip": "audio/sent_new/98.mp3",
+    "78": {
+      "clip": "audio/sent_new/78.mp3",
       "t0": 0,
       "t1": 2.94,
       "rep": 1,
@@ -2911,8 +2616,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "99": {
-      "clip": "audio/sent_new/99.mp3",
+    "79": {
+      "clip": "audio/sent_new/79.mp3",
       "t0": 0,
       "t1": 5.76,
       "rep": 1,
@@ -2934,8 +2639,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "100": {
-      "clip": "audio/sent_new/100.mp3",
+    "80": {
+      "clip": "audio/sent_new/80.mp3",
       "t0": 0,
       "t1": 4.09,
       "rep": 1,
@@ -2967,8 +2672,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "101": {
-      "clip": "audio/sent_new/101.mp3",
+    "81": {
+      "clip": "audio/sent_new/81.mp3",
       "t0": 0,
       "t1": 4.24,
       "rep": 1,
@@ -2990,8 +2695,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "102": {
-      "clip": "audio/sent_new/102.mp3",
+    "82": {
+      "clip": "audio/sent_new/82.mp3",
       "t0": 0,
       "t1": 6.17,
       "rep": 1,
@@ -3018,8 +2723,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "103": {
-      "clip": "audio/sent_new/103.mp3",
+    "83": {
+      "clip": "audio/sent_new/83.mp3",
       "t0": 0,
       "t1": 3.38,
       "rep": 1,
@@ -3041,8 +2746,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "104": {
-      "clip": "audio/sent_new/104.mp3",
+    "84": {
+      "clip": "audio/sent_new/84.mp3",
       "t0": 0,
       "t1": 5.69,
       "rep": 1,
@@ -3069,8 +2774,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "105": {
-      "clip": "audio/sent_new/105.mp3",
+    "85": {
+      "clip": "audio/sent_new/85.mp3",
       "t0": 0,
       "t1": 3.82,
       "rep": 1,
@@ -3097,8 +2802,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "106": {
-      "clip": "audio/sent_new/106.mp3",
+    "86": {
+      "clip": "audio/sent_new/86.mp3",
       "t0": 0,
       "t1": 6.63,
       "rep": 1,
@@ -3115,8 +2820,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "107": {
-      "clip": "audio/sent_new/107.mp3",
+    "87": {
+      "clip": "audio/sent_new/87.mp3",
       "t0": 0,
       "t1": 7.04,
       "rep": 1,
@@ -3133,8 +2838,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "108": {
-      "clip": "audio/sent_new/108.mp3",
+    "88": {
+      "clip": "audio/sent_new/88.mp3",
       "t0": 0,
       "t1": 4.3,
       "rep": 1,
@@ -3166,8 +2871,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "109": {
-      "clip": "audio/sent_new/109.mp3",
+    "89": {
+      "clip": "audio/sent_new/89.mp3",
       "t0": 0,
       "t1": 3.93,
       "rep": 1,
@@ -3189,8 +2894,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "110": {
-      "clip": "audio/sent_new/110.mp3",
+    "90": {
+      "clip": "audio/sent_new/90.mp3",
       "t0": 0,
       "t1": 6.55,
       "rep": 1,
@@ -3217,8 +2922,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "111": {
-      "clip": "audio/sent_new/111.mp3",
+    "91": {
+      "clip": "audio/sent_new/91.mp3",
       "t0": 0,
       "t1": 5.47,
       "rep": 1,
@@ -3245,8 +2950,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "112": {
-      "clip": "audio/sent_new/112.mp3",
+    "92": {
+      "clip": "audio/sent_new/92.mp3",
       "t0": 0,
       "t1": 5.36,
       "rep": 1,
@@ -3273,8 +2978,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "113": {
-      "clip": "audio/sent_new/113.mp3",
+    "93": {
+      "clip": "audio/sent_new/93.mp3",
       "t0": 0,
       "t1": 2.45,
       "rep": 1,
@@ -3291,8 +2996,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "114": {
-      "clip": "audio/sent_new/114.mp3",
+    "94": {
+      "clip": "audio/sent_new/94.mp3",
       "t0": 0,
       "t1": 3.15,
       "rep": 1,
@@ -3319,8 +3024,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "115": {
-      "clip": "audio/sent_new/115.mp3",
+    "95": {
+      "clip": "audio/sent_new/95.mp3",
       "t0": 0,
       "t1": 8.33,
       "rep": 1,
@@ -3357,8 +3062,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "116": {
-      "clip": "audio/sent_new/116.mp3",
+    "96": {
+      "clip": "audio/sent_new/96.mp3",
       "t0": 0,
       "t1": 7.33,
       "rep": 1,
@@ -3395,8 +3100,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "117": {
-      "clip": "audio/sent_new/117.mp3",
+    "97": {
+      "clip": "audio/sent_new/97.mp3",
       "t0": 0,
       "t1": 7.13,
       "rep": 1,
@@ -3438,8 +3143,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "118": {
-      "clip": "audio/sent_new/118.mp3",
+    "98": {
+      "clip": "audio/sent_new/98.mp3",
       "t0": 0,
       "t1": 5.95,
       "rep": 1,
@@ -3471,8 +3176,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "119": {
-      "clip": "audio/sent_new/119.mp3",
+    "99": {
+      "clip": "audio/sent_new/99.mp3",
       "t0": 0,
       "t1": 3.83,
       "rep": 1,
@@ -3499,8 +3204,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "120": {
-      "clip": "audio/sent_new/120.mp3",
+    "100": {
+      "clip": "audio/sent_new/100.mp3",
       "t0": 0,
       "t1": 3.87,
       "rep": 1,
@@ -3522,8 +3227,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "121": {
-      "clip": "audio/sent_new/121.mp3",
+    "101": {
+      "clip": "audio/sent_new/101.mp3",
       "t0": 0,
       "t1": 6.43,
       "rep": 1,
@@ -3550,8 +3255,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "122": {
-      "clip": "audio/sent_new/122.mp3",
+    "102": {
+      "clip": "audio/sent_new/102.mp3",
       "t0": 0,
       "t1": 1.81,
       "rep": 1,
@@ -3578,8 +3283,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "123": {
-      "clip": "audio/sent_new/123.mp3",
+    "103": {
+      "clip": "audio/sent_new/103.mp3",
       "t0": 0,
       "t1": 3.25,
       "rep": 1,
@@ -3606,8 +3311,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "124": {
-      "clip": "audio/sent_new/124.mp3",
+    "104": {
+      "clip": "audio/sent_new/104.mp3",
       "t0": 0,
       "t1": 2.93,
       "rep": 1,
@@ -3619,8 +3324,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "125": {
-      "clip": "audio/sent_new/125.mp3",
+    "105": {
+      "clip": "audio/sent_new/105.mp3",
       "t0": 0,
       "t1": 3.39,
       "rep": 1,
@@ -3647,8 +3352,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "126": {
-      "clip": "audio/sent_new/126.mp3",
+    "106": {
+      "clip": "audio/sent_new/106.mp3",
       "t0": 0,
       "t1": 2.33,
       "rep": 1,
@@ -3665,8 +3370,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "136": {
-      "clip": "audio/sent_new/136.mp3",
+    "107": {
+      "clip": "audio/sent_new/107.mp3",
       "t0": 0,
       "t1": 2.3,
       "rep": 1,
@@ -3688,8 +3393,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "137": {
-      "clip": "audio/sent_new/137.mp3",
+    "108": {
+      "clip": "audio/sent_new/108.mp3",
       "t0": 0,
       "t1": 4.03,
       "rep": 1,
@@ -3721,8 +3426,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "138": {
-      "clip": "audio/sent_new/138.mp3",
+    "109": {
+      "clip": "audio/sent_new/109.mp3",
       "t0": 0,
       "t1": 2.97,
       "rep": 1,
@@ -3739,8 +3444,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "139": {
-      "clip": "audio/sent_new/139.mp3",
+    "110": {
+      "clip": "audio/sent_new/110.mp3",
       "t0": 0,
       "t1": 3.13,
       "rep": 1,
@@ -3762,8 +3467,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "140": {
-      "clip": "audio/sent_new/140.mp3",
+    "111": {
+      "clip": "audio/sent_new/111.mp3",
       "t0": 0,
       "t1": 2.31,
       "rep": 1,
@@ -3790,8 +3495,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "141": {
-      "clip": "audio/sent_new/141.mp3",
+    "112": {
+      "clip": "audio/sent_new/112.mp3",
       "t0": 0,
       "t1": 3.1,
       "rep": 1,
@@ -3808,8 +3513,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "142": {
-      "clip": "audio/sent_new/142.mp3",
+    "113": {
+      "clip": "audio/sent_new/113.mp3",
       "t0": 0,
       "t1": 2.08,
       "rep": 1,
@@ -3826,8 +3531,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "143": {
-      "clip": "audio/sent_new/143.mp3",
+    "114": {
+      "clip": "audio/sent_new/114.mp3",
       "t0": 0,
       "t1": 2.58,
       "rep": 1,
@@ -3844,8 +3549,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "144": {
-      "clip": "audio/sent_new/144.mp3",
+    "115": {
+      "clip": "audio/sent_new/115.mp3",
       "t0": 0,
       "t1": 2.55,
       "rep": 1,
@@ -3872,8 +3577,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "145": {
-      "clip": "audio/sent_new/145.mp3",
+    "116": {
+      "clip": "audio/sent_new/116.mp3",
       "t0": 0,
       "t1": 2.87,
       "rep": 1,
@@ -3900,230 +3605,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "146": {
-      "clip": "audio/sent_new/146.mp3",
-      "t0": 0,
-      "t1": 3.11,
-      "rep": 1,
-      "words": [
-        {
-          "p": "aṅgassa",
-          "t0": 0.15,
-          "t1": 0.55
-        },
-        {
-          "p": "parāmasanaṃ",
-          "t0": 0.73,
-          "t1": 1.49
-        },
-        {
-          "p": "saṅghādiseso",
-          "t0": 1.61,
-          "t1": 3.11
-        }
-      ]
-    },
-    "147": {
-      "clip": "audio/sent_new/147.mp3",
-      "t0": 0,
-      "t1": 2.23,
-      "rep": 1,
-      "words": [
-        {
-          "p": "Yo",
-          "t0": 0.15,
-          "t1": 0.23
-        },
-        {
-          "p": "pana",
-          "t0": 0.35,
-          "t1": 0.63
-        },
-        {
-          "p": "bhikkhu",
-          "t0": 0.83,
-          "t1": 1.13
-        },
-        {
-          "p": "otiṇṇo",
-          "t0": 1.35,
-          "t1": 2.23
-        }
-      ]
-    },
-    "148": {
-      "clip": "audio/sent_new/148.mp3",
-      "t0": 0,
-      "t1": 3.25,
-      "rep": 1,
-      "words": [
-        {
-          "p": "vipariṇatena",
-          "t0": 0.15,
-          "t1": 1.09
-        },
-        {
-          "p": "cittena",
-          "t0": 1.25,
-          "t1": 1.73
-        },
-        {
-          "p": "mātu-gāmaṃ",
-          "t0": 1.95,
-          "t1": 3.25
-        }
-      ]
-    },
-    "149": {
-      "clip": "audio/sent_new/149.mp3",
-      "t0": 0,
-      "t1": 2.98,
-      "rep": 1,
-      "words": [
-        {
-          "p": "duṭṭhullāhi",
-          "t0": 0.15,
-          "t1": 0.99
-        },
-        {
-          "p": "vācāhi",
-          "t0": 1.11,
-          "t1": 1.65
-        },
-        {
-          "p": "obhāseyya",
-          "t0": 1.85,
-          "t1": 2.98
-        }
-      ]
-    },
-    "150": {
-      "clip": "audio/sent_new/150.mp3",
-      "t0": 0,
-      "t1": 2.73,
-      "rep": 1,
-      "words": [
-        {
-          "p": "yathā",
-          "t0": 0.15,
-          "t1": 0.39
-        },
-        {
-          "p": "taṃ",
-          "t0": 0.61,
-          "t1": 0.75
-        },
-        {
-          "p": "yuvā",
-          "t0": 0.87,
-          "t1": 1.11
-        },
-        {
-          "p": "yuvatiṃ",
-          "t0": 1.25,
-          "t1": 2.73
-        }
-      ]
-    },
-    "151": {
-      "clip": "audio/sent_new/151.mp3",
-      "t0": 0,
-      "t1": 3.27,
-      "rep": 1,
-      "words": [
-        {
-          "p": "methun'upasaṃhitāhi",
-          "t0": 0.15,
-          "t1": 1.58
-        },
-        {
-          "p": "saṅghādiseso",
-          "t0": 1.58,
-          "t1": 3.27
-        }
-      ]
-    },
-    "152": {
-      "clip": "audio/sent_new/152.mp3",
-      "t0": 0,
-      "t1": 2.15,
-      "rep": 1,
-      "words": [
-        {
-          "p": "Yo",
-          "t0": 0.15,
-          "t1": 0.21
-        },
-        {
-          "p": "pana",
-          "t0": 0.31,
-          "t1": 0.53
-        },
-        {
-          "p": "bhikkhu",
-          "t0": 0.71,
-          "t1": 0.97
-        },
-        {
-          "p": "otiṇṇo",
-          "t0": 1.21,
-          "t1": 2.15
-        }
-      ]
-    },
-    "153": {
-      "clip": "audio/sent_new/153.mp3",
-      "t0": 0,
-      "t1": 3.97,
-      "rep": 1,
-      "words": [
-        {
-          "p": "vipariṇatena",
-          "t0": 0.15,
-          "t1": 0.97
-        },
-        {
-          "p": "cittena",
-          "t0": 1.11,
-          "t1": 1.53
-        },
-        {
-          "p": "mātu-gāmassa",
-          "t0": 1.69,
-          "t1": 2.73
-        },
-        {
-          "p": "santike",
-          "t0": 2.95,
-          "t1": 3.97
-        }
-      ]
-    },
-    "154": {
-      "clip": "audio/sent_new/154.mp3",
-      "t0": 0,
-      "t1": 3.48,
-      "rep": 1,
-      "words": [
-        {
-          "p": "atta-kāma-pāricariyāya",
-          "t0": 0.15,
-          "t1": 2.09
-        },
-        {
-          "p": "vaṇṇaṃ",
-          "t0": 2.22,
-          "t1": 2.61
-        },
-        {
-          "p": "bhāseyya",
-          "t0": 2.69,
-          "t1": 3.48
-        }
-      ]
-    },
-    "155": {
-      "clip": "audio/sent_new/155.mp3",
+    "117": {
+      "clip": "audio/sent_new/117.mp3",
       "t0": 0,
       "t1": 2.92,
       "rep": 1,
@@ -4145,8 +3628,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "156": {
-      "clip": "audio/sent_new/156.mp3",
+    "118": {
+      "clip": "audio/sent_new/118.mp3",
       "t0": 0,
       "t1": 5.26,
       "rep": 1,
@@ -4178,8 +3661,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "157": {
-      "clip": "audio/sent_new/157.mp3",
+    "119": {
+      "clip": "audio/sent_new/119.mp3",
       "t0": 0,
       "t1": 3.39,
       "rep": 1,
@@ -4206,8 +3689,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "158": {
-      "clip": "audio/sent_new/158.mp3",
+    "120": {
+      "clip": "audio/sent_new/120.mp3",
       "t0": 0,
       "t1": 3.69,
       "rep": 1,
@@ -4224,8 +3707,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "159": {
-      "clip": "audio/sent_new/159.mp3",
+    "121": {
+      "clip": "audio/sent_new/121.mp3",
       "t0": 0,
       "t1": 3.47,
       "rep": 1,
@@ -4257,8 +3740,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "160": {
-      "clip": "audio/sent_new/160.mp3",
+    "122": {
+      "clip": "audio/sent_new/122.mp3",
       "t0": 0,
       "t1": 2.79,
       "rep": 1,
@@ -4280,8 +3763,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "161": {
-      "clip": "audio/sent_new/161.mp3",
+    "123": {
+      "clip": "audio/sent_new/123.mp3",
       "t0": 0,
       "t1": 3.28,
       "rep": 1,
@@ -4303,8 +3786,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "162": {
-      "clip": "audio/sent_new/162.mp3",
+    "124": {
+      "clip": "audio/sent_new/124.mp3",
       "t0": 0,
       "t1": 2.79,
       "rep": 1,
@@ -4331,8 +3814,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "163": {
-      "clip": "audio/sent_new/163.mp3",
+    "125": {
+      "clip": "audio/sent_new/125.mp3",
       "t0": 0,
       "t1": 4.52,
       "rep": 1,
@@ -4354,8 +3837,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "164": {
-      "clip": "audio/sent_new/164.mp3",
+    "126": {
+      "clip": "audio/sent_new/126.mp3",
       "t0": 0,
       "t1": 4.21,
       "rep": 1,
@@ -4387,8 +3870,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "165": {
-      "clip": "audio/sent_new/165.mp3",
+    "127": {
+      "clip": "audio/sent_new/127.mp3",
       "t0": 0,
       "t1": 4.17,
       "rep": 1,
@@ -4415,8 +3898,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "166": {
-      "clip": "audio/sent_new/166.mp3",
+    "128": {
+      "clip": "audio/sent_new/128.mp3",
       "t0": 0,
       "t1": 2.32,
       "rep": 1,
@@ -4433,8 +3916,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "167": {
-      "clip": "audio/sent_new/167.mp3",
+    "129": {
+      "clip": "audio/sent_new/129.mp3",
       "t0": 0,
       "t1": 4.47,
       "rep": 1,
@@ -4461,8 +3944,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "168": {
-      "clip": "audio/sent_new/168.mp3",
+    "130": {
+      "clip": "audio/sent_new/130.mp3",
       "t0": 0,
       "t1": 1.93,
       "rep": 1,
@@ -4479,8 +3962,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "169": {
-      "clip": "audio/sent_new/169.mp3",
+    "131": {
+      "clip": "audio/sent_new/131.mp3",
       "t0": 0,
       "t1": 3.09,
       "rep": 1,
@@ -4502,8 +3985,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "170": {
-      "clip": "audio/sent_new/170.mp3",
+    "132": {
+      "clip": "audio/sent_new/132.mp3",
       "t0": 0,
       "t1": 2.98,
       "rep": 1,
@@ -4530,8 +4013,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "171": {
-      "clip": "audio/sent_new/171.mp3",
+    "133": {
+      "clip": "audio/sent_new/133.mp3",
       "t0": 0,
       "t1": 2.55,
       "rep": 1,
@@ -4548,8 +4031,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "172": {
-      "clip": "audio/sent_new/172.mp3",
+    "134": {
+      "clip": "audio/sent_new/134.mp3",
       "t0": 0,
       "t1": 3.36,
       "rep": 1,
@@ -4581,8 +4064,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "173": {
-      "clip": "audio/sent_new/173.mp3",
+    "135": {
+      "clip": "audio/sent_new/135.mp3",
       "t0": 0,
       "t1": 2.66,
       "rep": 1,
@@ -4604,8 +4087,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "174": {
-      "clip": "audio/sent_new/174.mp3",
+    "136": {
+      "clip": "audio/sent_new/136.mp3",
       "t0": 0,
       "t1": 2.9,
       "rep": 1,
@@ -4632,8 +4115,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "175": {
-      "clip": "audio/sent_new/175.mp3",
+    "137": {
+      "clip": "audio/sent_new/137.mp3",
       "t0": 0,
       "t1": 3.64,
       "rep": 1,
@@ -4660,8 +4143,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "176": {
-      "clip": "audio/sent_new/176.mp3",
+    "138": {
+      "clip": "audio/sent_new/138.mp3",
       "t0": 0,
       "t1": 3.8,
       "rep": 1,
@@ -4693,8 +4176,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "177": {
-      "clip": "audio/sent_new/177.mp3",
+    "139": {
+      "clip": "audio/sent_new/139.mp3",
       "t0": 0,
       "t1": 2.89,
       "rep": 1,
@@ -4711,8 +4194,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "178": {
-      "clip": "audio/sent_new/178.mp3",
+    "140": {
+      "clip": "audio/sent_new/140.mp3",
       "t0": 0,
       "t1": 2.78,
       "rep": 1,
@@ -4734,8 +4217,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "179": {
-      "clip": "audio/sent_new/179.mp3",
+    "141": {
+      "clip": "audio/sent_new/141.mp3",
       "t0": 0,
       "t1": 3.23,
       "rep": 1,
@@ -4762,8 +4245,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "180": {
-      "clip": "audio/sent_new/180.mp3",
+    "142": {
+      "clip": "audio/sent_new/142.mp3",
       "t0": 0,
       "t1": 2.49,
       "rep": 1,
@@ -4780,8 +4263,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "181": {
-      "clip": "audio/sent_new/181.mp3",
+    "143": {
+      "clip": "audio/sent_new/143.mp3",
       "t0": 0,
       "t1": 3.5,
       "rep": 1,
@@ -4813,8 +4296,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "182": {
-      "clip": "audio/sent_new/182.mp3",
+    "144": {
+      "clip": "audio/sent_new/144.mp3",
       "t0": 0,
       "t1": 2.3,
       "rep": 1,
@@ -4836,8 +4319,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "183": {
-      "clip": "audio/sent_new/183.mp3",
+    "145": {
+      "clip": "audio/sent_new/145.mp3",
       "t0": 0,
       "t1": 4.84,
       "rep": 1,
@@ -4869,8 +4352,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "184": {
-      "clip": "audio/sent_new/184.mp3",
+    "146": {
+      "clip": "audio/sent_new/146.mp3",
       "t0": 0,
       "t1": 5.7,
       "rep": 1,
@@ -4912,8 +4395,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "185": {
-      "clip": "audio/sent_new/185.mp3",
+    "147": {
+      "clip": "audio/sent_new/147.mp3",
       "t0": 0,
       "t1": 3.88,
       "rep": 1,
@@ -4940,8 +4423,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "186": {
-      "clip": "audio/sent_new/186.mp3",
+    "148": {
+      "clip": "audio/sent_new/148.mp3",
       "t0": 0,
       "t1": 4.68,
       "rep": 1,
@@ -4983,8 +4466,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "187": {
-      "clip": "audio/sent_new/187.mp3",
+    "149": {
+      "clip": "audio/sent_new/149.mp3",
       "t0": 0,
       "t1": 2.79,
       "rep": 1,
@@ -5006,8 +4489,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "188": {
-      "clip": "audio/sent_new/188.mp3",
+    "150": {
+      "clip": "audio/sent_new/150.mp3",
       "t0": 0,
       "t1": 3.8,
       "rep": 1,
@@ -5034,8 +4517,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "189": {
-      "clip": "audio/sent_new/189.mp3",
+    "151": {
+      "clip": "audio/sent_new/151.mp3",
       "t0": 0,
       "t1": 3.23,
       "rep": 1,
@@ -5062,8 +4545,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "190": {
-      "clip": "audio/sent_new/190.mp3",
+    "152": {
+      "clip": "audio/sent_new/152.mp3",
       "t0": 0,
       "t1": 4.8,
       "rep": 1,
@@ -5095,8 +4578,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "191": {
-      "clip": "audio/sent_new/191.mp3",
+    "153": {
+      "clip": "audio/sent_new/153.mp3",
       "t0": 0,
       "t1": 4.18,
       "rep": 1,
@@ -5138,8 +4621,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "192": {
-      "clip": "audio/sent_new/192.mp3",
+    "154": {
+      "clip": "audio/sent_new/154.mp3",
       "t0": 0,
       "t1": 2.97,
       "rep": 1,
@@ -5156,8 +4639,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "193": {
-      "clip": "audio/sent_new/193.mp3",
+    "155": {
+      "clip": "audio/sent_new/155.mp3",
       "t0": 0,
       "t1": 4.37,
       "rep": 1,
@@ -5179,8 +4662,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "194": {
-      "clip": "audio/sent_new/194.mp3",
+    "156": {
+      "clip": "audio/sent_new/156.mp3",
       "t0": 0,
       "t1": 3.3,
       "rep": 1,
@@ -5202,8 +4685,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "195": {
-      "clip": "audio/sent_new/195.mp3",
+    "157": {
+      "clip": "audio/sent_new/157.mp3",
       "t0": 0,
       "t1": 4.66,
       "rep": 1,
@@ -5245,8 +4728,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "196": {
-      "clip": "audio/sent_new/196.mp3",
+    "158": {
+      "clip": "audio/sent_new/158.mp3",
       "t0": 0,
       "t1": 2.94,
       "rep": 1,
@@ -5268,8 +4751,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "197": {
-      "clip": "audio/sent_new/197.mp3",
+    "159": {
+      "clip": "audio/sent_new/159.mp3",
       "t0": 0,
       "t1": 4.25,
       "rep": 1,
@@ -5296,8 +4779,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "198": {
-      "clip": "audio/sent_new/198.mp3",
+    "160": {
+      "clip": "audio/sent_new/160.mp3",
       "t0": 0,
       "t1": 3.92,
       "rep": 1,
@@ -5324,8 +4807,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "199": {
-      "clip": "audio/sent_new/199.mp3",
+    "161": {
+      "clip": "audio/sent_new/161.mp3",
       "t0": 0,
       "t1": 4.25,
       "rep": 1,
@@ -5347,8 +4830,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "200": {
-      "clip": "audio/sent_new/200.mp3",
+    "162": {
+      "clip": "audio/sent_new/162.mp3",
       "t0": 0,
       "t1": 4.89,
       "rep": 1,
@@ -5380,8 +4863,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "201": {
-      "clip": "audio/sent_new/201.mp3",
+    "163": {
+      "clip": "audio/sent_new/163.mp3",
       "t0": 0,
       "t1": 4.9,
       "rep": 1,
@@ -5413,8 +4896,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "202": {
-      "clip": "audio/sent_new/202.mp3",
+    "164": {
+      "clip": "audio/sent_new/164.mp3",
       "t0": 0,
       "t1": 2.21,
       "rep": 1,
@@ -5431,8 +4914,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "203": {
-      "clip": "audio/sent_new/203.mp3",
+    "165": {
+      "clip": "audio/sent_new/165.mp3",
       "t0": 0,
       "t1": 3.55,
       "rep": 1,
@@ -5454,8 +4937,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "204": {
-      "clip": "audio/sent_new/204.mp3",
+    "166": {
+      "clip": "audio/sent_new/166.mp3",
       "t0": 0,
       "t1": 2.78,
       "rep": 1,
@@ -5477,8 +4960,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "205": {
-      "clip": "audio/sent_new/205.mp3",
+    "167": {
+      "clip": "audio/sent_new/167.mp3",
       "t0": 0,
       "t1": 3.86,
       "rep": 1,
@@ -5510,8 +4993,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "206": {
-      "clip": "audio/sent_new/206.mp3",
+    "168": {
+      "clip": "audio/sent_new/168.mp3",
       "t0": 0,
       "t1": 3.59,
       "rep": 1,
@@ -5533,8 +5016,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "207": {
-      "clip": "audio/sent_new/207.mp3",
+    "169": {
+      "clip": "audio/sent_new/169.mp3",
       "t0": 0,
       "t1": 2.3,
       "rep": 1,
@@ -5551,8 +5034,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "208": {
-      "clip": "audio/sent_new/208.mp3",
+    "170": {
+      "clip": "audio/sent_new/170.mp3",
       "t0": 0,
       "t1": 3.93,
       "rep": 1,
@@ -5574,8 +5057,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "209": {
-      "clip": "audio/sent_new/209.mp3",
+    "171": {
+      "clip": "audio/sent_new/171.mp3",
       "t0": 0,
       "t1": 2.85,
       "rep": 1,
@@ -5597,8 +5080,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "210": {
-      "clip": "audio/sent_new/210.mp3",
+    "172": {
+      "clip": "audio/sent_new/172.mp3",
       "t0": 0,
       "t1": 5.35,
       "rep": 1,
@@ -5630,8 +5113,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "211": {
-      "clip": "audio/sent_new/211.mp3",
+    "173": {
+      "clip": "audio/sent_new/173.mp3",
       "t0": 0,
       "t1": 2.9,
       "rep": 1,
@@ -5648,8 +5131,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "212": {
-      "clip": "audio/sent_new/212.mp3",
+    "174": {
+      "clip": "audio/sent_new/174.mp3",
       "t0": 0,
       "t1": 3.23,
       "rep": 1,
@@ -5676,8 +5159,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "213": {
-      "clip": "audio/sent_new/213.mp3",
+    "175": {
+      "clip": "audio/sent_new/175.mp3",
       "t0": 0,
       "t1": 2.97,
       "rep": 1,
@@ -5704,8 +5187,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "214": {
-      "clip": "audio/sent_new/214.mp3",
+    "176": {
+      "clip": "audio/sent_new/176.mp3",
       "t0": 0,
       "t1": 3.13,
       "rep": 1,
@@ -5727,8 +5210,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "215": {
-      "clip": "audio/sent_new/215.mp3",
+    "177": {
+      "clip": "audio/sent_new/177.mp3",
       "t0": 0,
       "t1": 2.41,
       "rep": 1,
@@ -5750,8 +5233,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "216": {
-      "clip": "audio/sent_new/216.mp3",
+    "178": {
+      "clip": "audio/sent_new/178.mp3",
       "t0": 0,
       "t1": 3.19,
       "rep": 1,
@@ -5768,8 +5251,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "217": {
-      "clip": "audio/sent_new/217.mp3",
+    "179": {
+      "clip": "audio/sent_new/179.mp3",
       "t0": 0,
       "t1": 4.03,
       "rep": 1,
@@ -5786,8 +5269,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "218": {
-      "clip": "audio/sent_new/218.mp3",
+    "180": {
+      "clip": "audio/sent_new/180.mp3",
       "t0": 0,
       "t1": 3.88,
       "rep": 1,
@@ -5804,8 +5287,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "219": {
-      "clip": "audio/sent_new/219.mp3",
+    "181": {
+      "clip": "audio/sent_new/181.mp3",
       "t0": 0,
       "t1": 2.08,
       "rep": 1,
@@ -5822,8 +5305,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "220": {
-      "clip": "audio/sent_new/220.mp3",
+    "182": {
+      "clip": "audio/sent_new/182.mp3",
       "t0": 0,
       "t1": 2.18,
       "rep": 1,
@@ -5840,8 +5323,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "221": {
-      "clip": "audio/sent_new/221.mp3",
+    "183": {
+      "clip": "audio/sent_new/183.mp3",
       "t0": 0,
       "t1": 3.91,
       "rep": 1,
@@ -5868,8 +5351,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "222": {
-      "clip": "audio/sent_new/222.mp3",
+    "184": {
+      "clip": "audio/sent_new/184.mp3",
       "t0": 0,
       "t1": 3.62,
       "rep": 1,
@@ -5906,8 +5389,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "223": {
-      "clip": "audio/sent_new/223.mp3",
+    "185": {
+      "clip": "audio/sent_new/185.mp3",
       "t0": 0,
       "t1": 3.01,
       "rep": 1,
@@ -5924,8 +5407,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "224": {
-      "clip": "audio/sent_new/224.mp3",
+    "186": {
+      "clip": "audio/sent_new/186.mp3",
       "t0": 0,
       "t1": 2.34,
       "rep": 1,
@@ -5962,8 +5445,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "225": {
-      "clip": "audio/sent_new/225.mp3",
+    "187": {
+      "clip": "audio/sent_new/187.mp3",
       "t0": 0,
       "t1": 2.09,
       "rep": 1,
@@ -5985,8 +5468,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "226": {
-      "clip": "audio/sent_new/226.mp3",
+    "188": {
+      "clip": "audio/sent_new/188.mp3",
       "t0": 0,
       "t1": 4.3,
       "rep": 1,
@@ -6018,8 +5501,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "227": {
-      "clip": "audio/sent_new/227.mp3",
+    "189": {
+      "clip": "audio/sent_new/189.mp3",
       "t0": 0,
       "t1": 2.93,
       "rep": 1,
@@ -6041,8 +5524,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "228": {
-      "clip": "audio/sent_new/228.mp3",
+    "190": {
+      "clip": "audio/sent_new/190.mp3",
       "t0": 0,
       "t1": 2.55,
       "rep": 1,
@@ -6064,8 +5547,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "229": {
-      "clip": "audio/sent_new/229.mp3",
+    "191": {
+      "clip": "audio/sent_new/191.mp3",
       "t0": 0,
       "t1": 2.39,
       "rep": 1,
@@ -6082,8 +5565,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "230": {
-      "clip": "audio/sent_new/230.mp3",
+    "192": {
+      "clip": "audio/sent_new/192.mp3",
       "t0": 0,
       "t1": 3.7,
       "rep": 1,
@@ -6110,8 +5593,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "231": {
-      "clip": "audio/sent_new/231.mp3",
+    "193": {
+      "clip": "audio/sent_new/193.mp3",
       "t0": 0,
       "t1": 2.3,
       "rep": 1,
@@ -6133,8 +5616,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "232": {
-      "clip": "audio/sent_new/232.mp3",
+    "194": {
+      "clip": "audio/sent_new/194.mp3",
       "t0": 0,
       "t1": 2.64,
       "rep": 1,
@@ -6156,8 +5639,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "233": {
-      "clip": "audio/sent_new/233.mp3",
+    "195": {
+      "clip": "audio/sent_new/195.mp3",
       "t0": 0,
       "t1": 3.59,
       "rep": 1,
@@ -6189,8 +5672,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "234": {
-      "clip": "audio/sent_new/234.mp3",
+    "196": {
+      "clip": "audio/sent_new/196.mp3",
       "t0": 0,
       "t1": 3.01,
       "rep": 1,
@@ -6212,8 +5695,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "235": {
-      "clip": "audio/sent_new/235.mp3",
+    "197": {
+      "clip": "audio/sent_new/197.mp3",
       "t0": 0,
       "t1": 3.29,
       "rep": 1,
@@ -6240,8 +5723,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "236": {
-      "clip": "audio/sent_new/236.mp3",
+    "198": {
+      "clip": "audio/sent_new/198.mp3",
       "t0": 0,
       "t1": 4.205,
       "rep": 1,
@@ -6268,8 +5751,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "237": {
-      "clip": "audio/sent_new/237.mp3",
+    "199": {
+      "clip": "audio/sent_new/199.mp3",
       "t0": 0,
       "t1": 3.93,
       "rep": 1,
@@ -6291,8 +5774,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "238": {
-      "clip": "audio/sent_new/238.mp3",
+    "200": {
+      "clip": "audio/sent_new/200.mp3",
       "t0": 0,
       "t1": 3.03,
       "rep": 1,
@@ -6309,8 +5792,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "239": {
-      "clip": "audio/sent_new/239.mp3",
+    "201": {
+      "clip": "audio/sent_new/201.mp3",
       "t0": 0,
       "t1": 2.27,
       "rep": 1,
@@ -6332,8 +5815,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "240": {
-      "clip": "audio/sent_new/240.mp3",
+    "202": {
+      "clip": "audio/sent_new/202.mp3",
       "t0": 0,
       "t1": 2.73,
       "rep": 1,
@@ -6350,8 +5833,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "241": {
-      "clip": "audio/sent_new/241.mp3",
+    "203": {
+      "clip": "audio/sent_new/203.mp3",
       "t0": 0,
       "t1": 3.09,
       "rep": 1,
@@ -6378,8 +5861,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "242": {
-      "clip": "audio/sent_new/242.mp3",
+    "204": {
+      "clip": "audio/sent_new/204.mp3",
       "t0": 0,
       "t1": 2.77,
       "rep": 1,
@@ -6406,8 +5889,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "243": {
-      "clip": "audio/sent_new/243.mp3",
+    "205": {
+      "clip": "audio/sent_new/205.mp3",
       "t0": 0,
       "t1": 3.01,
       "rep": 1,
@@ -6429,8 +5912,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "244": {
-      "clip": "audio/sent_new/244.mp3",
+    "206": {
+      "clip": "audio/sent_new/206.mp3",
       "t0": 0,
       "t1": 2.09,
       "rep": 1,
@@ -6452,8 +5935,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "245": {
-      "clip": "audio/sent_new/245.mp3",
+    "207": {
+      "clip": "audio/sent_new/207.mp3",
       "t0": 0,
       "t1": 3.25,
       "rep": 1,
@@ -6470,8 +5953,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "246": {
-      "clip": "audio/sent_new/246.mp3",
+    "208": {
+      "clip": "audio/sent_new/208.mp3",
       "t0": 0,
       "t1": 2.21,
       "rep": 1,
@@ -6488,8 +5971,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "247": {
-      "clip": "audio/sent_new/247.mp3",
+    "209": {
+      "clip": "audio/sent_new/209.mp3",
       "t0": 0,
       "t1": 3.65,
       "rep": 1,
@@ -6506,8 +5989,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "248": {
-      "clip": "audio/sent_new/248.mp3",
+    "210": {
+      "clip": "audio/sent_new/210.mp3",
       "t0": 0,
       "t1": 2.27,
       "rep": 1,
@@ -6524,8 +6007,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "249": {
-      "clip": "audio/sent_new/249.mp3",
+    "211": {
+      "clip": "audio/sent_new/211.mp3",
       "t0": 0,
       "t1": 2.27,
       "rep": 1,
@@ -6542,8 +6025,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "250": {
-      "clip": "audio/sent_new/250.mp3",
+    "212": {
+      "clip": "audio/sent_new/212.mp3",
       "t0": 0,
       "t1": 4.07,
       "rep": 1,
@@ -6570,8 +6053,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "251": {
-      "clip": "audio/sent_new/251.mp3",
+    "213": {
+      "clip": "audio/sent_new/213.mp3",
       "t0": 0,
       "t1": 4.58,
       "rep": 1,
@@ -6598,8 +6081,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "252": {
-      "clip": "audio/sent_new/252.mp3",
+    "214": {
+      "clip": "audio/sent_new/214.mp3",
       "t0": 0,
       "t1": 3.88,
       "rep": 1,
@@ -6616,8 +6099,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "253": {
-      "clip": "audio/sent_new/253.mp3",
+    "215": {
+      "clip": "audio/sent_new/215.mp3",
       "t0": 0,
       "t1": 4.04,
       "rep": 1,
@@ -6639,8 +6122,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "254": {
-      "clip": "audio/sent_new/254.mp3",
+    "216": {
+      "clip": "audio/sent_new/216.mp3",
       "t0": 0,
       "t1": 2.98,
       "rep": 1,
@@ -6662,8 +6145,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "255": {
-      "clip": "audio/sent_new/255.mp3",
+    "217": {
+      "clip": "audio/sent_new/217.mp3",
       "t0": 0,
       "t1": 3.89,
       "rep": 1,
@@ -6695,8 +6178,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "256": {
-      "clip": "audio/sent_new/256.mp3",
+    "218": {
+      "clip": "audio/sent_new/218.mp3",
       "t0": 0,
       "t1": 2.66,
       "rep": 1,
@@ -6723,8 +6206,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "257": {
-      "clip": "audio/sent_new/257.mp3",
+    "219": {
+      "clip": "audio/sent_new/219.mp3",
       "t0": 0,
       "t1": 3.57,
       "rep": 1,
@@ -6751,8 +6234,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "258": {
-      "clip": "audio/sent_new/258.mp3",
+    "220": {
+      "clip": "audio/sent_new/220.mp3",
       "t0": 0,
       "t1": 2.43,
       "rep": 1,
@@ -6779,8 +6262,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "259": {
-      "clip": "audio/sent_new/259.mp3",
+    "221": {
+      "clip": "audio/sent_new/221.mp3",
       "t0": 0,
       "t1": 3.8,
       "rep": 1,
@@ -6807,8 +6290,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "260": {
-      "clip": "audio/sent_new/260.mp3",
+    "222": {
+      "clip": "audio/sent_new/222.mp3",
       "t0": 0,
       "t1": 3.84,
       "rep": 1,
@@ -6840,8 +6323,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "261": {
-      "clip": "audio/sent_new/261.mp3",
+    "223": {
+      "clip": "audio/sent_new/223.mp3",
       "t0": 0,
       "t1": 3.69,
       "rep": 1,
@@ -6868,8 +6351,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "262": {
-      "clip": "audio/sent_new/262.mp3",
+    "224": {
+      "clip": "audio/sent_new/224.mp3",
       "t0": 0,
       "t1": 3.57,
       "rep": 1,
@@ -6891,8 +6374,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "263": {
-      "clip": "audio/sent_new/263.mp3",
+    "225": {
+      "clip": "audio/sent_new/225.mp3",
       "t0": 0,
       "t1": 3.52,
       "rep": 1,
@@ -6919,8 +6402,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "264": {
-      "clip": "audio/sent_new/264.mp3",
+    "226": {
+      "clip": "audio/sent_new/226.mp3",
       "t0": 0,
       "t1": 3.74,
       "rep": 1,
@@ -6947,8 +6430,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "265": {
-      "clip": "audio/sent_new/265.mp3",
+    "227": {
+      "clip": "audio/sent_new/227.mp3",
       "t0": 0,
       "t1": 4.09,
       "rep": 1,
@@ -6985,8 +6468,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "266": {
-      "clip": "audio/sent_new/266.mp3",
+    "228": {
+      "clip": "audio/sent_new/228.mp3",
       "t0": 0,
       "t1": 3.03,
       "rep": 1,
@@ -7003,8 +6486,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "267": {
-      "clip": "audio/sent_new/267.mp3",
+    "229": {
+      "clip": "audio/sent_new/229.mp3",
       "t0": 0,
       "t1": 2.49,
       "rep": 1,
@@ -7021,8 +6504,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "268": {
-      "clip": "audio/sent_new/268.mp3",
+    "230": {
+      "clip": "audio/sent_new/230.mp3",
       "t0": 0,
       "t1": 3.35,
       "rep": 1,
@@ -7049,8 +6532,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "269": {
-      "clip": "audio/sent_new/269.mp3",
+    "231": {
+      "clip": "audio/sent_new/231.mp3",
       "t0": 0,
       "t1": 3,
       "rep": 1,
@@ -7072,8 +6555,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "270": {
-      "clip": "audio/sent_new/270.mp3",
+    "232": {
+      "clip": "audio/sent_new/232.mp3",
       "t0": 0,
       "t1": 2.21,
       "rep": 1,
@@ -7095,8 +6578,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "271": {
-      "clip": "audio/sent_new/271.mp3",
+    "233": {
+      "clip": "audio/sent_new/233.mp3",
       "t0": 0,
       "t1": 3.07,
       "rep": 1,
@@ -7113,8 +6596,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "272": {
-      "clip": "audio/sent_new/272.mp3",
+    "234": {
+      "clip": "audio/sent_new/234.mp3",
       "t0": 0,
       "t1": 3.87,
       "rep": 1,
@@ -7131,8 +6614,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "273": {
-      "clip": "audio/sent_new/273.mp3",
+    "235": {
+      "clip": "audio/sent_new/235.mp3",
       "t0": 0,
       "t1": 3.69,
       "rep": 1,
@@ -7149,8 +6632,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "274": {
-      "clip": "audio/sent_new/274.mp3",
+    "236": {
+      "clip": "audio/sent_new/236.mp3",
       "t0": 0,
       "t1": 3.47,
       "rep": 1,
@@ -7167,8 +6650,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "275": {
-      "clip": "audio/sent_new/275.mp3",
+    "237": {
+      "clip": "audio/sent_new/237.mp3",
       "t0": 0,
       "t1": 2.09,
       "rep": 1,
@@ -7185,8 +6668,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "276": {
-      "clip": "audio/sent_new/276.mp3",
+    "238": {
+      "clip": "audio/sent_new/238.mp3",
       "t0": 0,
       "t1": 4.13,
       "rep": 1,
@@ -7213,8 +6696,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "277": {
-      "clip": "audio/sent_new/277.mp3",
+    "239": {
+      "clip": "audio/sent_new/239.mp3",
       "t0": 0,
       "t1": 2.61,
       "rep": 1,
@@ -7236,8 +6719,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "278": {
-      "clip": "audio/sent_new/278.mp3",
+    "240": {
+      "clip": "audio/sent_new/240.mp3",
       "t0": 0,
       "t1": 3.38,
       "rep": 1,
@@ -7269,8 +6752,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "279": {
-      "clip": "audio/sent_new/279.mp3",
+    "241": {
+      "clip": "audio/sent_new/241.mp3",
       "t0": 0,
       "t1": 3.99,
       "rep": 1,
@@ -7292,8 +6775,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "280": {
-      "clip": "audio/sent_new/280.mp3",
+    "242": {
+      "clip": "audio/sent_new/242.mp3",
       "t0": 0,
       "t1": 3.21,
       "rep": 1,
@@ -7320,8 +6803,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "281": {
-      "clip": "audio/sent_new/281.mp3",
+    "243": {
+      "clip": "audio/sent_new/243.mp3",
       "t0": 0,
       "t1": 2.96,
       "rep": 1,
@@ -7348,8 +6831,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "282": {
-      "clip": "audio/sent_new/282.mp3",
+    "244": {
+      "clip": "audio/sent_new/244.mp3",
       "t0": 0,
       "t1": 3.05,
       "rep": 1,
@@ -7376,8 +6859,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "283": {
-      "clip": "audio/sent_new/283.mp3",
+    "245": {
+      "clip": "audio/sent_new/245.mp3",
       "t0": 0,
       "t1": 3.14,
       "rep": 1,
@@ -7404,8 +6887,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "284": {
-      "clip": "audio/sent_new/284.mp3",
+    "246": {
+      "clip": "audio/sent_new/246.mp3",
       "t0": 0,
       "t1": 3.8,
       "rep": 1,
@@ -7437,8 +6920,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "285": {
-      "clip": "audio/sent_new/285.mp3",
+    "247": {
+      "clip": "audio/sent_new/247.mp3",
       "t0": 0,
       "t1": 4.13,
       "rep": 1,
@@ -7465,8 +6948,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "286": {
-      "clip": "audio/sent_new/286.mp3",
+    "248": {
+      "clip": "audio/sent_new/248.mp3",
       "t0": 0,
       "t1": 3.75,
       "rep": 1,
@@ -7493,8 +6976,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "287": {
-      "clip": "audio/sent_new/287.mp3",
+    "249": {
+      "clip": "audio/sent_new/249.mp3",
       "t0": 0,
       "t1": 2.76,
       "rep": 1,
@@ -7521,8 +7004,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "288": {
-      "clip": "audio/sent_new/288.mp3",
+    "250": {
+      "clip": "audio/sent_new/250.mp3",
       "t0": 0,
       "t1": 3.44,
       "rep": 1,
@@ -7544,8 +7027,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "289": {
-      "clip": "audio/sent_new/289.mp3",
+    "251": {
+      "clip": "audio/sent_new/251.mp3",
       "t0": 0,
       "t1": 2.73,
       "rep": 1,
@@ -7572,8 +7055,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "290": {
-      "clip": "audio/sent_new/290.mp3",
+    "252": {
+      "clip": "audio/sent_new/252.mp3",
       "t0": 0,
       "t1": 3.65,
       "rep": 1,
@@ -7595,8 +7078,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "291": {
-      "clip": "audio/sent_new/291.mp3",
+    "253": {
+      "clip": "audio/sent_new/253.mp3",
       "t0": 0,
       "t1": 2.8,
       "rep": 1,
@@ -7628,8 +7111,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "292": {
-      "clip": "audio/sent_new/292.mp3",
+    "254": {
+      "clip": "audio/sent_new/254.mp3",
       "t0": 0,
       "t1": 3.66,
       "rep": 1,
@@ -7661,8 +7144,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "293": {
-      "clip": "audio/sent_new/293.mp3",
+    "255": {
+      "clip": "audio/sent_new/255.mp3",
       "t0": 0,
       "t1": 3.04,
       "rep": 1,
@@ -7689,8 +7172,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "294": {
-      "clip": "audio/sent_new/294.mp3",
+    "256": {
+      "clip": "audio/sent_new/256.mp3",
       "t0": 0,
       "t1": 3.42,
       "rep": 1,
@@ -7712,8 +7195,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "295": {
-      "clip": "audio/sent_new/295.mp3",
+    "257": {
+      "clip": "audio/sent_new/257.mp3",
       "t0": 0,
       "t1": 3.51,
       "rep": 1,
@@ -7735,8 +7218,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "296": {
-      "clip": "audio/sent_new/296.mp3",
+    "258": {
+      "clip": "audio/sent_new/258.mp3",
       "t0": 0,
       "t1": 2.73,
       "rep": 1,
@@ -7758,8 +7241,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "297": {
-      "clip": "audio/sent_new/297.mp3",
+    "259": {
+      "clip": "audio/sent_new/259.mp3",
       "t0": 0,
       "t1": 2.68,
       "rep": 1,
@@ -7781,8 +7264,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "298": {
-      "clip": "audio/sent_new/298.mp3",
+    "260": {
+      "clip": "audio/sent_new/260.mp3",
       "t0": 0,
       "t1": 4.38,
       "rep": 1,
@@ -7809,8 +7292,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "299": {
-      "clip": "audio/sent_new/299.mp3",
+    "261": {
+      "clip": "audio/sent_new/261.mp3",
       "t0": 0,
       "t1": 2.66,
       "rep": 1,
@@ -7837,8 +7320,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "300": {
-      "clip": "audio/sent_new/300.mp3",
+    "262": {
+      "clip": "audio/sent_new/262.mp3",
       "t0": 0,
       "t1": 3.83,
       "rep": 1,
@@ -7870,8 +7353,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "301": {
-      "clip": "audio/sent_new/301.mp3",
+    "263": {
+      "clip": "audio/sent_new/263.mp3",
       "t0": 0,
       "t1": 2.78,
       "rep": 1,
@@ -7893,8 +7376,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "302": {
-      "clip": "audio/sent_new/302.mp3",
+    "264": {
+      "clip": "audio/sent_new/264.mp3",
       "t0": 0,
       "t1": 2.76,
       "rep": 1,
@@ -7921,8 +7404,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "303": {
-      "clip": "audio/sent_new/303.mp3",
+    "265": {
+      "clip": "audio/sent_new/265.mp3",
       "t0": 0,
       "t1": 2.55,
       "rep": 1,
@@ -7949,8 +7432,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "304": {
-      "clip": "audio/sent_new/304.mp3",
+    "266": {
+      "clip": "audio/sent_new/266.mp3",
       "t0": 0,
       "t1": 2.67,
       "rep": 1,
@@ -7977,8 +7460,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "305": {
-      "clip": "audio/sent_new/305.mp3",
+    "267": {
+      "clip": "audio/sent_new/267.mp3",
       "t0": 0,
       "t1": 2.6,
       "rep": 1,
@@ -8005,8 +7488,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "306": {
-      "clip": "audio/sent_new/306.mp3",
+    "268": {
+      "clip": "audio/sent_new/268.mp3",
       "t0": 0,
       "t1": 3.92,
       "rep": 1,
@@ -8033,8 +7516,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "307": {
-      "clip": "audio/sent_new/307.mp3",
+    "269": {
+      "clip": "audio/sent_new/269.mp3",
       "t0": 0,
       "t1": 3.67,
       "rep": 1,
@@ -8061,8 +7544,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "308": {
-      "clip": "audio/sent_new/308.mp3",
+    "270": {
+      "clip": "audio/sent_new/270.mp3",
       "t0": 0,
       "t1": 2.77,
       "rep": 1,
@@ -8089,8 +7572,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "309": {
-      "clip": "audio/sent_new/309.mp3",
+    "271": {
+      "clip": "audio/sent_new/271.mp3",
       "t0": 0,
       "t1": 3.32,
       "rep": 1,
@@ -8112,8 +7595,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "310": {
-      "clip": "audio/sent_new/310.mp3",
+    "272": {
+      "clip": "audio/sent_new/272.mp3",
       "t0": 0,
       "t1": 2.68,
       "rep": 1,
@@ -8140,8 +7623,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "311": {
-      "clip": "audio/sent_new/311.mp3",
+    "273": {
+      "clip": "audio/sent_new/273.mp3",
       "t0": 0,
       "t1": 3.58,
       "rep": 1,
@@ -8163,8 +7646,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "312": {
-      "clip": "audio/sent_new/312.mp3",
+    "274": {
+      "clip": "audio/sent_new/274.mp3",
       "t0": 0,
       "t1": 2.95,
       "rep": 1,
@@ -8196,8 +7679,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "313": {
-      "clip": "audio/sent_new/313.mp3",
+    "275": {
+      "clip": "audio/sent_new/275.mp3",
       "t0": 0,
       "t1": 3.77,
       "rep": 1,
@@ -8229,8 +7712,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "314": {
-      "clip": "audio/sent_new/314.mp3",
+    "276": {
+      "clip": "audio/sent_new/276.mp3",
       "t0": 0,
       "t1": 2.39,
       "rep": 1,
@@ -8247,8 +7730,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "315": {
-      "clip": "audio/sent_new/315.mp3",
+    "277": {
+      "clip": "audio/sent_new/277.mp3",
       "t0": 0,
       "t1": 2.17,
       "rep": 1,
@@ -8270,8 +7753,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "316": {
-      "clip": "audio/sent_new/316.mp3",
+    "278": {
+      "clip": "audio/sent_new/278.mp3",
       "t0": 0,
       "t1": 2.96,
       "rep": 1,
@@ -8288,8 +7771,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "317": {
-      "clip": "audio/sent_new/317.mp3",
+    "279": {
+      "clip": "audio/sent_new/279.mp3",
       "t0": 0,
       "t1": 2.63,
       "rep": 1,
@@ -8306,8 +7789,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "318": {
-      "clip": "audio/sent_new/318.mp3",
+    "280": {
+      "clip": "audio/sent_new/280.mp3",
       "t0": 0,
       "t1": 3.71,
       "rep": 1,
@@ -8324,8 +7807,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "319": {
-      "clip": "audio/sent_new/319.mp3",
+    "281": {
+      "clip": "audio/sent_new/281.mp3",
       "t0": 0,
       "t1": 2.6,
       "rep": 1,
@@ -8342,8 +7825,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "320": {
-      "clip": "audio/sent_new/320.mp3",
+    "282": {
+      "clip": "audio/sent_new/282.mp3",
       "t0": 0,
       "t1": 2.31,
       "rep": 1,
@@ -8360,8 +7843,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "321": {
-      "clip": "audio/sent_new/321.mp3",
+    "283": {
+      "clip": "audio/sent_new/283.mp3",
       "t0": 0,
       "t1": 4.48,
       "rep": 1,
@@ -8388,8 +7871,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "322": {
-      "clip": "audio/sent_new/322.mp3",
+    "284": {
+      "clip": "audio/sent_new/284.mp3",
       "t0": 0,
       "t1": 3.1,
       "rep": 1,
@@ -8411,8 +7894,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "323": {
-      "clip": "audio/sent_new/323.mp3",
+    "285": {
+      "clip": "audio/sent_new/285.mp3",
       "t0": 0,
       "t1": 3.1,
       "rep": 1,
@@ -8434,8 +7917,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "324": {
-      "clip": "audio/sent_new/324.mp3",
+    "286": {
+      "clip": "audio/sent_new/286.mp3",
       "t0": 0,
       "t1": 2.59,
       "rep": 1,
@@ -8452,8 +7935,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "325": {
-      "clip": "audio/sent_new/325.mp3",
+    "287": {
+      "clip": "audio/sent_new/287.mp3",
       "t0": 0,
       "t1": 2.79,
       "rep": 1,
@@ -8470,8 +7953,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "326": {
-      "clip": "audio/sent_new/326.mp3",
+    "288": {
+      "clip": "audio/sent_new/288.mp3",
       "t0": 0,
       "t1": 4.85,
       "rep": 1,
@@ -8513,8 +7996,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "327": {
-      "clip": "audio/sent_new/327.mp3",
+    "289": {
+      "clip": "audio/sent_new/289.mp3",
       "t0": 0,
       "t1": 3.46,
       "rep": 1,
@@ -8536,8 +8019,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "328": {
-      "clip": "audio/sent_new/328.mp3",
+    "290": {
+      "clip": "audio/sent_new/290.mp3",
       "t0": 0,
       "t1": 5.77,
       "rep": 1,
@@ -8569,8 +8052,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "329": {
-      "clip": "audio/sent_new/329.mp3",
+    "291": {
+      "clip": "audio/sent_new/291.mp3",
       "t0": 0,
       "t1": 3.07,
       "rep": 1,
@@ -8587,8 +8070,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "330": {
-      "clip": "audio/sent_new/330.mp3",
+    "292": {
+      "clip": "audio/sent_new/292.mp3",
       "t0": 0,
       "t1": 4.77,
       "rep": 1,
@@ -8615,8 +8098,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "331": {
-      "clip": "audio/sent_new/331.mp3",
+    "293": {
+      "clip": "audio/sent_new/293.mp3",
       "t0": 0,
       "t1": 3.22,
       "rep": 1,
@@ -8633,8 +8116,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "332": {
-      "clip": "audio/sent_new/332.mp3",
+    "294": {
+      "clip": "audio/sent_new/294.mp3",
       "t0": 0,
       "t1": 4.46,
       "rep": 1,
@@ -8661,8 +8144,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "333": {
-      "clip": "audio/sent_new/333.mp3",
+    "295": {
+      "clip": "audio/sent_new/295.mp3",
       "t0": 0,
       "t1": 3,
       "rep": 1,
@@ -8689,8 +8172,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "334": {
-      "clip": "audio/sent_new/334.mp3",
+    "296": {
+      "clip": "audio/sent_new/296.mp3",
       "t0": 0,
       "t1": 3.36,
       "rep": 1,
@@ -8717,8 +8200,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "335": {
-      "clip": "audio/sent_new/335.mp3",
+    "297": {
+      "clip": "audio/sent_new/297.mp3",
       "t0": 0,
       "t1": 3.17,
       "rep": 1,
@@ -8745,8 +8228,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "336": {
-      "clip": "audio/sent_new/336.mp3",
+    "298": {
+      "clip": "audio/sent_new/298.mp3",
       "t0": 0,
       "t1": 2.65,
       "rep": 1,
@@ -8773,8 +8256,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "337": {
-      "clip": "audio/sent_new/337.mp3",
+    "299": {
+      "clip": "audio/sent_new/299.mp3",
       "t0": 0,
       "t1": 2.44,
       "rep": 1,
@@ -8801,8 +8284,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "338": {
-      "clip": "audio/sent_new/338.mp3",
+    "300": {
+      "clip": "audio/sent_new/300.mp3",
       "t0": 0,
       "t1": 2.48,
       "rep": 1,
@@ -8824,8 +8307,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "339": {
-      "clip": "audio/sent_new/339.mp3",
+    "301": {
+      "clip": "audio/sent_new/301.mp3",
       "t0": 0,
       "t1": 4.19,
       "rep": 1,
@@ -8852,8 +8335,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "340": {
-      "clip": "audio/sent_new/340.mp3",
+    "302": {
+      "clip": "audio/sent_new/302.mp3",
       "t0": 0,
       "t1": 2.36,
       "rep": 1,
@@ -8880,8 +8363,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "341": {
-      "clip": "audio/sent_new/341.mp3",
+    "303": {
+      "clip": "audio/sent_new/303.mp3",
       "t0": 0,
       "t1": 2.61,
       "rep": 1,
@@ -8908,8 +8391,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "342": {
-      "clip": "audio/sent_new/342.mp3",
+    "304": {
+      "clip": "audio/sent_new/304.mp3",
       "t0": 0,
       "t1": 2.87,
       "rep": 1,
@@ -8921,8 +8404,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "343": {
-      "clip": "audio/sent_new/343.mp3",
+    "305": {
+      "clip": "audio/sent_new/305.mp3",
       "t0": 0,
       "t1": 1.9,
       "rep": 1,
@@ -8949,8 +8432,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "344": {
-      "clip": "audio/sent_new/344.mp3",
+    "306": {
+      "clip": "audio/sent_new/306.mp3",
       "t0": 0,
       "t1": 1.82,
       "rep": 1,
@@ -8967,8 +8450,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "353": {
-      "clip": "audio/sent_new/353.mp3",
+    "307": {
+      "clip": "audio/sent_new/307.mp3",
       "t0": 0,
       "t1": 2.24,
       "words": [
@@ -8993,8 +8476,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "354": {
-      "clip": "audio/sent_new/354.mp3",
+    "308": {
+      "clip": "audio/sent_new/308.mp3",
       "t0": 0,
       "t1": 3.98,
       "words": [
@@ -9031,8 +8514,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "355": {
-      "clip": "audio/sent_new/355.mp3",
+    "309": {
+      "clip": "audio/sent_new/309.mp3",
       "t0": 0,
       "t1": 4.85,
       "words": [
@@ -9081,8 +8564,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "356": {
-      "clip": "audio/sent_new/356.mp3",
+    "310": {
+      "clip": "audio/sent_new/310.mp3",
       "t0": 0,
       "t1": 5.25,
       "words": [
@@ -9125,8 +8608,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "357": {
-      "clip": "audio/sent_new/357.mp3",
+    "311": {
+      "clip": "audio/sent_new/311.mp3",
       "t0": 0,
       "t1": 4.39,
       "words": [
@@ -9157,8 +8640,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "358": {
-      "clip": "audio/sent_new/358.mp3",
+    "312": {
+      "clip": "audio/sent_new/312.mp3",
       "t0": 0,
       "t1": 3.21,
       "words": [
@@ -9189,8 +8672,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "359": {
-      "clip": "audio/sent_new/359.mp3",
+    "313": {
+      "clip": "audio/sent_new/313.mp3",
       "t0": 0,
       "t1": 4.97,
       "words": [
@@ -9233,8 +8716,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "360": {
-      "clip": "audio/sent_new/360.mp3",
+    "314": {
+      "clip": "audio/sent_new/314.mp3",
       "t0": 0,
       "t1": 3.45,
       "words": [
@@ -9259,8 +8742,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "361": {
-      "clip": "audio/sent_new/361.mp3",
+    "315": {
+      "clip": "audio/sent_new/315.mp3",
       "t0": 0,
       "t1": 3.57,
       "words": [
@@ -9291,8 +8774,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "362": {
-      "clip": "audio/sent_new/362.mp3",
+    "316": {
+      "clip": "audio/sent_new/316.mp3",
       "t0": 0,
       "t1": 4.78,
       "words": [
@@ -9335,8 +8818,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "363": {
-      "clip": "audio/sent_new/363.mp3",
+    "317": {
+      "clip": "audio/sent_new/317.mp3",
       "t0": 0,
       "t1": 4.71,
       "words": [
@@ -9379,8 +8862,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "364": {
-      "clip": "audio/sent_new/364.mp3",
+    "318": {
+      "clip": "audio/sent_new/318.mp3",
       "t0": 0,
       "t1": 3.09,
       "words": [
@@ -9411,8 +8894,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "365": {
-      "clip": "audio/sent_new/365.mp3",
+    "319": {
+      "clip": "audio/sent_new/319.mp3",
       "t0": 0,
       "t1": 3.04,
       "words": [
@@ -9437,8 +8920,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "366": {
-      "clip": "audio/sent_new/366.mp3",
+    "320": {
+      "clip": "audio/sent_new/320.mp3",
       "t0": 0,
       "t1": 4.66,
       "words": [
@@ -9487,8 +8970,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "367": {
-      "clip": "audio/sent_new/367.mp3",
+    "321": {
+      "clip": "audio/sent_new/321.mp3",
       "t0": 0,
       "t1": 2.74,
       "words": [
@@ -9501,8 +8984,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "368": {
-      "clip": "audio/sent_new/368.mp3",
+    "322": {
+      "clip": "audio/sent_new/322.mp3",
       "t0": 0,
       "t1": 1.93,
       "words": [
@@ -9527,8 +9010,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "369": {
-      "clip": "audio/sent_new/369.mp3",
+    "323": {
+      "clip": "audio/sent_new/323.mp3",
       "t0": 0,
       "t1": 4.155,
       "words": [
@@ -9559,8 +9042,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "370": {
-      "clip": "audio/sent_new/370.mp3",
+    "324": {
+      "clip": "audio/sent_new/324.mp3",
       "t0": 0,
       "t1": 5.325,
       "words": [
@@ -9609,8 +9092,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "371": {
-      "clip": "audio/sent_new/371.mp3",
+    "325": {
+      "clip": "audio/sent_new/325.mp3",
       "t0": 0,
       "t1": 3.43,
       "words": [
@@ -9647,270 +9130,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "372": {
-      "clip": "audio/sent_new/372.mp3",
-      "t0": 0,
-      "t1": 4.31,
-      "words": [
-        {
-          "p": "tamenaṃ",
-          "z": "那个/他",
-          "t0": 0.55,
-          "t1": 1.13
-        },
-        {
-          "p": "saddheyya-vacasā",
-          "z": "可信",
-          "t0": 1.25,
-          "t1": 2.31
-        },
-        {
-          "p": "upāsikā",
-          "z": "近事女(优婆夷)",
-          "t0": 2.49,
-          "t1": 3.07
-        },
-        {
-          "p": "disvā",
-          "z": "见后",
-          "t0": 3.33,
-          "t1": 3.81
-        }
-      ],
-      "rep": 1
-    },
-    "373": {
-      "clip": "audio/sent_new/373.mp3",
-      "t0": 0,
-      "t1": 3.44,
-      "words": [
-        {
-          "p": "dvinnaṃ",
-          "z": "二者的",
-          "t0": 0.5,
-          "t1": 0.9
-        },
-        {
-          "p": "dhammānaṃ",
-          "z": "法",
-          "t0": 0.98,
-          "t1": 1.43
-        },
-        {
-          "p": "aññatarena",
-          "z": "某",
-          "t0": 1.5,
-          "t1": 2.22
-        },
-        {
-          "p": "vadeyya",
-          "z": "说",
-          "t0": 2.34,
-          "t1": 2.88
-        }
-      ],
-      "rep": 1
-    },
-    "374": {
-      "clip": "audio/sent_new/374.mp3",
-      "t0": 0,
-      "t1": 3.67,
-      "words": [
-        {
-          "p": "saṅghādisesena",
-          "z": "桑喀地谢思(僧残)",
-          "t0": 0,
-          "t1": 1.679
-        },
-        {
-          "p": "vā",
-          "z": "或",
-          "t0": 1.679,
-          "t1": 2.005
-        },
-        {
-          "p": "pācittiyena",
-          "z": "巴吉帝亚(应忏悔)",
-          "t0": 2.005,
-          "t1": 3.345
-        },
-        {
-          "p": "vā",
-          "z": "或",
-          "t0": 3.345,
-          "t1": 3.67
-        }
-      ],
-      "rep": 1
-    },
-    "375": {
-      "clip": "audio/sent_new/375.mp3",
-      "t0": 0,
-      "t1": 3.5,
-      "words": [
-        {
-          "p": "nisajjaṃ",
-          "z": "就座",
-          "t0": 0.57,
-          "t1": 1.29
-        },
-        {
-          "p": "bhikkhu",
-          "z": "比库",
-          "t0": 1.53,
-          "t1": 1.81
-        },
-        {
-          "p": "paṭijānamāno",
-          "z": "承认",
-          "t0": 1.93,
-          "t1": 2.95
-        }
-      ],
-      "rep": 1
-    },
-    "376": {
-      "clip": "audio/sent_new/376.mp3",
-      "t0": 0,
-      "t1": 3.48,
-      "words": [
-        {
-          "p": "dvinnaṃ",
-          "z": "二者的",
-          "t0": 0.55,
-          "t1": 0.95
-        },
-        {
-          "p": "dhammānaṃ",
-          "z": "法",
-          "t0": 0.99,
-          "t1": 1.45
-        },
-        {
-          "p": "aññatarena",
-          "z": "某",
-          "t0": 1.53,
-          "t1": 2.17
-        },
-        {
-          "p": "kāretabbo",
-          "z": "应令作",
-          "t0": 2.33,
-          "t1": 2.91
-        }
-      ],
-      "rep": 1
-    },
-    "377": {
-      "clip": "audio/sent_new/377.mp3",
-      "t0": 0,
-      "t1": 3.75,
-      "words": [
-        {
-          "p": "saṅghādisesena",
-          "z": "桑喀地谢思(僧残)",
-          "t0": 0,
-          "t1": 1.717
-        },
-        {
-          "p": "vā",
-          "z": "或",
-          "t0": 1.717,
-          "t1": 2.048
-        },
-        {
-          "p": "pācittiyena",
-          "z": "巴吉帝亚(应忏悔)",
-          "t0": 2.048,
-          "t1": 3.419
-        },
-        {
-          "p": "vā",
-          "z": "或",
-          "t0": 3.419,
-          "t1": 3.75
-        }
-      ],
-      "rep": 1
-    },
-    "378": {
-      "clip": "audio/sent_new/378.mp3",
-      "t0": 0,
-      "t1": 4.96,
-      "words": [
-        {
-          "p": "yena",
-          "z": "随所欲往",
-          "t0": 0,
-          "t1": 0.559
-        },
-        {
-          "p": "vā",
-          "z": "或",
-          "t0": 0.559,
-          "t1": 0.888
-        },
-        {
-          "p": "sā",
-          "z": "她",
-          "t0": 0.888,
-          "t1": 1.217
-        },
-        {
-          "p": "saddheyya-vacasā",
-          "z": "可信",
-          "t0": 1.217,
-          "t1": 3.153
-        },
-        {
-          "p": "upāsikā",
-          "z": "近事女(优婆夷)",
-          "t0": 3.153,
-          "t1": 4.056
-        },
-        {
-          "p": "vadeyya",
-          "z": "说",
-          "t0": 4.056,
-          "t1": 4.959
-        }
-      ],
-      "rep": 1
-    },
-    "379": {
-      "clip": "audio/sent_new/379.mp3",
-      "t0": 0,
-      "t1": 2.44,
-      "words": [
-        {
-          "p": "tena",
-          "z": "以此",
-          "t0": 0,
-          "t1": 0.471
-        },
-        {
-          "p": "so",
-          "z": "他",
-          "t0": 0.471,
-          "t1": 0.756
-        },
-        {
-          "p": "bhikkhu",
-          "z": "比库",
-          "t0": 0.756,
-          "t1": 1.505
-        },
-        {
-          "p": "kāretabbo",
-          "z": "应令作",
-          "t0": 1.505,
-          "t1": 2.44
-        }
-      ],
-      "rep": 1
-    },
-    "380": {
-      "clip": "audio/sent_new/380.mp3",
+    "326": {
+      "clip": "audio/sent_new/326.mp3",
       "t0": 0,
       "t1": 3.38,
       "words": [
@@ -9935,8 +9156,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "381": {
-      "clip": "audio/sent_new/381.mp3",
+    "327": {
+      "clip": "audio/sent_new/327.mp3",
       "t0": 0,
       "t1": 4.5,
       "words": [
@@ -9979,8 +9200,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "382": {
-      "clip": "audio/sent_new/382.mp3",
+    "328": {
+      "clip": "audio/sent_new/328.mp3",
       "t0": 0,
       "t1": 4.03,
       "words": [
@@ -10011,8 +9232,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "383": {
-      "clip": "audio/sent_new/383.mp3",
+    "329": {
+      "clip": "audio/sent_new/329.mp3",
       "t0": 0,
       "t1": 3.83,
       "words": [
@@ -10043,8 +9264,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "384": {
-      "clip": "audio/sent_new/384.mp3",
+    "330": {
+      "clip": "audio/sent_new/330.mp3",
       "t0": 0,
       "t1": 2.63,
       "words": [
@@ -10075,8 +9296,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "385": {
-      "clip": "audio/sent_new/385.mp3",
+    "331": {
+      "clip": "audio/sent_new/331.mp3",
       "t0": 0,
       "t1": 0.9,
       "words": [
@@ -10089,8 +9310,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "386": {
-      "clip": "audio/sent_new/386.mp3",
+    "332": {
+      "clip": "audio/sent_new/332.mp3",
       "t0": 0,
       "t1": 0.8,
       "words": [
@@ -10121,8 +9342,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "387": {
-      "clip": "audio/sent_new/387.mp3",
+    "333": {
+      "clip": "audio/sent_new/333.mp3",
       "t0": 0,
       "t1": 0.84,
       "words": [
@@ -10141,8 +9362,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "395": {
-      "clip": "audio/sent_new/395.mp3",
+    "334": {
+      "clip": "audio/sent_new/334.mp3",
       "t0": 0,
       "t1": 2,
       "words": [
@@ -10167,8 +9388,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "396": {
-      "clip": "audio/sent_new/396.mp3",
+    "335": {
+      "clip": "audio/sent_new/335.mp3",
       "t0": 0,
       "t1": 3.3,
       "words": [
@@ -10199,8 +9420,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "397": {
-      "clip": "audio/sent_new/397.mp3",
+    "336": {
+      "clip": "audio/sent_new/336.mp3",
       "t0": 0,
       "t1": 2.085,
       "words": [
@@ -10219,8 +9440,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "398": {
-      "clip": "audio/sent_new/398.mp3",
+    "337": {
+      "clip": "audio/sent_new/337.mp3",
       "t0": 0,
       "t1": 8.455,
       "words": [
@@ -10251,8 +9472,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "399": {
-      "clip": "audio/sent_new/399.mp3",
+    "338": {
+      "clip": "audio/sent_new/338.mp3",
       "t0": 0,
       "t1": 4.31,
       "words": [
@@ -10277,8 +9498,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "400": {
-      "clip": "audio/sent_new/400.mp3",
+    "339": {
+      "clip": "audio/sent_new/339.mp3",
       "t0": 0,
       "t1": 4.12,
       "words": [
@@ -10309,8 +9530,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "401": {
-      "clip": "audio/sent_new/401.mp3",
+    "340": {
+      "clip": "audio/sent_new/340.mp3",
       "t0": 0,
       "t1": 4.42,
       "words": [
@@ -10341,8 +9562,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "402": {
-      "clip": "audio/sent_new/402.mp3",
+    "341": {
+      "clip": "audio/sent_new/341.mp3",
       "t0": 0,
       "t1": 4.78,
       "words": [
@@ -10379,8 +9600,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "403": {
-      "clip": "audio/sent_new/403.mp3",
+    "342": {
+      "clip": "audio/sent_new/342.mp3",
       "t0": 0,
       "t1": 5.26,
       "words": [
@@ -10411,8 +9632,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "404": {
-      "clip": "audio/sent_new/404.mp3",
+    "343": {
+      "clip": "audio/sent_new/343.mp3",
       "t0": 0,
       "t1": 4.45,
       "words": [
@@ -10443,8 +9664,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "405": {
-      "clip": "audio/sent_new/405.mp3",
+    "344": {
+      "clip": "audio/sent_new/344.mp3",
       "t0": 0,
       "t1": 4.03,
       "words": [
@@ -10475,8 +9696,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "406": {
-      "clip": "audio/sent_new/406.mp3",
+    "345": {
+      "clip": "audio/sent_new/345.mp3",
       "t0": 0,
       "t1": 5.13,
       "words": [
@@ -10501,8 +9722,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "407": {
-      "clip": "audio/sent_new/407.mp3",
+    "346": {
+      "clip": "audio/sent_new/346.mp3",
       "t0": 0,
       "t1": 3.86,
       "words": [
@@ -10527,8 +9748,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "408": {
-      "clip": "audio/sent_new/408.mp3",
+    "347": {
+      "clip": "audio/sent_new/347.mp3",
       "t0": 0,
       "t1": 2.94,
       "words": [
@@ -10553,8 +9774,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "409": {
-      "clip": "audio/sent_new/409.mp3",
+    "348": {
+      "clip": "audio/sent_new/348.mp3",
       "t0": 0,
       "t1": 3.28,
       "words": [
@@ -10579,8 +9800,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "410": {
-      "clip": "audio/sent_new/410.mp3",
+    "349": {
+      "clip": "audio/sent_new/349.mp3",
       "t0": 0,
       "t1": 3.26,
       "words": [
@@ -10605,8 +9826,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "411": {
-      "clip": "audio/sent_new/411.mp3",
+    "350": {
+      "clip": "audio/sent_new/350.mp3",
       "t0": 0,
       "t1": 2.81,
       "words": [
@@ -10625,8 +9846,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "412": {
-      "clip": "audio/sent_new/412.mp3",
+    "351": {
+      "clip": "audio/sent_new/351.mp3",
       "t0": 0,
       "t1": 2.71,
       "words": [
@@ -10645,8 +9866,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "413": {
-      "clip": "audio/sent_new/413.mp3",
+    "352": {
+      "clip": "audio/sent_new/352.mp3",
       "t0": 0,
       "t1": 2.97,
       "words": [
@@ -10677,8 +9898,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "414": {
-      "clip": "audio/sent_new/414.mp3",
+    "353": {
+      "clip": "audio/sent_new/353.mp3",
       "t0": 0,
       "t1": 2.01,
       "words": [
@@ -10697,8 +9918,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "415": {
-      "clip": "audio/sent_new/415.mp3",
+    "354": {
+      "clip": "audio/sent_new/354.mp3",
       "t0": 0,
       "t1": 5.45,
       "words": [
@@ -10717,8 +9938,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "416": {
-      "clip": "audio/sent_new/416.mp3",
+    "355": {
+      "clip": "audio/sent_new/355.mp3",
       "t0": 0,
       "t1": 4.46,
       "words": [
@@ -10755,8 +9976,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "417": {
-      "clip": "audio/sent_new/417.mp3",
+    "356": {
+      "clip": "audio/sent_new/356.mp3",
       "t0": 0,
       "t1": 5.95,
       "words": [
@@ -10805,8 +10026,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "418": {
-      "clip": "audio/sent_new/418.mp3",
+    "357": {
+      "clip": "audio/sent_new/357.mp3",
       "t0": 0,
       "t1": 3.38,
       "words": [
@@ -10825,8 +10046,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "419": {
-      "clip": "audio/sent_new/419.mp3",
+    "358": {
+      "clip": "audio/sent_new/358.mp3",
       "t0": 0,
       "t1": 4.43,
       "words": [
@@ -10863,8 +10084,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "420": {
-      "clip": "audio/sent_new/420.mp3",
+    "359": {
+      "clip": "audio/sent_new/359.mp3",
       "t0": 0,
       "t1": 3.195,
       "words": [
@@ -10889,8 +10110,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "421": {
-      "clip": "audio/sent_new/421.mp3",
+    "360": {
+      "clip": "audio/sent_new/360.mp3",
       "t0": 0,
       "t1": 2.885,
       "words": [
@@ -10909,172 +10130,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "422": {
-      "clip": "audio/sent_new/422.mp3",
-      "t0": 0,
-      "t1": 3.02,
-      "words": [
-        {
-          "p": "nissaggiyaṃ",
-          "z": "尼萨耆(应舍)",
-          "t0": 0.53,
-          "t1": 1.29
-        },
-        {
-          "p": "pācittiyaṃ",
-          "z": "巴吉帝亚(应忏悔)",
-          "t0": 1.43,
-          "t1": 2.27
-        }
-      ],
-      "rep": 1
-    },
-    "423": {
-      "clip": "audio/sent_new/423.mp3",
-      "t0": 0,
-      "t1": 3.48,
-      "words": [
-        {
-          "p": "Yo",
-          "z": "凡是",
-          "t0": 0,
-          "t1": 0.38
-        },
-        {
-          "p": "pana",
-          "z": "然而",
-          "t0": 0.38,
-          "t1": 1.04
-        },
-        {
-          "p": "bhikkhu",
-          "z": "比库",
-          "t0": 1.04,
-          "t1": 2.12
-        },
-        {
-          "p": "aññātakaṃ",
-          "z": "非亲戚",
-          "t0": 2.12,
-          "t1": 3.48
-        }
-      ],
-      "rep": 1
-    },
-    "424": {
-      "clip": "audio/sent_new/424.mp3",
-      "t0": 0,
-      "t1": 2.68,
-      "words": [
-        {
-          "p": "gaha-patiṃ",
-          "z": "执取",
-          "t0": 0,
-          "t1": 0.977
-        },
-        {
-          "p": "vā",
-          "z": "或",
-          "t0": 0.977,
-          "t1": 1.252
-        },
-        {
-          "p": "gaha-patāniṃ",
-          "z": "执取",
-          "t0": 1.252,
-          "t1": 2.404
-        },
-        {
-          "p": "vā",
-          "z": "或",
-          "t0": 2.404,
-          "t1": 2.679
-        }
-      ],
-      "rep": 1
-    },
-    "425": {
-      "clip": "audio/sent_new/425.mp3",
-      "t0": 0,
-      "t1": 2.55,
-      "words": [
-        {
-          "p": "cīvaraṃ",
-          "z": "衣",
-          "t0": 0.21,
-          "t1": 1.09
-        },
-        {
-          "p": "viññāpeyya",
-          "z": "乞求/令知",
-          "t0": 1.17,
-          "t1": 1.95
-        }
-      ],
-      "rep": 1
-    },
-    "426": {
-      "clip": "audio/sent_new/426.mp3",
-      "t0": 0,
-      "t1": 1.95,
-      "words": [
-        {
-          "p": "aññatra",
-          "z": "除了",
-          "t0": 0.6,
-          "t1": 1.14
-        },
-        {
-          "p": "samayā",
-          "z": "时",
-          "t0": 1.34,
-          "t1": 1.82
-        }
-      ],
-      "rep": 1
-    },
-    "427": {
-      "clip": "audio/sent_new/427.mp3",
-      "t0": 0,
-      "t1": 2.51,
-      "words": [
-        {
-          "p": "nissaggiyaṃ",
-          "z": "尼萨耆(应舍)",
-          "t0": 0.13,
-          "t1": 0.83
-        },
-        {
-          "p": "pācittiyaṃ",
-          "z": "巴吉帝亚(应忏悔)",
-          "t0": 0.99,
-          "t1": 1.85
-        }
-      ],
-      "rep": 1
-    },
-    "428": {
-      "clip": "audio/sent_new/428.mp3",
-      "t0": 0,
-      "t1": 2.43,
-      "words": [
-        {
-          "p": "Tatthāyaṃ",
-          "z": "此中此",
-          "t0": 0.66,
-          "t1": 1.24
-        },
-        {
-          "p": "samayo",
-          "z": "时",
-          "t0": 1.36,
-          "t1": 1.9
-        }
-      ],
-      "rep": 1
-    },
-    "429": {
-      "clip": "audio/sent_new/429.mp3",
+    "361": {
+      "clip": "audio/sent_new/361.mp3",
       "t0": 0,
       "t1": 2.95,
       "words": [
@@ -11105,8 +10162,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "430": {
-      "clip": "audio/sent_new/430.mp3",
+    "362": {
+      "clip": "audio/sent_new/362.mp3",
       "t0": 0,
       "t1": 1.595,
       "words": [
@@ -11125,8 +10182,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "431": {
-      "clip": "audio/sent_new/431.mp3",
+    "363": {
+      "clip": "audio/sent_new/363.mp3",
       "t0": 0,
       "t1": 2.655,
       "words": [
@@ -11151,8 +10208,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "432": {
-      "clip": "audio/sent_new/432.mp3",
+    "364": {
+      "clip": "audio/sent_new/364.mp3",
       "t0": 0,
       "t1": 4.78,
       "words": [
@@ -11195,8 +10252,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "433": {
-      "clip": "audio/sent_new/433.mp3",
+    "365": {
+      "clip": "audio/sent_new/365.mp3",
       "t0": 0,
       "t1": 4.125,
       "words": [
@@ -11227,8 +10284,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "434": {
-      "clip": "audio/sent_new/434.mp3",
+    "366": {
+      "clip": "audio/sent_new/366.mp3",
       "t0": 0,
       "t1": 3.435,
       "words": [
@@ -11253,8 +10310,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "435": {
-      "clip": "audio/sent_new/435.mp3",
+    "367": {
+      "clip": "audio/sent_new/367.mp3",
       "t0": 0,
       "t1": 3.01,
       "words": [
@@ -11279,8 +10336,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "436": {
-      "clip": "audio/sent_new/436.mp3",
+    "368": {
+      "clip": "audio/sent_new/368.mp3",
       "t0": 0,
       "t1": 2.85,
       "words": [
@@ -11311,8 +10368,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "437": {
-      "clip": "audio/sent_new/437.mp3",
+    "369": {
+      "clip": "audio/sent_new/369.mp3",
       "t0": 0,
       "t1": 3.73,
       "words": [
@@ -11331,8 +10388,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "438": {
-      "clip": "audio/sent_new/438.mp3",
+    "370": {
+      "clip": "audio/sent_new/370.mp3",
       "t0": 0,
       "t1": 3.77,
       "words": [
@@ -11357,8 +10414,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "439": {
-      "clip": "audio/sent_new/439.mp3",
+    "371": {
+      "clip": "audio/sent_new/371.mp3",
       "t0": 0,
       "t1": 4.09,
       "words": [
@@ -11395,8 +10452,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "440": {
-      "clip": "audio/sent_new/440.mp3",
+    "372": {
+      "clip": "audio/sent_new/372.mp3",
       "t0": 0,
       "t1": 3.8,
       "words": [
@@ -11421,8 +10478,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "441": {
-      "clip": "audio/sent_new/441.mp3",
+    "373": {
+      "clip": "audio/sent_new/373.mp3",
       "t0": 0,
       "t1": 4.49,
       "words": [
@@ -11453,8 +10510,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "442": {
-      "clip": "audio/sent_new/442.mp3",
+    "374": {
+      "clip": "audio/sent_new/374.mp3",
       "t0": 0,
       "t1": 4.44,
       "words": [
@@ -11491,8 +10548,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "443": {
-      "clip": "audio/sent_new/443.mp3",
+    "375": {
+      "clip": "audio/sent_new/375.mp3",
       "t0": 0,
       "t1": 4.45,
       "words": [
@@ -11535,8 +10592,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "444": {
-      "clip": "audio/sent_new/444.mp3",
+    "376": {
+      "clip": "audio/sent_new/376.mp3",
       "t0": 0,
       "t1": 4.59,
       "words": [
@@ -11567,8 +10624,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "445": {
-      "clip": "audio/sent_new/445.mp3",
+    "377": {
+      "clip": "audio/sent_new/377.mp3",
       "t0": 0,
       "t1": 2.88,
       "words": [
@@ -11599,8 +10656,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "446": {
-      "clip": "audio/sent_new/446.mp3",
+    "378": {
+      "clip": "audio/sent_new/378.mp3",
       "t0": 0,
       "t1": 2.9,
       "words": [
@@ -11619,8 +10676,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "447": {
-      "clip": "audio/sent_new/447.mp3",
+    "379": {
+      "clip": "audio/sent_new/379.mp3",
       "t0": 0,
       "t1": 2.65,
       "words": [
@@ -11651,8 +10708,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "448": {
-      "clip": "audio/sent_new/448.mp3",
+    "380": {
+      "clip": "audio/sent_new/380.mp3",
       "t0": 0,
       "t1": 3.79,
       "words": [
@@ -11683,8 +10740,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "449": {
-      "clip": "audio/sent_new/449.mp3",
+    "381": {
+      "clip": "audio/sent_new/381.mp3",
       "t0": 0,
       "t1": 3.22,
       "words": [
@@ -11703,8 +10760,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "450": {
-      "clip": "audio/sent_new/450.mp3",
+    "382": {
+      "clip": "audio/sent_new/382.mp3",
       "t0": 0,
       "t1": 3.535,
       "words": [
@@ -11723,8 +10780,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "451": {
-      "clip": "audio/sent_new/451.mp3",
+    "383": {
+      "clip": "audio/sent_new/383.mp3",
       "t0": 0,
       "t1": 2.975,
       "words": [
@@ -11749,8 +10806,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "452": {
-      "clip": "audio/sent_new/452.mp3",
+    "384": {
+      "clip": "audio/sent_new/384.mp3",
       "t0": 0,
       "t1": 4.39,
       "words": [
@@ -11793,8 +10850,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "453": {
-      "clip": "audio/sent_new/453.mp3",
+    "385": {
+      "clip": "audio/sent_new/385.mp3",
       "t0": 0,
       "t1": 4.13,
       "words": [
@@ -11819,8 +10876,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "454": {
-      "clip": "audio/sent_new/454.mp3",
+    "386": {
+      "clip": "audio/sent_new/386.mp3",
       "t0": 0,
       "t1": 3.4,
       "words": [
@@ -11845,8 +10902,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "455": {
-      "clip": "audio/sent_new/455.mp3",
+    "387": {
+      "clip": "audio/sent_new/387.mp3",
       "t0": 0,
       "t1": 2.98,
       "words": [
@@ -11865,8 +10922,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "456": {
-      "clip": "audio/sent_new/456.mp3",
+    "388": {
+      "clip": "audio/sent_new/388.mp3",
       "t0": 0,
       "t1": 6.36,
       "words": [
@@ -11903,8 +10960,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "457": {
-      "clip": "audio/sent_new/457.mp3",
+    "389": {
+      "clip": "audio/sent_new/389.mp3",
       "t0": 0,
       "t1": 3.28,
       "words": [
@@ -11947,8 +11004,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "458": {
-      "clip": "audio/sent_new/458.mp3",
+    "390": {
+      "clip": "audio/sent_new/390.mp3",
       "t0": 0,
       "t1": 4.24,
       "words": [
@@ -11979,8 +11036,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "459": {
-      "clip": "audio/sent_new/459.mp3",
+    "391": {
+      "clip": "audio/sent_new/391.mp3",
       "t0": 0,
       "t1": 3.3,
       "words": [
@@ -12011,8 +11068,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "460": {
-      "clip": "audio/sent_new/460.mp3",
+    "392": {
+      "clip": "audio/sent_new/392.mp3",
       "t0": 0,
       "t1": 3.54,
       "words": [
@@ -12031,8 +11088,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "461": {
-      "clip": "audio/sent_new/461.mp3",
+    "393": {
+      "clip": "audio/sent_new/393.mp3",
       "t0": 0,
       "t1": 2.5,
       "words": [
@@ -12063,8 +11120,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "462": {
-      "clip": "audio/sent_new/462.mp3",
+    "394": {
+      "clip": "audio/sent_new/394.mp3",
       "t0": 0,
       "t1": 1.78,
       "words": [
@@ -12083,8 +11140,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "463": {
-      "clip": "audio/sent_new/463.mp3",
+    "395": {
+      "clip": "audio/sent_new/395.mp3",
       "t0": 0,
       "t1": 4.78,
       "words": [
@@ -12121,8 +11178,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "464": {
-      "clip": "audio/sent_new/464.mp3",
+    "396": {
+      "clip": "audio/sent_new/396.mp3",
       "t0": 0,
       "t1": 2.94,
       "words": [
@@ -12141,8 +11198,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "465": {
-      "clip": "audio/sent_new/465.mp3",
+    "397": {
+      "clip": "audio/sent_new/397.mp3",
       "t0": 0,
       "t1": 3.03,
       "words": [
@@ -12161,8 +11218,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "466": {
-      "clip": "audio/sent_new/466.mp3",
+    "398": {
+      "clip": "audio/sent_new/398.mp3",
       "t0": 0,
       "t1": 3.74,
       "words": [
@@ -12187,8 +11244,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "467": {
-      "clip": "audio/sent_new/467.mp3",
+    "399": {
+      "clip": "audio/sent_new/399.mp3",
       "t0": 0,
       "t1": 3.24,
       "words": [
@@ -12219,8 +11276,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "468": {
-      "clip": "audio/sent_new/468.mp3",
+    "400": {
+      "clip": "audio/sent_new/400.mp3",
       "t0": 0,
       "t1": 2.88,
       "words": [
@@ -12251,8 +11308,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "469": {
-      "clip": "audio/sent_new/469.mp3",
+    "401": {
+      "clip": "audio/sent_new/401.mp3",
       "t0": 0,
       "t1": 3.58,
       "words": [
@@ -12277,8 +11334,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "470": {
-      "clip": "audio/sent_new/470.mp3",
+    "402": {
+      "clip": "audio/sent_new/402.mp3",
       "t0": 0,
       "t1": 5.09,
       "words": [
@@ -12309,8 +11366,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "471": {
-      "clip": "audio/sent_new/471.mp3",
+    "403": {
+      "clip": "audio/sent_new/403.mp3",
       "t0": 0,
       "t1": 3.88,
       "words": [
@@ -12347,8 +11404,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "472": {
-      "clip": "audio/sent_new/472.mp3",
+    "404": {
+      "clip": "audio/sent_new/404.mp3",
       "t0": 0,
       "t1": 5.85,
       "words": [
@@ -12403,8 +11460,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "473": {
-      "clip": "audio/sent_new/473.mp3",
+    "405": {
+      "clip": "audio/sent_new/405.mp3",
       "t0": 0,
       "t1": 3.52,
       "words": [
@@ -12441,8 +11498,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "474": {
-      "clip": "audio/sent_new/474.mp3",
+    "406": {
+      "clip": "audio/sent_new/406.mp3",
       "t0": 0,
       "t1": 2.96,
       "words": [
@@ -12461,8 +11518,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "475": {
-      "clip": "audio/sent_new/475.mp3",
+    "407": {
+      "clip": "audio/sent_new/407.mp3",
       "t0": 0,
       "t1": 3.63,
       "words": [
@@ -12493,8 +11550,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "476": {
-      "clip": "audio/sent_new/476.mp3",
+    "408": {
+      "clip": "audio/sent_new/408.mp3",
       "t0": 0,
       "t1": 5.95,
       "words": [
@@ -12537,8 +11594,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "477": {
-      "clip": "audio/sent_new/477.mp3",
+    "409": {
+      "clip": "audio/sent_new/409.mp3",
       "t0": 0,
       "t1": 5.08,
       "words": [
@@ -12581,8 +11638,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "478": {
-      "clip": "audio/sent_new/478.mp3",
+    "410": {
+      "clip": "audio/sent_new/410.mp3",
       "t0": 0,
       "t1": 4.88,
       "words": [
@@ -12631,8 +11688,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "479": {
-      "clip": "audio/sent_new/479.mp3",
+    "411": {
+      "clip": "audio/sent_new/411.mp3",
       "t0": 0,
       "t1": 3.74,
       "words": [
@@ -12681,8 +11738,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "480": {
-      "clip": "audio/sent_new/480.mp3",
+    "412": {
+      "clip": "audio/sent_new/412.mp3",
       "t0": 0,
       "t1": 4.68,
       "words": [
@@ -12719,8 +11776,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "481": {
-      "clip": "audio/sent_new/481.mp3",
+    "413": {
+      "clip": "audio/sent_new/413.mp3",
       "t0": 0,
       "t1": 4.47,
       "words": [
@@ -12751,8 +11808,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "482": {
-      "clip": "audio/sent_new/482.mp3",
+    "414": {
+      "clip": "audio/sent_new/414.mp3",
       "t0": 0,
       "t1": 4.58,
       "words": [
@@ -12789,8 +11846,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "483": {
-      "clip": "audio/sent_new/483.mp3",
+    "415": {
+      "clip": "audio/sent_new/415.mp3",
       "t0": 0,
       "t1": 4.41,
       "words": [
@@ -12833,8 +11890,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "484": {
-      "clip": "audio/sent_new/484.mp3",
+    "416": {
+      "clip": "audio/sent_new/416.mp3",
       "t0": 0,
       "t1": 4.44,
       "words": [
@@ -12877,8 +11934,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "485": {
-      "clip": "audio/sent_new/485.mp3",
+    "417": {
+      "clip": "audio/sent_new/417.mp3",
       "t0": 0,
       "t1": 3.85,
       "words": [
@@ -12915,8 +11972,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "486": {
-      "clip": "audio/sent_new/486.mp3",
+    "418": {
+      "clip": "audio/sent_new/418.mp3",
       "t0": 0,
       "t1": 4.22,
       "words": [
@@ -12959,8 +12016,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "487": {
-      "clip": "audio/sent_new/487.mp3",
+    "419": {
+      "clip": "audio/sent_new/419.mp3",
       "t0": 0,
       "t1": 4.65,
       "words": [
@@ -12997,8 +12054,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "488": {
-      "clip": "audio/sent_new/488.mp3",
+    "420": {
+      "clip": "audio/sent_new/420.mp3",
       "t0": 0,
       "t1": 3.3,
       "words": [
@@ -13029,8 +12086,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "489": {
-      "clip": "audio/sent_new/489.mp3",
+    "421": {
+      "clip": "audio/sent_new/421.mp3",
       "t0": 0,
       "t1": 5.52,
       "words": [
@@ -13067,8 +12124,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "490": {
-      "clip": "audio/sent_new/490.mp3",
+    "422": {
+      "clip": "audio/sent_new/422.mp3",
       "t0": 0,
       "t1": 5.04,
       "words": [
@@ -13093,8 +12150,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "491": {
-      "clip": "audio/sent_new/491.mp3",
+    "423": {
+      "clip": "audio/sent_new/423.mp3",
       "t0": 0,
       "t1": 3.44,
       "words": [
@@ -13131,8 +12188,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "492": {
-      "clip": "audio/sent_new/492.mp3",
+    "424": {
+      "clip": "audio/sent_new/424.mp3",
       "t0": 0,
       "t1": 3.97,
       "words": [
@@ -13157,8 +12214,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "493": {
-      "clip": "audio/sent_new/493.mp3",
+    "425": {
+      "clip": "audio/sent_new/425.mp3",
       "t0": 0,
       "t1": 3.32,
       "words": [
@@ -13183,8 +12240,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "494": {
-      "clip": "audio/sent_new/494.mp3",
+    "426": {
+      "clip": "audio/sent_new/426.mp3",
       "t0": 0,
       "t1": 1.9,
       "words": [
@@ -13203,8 +12260,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "495": {
-      "clip": "audio/sent_new/495.mp3",
+    "427": {
+      "clip": "audio/sent_new/427.mp3",
       "t0": 0,
       "t1": 2.51,
       "words": [
@@ -13229,8 +12286,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "496": {
-      "clip": "audio/sent_new/496.mp3",
+    "428": {
+      "clip": "audio/sent_new/428.mp3",
       "t0": 0,
       "t1": 4.03,
       "words": [
@@ -13255,8 +12312,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "497": {
-      "clip": "audio/sent_new/497.mp3",
+    "429": {
+      "clip": "audio/sent_new/429.mp3",
       "t0": 0,
       "t1": 4.04,
       "words": [
@@ -13281,8 +12338,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "498": {
-      "clip": "audio/sent_new/498.mp3",
+    "430": {
+      "clip": "audio/sent_new/430.mp3",
       "t0": 0,
       "t1": 4.31,
       "words": [
@@ -13307,8 +12364,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "499": {
-      "clip": "audio/sent_new/499.mp3",
+    "431": {
+      "clip": "audio/sent_new/431.mp3",
       "t0": 0,
       "t1": 3.27,
       "words": [
@@ -13333,8 +12390,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "500": {
-      "clip": "audio/sent_new/500.mp3",
+    "432": {
+      "clip": "audio/sent_new/432.mp3",
       "t0": 0,
       "t1": 2.9,
       "words": [
@@ -13359,8 +12416,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "501": {
-      "clip": "audio/sent_new/501.mp3",
+    "433": {
+      "clip": "audio/sent_new/433.mp3",
       "t0": 0,
       "t1": 2.29,
       "words": [
@@ -13379,8 +12436,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "502": {
-      "clip": "audio/sent_new/502.mp3",
+    "434": {
+      "clip": "audio/sent_new/434.mp3",
       "t0": 0,
       "t1": 2.88,
       "words": [
@@ -13411,8 +12468,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "503": {
-      "clip": "audio/sent_new/503.mp3",
+    "435": {
+      "clip": "audio/sent_new/435.mp3",
       "t0": 0,
       "t1": 2.42,
       "words": [
@@ -13437,8 +12494,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "504": {
-      "clip": "audio/sent_new/504.mp3",
+    "436": {
+      "clip": "audio/sent_new/436.mp3",
       "t0": 0,
       "t1": 2.57,
       "words": [
@@ -13457,8 +12514,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "505": {
-      "clip": "audio/sent_new/505.mp3",
+    "437": {
+      "clip": "audio/sent_new/437.mp3",
       "t0": 0,
       "t1": 2.6,
       "words": [
@@ -13483,8 +12540,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "506": {
-      "clip": "audio/sent_new/506.mp3",
+    "438": {
+      "clip": "audio/sent_new/438.mp3",
       "t0": 0,
       "t1": 3.44,
       "words": [
@@ -13509,8 +12566,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "507": {
-      "clip": "audio/sent_new/507.mp3",
+    "439": {
+      "clip": "audio/sent_new/439.mp3",
       "t0": 0,
       "t1": 2.77,
       "words": [
@@ -13541,8 +12598,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "508": {
-      "clip": "audio/sent_new/508.mp3",
+    "440": {
+      "clip": "audio/sent_new/440.mp3",
       "t0": 0,
       "t1": 2.54,
       "words": [
@@ -13567,8 +12624,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "509": {
-      "clip": "audio/sent_new/509.mp3",
+    "441": {
+      "clip": "audio/sent_new/441.mp3",
       "t0": 0,
       "t1": 2.81,
       "words": [
@@ -13599,8 +12656,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "510": {
-      "clip": "audio/sent_new/510.mp3",
+    "442": {
+      "clip": "audio/sent_new/442.mp3",
       "t0": 0,
       "t1": 4.01,
       "words": [
@@ -13631,8 +12688,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "511": {
-      "clip": "audio/sent_new/511.mp3",
+    "443": {
+      "clip": "audio/sent_new/443.mp3",
       "t0": 0,
       "t1": 2.42,
       "words": [
@@ -13663,8 +12720,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "512": {
-      "clip": "audio/sent_new/512.mp3",
+    "444": {
+      "clip": "audio/sent_new/444.mp3",
       "t0": 0,
       "t1": 1.995,
       "words": [
@@ -13689,8 +12746,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "513": {
-      "clip": "audio/sent_new/513.mp3",
+    "445": {
+      "clip": "audio/sent_new/445.mp3",
       "t0": 0,
       "t1": 3.295,
       "words": [
@@ -13709,8 +12766,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "514": {
-      "clip": "audio/sent_new/514.mp3",
+    "446": {
+      "clip": "audio/sent_new/446.mp3",
       "t0": 0,
       "t1": 2.47,
       "words": [
@@ -13747,8 +12804,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "515": {
-      "clip": "audio/sent_new/515.mp3",
+    "447": {
+      "clip": "audio/sent_new/447.mp3",
       "t0": 0,
       "t1": 2.63,
       "words": [
@@ -13773,8 +12830,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "516": {
-      "clip": "audio/sent_new/516.mp3",
+    "448": {
+      "clip": "audio/sent_new/448.mp3",
       "t0": 0,
       "t1": 2.65,
       "words": [
@@ -13793,8 +12850,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "517": {
-      "clip": "audio/sent_new/517.mp3",
+    "449": {
+      "clip": "audio/sent_new/449.mp3",
       "t0": 0,
       "t1": 9.7,
       "words": [
@@ -13837,8 +12894,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "518": {
-      "clip": "audio/sent_new/518.mp3",
+    "450": {
+      "clip": "audio/sent_new/450.mp3",
       "t0": 0,
       "t1": 2.62,
       "words": [
@@ -13857,8 +12914,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "519": {
-      "clip": "audio/sent_new/519.mp3",
+    "451": {
+      "clip": "audio/sent_new/451.mp3",
       "t0": 0,
       "t1": 4.2,
       "words": [
@@ -13895,8 +12952,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "520": {
-      "clip": "audio/sent_new/520.mp3",
+    "452": {
+      "clip": "audio/sent_new/452.mp3",
       "t0": 0,
       "t1": 1.51,
       "words": [
@@ -13915,8 +12972,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "521": {
-      "clip": "audio/sent_new/521.mp3",
+    "453": {
+      "clip": "audio/sent_new/453.mp3",
       "t0": 0,
       "t1": 2.49,
       "words": [
@@ -13935,8 +12992,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "522": {
-      "clip": "audio/sent_new/522.mp3",
+    "454": {
+      "clip": "audio/sent_new/454.mp3",
       "t0": 0,
       "t1": 4.04,
       "words": [
@@ -13973,8 +13030,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "523": {
-      "clip": "audio/sent_new/523.mp3",
+    "455": {
+      "clip": "audio/sent_new/455.mp3",
       "t0": 0,
       "t1": 4.58,
       "words": [
@@ -14011,8 +13068,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "524": {
-      "clip": "audio/sent_new/524.mp3",
+    "456": {
+      "clip": "audio/sent_new/456.mp3",
       "t0": 0,
       "t1": 5.1,
       "words": [
@@ -14043,8 +13100,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "525": {
-      "clip": "audio/sent_new/525.mp3",
+    "457": {
+      "clip": "audio/sent_new/457.mp3",
       "t0": 0,
       "t1": 4.41,
       "words": [
@@ -14093,8 +13150,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "526": {
-      "clip": "audio/sent_new/526.mp3",
+    "458": {
+      "clip": "audio/sent_new/458.mp3",
       "t0": 0,
       "t1": 3.87,
       "words": [
@@ -14125,8 +13182,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "527": {
-      "clip": "audio/sent_new/527.mp3",
+    "459": {
+      "clip": "audio/sent_new/459.mp3",
       "t0": 0,
       "t1": 2.24,
       "words": [
@@ -14151,8 +13208,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "528": {
-      "clip": "audio/sent_new/528.mp3",
+    "460": {
+      "clip": "audio/sent_new/460.mp3",
       "t0": 0,
       "t1": 2.3,
       "words": [
@@ -14171,8 +13228,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "529": {
-      "clip": "audio/sent_new/529.mp3",
+    "461": {
+      "clip": "audio/sent_new/461.mp3",
       "t0": 0,
       "t1": 3.84,
       "words": [
@@ -14209,8 +13266,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "530": {
-      "clip": "audio/sent_new/530.mp3",
+    "462": {
+      "clip": "audio/sent_new/462.mp3",
       "t0": 0,
       "t1": 3.08,
       "words": [
@@ -14229,8 +13286,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "531": {
-      "clip": "audio/sent_new/531.mp3",
+    "463": {
+      "clip": "audio/sent_new/463.mp3",
       "t0": 0,
       "t1": 2.92,
       "words": [
@@ -14261,8 +13318,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "532": {
-      "clip": "audio/sent_new/532.mp3",
+    "464": {
+      "clip": "audio/sent_new/464.mp3",
       "t0": 0,
       "t1": 4.44,
       "words": [
@@ -14305,8 +13362,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "533": {
-      "clip": "audio/sent_new/533.mp3",
+    "465": {
+      "clip": "audio/sent_new/465.mp3",
       "t0": 0,
       "t1": 3.01,
       "words": [
@@ -14337,8 +13394,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "534": {
-      "clip": "audio/sent_new/534.mp3",
+    "466": {
+      "clip": "audio/sent_new/466.mp3",
       "t0": 0,
       "t1": 2.04,
       "words": [
@@ -14357,8 +13414,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "535": {
-      "clip": "audio/sent_new/535.mp3",
+    "467": {
+      "clip": "audio/sent_new/467.mp3",
       "t0": 0,
       "t1": 3.14,
       "words": [
@@ -14377,8 +13434,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "536": {
-      "clip": "audio/sent_new/536.mp3",
+    "468": {
+      "clip": "audio/sent_new/468.mp3",
       "t0": 0,
       "t1": 4.96,
       "words": [
@@ -14409,8 +13466,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "537": {
-      "clip": "audio/sent_new/537.mp3",
+    "469": {
+      "clip": "audio/sent_new/469.mp3",
       "t0": 0,
       "t1": 5.53,
       "words": [
@@ -14441,8 +13498,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "538": {
-      "clip": "audio/sent_new/538.mp3",
+    "470": {
+      "clip": "audio/sent_new/470.mp3",
       "t0": 0,
       "t1": 2.36,
       "words": [
@@ -14455,8 +13512,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "539": {
-      "clip": "audio/sent_new/539.mp3",
+    "471": {
+      "clip": "audio/sent_new/471.mp3",
       "t0": 0,
       "t1": 5.62,
       "words": [
@@ -14499,8 +13556,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "540": {
-      "clip": "audio/sent_new/540.mp3",
+    "472": {
+      "clip": "audio/sent_new/472.mp3",
       "t0": 0,
       "t1": 2.93,
       "words": [
@@ -14525,8 +13582,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "541": {
-      "clip": "audio/sent_new/541.mp3",
+    "473": {
+      "clip": "audio/sent_new/473.mp3",
       "t0": 0,
       "t1": 2.455,
       "words": [
@@ -14545,8 +13602,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "542": {
-      "clip": "audio/sent_new/542.mp3",
+    "474": {
+      "clip": "audio/sent_new/474.mp3",
       "t0": 0,
       "t1": 6.955,
       "words": [
@@ -14583,8 +13640,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "543": {
-      "clip": "audio/sent_new/543.mp3",
+    "475": {
+      "clip": "audio/sent_new/475.mp3",
       "t0": 0,
       "t1": 3.66,
       "words": [
@@ -14609,8 +13666,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "544": {
-      "clip": "audio/sent_new/544.mp3",
+    "476": {
+      "clip": "audio/sent_new/476.mp3",
       "t0": 0,
       "t1": 3.22,
       "words": [
@@ -14629,8 +13686,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "545": {
-      "clip": "audio/sent_new/545.mp3",
+    "477": {
+      "clip": "audio/sent_new/477.mp3",
       "t0": 0,
       "t1": 3.77,
       "words": [
@@ -14661,8 +13718,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "546": {
-      "clip": "audio/sent_new/546.mp3",
+    "478": {
+      "clip": "audio/sent_new/478.mp3",
       "t0": 0,
       "t1": 2.21,
       "words": [
@@ -14693,8 +13750,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "547": {
-      "clip": "audio/sent_new/547.mp3",
+    "479": {
+      "clip": "audio/sent_new/479.mp3",
       "t0": 0,
       "t1": 1.71,
       "words": [
@@ -14713,8 +13770,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "548": {
-      "clip": "audio/sent_new/548.mp3",
+    "480": {
+      "clip": "audio/sent_new/480.mp3",
       "t0": 0,
       "t1": 2.74,
       "words": [
@@ -14733,8 +13790,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "549": {
-      "clip": "audio/sent_new/549.mp3",
+    "481": {
+      "clip": "audio/sent_new/481.mp3",
       "t0": 0,
       "t1": 3.7,
       "words": [
@@ -14771,8 +13828,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "550": {
-      "clip": "audio/sent_new/550.mp3",
+    "482": {
+      "clip": "audio/sent_new/482.mp3",
       "t0": 0,
       "t1": 5.08,
       "words": [
@@ -14821,8 +13878,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "551": {
-      "clip": "audio/sent_new/551.mp3",
+    "483": {
+      "clip": "audio/sent_new/483.mp3",
       "t0": 0,
       "t1": 2.55,
       "words": [
@@ -14841,8 +13898,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "552": {
-      "clip": "audio/sent_new/552.mp3",
+    "484": {
+      "clip": "audio/sent_new/484.mp3",
       "t0": 0,
       "t1": 3.405,
       "words": [
@@ -14873,8 +13930,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "553": {
-      "clip": "audio/sent_new/553.mp3",
+    "485": {
+      "clip": "audio/sent_new/485.mp3",
       "t0": 0,
       "t1": 2.665,
       "words": [
@@ -14905,8 +13962,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "554": {
-      "clip": "audio/sent_new/554.mp3",
+    "486": {
+      "clip": "audio/sent_new/486.mp3",
       "t0": 0,
       "t1": 2.42,
       "words": [
@@ -14931,8 +13988,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "555": {
-      "clip": "audio/sent_new/555.mp3",
+    "487": {
+      "clip": "audio/sent_new/487.mp3",
       "t0": 0,
       "t1": 2.23,
       "words": [
@@ -14951,8 +14008,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "556": {
-      "clip": "audio/sent_new/556.mp3",
+    "488": {
+      "clip": "audio/sent_new/488.mp3",
       "t0": 0,
       "t1": 2.54,
       "words": [
@@ -14983,8 +14040,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "557": {
-      "clip": "audio/sent_new/557.mp3",
+    "489": {
+      "clip": "audio/sent_new/489.mp3",
       "t0": 0,
       "t1": 2.49,
       "words": [
@@ -15003,8 +14060,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "558": {
-      "clip": "audio/sent_new/558.mp3",
+    "490": {
+      "clip": "audio/sent_new/490.mp3",
       "t0": 0,
       "t1": 2.77,
       "words": [
@@ -15023,8 +14080,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "559": {
-      "clip": "audio/sent_new/559.mp3",
+    "491": {
+      "clip": "audio/sent_new/491.mp3",
       "t0": 0,
       "t1": 3.08,
       "words": [
@@ -15055,8 +14112,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "560": {
-      "clip": "audio/sent_new/560.mp3",
+    "492": {
+      "clip": "audio/sent_new/492.mp3",
       "t0": 0,
       "t1": 2.64,
       "words": [
@@ -15075,8 +14132,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "561": {
-      "clip": "audio/sent_new/561.mp3",
+    "493": {
+      "clip": "audio/sent_new/493.mp3",
       "t0": 0,
       "t1": 2.77,
       "words": [
@@ -15095,8 +14152,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "562": {
-      "clip": "audio/sent_new/562.mp3",
+    "494": {
+      "clip": "audio/sent_new/494.mp3",
       "t0": 0,
       "t1": 2.42,
       "words": [
@@ -15115,8 +14172,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "563": {
-      "clip": "audio/sent_new/563.mp3",
+    "495": {
+      "clip": "audio/sent_new/495.mp3",
       "t0": 0,
       "t1": 3.48,
       "words": [
@@ -15141,8 +14198,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "564": {
-      "clip": "audio/sent_new/564.mp3",
+    "496": {
+      "clip": "audio/sent_new/496.mp3",
       "t0": 0,
       "t1": 5.16,
       "words": [
@@ -15173,8 +14230,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "565": {
-      "clip": "audio/sent_new/565.mp3",
+    "497": {
+      "clip": "audio/sent_new/497.mp3",
       "t0": 0,
       "t1": 4.26,
       "words": [
@@ -15211,8 +14268,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "566": {
-      "clip": "audio/sent_new/566.mp3",
+    "498": {
+      "clip": "audio/sent_new/498.mp3",
       "t0": 0,
       "t1": 2.23,
       "words": [
@@ -15243,8 +14300,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "567": {
-      "clip": "audio/sent_new/567.mp3",
+    "499": {
+      "clip": "audio/sent_new/499.mp3",
       "t0": 0,
       "t1": 2.11,
       "words": [
@@ -15263,8 +14320,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "568": {
-      "clip": "audio/sent_new/568.mp3",
+    "500": {
+      "clip": "audio/sent_new/500.mp3",
       "t0": 0,
       "t1": 4.71,
       "words": [
@@ -15307,8 +14364,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "569": {
-      "clip": "audio/sent_new/569.mp3",
+    "501": {
+      "clip": "audio/sent_new/501.mp3",
       "t0": 0,
       "t1": 3.95,
       "words": [
@@ -15345,8 +14402,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "570": {
-      "clip": "audio/sent_new/570.mp3",
+    "502": {
+      "clip": "audio/sent_new/502.mp3",
       "t0": 0,
       "t1": 3.02,
       "words": [
@@ -15377,8 +14434,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "571": {
-      "clip": "audio/sent_new/571.mp3",
+    "503": {
+      "clip": "audio/sent_new/503.mp3",
       "t0": 0,
       "t1": 1.99,
       "words": [
@@ -15409,8 +14466,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "572": {
-      "clip": "audio/sent_new/572.mp3",
+    "504": {
+      "clip": "audio/sent_new/504.mp3",
       "t0": 0,
       "t1": 2.95,
       "words": [
@@ -15441,8 +14498,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "573": {
-      "clip": "audio/sent_new/573.mp3",
+    "505": {
+      "clip": "audio/sent_new/505.mp3",
       "t0": 0,
       "t1": 2.78,
       "words": [
@@ -15467,8 +14524,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "574": {
-      "clip": "audio/sent_new/574.mp3",
+    "506": {
+      "clip": "audio/sent_new/506.mp3",
       "t0": 0,
       "t1": 4.05,
       "words": [
@@ -15511,8 +14568,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "575": {
-      "clip": "audio/sent_new/575.mp3",
+    "507": {
+      "clip": "audio/sent_new/507.mp3",
       "t0": 0,
       "t1": 3.11,
       "words": [
@@ -15531,8 +14588,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "576": {
-      "clip": "audio/sent_new/576.mp3",
+    "508": {
+      "clip": "audio/sent_new/508.mp3",
       "t0": 0,
       "t1": 6.04,
       "words": [
@@ -15575,8 +14632,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "577": {
-      "clip": "audio/sent_new/577.mp3",
+    "509": {
+      "clip": "audio/sent_new/509.mp3",
       "t0": 0,
       "t1": 2.35,
       "words": [
@@ -15595,8 +14652,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "578": {
-      "clip": "audio/sent_new/578.mp3",
+    "510": {
+      "clip": "audio/sent_new/510.mp3",
       "t0": 0,
       "t1": 4.76,
       "words": [
@@ -15621,8 +14678,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "579": {
-      "clip": "audio/sent_new/579.mp3",
+    "511": {
+      "clip": "audio/sent_new/511.mp3",
       "t0": 0,
       "t1": 6.5,
       "words": [
@@ -15653,8 +14710,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "580": {
-      "clip": "audio/sent_new/580.mp3",
+    "512": {
+      "clip": "audio/sent_new/512.mp3",
       "t0": 0,
       "t1": 4.895,
       "words": [
@@ -15685,8 +14742,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "581": {
-      "clip": "audio/sent_new/581.mp3",
+    "513": {
+      "clip": "audio/sent_new/513.mp3",
       "t0": 0,
       "t1": 4.515,
       "words": [
@@ -15711,8 +14768,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "582": {
-      "clip": "audio/sent_new/582.mp3",
+    "514": {
+      "clip": "audio/sent_new/514.mp3",
       "t0": 0,
       "t1": 4.97,
       "words": [
@@ -15755,8 +14812,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "583": {
-      "clip": "audio/sent_new/583.mp3",
+    "515": {
+      "clip": "audio/sent_new/515.mp3",
       "t0": 0,
       "t1": 4.245,
       "words": [
@@ -15799,8 +14856,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "584": {
-      "clip": "audio/sent_new/584.mp3",
+    "516": {
+      "clip": "audio/sent_new/516.mp3",
       "t0": 0,
       "t1": 4.04,
       "words": [
@@ -15819,8 +14876,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "585": {
-      "clip": "audio/sent_new/585.mp3",
+    "517": {
+      "clip": "audio/sent_new/517.mp3",
       "t0": 0,
       "t1": 3.215,
       "words": [
@@ -15857,8 +14914,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "586": {
-      "clip": "audio/sent_new/586.mp3",
+    "518": {
+      "clip": "audio/sent_new/518.mp3",
       "t0": 0,
       "t1": 2.225,
       "words": [
@@ -15877,8 +14934,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "587": {
-      "clip": "audio/sent_new/587.mp3",
+    "519": {
+      "clip": "audio/sent_new/519.mp3",
       "t0": 0,
       "t1": 2.835,
       "words": [
@@ -15897,8 +14954,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "588": {
-      "clip": "audio/sent_new/588.mp3",
+    "520": {
+      "clip": "audio/sent_new/520.mp3",
       "t0": 0,
       "t1": 2.45,
       "words": [
@@ -15929,8 +14986,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "589": {
-      "clip": "audio/sent_new/589.mp3",
+    "521": {
+      "clip": "audio/sent_new/521.mp3",
       "t0": 0,
       "t1": 2.15,
       "words": [
@@ -15955,8 +15012,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "590": {
-      "clip": "audio/sent_new/590.mp3",
+    "522": {
+      "clip": "audio/sent_new/522.mp3",
       "t0": 0,
       "t1": 2.27,
       "words": [
@@ -15975,8 +15032,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "591": {
-      "clip": "audio/sent_new/591.mp3",
+    "523": {
+      "clip": "audio/sent_new/523.mp3",
       "t0": 0,
       "t1": 2.71,
       "words": [
@@ -16007,8 +15064,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "592": {
-      "clip": "audio/sent_new/592.mp3",
+    "524": {
+      "clip": "audio/sent_new/524.mp3",
       "t0": 0,
       "t1": 2.58,
       "words": [
@@ -16027,8 +15084,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "593": {
-      "clip": "audio/sent_new/593.mp3",
+    "525": {
+      "clip": "audio/sent_new/525.mp3",
       "t0": 0,
       "t1": 3.94,
       "words": [
@@ -16071,8 +15128,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "594": {
-      "clip": "audio/sent_new/594.mp3",
+    "526": {
+      "clip": "audio/sent_new/526.mp3",
       "t0": 0,
       "t1": 3.35,
       "words": [
@@ -16097,8 +15154,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "595": {
-      "clip": "audio/sent_new/595.mp3",
+    "527": {
+      "clip": "audio/sent_new/527.mp3",
       "t0": 0,
       "t1": 2.73,
       "words": [
@@ -16117,8 +15174,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "596": {
-      "clip": "audio/sent_new/596.mp3",
+    "528": {
+      "clip": "audio/sent_new/528.mp3",
       "t0": 0,
       "t1": 3.93,
       "words": [
@@ -16143,8 +15200,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "597": {
-      "clip": "audio/sent_new/597.mp3",
+    "529": {
+      "clip": "audio/sent_new/529.mp3",
       "t0": 0,
       "t1": 2.94,
       "words": [
@@ -16181,8 +15238,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "598": {
-      "clip": "audio/sent_new/598.mp3",
+    "530": {
+      "clip": "audio/sent_new/530.mp3",
       "t0": 0,
       "t1": 3.2,
       "words": [
@@ -16207,8 +15264,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "599": {
-      "clip": "audio/sent_new/599.mp3",
+    "531": {
+      "clip": "audio/sent_new/531.mp3",
       "t0": 0,
       "t1": 3.45,
       "words": [
@@ -16251,8 +15308,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "600": {
-      "clip": "audio/sent_new/600.mp3",
+    "532": {
+      "clip": "audio/sent_new/532.mp3",
       "t0": 0,
       "t1": 2.62,
       "words": [
@@ -16271,8 +15328,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "601": {
-      "clip": "audio/sent_new/601.mp3",
+    "533": {
+      "clip": "audio/sent_new/533.mp3",
       "t0": 0,
       "t1": 2.54,
       "words": [
@@ -16297,8 +15354,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "602": {
-      "clip": "audio/sent_new/602.mp3",
+    "534": {
+      "clip": "audio/sent_new/534.mp3",
       "t0": 0,
       "t1": 4.85,
       "words": [
@@ -16347,8 +15404,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "603": {
-      "clip": "audio/sent_new/603.mp3",
+    "535": {
+      "clip": "audio/sent_new/535.mp3",
       "t0": 0,
       "t1": 2.4,
       "words": [
@@ -16367,8 +15424,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "604": {
-      "clip": "audio/sent_new/604.mp3",
+    "536": {
+      "clip": "audio/sent_new/536.mp3",
       "t0": 0,
       "t1": 2.67,
       "words": [
@@ -16387,8 +15444,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "605": {
-      "clip": "audio/sent_new/605.mp3",
+    "537": {
+      "clip": "audio/sent_new/537.mp3",
       "t0": 0,
       "t1": 3.18,
       "words": [
@@ -16407,8 +15464,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "606": {
-      "clip": "audio/sent_new/606.mp3",
+    "538": {
+      "clip": "audio/sent_new/538.mp3",
       "t0": 0,
       "t1": 4.28,
       "words": [
@@ -16433,8 +15490,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "607": {
-      "clip": "audio/sent_new/607.mp3",
+    "539": {
+      "clip": "audio/sent_new/539.mp3",
       "t0": 0,
       "t1": 2.5,
       "words": [
@@ -16459,8 +15516,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "608": {
-      "clip": "audio/sent_new/608.mp3",
+    "540": {
+      "clip": "audio/sent_new/540.mp3",
       "t0": 0,
       "t1": 4.27,
       "words": [
@@ -16491,8 +15548,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "609": {
-      "clip": "audio/sent_new/609.mp3",
+    "541": {
+      "clip": "audio/sent_new/541.mp3",
       "t0": 0,
       "t1": 2.77,
       "words": [
@@ -16523,8 +15580,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "610": {
-      "clip": "audio/sent_new/610.mp3",
+    "542": {
+      "clip": "audio/sent_new/542.mp3",
       "t0": 0,
       "t1": 2.87,
       "words": [
@@ -16543,8 +15600,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "611": {
-      "clip": "audio/sent_new/611.mp3",
+    "543": {
+      "clip": "audio/sent_new/543.mp3",
       "t0": 0,
       "t1": 2.92,
       "words": [
@@ -16563,8 +15620,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "612": {
-      "clip": "audio/sent_new/612.mp3",
+    "544": {
+      "clip": "audio/sent_new/544.mp3",
       "t0": 0,
       "t1": 3.86,
       "words": [
@@ -16583,8 +15640,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "613": {
-      "clip": "audio/sent_new/613.mp3",
+    "545": {
+      "clip": "audio/sent_new/545.mp3",
       "t0": 0,
       "t1": 4.52,
       "words": [
@@ -16603,8 +15660,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "614": {
-      "clip": "audio/sent_new/614.mp3",
+    "546": {
+      "clip": "audio/sent_new/546.mp3",
       "t0": 0,
       "t1": 3.92,
       "words": [
@@ -16635,8 +15692,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "615": {
-      "clip": "audio/sent_new/615.mp3",
+    "547": {
+      "clip": "audio/sent_new/547.mp3",
       "t0": 0,
       "t1": 3.07,
       "words": [
@@ -16661,8 +15718,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "616": {
-      "clip": "audio/sent_new/616.mp3",
+    "548": {
+      "clip": "audio/sent_new/548.mp3",
       "t0": 0,
       "t1": 2.87,
       "words": [
@@ -16681,8 +15738,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "617": {
-      "clip": "audio/sent_new/617.mp3",
+    "549": {
+      "clip": "audio/sent_new/549.mp3",
       "t0": 0,
       "t1": 3.92,
       "words": [
@@ -16707,8 +15764,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "618": {
-      "clip": "audio/sent_new/618.mp3",
+    "550": {
+      "clip": "audio/sent_new/550.mp3",
       "t0": 0,
       "t1": 2.61,
       "words": [
@@ -16739,8 +15796,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "619": {
-      "clip": "audio/sent_new/619.mp3",
+    "551": {
+      "clip": "audio/sent_new/551.mp3",
       "t0": 0,
       "t1": 3.665,
       "words": [
@@ -16759,8 +15816,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "620": {
-      "clip": "audio/sent_new/620.mp3",
+    "552": {
+      "clip": "audio/sent_new/552.mp3",
       "t0": 0,
       "t1": 4.115,
       "words": [
@@ -16791,8 +15848,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "621": {
-      "clip": "audio/sent_new/621.mp3",
+    "553": {
+      "clip": "audio/sent_new/553.mp3",
       "t0": 0,
       "t1": 4.47,
       "words": [
@@ -16835,8 +15892,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "622": {
-      "clip": "audio/sent_new/622.mp3",
+    "554": {
+      "clip": "audio/sent_new/554.mp3",
       "t0": 0,
       "t1": 3.28,
       "words": [
@@ -16855,8 +15912,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "623": {
-      "clip": "audio/sent_new/623.mp3",
+    "555": {
+      "clip": "audio/sent_new/555.mp3",
       "t0": 0,
       "t1": 3.875,
       "words": [
@@ -16887,8 +15944,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "624": {
-      "clip": "audio/sent_new/624.mp3",
+    "556": {
+      "clip": "audio/sent_new/556.mp3",
       "t0": 0,
       "t1": 3.765,
       "words": [
@@ -16913,8 +15970,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "625": {
-      "clip": "audio/sent_new/625.mp3",
+    "557": {
+      "clip": "audio/sent_new/557.mp3",
       "t0": 0,
       "t1": 4.09,
       "words": [
@@ -16945,8 +16002,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "626": {
-      "clip": "audio/sent_new/626.mp3",
+    "558": {
+      "clip": "audio/sent_new/558.mp3",
       "t0": 0,
       "t1": 2.85,
       "words": [
@@ -16977,8 +16034,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "627": {
-      "clip": "audio/sent_new/627.mp3",
+    "559": {
+      "clip": "audio/sent_new/559.mp3",
       "t0": 0,
       "t1": 2.54,
       "words": [
@@ -16997,8 +16054,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "628": {
-      "clip": "audio/sent_new/628.mp3",
+    "560": {
+      "clip": "audio/sent_new/560.mp3",
       "t0": 0,
       "t1": 3.32,
       "words": [
@@ -17023,8 +16080,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "629": {
-      "clip": "audio/sent_new/629.mp3",
+    "561": {
+      "clip": "audio/sent_new/561.mp3",
       "t0": 0,
       "t1": 3.14,
       "words": [
@@ -17049,8 +16106,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "630": {
-      "clip": "audio/sent_new/630.mp3",
+    "562": {
+      "clip": "audio/sent_new/562.mp3",
       "t0": 0,
       "t1": 3.33,
       "words": [
@@ -17075,8 +16132,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "631": {
-      "clip": "audio/sent_new/631.mp3",
+    "563": {
+      "clip": "audio/sent_new/563.mp3",
       "t0": 0,
       "t1": 2.81,
       "words": [
@@ -17107,8 +16164,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "632": {
-      "clip": "audio/sent_new/632.mp3",
+    "564": {
+      "clip": "audio/sent_new/564.mp3",
       "t0": 0,
       "t1": 2.46,
       "words": [
@@ -17127,8 +16184,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "633": {
-      "clip": "audio/sent_new/633.mp3",
+    "565": {
+      "clip": "audio/sent_new/565.mp3",
       "t0": 0,
       "t1": 2.98,
       "words": [
@@ -17147,8 +16204,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "634": {
-      "clip": "audio/sent_new/634.mp3",
+    "566": {
+      "clip": "audio/sent_new/566.mp3",
       "t0": 0,
       "t1": 3.9,
       "words": [
@@ -17191,8 +16248,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "635": {
-      "clip": "audio/sent_new/635.mp3",
+    "567": {
+      "clip": "audio/sent_new/567.mp3",
       "t0": 0,
       "t1": 3.11,
       "words": [
@@ -17217,8 +16274,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "636": {
-      "clip": "audio/sent_new/636.mp3",
+    "568": {
+      "clip": "audio/sent_new/568.mp3",
       "t0": 0,
       "t1": 2.89,
       "words": [
@@ -17237,8 +16294,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "637": {
-      "clip": "audio/sent_new/637.mp3",
+    "569": {
+      "clip": "audio/sent_new/569.mp3",
       "t0": 0,
       "t1": 3.79,
       "words": [
@@ -17257,8 +16314,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "638": {
-      "clip": "audio/sent_new/638.mp3",
+    "570": {
+      "clip": "audio/sent_new/570.mp3",
       "t0": 0,
       "t1": 3.86,
       "words": [
@@ -17283,8 +16340,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "639": {
-      "clip": "audio/sent_new/639.mp3",
+    "571": {
+      "clip": "audio/sent_new/571.mp3",
       "t0": 0,
       "t1": 3.47,
       "words": [
@@ -17315,8 +16372,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "640": {
-      "clip": "audio/sent_new/640.mp3",
+    "572": {
+      "clip": "audio/sent_new/572.mp3",
       "t0": 0,
       "t1": 4.09,
       "words": [
@@ -17347,8 +16404,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "641": {
-      "clip": "audio/sent_new/641.mp3",
+    "573": {
+      "clip": "audio/sent_new/573.mp3",
       "t0": 0,
       "t1": 3.795,
       "words": [
@@ -17379,8 +16436,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "642": {
-      "clip": "audio/sent_new/642.mp3",
+    "574": {
+      "clip": "audio/sent_new/574.mp3",
       "t0": 0,
       "t1": 3.765,
       "words": [
@@ -17411,8 +16468,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "643": {
-      "clip": "audio/sent_new/643.mp3",
+    "575": {
+      "clip": "audio/sent_new/575.mp3",
       "t0": 0,
       "t1": 2.18,
       "words": [
@@ -17425,8 +16482,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "644": {
-      "clip": "audio/sent_new/644.mp3",
+    "576": {
+      "clip": "audio/sent_new/576.mp3",
       "t0": 0,
       "t1": 3.11,
       "words": [
@@ -17457,8 +16514,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "645": {
-      "clip": "audio/sent_new/645.mp3",
+    "577": {
+      "clip": "audio/sent_new/577.mp3",
       "t0": 0,
       "t1": 6.204,
       "words": [
@@ -17495,8 +16552,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "646": {
-      "clip": "audio/sent_new/646.mp3",
+    "578": {
+      "clip": "audio/sent_new/578.mp3",
       "t0": 0,
       "t1": 2.76,
       "words": [
@@ -17521,8 +16578,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "647": {
-      "clip": "audio/sent_new/647.mp3",
+    "579": {
+      "clip": "audio/sent_new/579.mp3",
       "t0": 0,
       "t1": 2.52,
       "words": [
@@ -17547,8 +16604,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "648": {
-      "clip": "audio/sent_new/648.mp3",
+    "580": {
+      "clip": "audio/sent_new/580.mp3",
       "t0": 0,
       "t1": 3,
       "words": [
@@ -17567,8 +16624,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "649": {
-      "clip": "audio/sent_new/649.mp3",
+    "581": {
+      "clip": "audio/sent_new/581.mp3",
       "t0": 0,
       "t1": 5.17,
       "words": [
@@ -17587,8 +16644,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "650": {
-      "clip": "audio/sent_new/650.mp3",
+    "582": {
+      "clip": "audio/sent_new/582.mp3",
       "t0": 0,
       "t1": 3.22,
       "words": [
@@ -17607,8 +16664,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "651": {
-      "clip": "audio/sent_new/651.mp3",
+    "583": {
+      "clip": "audio/sent_new/583.mp3",
       "t0": 0,
       "t1": 3.06,
       "words": [
@@ -17627,8 +16684,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "652": {
-      "clip": "audio/sent_new/652.mp3",
+    "584": {
+      "clip": "audio/sent_new/584.mp3",
       "t0": 0,
       "t1": 6.87,
       "words": [
@@ -17683,8 +16740,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "653": {
-      "clip": "audio/sent_new/653.mp3",
+    "585": {
+      "clip": "audio/sent_new/585.mp3",
       "t0": 0,
       "t1": 3.45,
       "words": [
@@ -17715,8 +16772,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "654": {
-      "clip": "audio/sent_new/654.mp3",
+    "586": {
+      "clip": "audio/sent_new/586.mp3",
       "t0": 0,
       "t1": 6,
       "words": [
@@ -17747,8 +16804,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "655": {
-      "clip": "audio/sent_new/655.mp3",
+    "587": {
+      "clip": "audio/sent_new/587.mp3",
       "t0": 0,
       "t1": 6.61,
       "words": [
@@ -17797,8 +16854,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "656": {
-      "clip": "audio/sent_new/656.mp3",
+    "588": {
+      "clip": "audio/sent_new/588.mp3",
       "t0": 0,
       "t1": 3.88,
       "words": [
@@ -17829,8 +16886,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "657": {
-      "clip": "audio/sent_new/657.mp3",
+    "589": {
+      "clip": "audio/sent_new/589.mp3",
       "t0": 0,
       "t1": 3.41,
       "words": [
@@ -17843,8 +16900,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "658": {
-      "clip": "audio/sent_new/658.mp3",
+    "590": {
+      "clip": "audio/sent_new/590.mp3",
       "t0": 0,
       "t1": 2.36,
       "words": [
@@ -17863,8 +16920,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "659": {
-      "clip": "audio/sent_new/659.mp3",
+    "591": {
+      "clip": "audio/sent_new/591.mp3",
       "t0": 0,
       "t1": 5.735,
       "words": [
@@ -17895,8 +16952,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "660": {
-      "clip": "audio/sent_new/660.mp3",
+    "592": {
+      "clip": "audio/sent_new/592.mp3",
       "t0": 0,
       "t1": 3.435,
       "words": [
@@ -17927,8 +16984,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "661": {
-      "clip": "audio/sent_new/661.mp3",
+    "593": {
+      "clip": "audio/sent_new/593.mp3",
       "t0": 0,
       "t1": 5.995,
       "words": [
@@ -17959,8 +17016,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "662": {
-      "clip": "audio/sent_new/662.mp3",
+    "594": {
+      "clip": "audio/sent_new/594.mp3",
       "t0": 0,
       "t1": 2.965,
       "words": [
@@ -17991,8 +17048,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "663": {
-      "clip": "audio/sent_new/663.mp3",
+    "595": {
+      "clip": "audio/sent_new/595.mp3",
       "t0": 0,
       "t1": 2.985,
       "words": [
@@ -18011,8 +17068,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "664": {
-      "clip": "audio/sent_new/664.mp3",
+    "596": {
+      "clip": "audio/sent_new/596.mp3",
       "t0": 0,
       "t1": 3.065,
       "words": [
@@ -18031,8 +17088,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "665": {
-      "clip": "audio/sent_new/665.mp3",
+    "597": {
+      "clip": "audio/sent_new/597.mp3",
       "t0": 0,
       "t1": 4.14,
       "words": [
@@ -18057,8 +17114,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "666": {
-      "clip": "audio/sent_new/666.mp3",
+    "598": {
+      "clip": "audio/sent_new/598.mp3",
       "t0": 0,
       "t1": 5.86,
       "words": [
@@ -18119,8 +17176,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "667": {
-      "clip": "audio/sent_new/667.mp3",
+    "599": {
+      "clip": "audio/sent_new/599.mp3",
       "t0": 0,
       "t1": 4.2,
       "words": [
@@ -18139,8 +17196,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "668": {
-      "clip": "audio/sent_new/668.mp3",
+    "600": {
+      "clip": "audio/sent_new/600.mp3",
       "t0": 0,
       "t1": 5.41,
       "words": [
@@ -18159,8 +17216,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "669": {
-      "clip": "audio/sent_new/669.mp3",
+    "601": {
+      "clip": "audio/sent_new/601.mp3",
       "t0": 0,
       "t1": 3.995,
       "words": [
@@ -18185,8 +17242,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "670": {
-      "clip": "audio/sent_new/670.mp3",
+    "602": {
+      "clip": "audio/sent_new/602.mp3",
       "t0": 0,
       "t1": 3.625,
       "words": [
@@ -18211,8 +17268,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "671": {
-      "clip": "audio/sent_new/671.mp3",
+    "603": {
+      "clip": "audio/sent_new/603.mp3",
       "t0": 0,
       "t1": 4.68,
       "words": [
@@ -18267,8 +17324,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "672": {
-      "clip": "audio/sent_new/672.mp3",
+    "604": {
+      "clip": "audio/sent_new/604.mp3",
       "t0": 0,
       "t1": 2.16,
       "words": [
@@ -18299,8 +17356,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "673": {
-      "clip": "audio/sent_new/673.mp3",
+    "605": {
+      "clip": "audio/sent_new/605.mp3",
       "t0": 0,
       "t1": 5.17,
       "words": [
@@ -18337,8 +17394,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "674": {
-      "clip": "audio/sent_new/674.mp3",
+    "606": {
+      "clip": "audio/sent_new/606.mp3",
       "t0": 0,
       "t1": 4.43,
       "words": [
@@ -18381,8 +17438,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "675": {
-      "clip": "audio/sent_new/675.mp3",
+    "607": {
+      "clip": "audio/sent_new/607.mp3",
       "t0": 0,
       "t1": 4.03,
       "words": [
@@ -18413,8 +17470,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "676": {
-      "clip": "audio/sent_new/676.mp3",
+    "608": {
+      "clip": "audio/sent_new/608.mp3",
       "t0": 0,
       "t1": 3.9,
       "words": [
@@ -18451,8 +17508,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "677": {
-      "clip": "audio/sent_new/677.mp3",
+    "609": {
+      "clip": "audio/sent_new/609.mp3",
       "t0": 0,
       "t1": 3.89,
       "words": [
@@ -18489,8 +17546,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "678": {
-      "clip": "audio/sent_new/678.mp3",
+    "610": {
+      "clip": "audio/sent_new/610.mp3",
       "t0": 0,
       "t1": 4.4,
       "words": [
@@ -18533,8 +17590,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "679": {
-      "clip": "audio/sent_new/679.mp3",
+    "611": {
+      "clip": "audio/sent_new/611.mp3",
       "t0": 0,
       "t1": 4.07,
       "words": [
@@ -18565,8 +17622,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "680": {
-      "clip": "audio/sent_new/680.mp3",
+    "612": {
+      "clip": "audio/sent_new/612.mp3",
       "t0": 0,
       "t1": 3.72,
       "words": [
@@ -18603,8 +17660,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "681": {
-      "clip": "audio/sent_new/681.mp3",
+    "613": {
+      "clip": "audio/sent_new/613.mp3",
       "t0": 0,
       "t1": 5.41,
       "words": [
@@ -18647,8 +17704,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "682": {
-      "clip": "audio/sent_new/682.mp3",
+    "614": {
+      "clip": "audio/sent_new/614.mp3",
       "t0": 0,
       "t1": 3.2,
       "words": [
@@ -18673,8 +17730,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "683": {
-      "clip": "audio/sent_new/683.mp3",
+    "615": {
+      "clip": "audio/sent_new/615.mp3",
       "t0": 0,
       "t1": 2.7,
       "words": [
@@ -18699,8 +17756,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "684": {
-      "clip": "audio/sent_new/684.mp3",
+    "616": {
+      "clip": "audio/sent_new/616.mp3",
       "t0": 0,
       "t1": 5.315,
       "words": [
@@ -18737,8 +17794,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "685": {
-      "clip": "audio/sent_new/685.mp3",
+    "617": {
+      "clip": "audio/sent_new/617.mp3",
       "t0": 0,
       "t1": 4.455,
       "words": [
@@ -18781,8 +17838,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "686": {
-      "clip": "audio/sent_new/686.mp3",
+    "618": {
+      "clip": "audio/sent_new/618.mp3",
       "t0": 0,
       "t1": 5.7,
       "words": [
@@ -18831,8 +17888,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "687": {
-      "clip": "audio/sent_new/687.mp3",
+    "619": {
+      "clip": "audio/sent_new/619.mp3",
       "t0": 0,
       "t1": 3.63,
       "words": [
@@ -18869,8 +17926,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "688": {
-      "clip": "audio/sent_new/688.mp3",
+    "620": {
+      "clip": "audio/sent_new/620.mp3",
       "t0": 0,
       "t1": 5.81,
       "words": [
@@ -18913,8 +17970,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "689": {
-      "clip": "audio/sent_new/689.mp3",
+    "621": {
+      "clip": "audio/sent_new/621.mp3",
       "t0": 0,
       "t1": 5.37,
       "words": [
@@ -18951,8 +18008,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "690": {
-      "clip": "audio/sent_new/690.mp3",
+    "622": {
+      "clip": "audio/sent_new/622.mp3",
       "t0": 0,
       "t1": 4.55,
       "words": [
@@ -18989,8 +18046,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "691": {
-      "clip": "audio/sent_new/691.mp3",
+    "623": {
+      "clip": "audio/sent_new/623.mp3",
       "t0": 0,
       "t1": 4.15,
       "words": [
@@ -19015,8 +18072,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "692": {
-      "clip": "audio/sent_new/692.mp3",
+    "624": {
+      "clip": "audio/sent_new/624.mp3",
       "t0": 0,
       "t1": 3.46,
       "words": [
@@ -19029,8 +18086,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "693": {
-      "clip": "audio/sent_new/693.mp3",
+    "625": {
+      "clip": "audio/sent_new/625.mp3",
       "t0": 0,
       "t1": 3.38,
       "words": [
@@ -19049,8 +18106,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "694": {
-      "clip": "audio/sent_new/694.mp3",
+    "626": {
+      "clip": "audio/sent_new/626.mp3",
       "t0": 0,
       "t1": 3.69,
       "words": [
@@ -19075,8 +18132,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "695": {
-      "clip": "audio/sent_new/695.mp3",
+    "627": {
+      "clip": "audio/sent_new/627.mp3",
       "t0": 0,
       "t1": 3.42,
       "words": [
@@ -19107,8 +18164,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "696": {
-      "clip": "audio/sent_new/696.mp3",
+    "628": {
+      "clip": "audio/sent_new/628.mp3",
       "t0": 0,
       "t1": 3.66,
       "words": [
@@ -19133,8 +18190,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "697": {
-      "clip": "audio/sent_new/697.mp3",
+    "629": {
+      "clip": "audio/sent_new/629.mp3",
       "t0": 0,
       "t1": 4.54,
       "words": [
@@ -19177,8 +18234,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "698": {
-      "clip": "audio/sent_new/698.mp3",
+    "630": {
+      "clip": "audio/sent_new/630.mp3",
       "t0": 0,
       "t1": 2.84,
       "words": [
@@ -19209,8 +18266,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "699": {
-      "clip": "audio/sent_new/699.mp3",
+    "631": {
+      "clip": "audio/sent_new/631.mp3",
       "t0": 0,
       "t1": 3.815,
       "words": [
@@ -19247,8 +18304,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "700": {
-      "clip": "audio/sent_new/700.mp3",
+    "632": {
+      "clip": "audio/sent_new/632.mp3",
       "t0": 0,
       "t1": 6.83,
       "words": [
@@ -19267,8 +18324,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "701": {
-      "clip": "audio/sent_new/701.mp3",
+    "633": {
+      "clip": "audio/sent_new/633.mp3",
       "t0": 0,
       "t1": 2.395,
       "words": [
@@ -19299,8 +18356,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "702": {
-      "clip": "audio/sent_new/702.mp3",
+    "634": {
+      "clip": "audio/sent_new/634.mp3",
       "t0": 0,
       "t1": 4.73,
       "words": [
@@ -19325,8 +18382,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "703": {
-      "clip": "audio/sent_new/703.mp3",
+    "635": {
+      "clip": "audio/sent_new/635.mp3",
       "t0": 0,
       "t1": 5.08,
       "words": [
@@ -19363,8 +18420,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "704": {
-      "clip": "audio/sent_new/704.mp3",
+    "636": {
+      "clip": "audio/sent_new/636.mp3",
       "t0": 0,
       "t1": 3.19,
       "words": [
@@ -19389,8 +18446,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "705": {
-      "clip": "audio/sent_new/705.mp3",
+    "637": {
+      "clip": "audio/sent_new/637.mp3",
       "t0": 0,
       "t1": 4.19,
       "words": [
@@ -19427,8 +18484,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "706": {
-      "clip": "audio/sent_new/706.mp3",
+    "638": {
+      "clip": "audio/sent_new/638.mp3",
       "t0": 0,
       "t1": 4.48,
       "words": [
@@ -19465,8 +18522,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "707": {
-      "clip": "audio/sent_new/707.mp3",
+    "639": {
+      "clip": "audio/sent_new/639.mp3",
       "t0": 0,
       "t1": 3.82,
       "words": [
@@ -19503,8 +18560,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "708": {
-      "clip": "audio/sent_new/708.mp3",
+    "640": {
+      "clip": "audio/sent_new/640.mp3",
       "t0": 0,
       "t1": 2.63,
       "words": [
@@ -19529,8 +18586,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "709": {
-      "clip": "audio/sent_new/709.mp3",
+    "641": {
+      "clip": "audio/sent_new/641.mp3",
       "t0": 0,
       "t1": 4.045,
       "words": [
@@ -19567,8 +18624,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "710": {
-      "clip": "audio/sent_new/710.mp3",
+    "642": {
+      "clip": "audio/sent_new/642.mp3",
       "t0": 0,
       "t1": 4.955,
       "words": [
@@ -19617,8 +18674,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "711": {
-      "clip": "audio/sent_new/711.mp3",
+    "643": {
+      "clip": "audio/sent_new/643.mp3",
       "t0": 0,
       "t1": 3.82,
       "words": [
@@ -19655,8 +18712,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "712": {
-      "clip": "audio/sent_new/712.mp3",
+    "644": {
+      "clip": "audio/sent_new/644.mp3",
       "t0": 0,
       "t1": 4.975,
       "words": [
@@ -19693,8 +18750,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "713": {
-      "clip": "audio/sent_new/713.mp3",
+    "645": {
+      "clip": "audio/sent_new/645.mp3",
       "t0": 0,
       "t1": 3.335,
       "words": [
@@ -19731,8 +18788,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "714": {
-      "clip": "audio/sent_new/714.mp3",
+    "646": {
+      "clip": "audio/sent_new/646.mp3",
       "t0": 0,
       "t1": 4.33,
       "words": [
@@ -19775,8 +18832,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "715": {
-      "clip": "audio/sent_new/715.mp3",
+    "647": {
+      "clip": "audio/sent_new/647.mp3",
       "t0": 0,
       "t1": 4.08,
       "words": [
@@ -19819,8 +18876,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "716": {
-      "clip": "audio/sent_new/716.mp3",
+    "648": {
+      "clip": "audio/sent_new/648.mp3",
       "t0": 0,
       "t1": 3.04,
       "words": [
@@ -19839,8 +18896,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "717": {
-      "clip": "audio/sent_new/717.mp3",
+    "649": {
+      "clip": "audio/sent_new/649.mp3",
       "t0": 0,
       "t1": 2.69,
       "words": [
@@ -19859,8 +18916,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "718": {
-      "clip": "audio/sent_new/718.mp3",
+    "650": {
+      "clip": "audio/sent_new/650.mp3",
       "t0": 0,
       "t1": 3,
       "words": [
@@ -19885,8 +18942,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "719": {
-      "clip": "audio/sent_new/719.mp3",
+    "651": {
+      "clip": "audio/sent_new/651.mp3",
       "t0": 0,
       "t1": 2.33,
       "words": [
@@ -19905,8 +18962,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "720": {
-      "clip": "audio/sent_new/720.mp3",
+    "652": {
+      "clip": "audio/sent_new/652.mp3",
       "t0": 0,
       "t1": 2.46,
       "words": [
@@ -19931,8 +18988,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "721": {
-      "clip": "audio/sent_new/721.mp3",
+    "653": {
+      "clip": "audio/sent_new/653.mp3",
       "t0": 0,
       "t1": 2.49,
       "words": [
@@ -19951,8 +19008,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "722": {
-      "clip": "audio/sent_new/722.mp3",
+    "654": {
+      "clip": "audio/sent_new/654.mp3",
       "t0": 0,
       "t1": 2.55,
       "words": [
@@ -19977,8 +19034,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "723": {
-      "clip": "audio/sent_new/723.mp3",
+    "655": {
+      "clip": "audio/sent_new/655.mp3",
       "t0": 0,
       "t1": 3.49,
       "words": [
@@ -20015,8 +19072,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "724": {
-      "clip": "audio/sent_new/724.mp3",
+    "656": {
+      "clip": "audio/sent_new/656.mp3",
       "t0": 0,
       "t1": 3.54,
       "words": [
@@ -20047,8 +19104,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "725": {
-      "clip": "audio/sent_new/725.mp3",
+    "657": {
+      "clip": "audio/sent_new/657.mp3",
       "t0": 0,
       "t1": 3.22,
       "words": [
@@ -20079,8 +19136,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "726": {
-      "clip": "audio/sent_new/726.mp3",
+    "658": {
+      "clip": "audio/sent_new/658.mp3",
       "t0": 0,
       "t1": 3.8,
       "words": [
@@ -20111,8 +19168,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "727": {
-      "clip": "audio/sent_new/727.mp3",
+    "659": {
+      "clip": "audio/sent_new/659.mp3",
       "t0": 0,
       "t1": 2.76,
       "words": [
@@ -20143,8 +19200,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "728": {
-      "clip": "audio/sent_new/728.mp3",
+    "660": {
+      "clip": "audio/sent_new/660.mp3",
       "t0": 0,
       "t1": 3.53,
       "words": [
@@ -20169,8 +19226,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "729": {
-      "clip": "audio/sent_new/729.mp3",
+    "661": {
+      "clip": "audio/sent_new/661.mp3",
       "t0": 0,
       "t1": 4.01,
       "words": [
@@ -20201,8 +19258,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "730": {
-      "clip": "audio/sent_new/730.mp3",
+    "662": {
+      "clip": "audio/sent_new/662.mp3",
       "t0": 0,
       "t1": 3.455,
       "words": [
@@ -20239,8 +19296,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "731": {
-      "clip": "audio/sent_new/731.mp3",
+    "663": {
+      "clip": "audio/sent_new/663.mp3",
       "t0": 0,
       "t1": 4.465,
       "words": [
@@ -20283,8 +19340,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "732": {
-      "clip": "audio/sent_new/732.mp3",
+    "664": {
+      "clip": "audio/sent_new/664.mp3",
       "t0": 0,
       "t1": 3.87,
       "words": [
@@ -20303,8 +19360,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "733": {
-      "clip": "audio/sent_new/733.mp3",
+    "665": {
+      "clip": "audio/sent_new/665.mp3",
       "t0": 0,
       "t1": 5.85,
       "words": [
@@ -20341,8 +19398,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "734": {
-      "clip": "audio/sent_new/734.mp3",
+    "666": {
+      "clip": "audio/sent_new/666.mp3",
       "t0": 0,
       "t1": 3.88,
       "words": [
@@ -20379,8 +19436,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "735": {
-      "clip": "audio/sent_new/735.mp3",
+    "667": {
+      "clip": "audio/sent_new/667.mp3",
       "t0": 0,
       "t1": 4.1,
       "words": [
@@ -20411,8 +19468,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "736": {
-      "clip": "audio/sent_new/736.mp3",
+    "668": {
+      "clip": "audio/sent_new/668.mp3",
       "t0": 0,
       "t1": 4.93,
       "words": [
@@ -20443,8 +19500,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "737": {
-      "clip": "audio/sent_new/737.mp3",
+    "669": {
+      "clip": "audio/sent_new/669.mp3",
       "t0": 0,
       "t1": 4.03,
       "words": [
@@ -20463,8 +19520,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "738": {
-      "clip": "audio/sent_new/738.mp3",
+    "670": {
+      "clip": "audio/sent_new/670.mp3",
       "t0": 0,
       "t1": 3.06,
       "words": [
@@ -20483,8 +19540,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "739": {
-      "clip": "audio/sent_new/739.mp3",
+    "671": {
+      "clip": "audio/sent_new/671.mp3",
       "t0": 0,
       "t1": 3.41,
       "words": [
@@ -20515,8 +19572,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "740": {
-      "clip": "audio/sent_new/740.mp3",
+    "672": {
+      "clip": "audio/sent_new/672.mp3",
       "t0": 0,
       "t1": 4.63,
       "words": [
@@ -20547,8 +19604,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "741": {
-      "clip": "audio/sent_new/741.mp3",
+    "673": {
+      "clip": "audio/sent_new/673.mp3",
       "t0": 0,
       "t1": 5.09,
       "words": [
@@ -20579,8 +19636,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "742": {
-      "clip": "audio/sent_new/742.mp3",
+    "674": {
+      "clip": "audio/sent_new/674.mp3",
       "t0": 0,
       "t1": 3.93,
       "words": [
@@ -20611,8 +19668,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "743": {
-      "clip": "audio/sent_new/743.mp3",
+    "675": {
+      "clip": "audio/sent_new/675.mp3",
       "t0": 0,
       "t1": 3.185,
       "words": [
@@ -20643,8 +19700,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "744": {
-      "clip": "audio/sent_new/744.mp3",
+    "676": {
+      "clip": "audio/sent_new/676.mp3",
       "t0": 0,
       "t1": 4.175,
       "words": [
@@ -20687,8 +19744,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "745": {
-      "clip": "audio/sent_new/745.mp3",
+    "677": {
+      "clip": "audio/sent_new/677.mp3",
       "t0": 0,
       "t1": 5.65,
       "words": [
@@ -20719,8 +19776,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "746": {
-      "clip": "audio/sent_new/746.mp3",
+    "678": {
+      "clip": "audio/sent_new/678.mp3",
       "t0": 0,
       "t1": 3.15,
       "words": [
@@ -20757,8 +19814,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "747": {
-      "clip": "audio/sent_new/747.mp3",
+    "679": {
+      "clip": "audio/sent_new/679.mp3",
       "t0": 0,
       "t1": 4.255,
       "words": [
@@ -20789,8 +19846,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "748": {
-      "clip": "audio/sent_new/748.mp3",
+    "680": {
+      "clip": "audio/sent_new/680.mp3",
       "t0": 0,
       "t1": 5.205,
       "words": [
@@ -20833,8 +19890,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "749": {
-      "clip": "audio/sent_new/749.mp3",
+    "681": {
+      "clip": "audio/sent_new/681.mp3",
       "t0": 0,
       "t1": 3.57,
       "words": [
@@ -20871,8 +19928,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "750": {
-      "clip": "audio/sent_new/750.mp3",
+    "682": {
+      "clip": "audio/sent_new/682.mp3",
       "t0": 0,
       "t1": 4.47,
       "words": [
@@ -20909,8 +19966,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "751": {
-      "clip": "audio/sent_new/751.mp3",
+    "683": {
+      "clip": "audio/sent_new/683.mp3",
       "t0": 0,
       "t1": 3.995,
       "words": [
@@ -20947,8 +20004,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "752": {
-      "clip": "audio/sent_new/752.mp3",
+    "684": {
+      "clip": "audio/sent_new/684.mp3",
       "t0": 0,
       "t1": 3.825,
       "words": [
@@ -20991,8 +20048,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "753": {
-      "clip": "audio/sent_new/753.mp3",
+    "685": {
+      "clip": "audio/sent_new/685.mp3",
       "t0": 0,
       "t1": 4.34,
       "words": [
@@ -21029,8 +20086,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "754": {
-      "clip": "audio/sent_new/754.mp3",
+    "686": {
+      "clip": "audio/sent_new/686.mp3",
       "t0": 0,
       "t1": 2.48,
       "words": [
@@ -21049,8 +20106,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "755": {
-      "clip": "audio/sent_new/755.mp3",
+    "687": {
+      "clip": "audio/sent_new/687.mp3",
       "t0": 0,
       "t1": 3.05,
       "words": [
@@ -21099,8 +20156,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "756": {
-      "clip": "audio/sent_new/756.mp3",
+    "688": {
+      "clip": "audio/sent_new/688.mp3",
       "t0": 0,
       "t1": 4.84,
       "words": [
@@ -21131,8 +20188,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "757": {
-      "clip": "audio/sent_new/757.mp3",
+    "689": {
+      "clip": "audio/sent_new/689.mp3",
       "t0": 0,
       "t1": 4.295,
       "words": [
@@ -21187,8 +20244,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "758": {
-      "clip": "audio/sent_new/758.mp3",
+    "690": {
+      "clip": "audio/sent_new/690.mp3",
       "t0": 0,
       "t1": 3.775,
       "words": [
@@ -21225,8 +20282,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "759": {
-      "clip": "audio/sent_new/759.mp3",
+    "691": {
+      "clip": "audio/sent_new/691.mp3",
       "t0": 0,
       "t1": 3.19,
       "words": [
@@ -21257,8 +20314,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "760": {
-      "clip": "audio/sent_new/760.mp3",
+    "692": {
+      "clip": "audio/sent_new/692.mp3",
       "t0": 0,
       "t1": 2.955,
       "words": [
@@ -21289,8 +20346,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "761": {
-      "clip": "audio/sent_new/761.mp3",
+    "693": {
+      "clip": "audio/sent_new/693.mp3",
       "t0": 0,
       "t1": 3.565,
       "words": [
@@ -21327,8 +20384,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "762": {
-      "clip": "audio/sent_new/762.mp3",
+    "694": {
+      "clip": "audio/sent_new/694.mp3",
       "t0": 0,
       "t1": 3.95,
       "words": [
@@ -21365,8 +20422,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "763": {
-      "clip": "audio/sent_new/763.mp3",
+    "695": {
+      "clip": "audio/sent_new/695.mp3",
       "t0": 0,
       "t1": 4.76,
       "words": [
@@ -21409,8 +20466,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "764": {
-      "clip": "audio/sent_new/764.mp3",
+    "696": {
+      "clip": "audio/sent_new/696.mp3",
       "t0": 0,
       "t1": 2.67,
       "words": [
@@ -21441,8 +20498,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "765": {
-      "clip": "audio/sent_new/765.mp3",
+    "697": {
+      "clip": "audio/sent_new/697.mp3",
       "t0": 0,
       "t1": 4.31,
       "words": [
@@ -21479,8 +20536,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "766": {
-      "clip": "audio/sent_new/766.mp3",
+    "698": {
+      "clip": "audio/sent_new/698.mp3",
       "t0": 0,
       "t1": 5.74,
       "words": [
@@ -21523,8 +20580,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "767": {
-      "clip": "audio/sent_new/767.mp3",
+    "699": {
+      "clip": "audio/sent_new/699.mp3",
       "t0": 0,
       "t1": 3.6,
       "words": [
@@ -21561,8 +20618,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "768": {
-      "clip": "audio/sent_new/768.mp3",
+    "700": {
+      "clip": "audio/sent_new/700.mp3",
       "t0": 0,
       "t1": 2.72,
       "words": [
@@ -21581,8 +20638,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "769": {
-      "clip": "audio/sent_new/769.mp3",
+    "701": {
+      "clip": "audio/sent_new/701.mp3",
       "t0": 0,
       "t1": 4.41,
       "words": [
@@ -21607,8 +20664,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "770": {
-      "clip": "audio/sent_new/770.mp3",
+    "702": {
+      "clip": "audio/sent_new/702.mp3",
       "t0": 0,
       "t1": 3.4,
       "words": [
@@ -21627,8 +20684,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "771": {
-      "clip": "audio/sent_new/771.mp3",
+    "703": {
+      "clip": "audio/sent_new/703.mp3",
       "t0": 0,
       "t1": 7.29,
       "words": [
@@ -21689,8 +20746,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "772": {
-      "clip": "audio/sent_new/772.mp3",
+    "704": {
+      "clip": "audio/sent_new/704.mp3",
       "t0": 0,
       "t1": 5.82,
       "words": [
@@ -21739,8 +20796,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "773": {
-      "clip": "audio/sent_new/773.mp3",
+    "705": {
+      "clip": "audio/sent_new/705.mp3",
       "t0": 0,
       "t1": 3.025,
       "words": [
@@ -21771,8 +20828,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "774": {
-      "clip": "audio/sent_new/774.mp3",
+    "706": {
+      "clip": "audio/sent_new/706.mp3",
       "t0": 0,
       "t1": 5.255,
       "words": [
@@ -21827,8 +20884,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "775": {
-      "clip": "audio/sent_new/775.mp3",
+    "707": {
+      "clip": "audio/sent_new/707.mp3",
       "t0": 0,
       "t1": 4.255,
       "words": [
@@ -21871,8 +20928,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "776": {
-      "clip": "audio/sent_new/776.mp3",
+    "708": {
+      "clip": "audio/sent_new/708.mp3",
       "t0": 0,
       "t1": 4.485,
       "words": [
@@ -21909,8 +20966,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "777": {
-      "clip": "audio/sent_new/777.mp3",
+    "709": {
+      "clip": "audio/sent_new/709.mp3",
       "t0": 0,
       "t1": 3.34,
       "words": [
@@ -21953,8 +21010,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "778": {
-      "clip": "audio/sent_new/778.mp3",
+    "710": {
+      "clip": "audio/sent_new/710.mp3",
       "t0": 0,
       "t1": 4.57,
       "words": [
@@ -22015,8 +21072,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "779": {
-      "clip": "audio/sent_new/779.mp3",
+    "711": {
+      "clip": "audio/sent_new/711.mp3",
       "t0": 0,
       "t1": 4.61,
       "words": [
@@ -22053,8 +21110,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "780": {
-      "clip": "audio/sent_new/780.mp3",
+    "712": {
+      "clip": "audio/sent_new/712.mp3",
       "t0": 0,
       "t1": 3.72,
       "words": [
@@ -22091,8 +21148,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "781": {
-      "clip": "audio/sent_new/781.mp3",
+    "713": {
+      "clip": "audio/sent_new/713.mp3",
       "t0": 0,
       "t1": 4.18,
       "words": [
@@ -22123,8 +21180,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "782": {
-      "clip": "audio/sent_new/782.mp3",
+    "714": {
+      "clip": "audio/sent_new/714.mp3",
       "t0": 0,
       "t1": 4.155,
       "words": [
@@ -22161,8 +21218,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "783": {
-      "clip": "audio/sent_new/783.mp3",
+    "715": {
+      "clip": "audio/sent_new/715.mp3",
       "t0": 0,
       "t1": 5.075,
       "words": [
@@ -22205,8 +21262,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "784": {
-      "clip": "audio/sent_new/784.mp3",
+    "716": {
+      "clip": "audio/sent_new/716.mp3",
       "t0": 0,
       "t1": 3.94,
       "words": [
@@ -22243,8 +21300,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "785": {
-      "clip": "audio/sent_new/785.mp3",
+    "717": {
+      "clip": "audio/sent_new/717.mp3",
       "t0": 0,
       "t1": 4.86,
       "words": [
@@ -22287,8 +21344,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "786": {
-      "clip": "audio/sent_new/786.mp3",
+    "718": {
+      "clip": "audio/sent_new/718.mp3",
       "t0": 0,
       "t1": 4.31,
       "words": [
@@ -22331,8 +21388,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "787": {
-      "clip": "audio/sent_new/787.mp3",
+    "719": {
+      "clip": "audio/sent_new/719.mp3",
       "t0": 0,
       "t1": 4.78,
       "words": [
@@ -22381,8 +21438,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "788": {
-      "clip": "audio/sent_new/788.mp3",
+    "720": {
+      "clip": "audio/sent_new/720.mp3",
       "t0": 0,
       "t1": 7.48,
       "words": [
@@ -22425,8 +21482,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "789": {
-      "clip": "audio/sent_new/789.mp3",
+    "721": {
+      "clip": "audio/sent_new/721.mp3",
       "t0": 0,
       "t1": 2.25,
       "words": [
@@ -22445,8 +21502,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "790": {
-      "clip": "audio/sent_new/790.mp3",
+    "722": {
+      "clip": "audio/sent_new/722.mp3",
       "t0": 0,
       "t1": 4.01,
       "words": [
@@ -22465,8 +21522,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "791": {
-      "clip": "audio/sent_new/791.mp3",
+    "723": {
+      "clip": "audio/sent_new/723.mp3",
       "t0": 0,
       "t1": 2.66,
       "words": [
@@ -22491,8 +21548,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "792": {
-      "clip": "audio/sent_new/792.mp3",
+    "724": {
+      "clip": "audio/sent_new/724.mp3",
       "t0": 0,
       "t1": 2.695,
       "words": [
@@ -22511,8 +21568,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "793": {
-      "clip": "audio/sent_new/793.mp3",
+    "725": {
+      "clip": "audio/sent_new/725.mp3",
       "t0": 0,
       "t1": 3.415,
       "words": [
@@ -22531,8 +21588,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "794": {
-      "clip": "audio/sent_new/794.mp3",
+    "726": {
+      "clip": "audio/sent_new/726.mp3",
       "t0": 0,
       "t1": 3.81,
       "words": [
@@ -22551,8 +21608,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "795": {
-      "clip": "audio/sent_new/795.mp3",
+    "727": {
+      "clip": "audio/sent_new/727.mp3",
       "t0": 0,
       "t1": 2.32,
       "words": [
@@ -22571,8 +21628,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "796": {
-      "clip": "audio/sent_new/796.mp3",
+    "728": {
+      "clip": "audio/sent_new/728.mp3",
       "t0": 0,
       "t1": 4.01,
       "words": [
@@ -22609,8 +21666,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "797": {
-      "clip": "audio/sent_new/797.mp3",
+    "729": {
+      "clip": "audio/sent_new/729.mp3",
       "t0": 0,
       "t1": 4.48,
       "words": [
@@ -22659,8 +21716,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "798": {
-      "clip": "audio/sent_new/798.mp3",
+    "730": {
+      "clip": "audio/sent_new/730.mp3",
       "t0": 0,
       "t1": 4.36,
       "words": [
@@ -22685,8 +21742,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "799": {
-      "clip": "audio/sent_new/799.mp3",
+    "731": {
+      "clip": "audio/sent_new/731.mp3",
       "t0": 0,
       "t1": 3.63,
       "words": [
@@ -22717,8 +21774,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "800": {
-      "clip": "audio/sent_new/800.mp3",
+    "732": {
+      "clip": "audio/sent_new/732.mp3",
       "t0": 0,
       "t1": 3.715,
       "words": [
@@ -22749,8 +21806,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "801": {
-      "clip": "audio/sent_new/801.mp3",
+    "733": {
+      "clip": "audio/sent_new/733.mp3",
       "t0": 0,
       "t1": 2.985,
       "words": [
@@ -22775,8 +21832,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "802": {
-      "clip": "audio/sent_new/802.mp3",
+    "734": {
+      "clip": "audio/sent_new/734.mp3",
       "t0": 0,
       "t1": 2.71,
       "words": [
@@ -22795,8 +21852,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "803": {
-      "clip": "audio/sent_new/803.mp3",
+    "735": {
+      "clip": "audio/sent_new/735.mp3",
       "t0": 0,
       "t1": 3.97,
       "words": [
@@ -22833,8 +21890,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "804": {
-      "clip": "audio/sent_new/804.mp3",
+    "736": {
+      "clip": "audio/sent_new/736.mp3",
       "t0": 0,
       "t1": 4.37,
       "words": [
@@ -22871,8 +21928,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "805": {
-      "clip": "audio/sent_new/805.mp3",
+    "737": {
+      "clip": "audio/sent_new/737.mp3",
       "t0": 0,
       "t1": 2.72,
       "words": [
@@ -22903,8 +21960,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "806": {
-      "clip": "audio/sent_new/806.mp3",
+    "738": {
+      "clip": "audio/sent_new/738.mp3",
       "t0": 0,
       "t1": 4.96,
       "words": [
@@ -22947,8 +22004,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "807": {
-      "clip": "audio/sent_new/807.mp3",
+    "739": {
+      "clip": "audio/sent_new/739.mp3",
       "t0": 0,
       "t1": 3.73,
       "words": [
@@ -22967,8 +22024,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "808": {
-      "clip": "audio/sent_new/808.mp3",
+    "740": {
+      "clip": "audio/sent_new/740.mp3",
       "t0": 0,
       "t1": 3.73,
       "words": [
@@ -22987,8 +22044,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "809": {
-      "clip": "audio/sent_new/809.mp3",
+    "741": {
+      "clip": "audio/sent_new/741.mp3",
       "t0": 0,
       "t1": 3.19,
       "words": [
@@ -23007,8 +22064,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "810": {
-      "clip": "audio/sent_new/810.mp3",
+    "742": {
+      "clip": "audio/sent_new/742.mp3",
       "t0": 0,
       "t1": 3.26,
       "words": [
@@ -23033,8 +22090,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "811": {
-      "clip": "audio/sent_new/811.mp3",
+    "743": {
+      "clip": "audio/sent_new/743.mp3",
       "t0": 0,
       "t1": 3.22,
       "words": [
@@ -23053,8 +22110,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "812": {
-      "clip": "audio/sent_new/812.mp3",
+    "744": {
+      "clip": "audio/sent_new/744.mp3",
       "t0": 0,
       "t1": 2.43,
       "words": [
@@ -23085,8 +22142,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "813": {
-      "clip": "audio/sent_new/813.mp3",
+    "745": {
+      "clip": "audio/sent_new/745.mp3",
       "t0": 0,
       "t1": 2.76,
       "words": [
@@ -23105,8 +22162,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "814": {
-      "clip": "audio/sent_new/814.mp3",
+    "746": {
+      "clip": "audio/sent_new/746.mp3",
       "t0": 0,
       "t1": 3.89,
       "words": [
@@ -23143,8 +22200,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "815": {
-      "clip": "audio/sent_new/815.mp3",
+    "747": {
+      "clip": "audio/sent_new/747.mp3",
       "t0": 0,
       "t1": 4.12,
       "words": [
@@ -23181,8 +22238,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "816": {
-      "clip": "audio/sent_new/816.mp3",
+    "748": {
+      "clip": "audio/sent_new/748.mp3",
       "t0": 0,
       "t1": 3.73,
       "words": [
@@ -23207,8 +22264,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "817": {
-      "clip": "audio/sent_new/817.mp3",
+    "749": {
+      "clip": "audio/sent_new/749.mp3",
       "t0": 0,
       "t1": 4.01,
       "words": [
@@ -23245,8 +22302,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "818": {
-      "clip": "audio/sent_new/818.mp3",
+    "750": {
+      "clip": "audio/sent_new/750.mp3",
       "t0": 0,
       "t1": 2.89,
       "words": [
@@ -23271,8 +22328,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "819": {
-      "clip": "audio/sent_new/819.mp3",
+    "751": {
+      "clip": "audio/sent_new/751.mp3",
       "t0": 0,
       "t1": 2.31,
       "words": [
@@ -23291,8 +22348,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "820": {
-      "clip": "audio/sent_new/820.mp3",
+    "752": {
+      "clip": "audio/sent_new/752.mp3",
       "t0": 0,
       "t1": 4.15,
       "words": [
@@ -23329,8 +22386,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "821": {
-      "clip": "audio/sent_new/821.mp3",
+    "753": {
+      "clip": "audio/sent_new/753.mp3",
       "t0": 0,
       "t1": 3.3,
       "words": [
@@ -23355,8 +22412,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "822": {
-      "clip": "audio/sent_new/822.mp3",
+    "754": {
+      "clip": "audio/sent_new/754.mp3",
       "t0": 0,
       "t1": 3.02,
       "words": [
@@ -23375,8 +22432,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "823": {
-      "clip": "audio/sent_new/823.mp3",
+    "755": {
+      "clip": "audio/sent_new/755.mp3",
       "t0": 0,
       "t1": 3.405,
       "words": [
@@ -23395,8 +22452,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "824": {
-      "clip": "audio/sent_new/824.mp3",
+    "756": {
+      "clip": "audio/sent_new/756.mp3",
       "t0": 0,
       "t1": 3.195,
       "words": [
@@ -23415,8 +22472,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "825": {
-      "clip": "audio/sent_new/825.mp3",
+    "757": {
+      "clip": "audio/sent_new/757.mp3",
       "t0": 0,
       "t1": 3.79,
       "words": [
@@ -23435,8 +22492,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "826": {
-      "clip": "audio/sent_new/826.mp3",
+    "758": {
+      "clip": "audio/sent_new/758.mp3",
       "t0": 0,
       "t1": 2.54,
       "words": [
@@ -23461,8 +22518,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "827": {
-      "clip": "audio/sent_new/827.mp3",
+    "759": {
+      "clip": "audio/sent_new/759.mp3",
       "t0": 0,
       "t1": 3.64,
       "words": [
@@ -23493,8 +22550,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "828": {
-      "clip": "audio/sent_new/828.mp3",
+    "760": {
+      "clip": "audio/sent_new/760.mp3",
       "t0": 0,
       "t1": 4.96,
       "words": [
@@ -23531,8 +22588,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "829": {
-      "clip": "audio/sent_new/829.mp3",
+    "761": {
+      "clip": "audio/sent_new/761.mp3",
       "t0": 0,
       "t1": 3.42,
       "words": [
@@ -23575,8 +22632,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "830": {
-      "clip": "audio/sent_new/830.mp3",
+    "762": {
+      "clip": "audio/sent_new/762.mp3",
       "t0": 0,
       "t1": 3.9,
       "words": [
@@ -23613,8 +22670,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "831": {
-      "clip": "audio/sent_new/831.mp3",
+    "763": {
+      "clip": "audio/sent_new/763.mp3",
       "t0": 0,
       "t1": 6.07,
       "words": [
@@ -23657,8 +22714,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "832": {
-      "clip": "audio/sent_new/832.mp3",
+    "764": {
+      "clip": "audio/sent_new/764.mp3",
       "t0": 0,
       "t1": 4.49,
       "words": [
@@ -23707,8 +22764,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "833": {
-      "clip": "audio/sent_new/833.mp3",
+    "765": {
+      "clip": "audio/sent_new/765.mp3",
       "t0": 0,
       "t1": 4.81,
       "words": [
@@ -23751,8 +22808,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "834": {
-      "clip": "audio/sent_new/834.mp3",
+    "766": {
+      "clip": "audio/sent_new/766.mp3",
       "t0": 0,
       "t1": 3,
       "words": [
@@ -23777,8 +22834,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "835": {
-      "clip": "audio/sent_new/835.mp3",
+    "767": {
+      "clip": "audio/sent_new/767.mp3",
       "t0": 0,
       "t1": 3.95,
       "words": [
@@ -23803,8 +22860,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "836": {
-      "clip": "audio/sent_new/836.mp3",
+    "768": {
+      "clip": "audio/sent_new/768.mp3",
       "t0": 0,
       "t1": 2.67,
       "words": [
@@ -23835,8 +22892,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "837": {
-      "clip": "audio/sent_new/837.mp3",
+    "769": {
+      "clip": "audio/sent_new/769.mp3",
       "t0": 0,
       "t1": 2.56,
       "words": [
@@ -23867,8 +22924,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "838": {
-      "clip": "audio/sent_new/838.mp3",
+    "770": {
+      "clip": "audio/sent_new/770.mp3",
       "t0": 0,
       "t1": 2.765,
       "words": [
@@ -23899,8 +22956,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "839": {
-      "clip": "audio/sent_new/839.mp3",
+    "771": {
+      "clip": "audio/sent_new/771.mp3",
       "t0": 0,
       "t1": 5.205,
       "words": [
@@ -23943,8 +23000,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "840": {
-      "clip": "audio/sent_new/840.mp3",
+    "772": {
+      "clip": "audio/sent_new/772.mp3",
       "t0": 0,
       "t1": 4.8,
       "words": [
@@ -23969,8 +23026,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "841": {
-      "clip": "audio/sent_new/841.mp3",
+    "773": {
+      "clip": "audio/sent_new/773.mp3",
       "t0": 0,
       "t1": 2.87,
       "words": [
@@ -23989,8 +23046,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "842": {
-      "clip": "audio/sent_new/842.mp3",
+    "774": {
+      "clip": "audio/sent_new/774.mp3",
       "t0": 0,
       "t1": 6.76,
       "words": [
@@ -24045,8 +23102,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "843": {
-      "clip": "audio/sent_new/843.mp3",
+    "775": {
+      "clip": "audio/sent_new/775.mp3",
       "t0": 0,
       "t1": 6.09,
       "words": [
@@ -24101,8 +23158,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "844": {
-      "clip": "audio/sent_new/844.mp3",
+    "776": {
+      "clip": "audio/sent_new/776.mp3",
       "t0": 0,
       "t1": 4.76,
       "words": [
@@ -24145,8 +23202,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "845": {
-      "clip": "audio/sent_new/845.mp3",
+    "777": {
+      "clip": "audio/sent_new/777.mp3",
       "t0": 0,
       "t1": 4,
       "words": [
@@ -24171,8 +23228,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "846": {
-      "clip": "audio/sent_new/846.mp3",
+    "778": {
+      "clip": "audio/sent_new/778.mp3",
       "t0": 0,
       "t1": 3.26,
       "words": [
@@ -24209,8 +23266,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "847": {
-      "clip": "audio/sent_new/847.mp3",
+    "779": {
+      "clip": "audio/sent_new/779.mp3",
       "t0": 0,
       "t1": 4.36,
       "words": [
@@ -24241,8 +23298,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "848": {
-      "clip": "audio/sent_new/848.mp3",
+    "780": {
+      "clip": "audio/sent_new/780.mp3",
       "t0": 0,
       "t1": 2.76,
       "words": [
@@ -24273,8 +23330,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "849": {
-      "clip": "audio/sent_new/849.mp3",
+    "781": {
+      "clip": "audio/sent_new/781.mp3",
       "t0": 0,
       "t1": 4.02,
       "words": [
@@ -24299,8 +23356,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "850": {
-      "clip": "audio/sent_new/850.mp3",
+    "782": {
+      "clip": "audio/sent_new/782.mp3",
       "t0": 0,
       "t1": 3.09,
       "words": [
@@ -24331,8 +23388,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "851": {
-      "clip": "audio/sent_new/851.mp3",
+    "783": {
+      "clip": "audio/sent_new/783.mp3",
       "t0": 0,
       "t1": 1.92,
       "words": [
@@ -24363,8 +23420,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "852": {
-      "clip": "audio/sent_new/852.mp3",
+    "784": {
+      "clip": "audio/sent_new/784.mp3",
       "t0": 0,
       "t1": 2.33,
       "words": [
@@ -24389,8 +23446,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "853": {
-      "clip": "audio/sent_new/853.mp3",
+    "785": {
+      "clip": "audio/sent_new/785.mp3",
       "t0": 0,
       "t1": 2.51,
       "words": [
@@ -24421,8 +23478,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "854": {
-      "clip": "audio/sent_new/854.mp3",
+    "786": {
+      "clip": "audio/sent_new/786.mp3",
       "t0": 0,
       "t1": 3.46,
       "words": [
@@ -24447,8 +23504,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "855": {
-      "clip": "audio/sent_new/855.mp3",
+    "787": {
+      "clip": "audio/sent_new/787.mp3",
       "t0": 0,
       "t1": 2.895,
       "words": [
@@ -24467,8 +23524,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "856": {
-      "clip": "audio/sent_new/856.mp3",
+    "788": {
+      "clip": "audio/sent_new/788.mp3",
       "t0": 0,
       "t1": 3.45,
       "words": [
@@ -24493,8 +23550,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "857": {
-      "clip": "audio/sent_new/857.mp3",
+    "789": {
+      "clip": "audio/sent_new/789.mp3",
       "t0": 0,
       "t1": 3.985,
       "words": [
@@ -24537,8 +23594,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "858": {
-      "clip": "audio/sent_new/858.mp3",
+    "790": {
+      "clip": "audio/sent_new/790.mp3",
       "t0": 0,
       "t1": 2.69,
       "words": [
@@ -24557,8 +23614,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "859": {
-      "clip": "audio/sent_new/859.mp3",
+    "791": {
+      "clip": "audio/sent_new/791.mp3",
       "t0": 0,
       "t1": 3.52,
       "words": [
@@ -24583,8 +23640,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "860": {
-      "clip": "audio/sent_new/860.mp3",
+    "792": {
+      "clip": "audio/sent_new/792.mp3",
       "t0": 0,
       "t1": 3.26,
       "words": [
@@ -24621,8 +23678,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "861": {
-      "clip": "audio/sent_new/861.mp3",
+    "793": {
+      "clip": "audio/sent_new/793.mp3",
       "t0": 0,
       "t1": 4.13,
       "words": [
@@ -24659,8 +23716,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "862": {
-      "clip": "audio/sent_new/862.mp3",
+    "794": {
+      "clip": "audio/sent_new/794.mp3",
       "t0": 0,
       "t1": 4.24,
       "words": [
@@ -24703,8 +23760,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "863": {
-      "clip": "audio/sent_new/863.mp3",
+    "795": {
+      "clip": "audio/sent_new/795.mp3",
       "t0": 0,
       "t1": 3.8,
       "words": [
@@ -24741,8 +23798,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "864": {
-      "clip": "audio/sent_new/864.mp3",
+    "796": {
+      "clip": "audio/sent_new/796.mp3",
       "t0": 0,
       "t1": 3.91,
       "words": [
@@ -24779,8 +23836,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "865": {
-      "clip": "audio/sent_new/865.mp3",
+    "797": {
+      "clip": "audio/sent_new/797.mp3",
       "t0": 0,
       "t1": 2.97,
       "words": [
@@ -24805,8 +23862,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "866": {
-      "clip": "audio/sent_new/866.mp3",
+    "798": {
+      "clip": "audio/sent_new/798.mp3",
       "t0": 0,
       "t1": 6.55,
       "words": [
@@ -24831,8 +23888,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "867": {
-      "clip": "audio/sent_new/867.mp3",
+    "799": {
+      "clip": "audio/sent_new/799.mp3",
       "t0": 0,
       "t1": 3.4,
       "words": [
@@ -24869,8 +23926,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "868": {
-      "clip": "audio/sent_new/868.mp3",
+    "800": {
+      "clip": "audio/sent_new/800.mp3",
       "t0": 0,
       "t1": 2.5,
       "words": [
@@ -24907,8 +23964,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "869": {
-      "clip": "audio/sent_new/869.mp3",
+    "801": {
+      "clip": "audio/sent_new/801.mp3",
       "t0": 0,
       "t1": 3.49,
       "words": [
@@ -24927,8 +23984,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "870": {
-      "clip": "audio/sent_new/870.mp3",
+    "802": {
+      "clip": "audio/sent_new/802.mp3",
       "t0": 0,
       "t1": 4.49,
       "words": [
@@ -24965,8 +24022,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "871": {
-      "clip": "audio/sent_new/871.mp3",
+    "803": {
+      "clip": "audio/sent_new/803.mp3",
       "t0": 0,
       "t1": 4.79,
       "words": [
@@ -25009,8 +24066,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "872": {
-      "clip": "audio/sent_new/872.mp3",
+    "804": {
+      "clip": "audio/sent_new/804.mp3",
       "t0": 0,
       "t1": 5.82,
       "words": [
@@ -25059,8 +24116,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "873": {
-      "clip": "audio/sent_new/873.mp3",
+    "805": {
+      "clip": "audio/sent_new/805.mp3",
       "t0": 0,
       "t1": 3.57,
       "words": [
@@ -25091,8 +24148,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "874": {
-      "clip": "audio/sent_new/874.mp3",
+    "806": {
+      "clip": "audio/sent_new/806.mp3",
       "t0": 0,
       "t1": 4.14,
       "words": [
@@ -25117,8 +24174,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "875": {
-      "clip": "audio/sent_new/875.mp3",
+    "807": {
+      "clip": "audio/sent_new/807.mp3",
       "t0": 0,
       "t1": 5.37,
       "words": [
@@ -25149,8 +24206,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "876": {
-      "clip": "audio/sent_new/876.mp3",
+    "808": {
+      "clip": "audio/sent_new/808.mp3",
       "t0": 0,
       "t1": 2.5,
       "words": [
@@ -25169,8 +24226,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "877": {
-      "clip": "audio/sent_new/877.mp3",
+    "809": {
+      "clip": "audio/sent_new/809.mp3",
       "t0": 0,
       "t1": 4.49,
       "words": [
@@ -25201,8 +24258,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "878": {
-      "clip": "audio/sent_new/878.mp3",
+    "810": {
+      "clip": "audio/sent_new/810.mp3",
       "t0": 0,
       "t1": 4.14,
       "words": [
@@ -25233,8 +24290,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "879": {
-      "clip": "audio/sent_new/879.mp3",
+    "811": {
+      "clip": "audio/sent_new/811.mp3",
       "t0": 0,
       "t1": 4.7,
       "words": [
@@ -25259,8 +24316,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "880": {
-      "clip": "audio/sent_new/880.mp3",
+    "812": {
+      "clip": "audio/sent_new/812.mp3",
       "t0": 0,
       "t1": 3.82,
       "words": [
@@ -25291,8 +24348,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "881": {
-      "clip": "audio/sent_new/881.mp3",
+    "813": {
+      "clip": "audio/sent_new/813.mp3",
       "t0": 0,
       "t1": 3.03,
       "words": [
@@ -25323,8 +24380,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "882": {
-      "clip": "audio/sent_new/882.mp3",
+    "814": {
+      "clip": "audio/sent_new/814.mp3",
       "t0": 0,
       "t1": 3.75,
       "words": [
@@ -25361,8 +24418,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "883": {
-      "clip": "audio/sent_new/883.mp3",
+    "815": {
+      "clip": "audio/sent_new/815.mp3",
       "t0": 0,
       "t1": 3.69,
       "words": [
@@ -25393,8 +24450,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "884": {
-      "clip": "audio/sent_new/884.mp3",
+    "816": {
+      "clip": "audio/sent_new/816.mp3",
       "t0": 0,
       "t1": 4.31,
       "words": [
@@ -25431,8 +24488,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "885": {
-      "clip": "audio/sent_new/885.mp3",
+    "817": {
+      "clip": "audio/sent_new/817.mp3",
       "t0": 0,
       "t1": 4.36,
       "words": [
@@ -25475,8 +24532,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "886": {
-      "clip": "audio/sent_new/886.mp3",
+    "818": {
+      "clip": "audio/sent_new/818.mp3",
       "t0": 0,
       "t1": 3.9,
       "words": [
@@ -25513,8 +24570,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "887": {
-      "clip": "audio/sent_new/887.mp3",
+    "819": {
+      "clip": "audio/sent_new/819.mp3",
       "t0": 0,
       "t1": 4.55,
       "words": [
@@ -25551,8 +24608,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "888": {
-      "clip": "audio/sent_new/888.mp3",
+    "820": {
+      "clip": "audio/sent_new/820.mp3",
       "t0": 0,
       "t1": 3.75,
       "words": [
@@ -25583,8 +24640,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "889": {
-      "clip": "audio/sent_new/889.mp3",
+    "821": {
+      "clip": "audio/sent_new/821.mp3",
       "t0": 0,
       "t1": 2.98,
       "words": [
@@ -25609,8 +24666,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "890": {
-      "clip": "audio/sent_new/890.mp3",
+    "822": {
+      "clip": "audio/sent_new/822.mp3",
       "t0": 0,
       "t1": 3.63,
       "words": [
@@ -25647,8 +24704,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "891": {
-      "clip": "audio/sent_new/891.mp3",
+    "823": {
+      "clip": "audio/sent_new/823.mp3",
       "t0": 0,
       "t1": 2.54,
       "words": [
@@ -25685,8 +24742,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "892": {
-      "clip": "audio/sent_new/892.mp3",
+    "824": {
+      "clip": "audio/sent_new/824.mp3",
       "t0": 0,
       "t1": 3.88,
       "words": [
@@ -25705,8 +24762,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "893": {
-      "clip": "audio/sent_new/893.mp3",
+    "825": {
+      "clip": "audio/sent_new/825.mp3",
       "t0": 0,
       "t1": 4.26,
       "words": [
@@ -25743,8 +24800,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "894": {
-      "clip": "audio/sent_new/894.mp3",
+    "826": {
+      "clip": "audio/sent_new/826.mp3",
       "t0": 0,
       "t1": 4.76,
       "words": [
@@ -25787,8 +24844,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "895": {
-      "clip": "audio/sent_new/895.mp3",
+    "827": {
+      "clip": "audio/sent_new/827.mp3",
       "t0": 0,
       "t1": 3.565,
       "words": [
@@ -25819,8 +24876,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "896": {
-      "clip": "audio/sent_new/896.mp3",
+    "828": {
+      "clip": "audio/sent_new/828.mp3",
       "t0": 0,
       "t1": 3.795,
       "words": [
@@ -25845,8 +24902,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "897": {
-      "clip": "audio/sent_new/897.mp3",
+    "829": {
+      "clip": "audio/sent_new/829.mp3",
       "t0": 0,
       "t1": 4.47,
       "words": [
@@ -25883,8 +24940,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "898": {
-      "clip": "audio/sent_new/898.mp3",
+    "830": {
+      "clip": "audio/sent_new/830.mp3",
       "t0": 0,
       "t1": 3.91,
       "words": [
@@ -25915,8 +24972,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "899": {
-      "clip": "audio/sent_new/899.mp3",
+    "831": {
+      "clip": "audio/sent_new/831.mp3",
       "t0": 0,
       "t1": 4.17,
       "words": [
@@ -25959,8 +25016,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "900": {
-      "clip": "audio/sent_new/900.mp3",
+    "832": {
+      "clip": "audio/sent_new/832.mp3",
       "t0": 0,
       "t1": 3.37,
       "words": [
@@ -25991,8 +25048,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "901": {
-      "clip": "audio/sent_new/901.mp3",
+    "833": {
+      "clip": "audio/sent_new/833.mp3",
       "t0": 0,
       "t1": 3.55,
       "words": [
@@ -26023,8 +25080,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "902": {
-      "clip": "audio/sent_new/902.mp3",
+    "834": {
+      "clip": "audio/sent_new/834.mp3",
       "t0": 0,
       "t1": 2.09,
       "words": [
@@ -26049,8 +25106,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "903": {
-      "clip": "audio/sent_new/903.mp3",
+    "835": {
+      "clip": "audio/sent_new/835.mp3",
       "t0": 0,
       "t1": 2.65,
       "words": [
@@ -26081,8 +25138,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "904": {
-      "clip": "audio/sent_new/904.mp3",
+    "836": {
+      "clip": "audio/sent_new/836.mp3",
       "t0": 0,
       "t1": 4.23,
       "words": [
@@ -26125,8 +25182,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "905": {
-      "clip": "audio/sent_new/905.mp3",
+    "837": {
+      "clip": "audio/sent_new/837.mp3",
       "t0": 0,
       "t1": 2.98,
       "words": [
@@ -26157,8 +25214,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "906": {
-      "clip": "audio/sent_new/906.mp3",
+    "838": {
+      "clip": "audio/sent_new/838.mp3",
       "t0": 0,
       "t1": 4.28,
       "words": [
@@ -26207,8 +25264,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "907": {
-      "clip": "audio/sent_new/907.mp3",
+    "839": {
+      "clip": "audio/sent_new/839.mp3",
       "t0": 0,
       "t1": 3.56,
       "words": [
@@ -26227,8 +25284,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "908": {
-      "clip": "audio/sent_new/908.mp3",
+    "840": {
+      "clip": "audio/sent_new/840.mp3",
       "t0": 0,
       "t1": 3.08,
       "words": [
@@ -26259,8 +25316,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "909": {
-      "clip": "audio/sent_new/909.mp3",
+    "841": {
+      "clip": "audio/sent_new/841.mp3",
       "t0": 0,
       "t1": 4.11,
       "words": [
@@ -26291,8 +25348,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "910": {
-      "clip": "audio/sent_new/910.mp3",
+    "842": {
+      "clip": "audio/sent_new/842.mp3",
       "t0": 0,
       "t1": 2.93,
       "words": [
@@ -26317,8 +25374,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "911": {
-      "clip": "audio/sent_new/911.mp3",
+    "843": {
+      "clip": "audio/sent_new/843.mp3",
       "t0": 0,
       "t1": 3.3,
       "words": [
@@ -26343,8 +25400,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "912": {
-      "clip": "audio/sent_new/912.mp3",
+    "844": {
+      "clip": "audio/sent_new/844.mp3",
       "t0": 0,
       "t1": 5.57,
       "words": [
@@ -26405,8 +25462,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "913": {
-      "clip": "audio/sent_new/913.mp3",
+    "845": {
+      "clip": "audio/sent_new/845.mp3",
       "t0": 0,
       "t1": 2.855,
       "words": [
@@ -26431,8 +25488,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "914": {
-      "clip": "audio/sent_new/914.mp3",
+    "846": {
+      "clip": "audio/sent_new/846.mp3",
       "t0": 0,
       "t1": 4.805,
       "words": [
@@ -26457,8 +25514,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "915": {
-      "clip": "audio/sent_new/915.mp3",
+    "847": {
+      "clip": "audio/sent_new/847.mp3",
       "t0": 0,
       "t1": 3.27,
       "words": [
@@ -26483,8 +25540,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "916": {
-      "clip": "audio/sent_new/916.mp3",
+    "848": {
+      "clip": "audio/sent_new/848.mp3",
       "t0": 0,
       "t1": 5.48,
       "words": [
@@ -26533,8 +25590,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "917": {
-      "clip": "audio/sent_new/917.mp3",
+    "849": {
+      "clip": "audio/sent_new/849.mp3",
       "t0": 0,
       "t1": 3.34,
       "words": [
@@ -26565,8 +25622,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "918": {
-      "clip": "audio/sent_new/918.mp3",
+    "850": {
+      "clip": "audio/sent_new/850.mp3",
       "t0": 0,
       "t1": 2.79,
       "words": [
@@ -26585,8 +25642,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "919": {
-      "clip": "audio/sent_new/919.mp3",
+    "851": {
+      "clip": "audio/sent_new/851.mp3",
       "t0": 0,
       "t1": 3.325,
       "words": [
@@ -26611,8 +25668,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "920": {
-      "clip": "audio/sent_new/920.mp3",
+    "852": {
+      "clip": "audio/sent_new/852.mp3",
       "t0": 0,
       "t1": 3.045,
       "words": [
@@ -26637,8 +25694,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "921": {
-      "clip": "audio/sent_new/921.mp3",
+    "853": {
+      "clip": "audio/sent_new/853.mp3",
       "t0": 0,
       "t1": 4.94,
       "words": [
@@ -26657,8 +25714,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "922": {
-      "clip": "audio/sent_new/922.mp3",
+    "854": {
+      "clip": "audio/sent_new/854.mp3",
       "t0": 0,
       "t1": 5.17,
       "words": [
@@ -26713,8 +25770,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "923": {
-      "clip": "audio/sent_new/923.mp3",
+    "855": {
+      "clip": "audio/sent_new/855.mp3",
       "t0": 0,
       "t1": 3.01,
       "words": [
@@ -26751,8 +25808,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "924": {
-      "clip": "audio/sent_new/924.mp3",
+    "856": {
+      "clip": "audio/sent_new/856.mp3",
       "t0": 0,
       "t1": 4.17,
       "words": [
@@ -26789,8 +25846,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "925": {
-      "clip": "audio/sent_new/925.mp3",
+    "857": {
+      "clip": "audio/sent_new/857.mp3",
       "t0": 0,
       "t1": 3.69,
       "words": [
@@ -26821,8 +25878,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "926": {
-      "clip": "audio/sent_new/926.mp3",
+    "858": {
+      "clip": "audio/sent_new/858.mp3",
       "t0": 0,
       "t1": 4.74,
       "words": [
@@ -26865,8 +25922,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "927": {
-      "clip": "audio/sent_new/927.mp3",
+    "859": {
+      "clip": "audio/sent_new/859.mp3",
       "t0": 0,
       "t1": 4.64,
       "words": [
@@ -26903,8 +25960,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "928": {
-      "clip": "audio/sent_new/928.mp3",
+    "860": {
+      "clip": "audio/sent_new/860.mp3",
       "t0": 0,
       "t1": 2.68,
       "words": [
@@ -26935,8 +25992,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "929": {
-      "clip": "audio/sent_new/929.mp3",
+    "861": {
+      "clip": "audio/sent_new/861.mp3",
       "t0": 0,
       "t1": 4.08,
       "words": [
@@ -26985,8 +26042,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "930": {
-      "clip": "audio/sent_new/930.mp3",
+    "862": {
+      "clip": "audio/sent_new/862.mp3",
       "t0": 0,
       "t1": 2.9,
       "words": [
@@ -27017,8 +26074,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "931": {
-      "clip": "audio/sent_new/931.mp3",
+    "863": {
+      "clip": "audio/sent_new/863.mp3",
       "t0": 0,
       "t1": 2.9,
       "words": [
@@ -27043,8 +26100,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "932": {
-      "clip": "audio/sent_new/932.mp3",
+    "864": {
+      "clip": "audio/sent_new/864.mp3",
       "t0": 0,
       "t1": 3.3,
       "words": [
@@ -27075,8 +26132,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "933": {
-      "clip": "audio/sent_new/933.mp3",
+    "865": {
+      "clip": "audio/sent_new/865.mp3",
       "t0": 0,
       "t1": 4.08,
       "words": [
@@ -27107,8 +26164,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "934": {
-      "clip": "audio/sent_new/934.mp3",
+    "866": {
+      "clip": "audio/sent_new/866.mp3",
       "t0": 0,
       "t1": 4.45,
       "words": [
@@ -27157,8 +26214,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "935": {
-      "clip": "audio/sent_new/935.mp3",
+    "867": {
+      "clip": "audio/sent_new/867.mp3",
       "t0": 0,
       "t1": 2.8,
       "words": [
@@ -27189,8 +26246,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "936": {
-      "clip": "audio/sent_new/936.mp3",
+    "868": {
+      "clip": "audio/sent_new/868.mp3",
       "t0": 0,
       "t1": 2.84,
       "words": [
@@ -27215,8 +26272,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "937": {
-      "clip": "audio/sent_new/937.mp3",
+    "869": {
+      "clip": "audio/sent_new/869.mp3",
       "t0": 0,
       "t1": 4.39,
       "words": [
@@ -27247,8 +26304,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "938": {
-      "clip": "audio/sent_new/938.mp3",
+    "870": {
+      "clip": "audio/sent_new/870.mp3",
       "t0": 0,
       "t1": 6.34,
       "words": [
@@ -27309,8 +26366,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "939": {
-      "clip": "audio/sent_new/939.mp3",
+    "871": {
+      "clip": "audio/sent_new/871.mp3",
       "t0": 0,
       "t1": 2.78,
       "words": [
@@ -27347,8 +26404,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "940": {
-      "clip": "audio/sent_new/940.mp3",
+    "872": {
+      "clip": "audio/sent_new/872.mp3",
       "t0": 0,
       "t1": 5.36,
       "words": [
@@ -27379,8 +26436,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "941": {
-      "clip": "audio/sent_new/941.mp3",
+    "873": {
+      "clip": "audio/sent_new/873.mp3",
       "t0": 0,
       "t1": 5.41,
       "words": [
@@ -27435,8 +26492,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "942": {
-      "clip": "audio/sent_new/942.mp3",
+    "874": {
+      "clip": "audio/sent_new/874.mp3",
       "t0": 0,
       "t1": 4.75,
       "words": [
@@ -27485,8 +26542,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "943": {
-      "clip": "audio/sent_new/943.mp3",
+    "875": {
+      "clip": "audio/sent_new/875.mp3",
       "t0": 0,
       "t1": 3.89,
       "words": [
@@ -27523,8 +26580,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "944": {
-      "clip": "audio/sent_new/944.mp3",
+    "876": {
+      "clip": "audio/sent_new/876.mp3",
       "t0": 0,
       "t1": 4,
       "words": [
@@ -27561,8 +26618,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "945": {
-      "clip": "audio/sent_new/945.mp3",
+    "877": {
+      "clip": "audio/sent_new/877.mp3",
       "t0": 0,
       "t1": 3.6,
       "words": [
@@ -27599,8 +26656,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "946": {
-      "clip": "audio/sent_new/946.mp3",
+    "878": {
+      "clip": "audio/sent_new/878.mp3",
       "t0": 0,
       "t1": 4.95,
       "words": [
@@ -27631,8 +26688,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "947": {
-      "clip": "audio/sent_new/947.mp3",
+    "879": {
+      "clip": "audio/sent_new/879.mp3",
       "t0": 0,
       "t1": 3.35,
       "words": [
@@ -27675,8 +26732,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "948": {
-      "clip": "audio/sent_new/948.mp3",
+    "880": {
+      "clip": "audio/sent_new/880.mp3",
       "t0": 0,
       "t1": 3.76,
       "words": [
@@ -27713,8 +26770,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "949": {
-      "clip": "audio/sent_new/949.mp3",
+    "881": {
+      "clip": "audio/sent_new/881.mp3",
       "t0": 0,
       "t1": 4.02,
       "words": [
@@ -27763,8 +26820,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "950": {
-      "clip": "audio/sent_new/950.mp3",
+    "882": {
+      "clip": "audio/sent_new/882.mp3",
       "t0": 0,
       "t1": 3.92,
       "words": [
@@ -27795,8 +26852,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "951": {
-      "clip": "audio/sent_new/951.mp3",
+    "883": {
+      "clip": "audio/sent_new/883.mp3",
       "t0": 0,
       "t1": 4.505,
       "words": [
@@ -27839,8 +26896,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "952": {
-      "clip": "audio/sent_new/952.mp3",
+    "884": {
+      "clip": "audio/sent_new/884.mp3",
       "t0": 0,
       "t1": 4.915,
       "words": [
@@ -27877,8 +26934,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "953": {
-      "clip": "audio/sent_new/953.mp3",
+    "885": {
+      "clip": "audio/sent_new/885.mp3",
       "t0": 0,
       "t1": 4.28,
       "words": [
@@ -27927,8 +26984,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "954": {
-      "clip": "audio/sent_new/954.mp3",
+    "886": {
+      "clip": "audio/sent_new/886.mp3",
       "t0": 0,
       "t1": 2.92,
       "words": [
@@ -27953,8 +27010,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "955": {
-      "clip": "audio/sent_new/955.mp3",
+    "887": {
+      "clip": "audio/sent_new/887.mp3",
       "t0": 0,
       "t1": 5.5,
       "words": [
@@ -28003,8 +27060,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "956": {
-      "clip": "audio/sent_new/956.mp3",
+    "888": {
+      "clip": "audio/sent_new/888.mp3",
       "t0": 0,
       "t1": 4.32,
       "words": [
@@ -28053,8 +27110,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "957": {
-      "clip": "audio/sent_new/957.mp3",
+    "889": {
+      "clip": "audio/sent_new/889.mp3",
       "t0": 0,
       "t1": 3.37,
       "words": [
@@ -28079,8 +27136,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "958": {
-      "clip": "audio/sent_new/958.mp3",
+    "890": {
+      "clip": "audio/sent_new/890.mp3",
       "t0": 0,
       "t1": 3.99,
       "words": [
@@ -28099,8 +27156,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "959": {
-      "clip": "audio/sent_new/959.mp3",
+    "891": {
+      "clip": "audio/sent_new/891.mp3",
       "t0": 0,
       "t1": 4.86,
       "words": [
@@ -28143,8 +27200,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "960": {
-      "clip": "audio/sent_new/960.mp3",
+    "892": {
+      "clip": "audio/sent_new/892.mp3",
       "t0": 0,
       "t1": 3.56,
       "words": [
@@ -28163,8 +27220,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "961": {
-      "clip": "audio/sent_new/961.mp3",
+    "893": {
+      "clip": "audio/sent_new/893.mp3",
       "t0": 0,
       "t1": 2.65,
       "words": [
@@ -28183,8 +27240,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "962": {
-      "clip": "audio/sent_new/962.mp3",
+    "894": {
+      "clip": "audio/sent_new/894.mp3",
       "t0": 0,
       "t1": 3.87,
       "words": [
@@ -28209,8 +27266,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "963": {
-      "clip": "audio/sent_new/963.mp3",
+    "895": {
+      "clip": "audio/sent_new/895.mp3",
       "t0": 0,
       "t1": 4.28,
       "words": [
@@ -28259,8 +27316,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "964": {
-      "clip": "audio/sent_new/964.mp3",
+    "896": {
+      "clip": "audio/sent_new/896.mp3",
       "t0": 0,
       "t1": 3.38,
       "words": [
@@ -28297,8 +27354,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "965": {
-      "clip": "audio/sent_new/965.mp3",
+    "897": {
+      "clip": "audio/sent_new/897.mp3",
       "t0": 0,
       "t1": 3.68,
       "words": [
@@ -28335,8 +27392,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "966": {
-      "clip": "audio/sent_new/966.mp3",
+    "898": {
+      "clip": "audio/sent_new/898.mp3",
       "t0": 0,
       "t1": 4.18,
       "words": [
@@ -28379,8 +27436,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "967": {
-      "clip": "audio/sent_new/967.mp3",
+    "899": {
+      "clip": "audio/sent_new/899.mp3",
       "t0": 0,
       "t1": 3,
       "words": [
@@ -28411,8 +27468,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "968": {
-      "clip": "audio/sent_new/968.mp3",
+    "900": {
+      "clip": "audio/sent_new/900.mp3",
       "t0": 0,
       "t1": 4.04,
       "words": [
@@ -28449,8 +27506,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "969": {
-      "clip": "audio/sent_new/969.mp3",
+    "901": {
+      "clip": "audio/sent_new/901.mp3",
       "t0": 0,
       "t1": 3.31,
       "words": [
@@ -28487,8 +27544,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "970": {
-      "clip": "audio/sent_new/970.mp3",
+    "902": {
+      "clip": "audio/sent_new/902.mp3",
       "t0": 0,
       "t1": 2.37,
       "words": [
@@ -28513,8 +27570,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "971": {
-      "clip": "audio/sent_new/971.mp3",
+    "903": {
+      "clip": "audio/sent_new/903.mp3",
       "t0": 0,
       "t1": 3.84,
       "words": [
@@ -28557,8 +27614,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "972": {
-      "clip": "audio/sent_new/972.mp3",
+    "904": {
+      "clip": "audio/sent_new/904.mp3",
       "t0": 0,
       "t1": 2.31,
       "words": [
@@ -28583,8 +27640,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "973": {
-      "clip": "audio/sent_new/973.mp3",
+    "905": {
+      "clip": "audio/sent_new/905.mp3",
       "t0": 0,
       "t1": 4.56,
       "words": [
@@ -28621,8 +27678,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "974": {
-      "clip": "audio/sent_new/974.mp3",
+    "906": {
+      "clip": "audio/sent_new/906.mp3",
       "t0": 0,
       "t1": 3.7,
       "words": [
@@ -28671,8 +27728,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "975": {
-      "clip": "audio/sent_new/975.mp3",
+    "907": {
+      "clip": "audio/sent_new/907.mp3",
       "t0": 0,
       "t1": 4.735,
       "words": [
@@ -28715,8 +27772,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "976": {
-      "clip": "audio/sent_new/976.mp3",
+    "908": {
+      "clip": "audio/sent_new/908.mp3",
       "t0": 0,
       "t1": 5.115,
       "words": [
@@ -28771,8 +27828,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "977": {
-      "clip": "audio/sent_new/977.mp3",
+    "909": {
+      "clip": "audio/sent_new/909.mp3",
       "t0": 0,
       "t1": 3.68,
       "words": [
@@ -28797,8 +27854,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "978": {
-      "clip": "audio/sent_new/978.mp3",
+    "910": {
+      "clip": "audio/sent_new/910.mp3",
       "t0": 0,
       "t1": 3.26,
       "words": [
@@ -28823,8 +27880,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "979": {
-      "clip": "audio/sent_new/979.mp3",
+    "911": {
+      "clip": "audio/sent_new/911.mp3",
       "t0": 0,
       "t1": 3.97,
       "words": [
@@ -28855,8 +27912,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "980": {
-      "clip": "audio/sent_new/980.mp3",
+    "912": {
+      "clip": "audio/sent_new/912.mp3",
       "t0": 0,
       "t1": 7.23,
       "words": [
@@ -28929,8 +27986,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "981": {
-      "clip": "audio/sent_new/981.mp3",
+    "913": {
+      "clip": "audio/sent_new/913.mp3",
       "t0": 0,
       "t1": 3.62,
       "words": [
@@ -28961,8 +28018,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "982": {
-      "clip": "audio/sent_new/982.mp3",
+    "914": {
+      "clip": "audio/sent_new/914.mp3",
       "t0": 0,
       "t1": 2.57,
       "words": [
@@ -28981,8 +28038,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "983": {
-      "clip": "audio/sent_new/983.mp3",
+    "915": {
+      "clip": "audio/sent_new/915.mp3",
       "t0": 0,
       "t1": 4.8,
       "words": [
@@ -29025,8 +28082,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "984": {
-      "clip": "audio/sent_new/984.mp3",
+    "916": {
+      "clip": "audio/sent_new/916.mp3",
       "t0": 0,
       "t1": 3.64,
       "words": [
@@ -29057,8 +28114,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "985": {
-      "clip": "audio/sent_new/985.mp3",
+    "917": {
+      "clip": "audio/sent_new/917.mp3",
       "t0": 0,
       "t1": 4.26,
       "words": [
@@ -29089,8 +28146,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "986": {
-      "clip": "audio/sent_new/986.mp3",
+    "918": {
+      "clip": "audio/sent_new/918.mp3",
       "t0": 0,
       "t1": 3.97,
       "words": [
@@ -29121,8 +28178,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "987": {
-      "clip": "audio/sent_new/987.mp3",
+    "919": {
+      "clip": "audio/sent_new/919.mp3",
       "t0": 0,
       "t1": 2.6,
       "words": [
@@ -29141,8 +28198,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "988": {
-      "clip": "audio/sent_new/988.mp3",
+    "920": {
+      "clip": "audio/sent_new/920.mp3",
       "t0": 0,
       "t1": 2.24,
       "words": [
@@ -29161,8 +28218,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "989": {
-      "clip": "audio/sent_new/989.mp3",
+    "921": {
+      "clip": "audio/sent_new/921.mp3",
       "t0": 0,
       "t1": 4.1,
       "words": [
@@ -29193,8 +28250,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "990": {
-      "clip": "audio/sent_new/990.mp3",
+    "922": {
+      "clip": "audio/sent_new/922.mp3",
       "t0": 0,
       "t1": 2.38,
       "words": [
@@ -29219,8 +28276,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "991": {
-      "clip": "audio/sent_new/991.mp3",
+    "923": {
+      "clip": "audio/sent_new/923.mp3",
       "t0": 0,
       "t1": 4.69,
       "words": [
@@ -29251,8 +28308,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "992": {
-      "clip": "audio/sent_new/992.mp3",
+    "924": {
+      "clip": "audio/sent_new/924.mp3",
       "t0": 0,
       "t1": 4.27,
       "words": [
@@ -29283,8 +28340,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "993": {
-      "clip": "audio/sent_new/993.mp3",
+    "925": {
+      "clip": "audio/sent_new/925.mp3",
       "t0": 0,
       "t1": 2.69,
       "words": [
@@ -29303,8 +28360,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "994": {
-      "clip": "audio/sent_new/994.mp3",
+    "926": {
+      "clip": "audio/sent_new/926.mp3",
       "t0": 0,
       "t1": 5.54,
       "words": [
@@ -29347,8 +28404,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "995": {
-      "clip": "audio/sent_new/995.mp3",
+    "927": {
+      "clip": "audio/sent_new/927.mp3",
       "t0": 0,
       "t1": 1.76,
       "words": [
@@ -29367,8 +28424,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "996": {
-      "clip": "audio/sent_new/996.mp3",
+    "928": {
+      "clip": "audio/sent_new/928.mp3",
       "t0": 0,
       "t1": 3.57,
       "words": [
@@ -29399,8 +28456,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "997": {
-      "clip": "audio/sent_new/997.mp3",
+    "929": {
+      "clip": "audio/sent_new/929.mp3",
       "t0": 0,
       "t1": 5.105,
       "words": [
@@ -29443,8 +28500,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "998": {
-      "clip": "audio/sent_new/998.mp3",
+    "930": {
+      "clip": "audio/sent_new/930.mp3",
       "t0": 0,
       "t1": 3.615,
       "words": [
@@ -29475,8 +28532,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "999": {
-      "clip": "audio/sent_new/999.mp3",
+    "931": {
+      "clip": "audio/sent_new/931.mp3",
       "t0": 0,
       "t1": 4.25,
       "words": [
@@ -29501,8 +28558,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1000": {
-      "clip": "audio/sent_new/1000.mp3",
+    "932": {
+      "clip": "audio/sent_new/932.mp3",
       "t0": 0,
       "t1": 3.79,
       "words": [
@@ -29533,8 +28590,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1001": {
-      "clip": "audio/sent_new/1001.mp3",
+    "933": {
+      "clip": "audio/sent_new/933.mp3",
       "t0": 0,
       "t1": 2.04,
       "words": [
@@ -29559,8 +28616,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1002": {
-      "clip": "audio/sent_new/1002.mp3",
+    "934": {
+      "clip": "audio/sent_new/934.mp3",
       "t0": 0,
       "t1": 3.54,
       "words": [
@@ -29585,8 +28642,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1003": {
-      "clip": "audio/sent_new/1003.mp3",
+    "935": {
+      "clip": "audio/sent_new/935.mp3",
       "t0": 0,
       "t1": 3.33,
       "words": [
@@ -29605,8 +28662,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1004": {
-      "clip": "audio/sent_new/1004.mp3",
+    "936": {
+      "clip": "audio/sent_new/936.mp3",
       "t0": 0,
       "t1": 6.01,
       "words": [
@@ -29649,8 +28706,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1005": {
-      "clip": "audio/sent_new/1005.mp3",
+    "937": {
+      "clip": "audio/sent_new/937.mp3",
       "t0": 0,
       "t1": 4.13,
       "words": [
@@ -29681,8 +28738,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1006": {
-      "clip": "audio/sent_new/1006.mp3",
+    "938": {
+      "clip": "audio/sent_new/938.mp3",
       "t0": 0,
       "t1": 3.58,
       "words": [
@@ -29713,8 +28770,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1007": {
-      "clip": "audio/sent_new/1007.mp3",
+    "939": {
+      "clip": "audio/sent_new/939.mp3",
       "t0": 0,
       "t1": 3.8,
       "words": [
@@ -29745,8 +28802,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1008": {
-      "clip": "audio/sent_new/1008.mp3",
+    "940": {
+      "clip": "audio/sent_new/940.mp3",
       "t0": 0,
       "t1": 2.55,
       "words": [
@@ -29759,8 +28816,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1009": {
-      "clip": "audio/sent_new/1009.mp3",
+    "941": {
+      "clip": "audio/sent_new/941.mp3",
       "t0": 0,
       "t1": 3.34,
       "words": [
@@ -29791,8 +28848,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1010": {
-      "clip": "audio/sent_new/1010.mp3",
+    "942": {
+      "clip": "audio/sent_new/942.mp3",
       "t0": 0,
       "t1": 5.127,
       "words": [
@@ -29823,8 +28880,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1011": {
-      "clip": "audio/sent_new/1011.mp3",
+    "943": {
+      "clip": "audio/sent_new/943.mp3",
       "t0": 0,
       "t1": 2.53,
       "words": [
@@ -29849,8 +28906,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1012": {
-      "clip": "audio/sent_new/1012.mp3",
+    "944": {
+      "clip": "audio/sent_new/944.mp3",
       "t0": 0,
       "t1": 4.555,
       "words": [
@@ -29887,8 +28944,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1013": {
-      "clip": "audio/sent_new/1013.mp3",
+    "945": {
+      "clip": "audio/sent_new/945.mp3",
       "t0": 0,
       "t1": 4.455,
       "words": [
@@ -29919,8 +28976,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1014": {
-      "clip": "audio/sent_new/1014.mp3",
+    "946": {
+      "clip": "audio/sent_new/946.mp3",
       "t0": 0,
       "t1": 3.95,
       "words": [
@@ -29945,8 +29002,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1015": {
-      "clip": "audio/sent_new/1015.mp3",
+    "947": {
+      "clip": "audio/sent_new/947.mp3",
       "t0": 0,
       "t1": 2.38,
       "words": [
@@ -29977,8 +29034,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1016": {
-      "clip": "audio/sent_new/1016.mp3",
+    "948": {
+      "clip": "audio/sent_new/948.mp3",
       "t0": 0,
       "t1": 2.595,
       "words": [
@@ -29997,8 +29054,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1017": {
-      "clip": "audio/sent_new/1017.mp3",
+    "949": {
+      "clip": "audio/sent_new/949.mp3",
       "t0": 0,
       "t1": 2.995,
       "words": [
@@ -30029,8 +29086,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1018": {
-      "clip": "audio/sent_new/1018.mp3",
+    "950": {
+      "clip": "audio/sent_new/950.mp3",
       "t0": 0,
       "t1": 4.3,
       "words": [
@@ -30055,8 +29112,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1019": {
-      "clip": "audio/sent_new/1019.mp3",
+    "951": {
+      "clip": "audio/sent_new/951.mp3",
       "t0": 0,
       "t1": 3.87,
       "words": [
@@ -30087,8 +29144,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1020": {
-      "clip": "audio/sent_new/1020.mp3",
+    "952": {
+      "clip": "audio/sent_new/952.mp3",
       "t0": 0,
       "t1": 2.33,
       "words": [
@@ -30107,8 +29164,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1021": {
-      "clip": "audio/sent_new/1021.mp3",
+    "953": {
+      "clip": "audio/sent_new/953.mp3",
       "t0": 0,
       "t1": 2.85,
       "words": [
@@ -30133,8 +29190,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1022": {
-      "clip": "audio/sent_new/1022.mp3",
+    "954": {
+      "clip": "audio/sent_new/954.mp3",
       "t0": 0,
       "t1": 4.58,
       "words": [
@@ -30171,8 +29228,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1023": {
-      "clip": "audio/sent_new/1023.mp3",
+    "955": {
+      "clip": "audio/sent_new/955.mp3",
       "t0": 0,
       "t1": 2.665,
       "words": [
@@ -30203,8 +29260,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1024": {
-      "clip": "audio/sent_new/1024.mp3",
+    "956": {
+      "clip": "audio/sent_new/956.mp3",
       "t0": 0,
       "t1": 4.185,
       "words": [
@@ -30229,8 +29286,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1025": {
-      "clip": "audio/sent_new/1025.mp3",
+    "957": {
+      "clip": "audio/sent_new/957.mp3",
       "t0": 0,
       "t1": 3.33,
       "words": [
@@ -30279,8 +29336,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1026": {
-      "clip": "audio/sent_new/1026.mp3",
+    "958": {
+      "clip": "audio/sent_new/958.mp3",
       "t0": 0,
       "t1": 3.475,
       "words": [
@@ -30317,8 +29374,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1027": {
-      "clip": "audio/sent_new/1027.mp3",
+    "959": {
+      "clip": "audio/sent_new/959.mp3",
       "t0": 0,
       "t1": 3.295,
       "words": [
@@ -30343,8 +29400,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1028": {
-      "clip": "audio/sent_new/1028.mp3",
+    "960": {
+      "clip": "audio/sent_new/960.mp3",
       "t0": 0,
       "t1": 2.81,
       "words": [
@@ -30375,8 +29432,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1029": {
-      "clip": "audio/sent_new/1029.mp3",
+    "961": {
+      "clip": "audio/sent_new/961.mp3",
       "t0": 0,
       "t1": 4.26,
       "words": [
@@ -30413,8 +29470,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1030": {
-      "clip": "audio/sent_new/1030.mp3",
+    "962": {
+      "clip": "audio/sent_new/962.mp3",
       "t0": 0,
       "t1": 3.58,
       "words": [
@@ -30439,8 +29496,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1031": {
-      "clip": "audio/sent_new/1031.mp3",
+    "963": {
+      "clip": "audio/sent_new/963.mp3",
       "t0": 0,
       "t1": 2.4,
       "words": [
@@ -30465,8 +29522,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1032": {
-      "clip": "audio/sent_new/1032.mp3",
+    "964": {
+      "clip": "audio/sent_new/964.mp3",
       "t0": 0,
       "t1": 2.75,
       "words": [
@@ -30497,8 +29554,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1033": {
-      "clip": "audio/sent_new/1033.mp3",
+    "965": {
+      "clip": "audio/sent_new/965.mp3",
       "t0": 0,
       "t1": 3.65,
       "words": [
@@ -30523,8 +29580,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1034": {
-      "clip": "audio/sent_new/1034.mp3",
+    "966": {
+      "clip": "audio/sent_new/966.mp3",
       "t0": 0,
       "t1": 3.43,
       "words": [
@@ -30555,8 +29612,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1035": {
-      "clip": "audio/sent_new/1035.mp3",
+    "967": {
+      "clip": "audio/sent_new/967.mp3",
       "t0": 0,
       "t1": 2.48,
       "words": [
@@ -30575,8 +29632,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1036": {
-      "clip": "audio/sent_new/1036.mp3",
+    "968": {
+      "clip": "audio/sent_new/968.mp3",
       "t0": 0,
       "t1": 2.51,
       "words": [
@@ -30601,8 +29658,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1037": {
-      "clip": "audio/sent_new/1037.mp3",
+    "969": {
+      "clip": "audio/sent_new/969.mp3",
       "t0": 0,
       "t1": 4.63,
       "words": [
@@ -30645,8 +29702,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1038": {
-      "clip": "audio/sent_new/1038.mp3",
+    "970": {
+      "clip": "audio/sent_new/970.mp3",
       "t0": 0,
       "t1": 4.88,
       "words": [
@@ -30689,8 +29746,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1039": {
-      "clip": "audio/sent_new/1039.mp3",
+    "971": {
+      "clip": "audio/sent_new/971.mp3",
       "t0": 0,
       "t1": 3.24,
       "words": [
@@ -30715,8 +29772,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1040": {
-      "clip": "audio/sent_new/1040.mp3",
+    "972": {
+      "clip": "audio/sent_new/972.mp3",
       "t0": 0,
       "t1": 2.92,
       "words": [
@@ -30747,8 +29804,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1041": {
-      "clip": "audio/sent_new/1041.mp3",
+    "973": {
+      "clip": "audio/sent_new/973.mp3",
       "t0": 0,
       "t1": 2.56,
       "words": [
@@ -30767,8 +29824,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1042": {
-      "clip": "audio/sent_new/1042.mp3",
+    "974": {
+      "clip": "audio/sent_new/974.mp3",
       "t0": 0,
       "t1": 3.54,
       "words": [
@@ -30799,8 +29856,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1043": {
-      "clip": "audio/sent_new/1043.mp3",
+    "975": {
+      "clip": "audio/sent_new/975.mp3",
       "t0": 0,
       "t1": 3.34,
       "words": [
@@ -30825,8 +29882,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1044": {
-      "clip": "audio/sent_new/1044.mp3",
+    "976": {
+      "clip": "audio/sent_new/976.mp3",
       "t0": 0,
       "t1": 2.98,
       "words": [
@@ -30857,8 +29914,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1045": {
-      "clip": "audio/sent_new/1045.mp3",
+    "977": {
+      "clip": "audio/sent_new/977.mp3",
       "t0": 0,
       "t1": 2.17,
       "words": [
@@ -30877,8 +29934,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1046": {
-      "clip": "audio/sent_new/1046.mp3",
+    "978": {
+      "clip": "audio/sent_new/978.mp3",
       "t0": 0,
       "t1": 1.34,
       "words": [
@@ -30903,8 +29960,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1047": {
-      "clip": "audio/sent_new/1047.mp3",
+    "979": {
+      "clip": "audio/sent_new/979.mp3",
       "t0": 0,
       "t1": 5.47,
       "words": [
@@ -30947,8 +30004,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1048": {
-      "clip": "audio/sent_new/1048.mp3",
+    "980": {
+      "clip": "audio/sent_new/980.mp3",
       "t0": 0,
       "t1": 3.35,
       "words": [
@@ -30967,8 +30024,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1049": {
-      "clip": "audio/sent_new/1049.mp3",
+    "981": {
+      "clip": "audio/sent_new/981.mp3",
       "t0": 0,
       "t1": 3.8,
       "words": [
@@ -31005,8 +30062,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1050": {
-      "clip": "audio/sent_new/1050.mp3",
+    "982": {
+      "clip": "audio/sent_new/982.mp3",
       "t0": 0,
       "t1": 2.73,
       "words": [
@@ -31025,8 +30082,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1051": {
-      "clip": "audio/sent_new/1051.mp3",
+    "983": {
+      "clip": "audio/sent_new/983.mp3",
       "t0": 0,
       "t1": 2.91,
       "words": [
@@ -31057,8 +30114,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1052": {
-      "clip": "audio/sent_new/1052.mp3",
+    "984": {
+      "clip": "audio/sent_new/984.mp3",
       "t0": 0,
       "t1": 3.135,
       "words": [
@@ -31083,8 +30140,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1053": {
-      "clip": "audio/sent_new/1053.mp3",
+    "985": {
+      "clip": "audio/sent_new/985.mp3",
       "t0": 0,
       "t1": 2.98,
       "words": [
@@ -31121,8 +30178,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1054": {
-      "clip": "audio/sent_new/1054.mp3",
+    "986": {
+      "clip": "audio/sent_new/986.mp3",
       "t0": 0,
       "t1": 2.06,
       "words": [
@@ -31147,8 +30204,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1055": {
-      "clip": "audio/sent_new/1055.mp3",
+    "987": {
+      "clip": "audio/sent_new/987.mp3",
       "t0": 0,
       "t1": 3.885,
       "words": [
@@ -31179,8 +30236,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1056": {
-      "clip": "audio/sent_new/1056.mp3",
+    "988": {
+      "clip": "audio/sent_new/988.mp3",
       "t0": 0,
       "t1": 2.49,
       "words": [
@@ -31199,8 +30256,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1057": {
-      "clip": "audio/sent_new/1057.mp3",
+    "989": {
+      "clip": "audio/sent_new/989.mp3",
       "t0": 0,
       "t1": 3.38,
       "words": [
@@ -31225,8 +30282,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1058": {
-      "clip": "audio/sent_new/1058.mp3",
+    "990": {
+      "clip": "audio/sent_new/990.mp3",
       "t0": 0,
       "t1": 2.35,
       "words": [
@@ -31251,8 +30308,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1059": {
-      "clip": "audio/sent_new/1059.mp3",
+    "991": {
+      "clip": "audio/sent_new/991.mp3",
       "t0": 0,
       "t1": 3.06,
       "words": [
@@ -31277,8 +30334,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1060": {
-      "clip": "audio/sent_new/1060.mp3",
+    "992": {
+      "clip": "audio/sent_new/992.mp3",
       "t0": 0,
       "t1": 4.12,
       "words": [
@@ -31309,8 +30366,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1061": {
-      "clip": "audio/sent_new/1061.mp3",
+    "993": {
+      "clip": "audio/sent_new/993.mp3",
       "t0": 0,
       "t1": 3.995,
       "words": [
@@ -31341,8 +30398,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1062": {
-      "clip": "audio/sent_new/1062.mp3",
+    "994": {
+      "clip": "audio/sent_new/994.mp3",
       "t0": 0,
       "t1": 3.705,
       "words": [
@@ -31373,8 +30430,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1063": {
-      "clip": "audio/sent_new/1063.mp3",
+    "995": {
+      "clip": "audio/sent_new/995.mp3",
       "t0": 0,
       "t1": 2.9,
       "words": [
@@ -31387,8 +30444,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1064": {
-      "clip": "audio/sent_new/1064.mp3",
+    "996": {
+      "clip": "audio/sent_new/996.mp3",
       "t0": 0,
       "t1": 3.418,
       "words": [
@@ -31419,8 +30476,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1065": {
-      "clip": "audio/sent_new/1065.mp3",
+    "997": {
+      "clip": "audio/sent_new/997.mp3",
       "t0": 0,
       "t1": 4.412,
       "words": [
@@ -31451,8 +30508,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1066": {
-      "clip": "audio/sent_new/1066.mp3",
+    "998": {
+      "clip": "audio/sent_new/998.mp3",
       "t0": 0,
       "t1": 1.77,
       "words": [
@@ -31477,8 +30534,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1067": {
-      "clip": "audio/sent_new/1067.mp3",
+    "999": {
+      "clip": "audio/sent_new/999.mp3",
       "t0": 0,
       "t1": 3.84,
       "words": [
@@ -31509,8 +30566,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1068": {
-      "clip": "audio/sent_new/1068.mp3",
+    "1000": {
+      "clip": "audio/sent_new/1000.mp3",
       "t0": 0,
       "t1": 4.565,
       "words": [
@@ -31541,8 +30598,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1069": {
-      "clip": "audio/sent_new/1069.mp3",
+    "1001": {
+      "clip": "audio/sent_new/1001.mp3",
       "t0": 0,
       "t1": 4.235,
       "words": [
@@ -31573,8 +30630,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1070": {
-      "clip": "audio/sent_new/1070.mp3",
+    "1002": {
+      "clip": "audio/sent_new/1002.mp3",
       "t0": 0,
       "t1": 6.08,
       "words": [
@@ -31611,8 +30668,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1071": {
-      "clip": "audio/sent_new/1071.mp3",
+    "1003": {
+      "clip": "audio/sent_new/1003.mp3",
       "t0": 0,
       "t1": 6.11,
       "words": [
@@ -31649,8 +30706,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1072": {
-      "clip": "audio/sent_new/1072.mp3",
+    "1004": {
+      "clip": "audio/sent_new/1004.mp3",
       "t0": 0,
       "t1": 5.95,
       "words": [
@@ -31687,8 +30744,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1073": {
-      "clip": "audio/sent_new/1073.mp3",
+    "1005": {
+      "clip": "audio/sent_new/1005.mp3",
       "t0": 0,
       "t1": 5.22,
       "words": [
@@ -31725,8 +30782,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1074": {
-      "clip": "audio/sent_new/1074.mp3",
+    "1006": {
+      "clip": "audio/sent_new/1006.mp3",
       "t0": 0,
       "t1": 5.04,
       "words": [
@@ -31763,8 +30820,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1075": {
-      "clip": "audio/sent_new/1075.mp3",
+    "1007": {
+      "clip": "audio/sent_new/1007.mp3",
       "t0": 0,
       "t1": 5.52,
       "words": [
@@ -31801,8 +30858,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1076": {
-      "clip": "audio/sent_new/1076.mp3",
+    "1008": {
+      "clip": "audio/sent_new/1008.mp3",
       "t0": 0,
       "t1": 4.7,
       "words": [
@@ -31845,8 +30902,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1077": {
-      "clip": "audio/sent_new/1077.mp3",
+    "1009": {
+      "clip": "audio/sent_new/1009.mp3",
       "t0": 0,
       "t1": 4.63,
       "words": [
@@ -31889,8 +30946,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1078": {
-      "clip": "audio/sent_new/1078.mp3",
+    "1010": {
+      "clip": "audio/sent_new/1010.mp3",
       "t0": 0,
       "t1": 3.7,
       "words": [
@@ -31909,8 +30966,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1079": {
-      "clip": "audio/sent_new/1079.mp3",
+    "1011": {
+      "clip": "audio/sent_new/1011.mp3",
       "t0": 0,
       "t1": 5.53,
       "words": [
@@ -31953,8 +31010,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1080": {
-      "clip": "audio/sent_new/1080.mp3",
+    "1012": {
+      "clip": "audio/sent_new/1012.mp3",
       "t0": 0,
       "t1": 5.22,
       "words": [
@@ -31997,8 +31054,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1081": {
-      "clip": "audio/sent_new/1081.mp3",
+    "1013": {
+      "clip": "audio/sent_new/1013.mp3",
       "t0": 0,
       "t1": 4.28,
       "words": [
@@ -32035,8 +31092,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1082": {
-      "clip": "audio/sent_new/1082.mp3",
+    "1014": {
+      "clip": "audio/sent_new/1014.mp3",
       "t0": 0,
       "t1": 4.64,
       "words": [
@@ -32073,8 +31130,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1083": {
-      "clip": "audio/sent_new/1083.mp3",
+    "1015": {
+      "clip": "audio/sent_new/1015.mp3",
       "t0": 0,
       "t1": 4.48,
       "words": [
@@ -32117,8 +31174,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1084": {
-      "clip": "audio/sent_new/1084.mp3",
+    "1016": {
+      "clip": "audio/sent_new/1016.mp3",
       "t0": 0,
       "t1": 4.66,
       "words": [
@@ -32161,8 +31218,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1085": {
-      "clip": "audio/sent_new/1085.mp3",
+    "1017": {
+      "clip": "audio/sent_new/1017.mp3",
       "t0": 0,
       "t1": 4.61,
       "words": [
@@ -32205,8 +31262,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1086": {
-      "clip": "audio/sent_new/1086.mp3",
+    "1018": {
+      "clip": "audio/sent_new/1018.mp3",
       "t0": 0,
       "t1": 4.33,
       "words": [
@@ -32249,8 +31306,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1087": {
-      "clip": "audio/sent_new/1087.mp3",
+    "1019": {
+      "clip": "audio/sent_new/1019.mp3",
       "t0": 0,
       "t1": 4.42,
       "words": [
@@ -32293,8 +31350,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1088": {
-      "clip": "audio/sent_new/1088.mp3",
+    "1020": {
+      "clip": "audio/sent_new/1020.mp3",
       "t0": 0,
       "t1": 4.97,
       "words": [
@@ -32337,8 +31394,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1089": {
-      "clip": "audio/sent_new/1089.mp3",
+    "1021": {
+      "clip": "audio/sent_new/1021.mp3",
       "t0": 0,
       "t1": 3.97,
       "words": [
@@ -32357,8 +31414,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1090": {
-      "clip": "audio/sent_new/1090.mp3",
+    "1022": {
+      "clip": "audio/sent_new/1022.mp3",
       "t0": 0,
       "t1": 6.64,
       "words": [
@@ -32401,8 +31458,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1091": {
-      "clip": "audio/sent_new/1091.mp3",
+    "1023": {
+      "clip": "audio/sent_new/1023.mp3",
       "t0": 0,
       "t1": 5.69,
       "words": [
@@ -32445,8 +31502,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1092": {
-      "clip": "audio/sent_new/1092.mp3",
+    "1024": {
+      "clip": "audio/sent_new/1024.mp3",
       "t0": 0,
       "t1": 5.36,
       "words": [
@@ -32489,8 +31546,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1093": {
-      "clip": "audio/sent_new/1093.mp3",
+    "1025": {
+      "clip": "audio/sent_new/1025.mp3",
       "t0": 0,
       "t1": 5.27,
       "words": [
@@ -32533,8 +31590,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1094": {
-      "clip": "audio/sent_new/1094.mp3",
+    "1026": {
+      "clip": "audio/sent_new/1026.mp3",
       "t0": 0,
       "t1": 5,
       "words": [
@@ -32577,8 +31634,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1095": {
-      "clip": "audio/sent_new/1095.mp3",
+    "1027": {
+      "clip": "audio/sent_new/1027.mp3",
       "t0": 0,
       "t1": 5.24,
       "words": [
@@ -32621,8 +31678,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1096": {
-      "clip": "audio/sent_new/1096.mp3",
+    "1028": {
+      "clip": "audio/sent_new/1028.mp3",
       "t0": 0,
       "t1": 4.65,
       "words": [
@@ -32659,8 +31716,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1097": {
-      "clip": "audio/sent_new/1097.mp3",
+    "1029": {
+      "clip": "audio/sent_new/1029.mp3",
       "t0": 0,
       "t1": 4.79,
       "words": [
@@ -32697,8 +31754,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1098": {
-      "clip": "audio/sent_new/1098.mp3",
+    "1030": {
+      "clip": "audio/sent_new/1030.mp3",
       "t0": 0,
       "t1": 5.03,
       "words": [
@@ -32735,8 +31792,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1099": {
-      "clip": "audio/sent_new/1099.mp3",
+    "1031": {
+      "clip": "audio/sent_new/1031.mp3",
       "t0": 0,
       "t1": 4.94,
       "words": [
@@ -32773,8 +31830,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1100": {
-      "clip": "audio/sent_new/1100.mp3",
+    "1032": {
+      "clip": "audio/sent_new/1032.mp3",
       "t0": 0,
       "t1": 3.25,
       "words": [
@@ -32793,8 +31850,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1101": {
-      "clip": "audio/sent_new/1101.mp3",
+    "1033": {
+      "clip": "audio/sent_new/1033.mp3",
       "t0": 0,
       "t1": 5.18,
       "words": [
@@ -32831,8 +31888,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1102": {
-      "clip": "audio/sent_new/1102.mp3",
+    "1034": {
+      "clip": "audio/sent_new/1034.mp3",
       "t0": 0,
       "t1": 4.61,
       "words": [
@@ -32869,8 +31926,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1103": {
-      "clip": "audio/sent_new/1103.mp3",
+    "1035": {
+      "clip": "audio/sent_new/1035.mp3",
       "t0": 0,
       "t1": 4.6,
       "words": [
@@ -32907,8 +31964,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1104": {
-      "clip": "audio/sent_new/1104.mp3",
+    "1036": {
+      "clip": "audio/sent_new/1036.mp3",
       "t0": 0,
       "t1": 5.06,
       "words": [
@@ -32945,8 +32002,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1105": {
-      "clip": "audio/sent_new/1105.mp3",
+    "1037": {
+      "clip": "audio/sent_new/1037.mp3",
       "t0": 0,
       "t1": 3.45,
       "words": [
@@ -32977,8 +32034,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1106": {
-      "clip": "audio/sent_new/1106.mp3",
+    "1038": {
+      "clip": "audio/sent_new/1038.mp3",
       "t0": 0,
       "t1": 2.41,
       "words": [
@@ -33003,8 +32060,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1107": {
-      "clip": "audio/sent_new/1107.mp3",
+    "1039": {
+      "clip": "audio/sent_new/1039.mp3",
       "t0": 0,
       "t1": 4.355,
       "words": [
@@ -33053,8 +32110,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1108": {
-      "clip": "audio/sent_new/1108.mp3",
+    "1040": {
+      "clip": "audio/sent_new/1040.mp3",
       "t0": 0,
       "t1": 3.495,
       "words": [
@@ -33085,8 +32142,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1109": {
-      "clip": "audio/sent_new/1109.mp3",
+    "1041": {
+      "clip": "audio/sent_new/1041.mp3",
       "t0": 0,
       "t1": 5.4,
       "words": [
@@ -33147,8 +32204,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1110": {
-      "clip": "audio/sent_new/1110.mp3",
+    "1042": {
+      "clip": "audio/sent_new/1042.mp3",
       "t0": 0,
       "t1": 2.35,
       "words": [
@@ -33173,8 +32230,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1111": {
-      "clip": "audio/sent_new/1111.mp3",
+    "1043": {
+      "clip": "audio/sent_new/1043.mp3",
       "t0": 0,
       "t1": 7.02,
       "words": [
@@ -33223,8 +32280,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1112": {
-      "clip": "audio/sent_new/1112.mp3",
+    "1044": {
+      "clip": "audio/sent_new/1044.mp3",
       "t0": 0,
       "t1": 3.56,
       "words": [
@@ -33261,8 +32318,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1113": {
-      "clip": "audio/sent_new/1113.mp3",
+    "1045": {
+      "clip": "audio/sent_new/1045.mp3",
       "t0": 0,
       "t1": 4.28,
       "words": [
@@ -33299,8 +32356,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1114": {
-      "clip": "audio/sent_new/1114.mp3",
+    "1046": {
+      "clip": "audio/sent_new/1046.mp3",
       "t0": 0,
       "t1": 3.04,
       "words": [
@@ -33319,8 +32376,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1115": {
-      "clip": "audio/sent_new/1115.mp3",
+    "1047": {
+      "clip": "audio/sent_new/1047.mp3",
       "t0": 0,
       "t1": 5.36,
       "words": [
@@ -33369,8 +32426,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1116": {
-      "clip": "audio/sent_new/1116.mp3",
+    "1048": {
+      "clip": "audio/sent_new/1048.mp3",
       "t0": 0,
       "t1": 5.1,
       "words": [
@@ -33419,8 +32476,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1117": {
-      "clip": "audio/sent_new/1117.mp3",
+    "1049": {
+      "clip": "audio/sent_new/1049.mp3",
       "t0": 0,
       "t1": 4.35,
       "words": [
@@ -33463,8 +32520,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1118": {
-      "clip": "audio/sent_new/1118.mp3",
+    "1050": {
+      "clip": "audio/sent_new/1050.mp3",
       "t0": 0,
       "t1": 4.07,
       "words": [
@@ -33501,8 +32558,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1119": {
-      "clip": "audio/sent_new/1119.mp3",
+    "1051": {
+      "clip": "audio/sent_new/1051.mp3",
       "t0": 0,
       "t1": 4.07,
       "words": [
@@ -33539,8 +32596,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1120": {
-      "clip": "audio/sent_new/1120.mp3",
+    "1052": {
+      "clip": "audio/sent_new/1052.mp3",
       "t0": 0,
       "t1": 4.03,
       "words": [
@@ -33577,8 +32634,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1121": {
-      "clip": "audio/sent_new/1121.mp3",
+    "1053": {
+      "clip": "audio/sent_new/1053.mp3",
       "t0": 0,
       "t1": 4.26,
       "words": [
@@ -33615,8 +32672,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1122": {
-      "clip": "audio/sent_new/1122.mp3",
+    "1054": {
+      "clip": "audio/sent_new/1054.mp3",
       "t0": 0,
       "t1": 4.58,
       "words": [
@@ -33653,8 +32710,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1123": {
-      "clip": "audio/sent_new/1123.mp3",
+    "1055": {
+      "clip": "audio/sent_new/1055.mp3",
       "t0": 0,
       "t1": 4.65,
       "words": [
@@ -33691,8 +32748,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1124": {
-      "clip": "audio/sent_new/1124.mp3",
+    "1056": {
+      "clip": "audio/sent_new/1056.mp3",
       "t0": 0,
       "t1": 4.19,
       "words": [
@@ -33729,8 +32786,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1125": {
-      "clip": "audio/sent_new/1125.mp3",
+    "1057": {
+      "clip": "audio/sent_new/1057.mp3",
       "t0": 0,
       "t1": 3.09,
       "words": [
@@ -33749,8 +32806,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1126": {
-      "clip": "audio/sent_new/1126.mp3",
+    "1058": {
+      "clip": "audio/sent_new/1058.mp3",
       "t0": 0,
       "t1": 4.64,
       "words": [
@@ -33787,8 +32844,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1127": {
-      "clip": "audio/sent_new/1127.mp3",
+    "1059": {
+      "clip": "audio/sent_new/1059.mp3",
       "t0": 0,
       "t1": 4.01,
       "words": [
@@ -33825,8 +32882,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1128": {
-      "clip": "audio/sent_new/1128.mp3",
+    "1060": {
+      "clip": "audio/sent_new/1060.mp3",
       "t0": 0,
       "t1": 4.24,
       "words": [
@@ -33863,8 +32920,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1129": {
-      "clip": "audio/sent_new/1129.mp3",
+    "1061": {
+      "clip": "audio/sent_new/1061.mp3",
       "t0": 0,
       "t1": 3.8,
       "words": [
@@ -33901,8 +32958,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1130": {
-      "clip": "audio/sent_new/1130.mp3",
+    "1062": {
+      "clip": "audio/sent_new/1062.mp3",
       "t0": 0,
       "t1": 2.86,
       "words": [
@@ -33933,8 +32990,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1131": {
-      "clip": "audio/sent_new/1131.mp3",
+    "1063": {
+      "clip": "audio/sent_new/1063.mp3",
       "t0": 0,
       "t1": 2.2,
       "words": [
@@ -33959,8 +33016,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1132": {
-      "clip": "audio/sent_new/1132.mp3",
+    "1064": {
+      "clip": "audio/sent_new/1064.mp3",
       "t0": 0,
       "t1": 2.96,
       "words": [
@@ -33991,8 +33048,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1133": {
-      "clip": "audio/sent_new/1133.mp3",
+    "1065": {
+      "clip": "audio/sent_new/1065.mp3",
       "t0": 0,
       "t1": 2.17,
       "words": [
@@ -34017,8 +33074,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1134": {
-      "clip": "audio/sent_new/1134.mp3",
+    "1066": {
+      "clip": "audio/sent_new/1066.mp3",
       "t0": 0,
       "t1": 2.41,
       "words": [
@@ -34043,8 +33100,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1135": {
-      "clip": "audio/sent_new/1135.mp3",
+    "1067": {
+      "clip": "audio/sent_new/1067.mp3",
       "t0": 0,
       "t1": 2.55,
       "words": [
@@ -34075,8 +33132,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1136": {
-      "clip": "audio/sent_new/1136.mp3",
+    "1068": {
+      "clip": "audio/sent_new/1068.mp3",
       "t0": 0,
       "t1": 2.54,
       "words": [
@@ -34101,8 +33158,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1137": {
-      "clip": "audio/sent_new/1137.mp3",
+    "1069": {
+      "clip": "audio/sent_new/1069.mp3",
       "t0": 0,
       "t1": 2.29,
       "words": [
@@ -34133,8 +33190,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1138": {
-      "clip": "audio/sent_new/1138.mp3",
+    "1070": {
+      "clip": "audio/sent_new/1070.mp3",
       "t0": 0,
       "t1": 2.485,
       "words": [
@@ -34159,8 +33216,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1139": {
-      "clip": "audio/sent_new/1139.mp3",
+    "1071": {
+      "clip": "audio/sent_new/1071.mp3",
       "t0": 0,
       "t1": 2.585,
       "words": [
@@ -34191,8 +33248,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1140": {
-      "clip": "audio/sent_new/1140.mp3",
+    "1072": {
+      "clip": "audio/sent_new/1072.mp3",
       "t0": 0,
       "t1": 2.34,
       "words": [
@@ -34217,8 +33274,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1141": {
-      "clip": "audio/sent_new/1141.mp3",
+    "1073": {
+      "clip": "audio/sent_new/1073.mp3",
       "t0": 0,
       "t1": 2.43,
       "words": [
@@ -34249,8 +33306,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1142": {
-      "clip": "audio/sent_new/1142.mp3",
+    "1074": {
+      "clip": "audio/sent_new/1074.mp3",
       "t0": 0,
       "t1": 3.52,
       "words": [
@@ -34269,8 +33326,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1143": {
-      "clip": "audio/sent_new/1143.mp3",
+    "1075": {
+      "clip": "audio/sent_new/1075.mp3",
       "t0": 0,
       "t1": 3.43,
       "words": [
@@ -34295,8 +33352,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1144": {
-      "clip": "audio/sent_new/1144.mp3",
+    "1076": {
+      "clip": "audio/sent_new/1076.mp3",
       "t0": 0,
       "t1": 3.07,
       "words": [
@@ -34327,8 +33384,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1145": {
-      "clip": "audio/sent_new/1145.mp3",
+    "1077": {
+      "clip": "audio/sent_new/1077.mp3",
       "t0": 0,
       "t1": 2.84,
       "words": [
@@ -34353,8 +33410,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1146": {
-      "clip": "audio/sent_new/1146.mp3",
+    "1078": {
+      "clip": "audio/sent_new/1078.mp3",
       "t0": 0,
       "t1": 2.65,
       "words": [
@@ -34385,8 +33442,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1147": {
-      "clip": "audio/sent_new/1147.mp3",
+    "1079": {
+      "clip": "audio/sent_new/1079.mp3",
       "t0": 0,
       "t1": 2.395,
       "words": [
@@ -34411,8 +33468,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1148": {
-      "clip": "audio/sent_new/1148.mp3",
+    "1080": {
+      "clip": "audio/sent_new/1080.mp3",
       "t0": 0,
       "t1": 2.505,
       "words": [
@@ -34443,8 +33500,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1149": {
-      "clip": "audio/sent_new/1149.mp3",
+    "1081": {
+      "clip": "audio/sent_new/1081.mp3",
       "t0": 0,
       "t1": 2.49,
       "words": [
@@ -34469,8 +33526,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1150": {
-      "clip": "audio/sent_new/1150.mp3",
+    "1082": {
+      "clip": "audio/sent_new/1082.mp3",
       "t0": 0,
       "t1": 2.54,
       "words": [
@@ -34501,8 +33558,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1151": {
-      "clip": "audio/sent_new/1151.mp3",
+    "1083": {
+      "clip": "audio/sent_new/1083.mp3",
       "t0": 0,
       "t1": 3.8,
       "words": [
@@ -34533,8 +33590,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1152": {
-      "clip": "audio/sent_new/1152.mp3",
+    "1084": {
+      "clip": "audio/sent_new/1084.mp3",
       "t0": 0,
       "t1": 3.16,
       "words": [
@@ -34565,8 +33622,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1153": {
-      "clip": "audio/sent_new/1153.mp3",
+    "1085": {
+      "clip": "audio/sent_new/1085.mp3",
       "t0": 0,
       "t1": 3.45,
       "words": [
@@ -34591,8 +33648,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1154": {
-      "clip": "audio/sent_new/1154.mp3",
+    "1086": {
+      "clip": "audio/sent_new/1086.mp3",
       "t0": 0,
       "t1": 3.2,
       "words": [
@@ -34623,8 +33680,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1155": {
-      "clip": "audio/sent_new/1155.mp3",
+    "1087": {
+      "clip": "audio/sent_new/1087.mp3",
       "t0": 0,
       "t1": 3.15,
       "words": [
@@ -34649,8 +33706,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1156": {
-      "clip": "audio/sent_new/1156.mp3",
+    "1088": {
+      "clip": "audio/sent_new/1088.mp3",
       "t0": 0,
       "t1": 3.17,
       "words": [
@@ -34681,8 +33738,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1157": {
-      "clip": "audio/sent_new/1157.mp3",
+    "1089": {
+      "clip": "audio/sent_new/1089.mp3",
       "t0": 0,
       "t1": 5.6,
       "words": [
@@ -34725,8 +33782,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1158": {
-      "clip": "audio/sent_new/1158.mp3",
+    "1090": {
+      "clip": "audio/sent_new/1090.mp3",
       "t0": 0,
       "t1": 4.16,
       "words": [
@@ -34757,8 +33814,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1159": {
-      "clip": "audio/sent_new/1159.mp3",
+    "1091": {
+      "clip": "audio/sent_new/1091.mp3",
       "t0": 0,
       "t1": 4.83,
       "words": [
@@ -34813,8 +33870,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1160": {
-      "clip": "audio/sent_new/1160.mp3",
+    "1092": {
+      "clip": "audio/sent_new/1092.mp3",
       "t0": 0,
       "t1": 3.45,
       "words": [
@@ -34845,8 +33902,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1161": {
-      "clip": "audio/sent_new/1161.mp3",
+    "1093": {
+      "clip": "audio/sent_new/1093.mp3",
       "t0": 0,
       "t1": 2.42,
       "words": [
@@ -34877,8 +33934,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1162": {
-      "clip": "audio/sent_new/1162.mp3",
+    "1094": {
+      "clip": "audio/sent_new/1094.mp3",
       "t0": 0,
       "t1": 3.01,
       "words": [
@@ -34909,8 +33966,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1163": {
-      "clip": "audio/sent_new/1163.mp3",
+    "1095": {
+      "clip": "audio/sent_new/1095.mp3",
       "t0": 0,
       "t1": 4.52,
       "words": [
@@ -34953,8 +34010,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1164": {
-      "clip": "audio/sent_new/1164.mp3",
+    "1096": {
+      "clip": "audio/sent_new/1096.mp3",
       "t0": 0,
       "t1": 2.77,
       "words": [
@@ -34985,8 +34042,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1165": {
-      "clip": "audio/sent_new/1165.mp3",
+    "1097": {
+      "clip": "audio/sent_new/1097.mp3",
       "t0": 0,
       "t1": 4.02,
       "words": [
@@ -35029,8 +34086,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1166": {
-      "clip": "audio/sent_new/1166.mp3",
+    "1098": {
+      "clip": "audio/sent_new/1098.mp3",
       "t0": 0,
       "t1": 2.88,
       "words": [
@@ -35061,8 +34118,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1167": {
-      "clip": "audio/sent_new/1167.mp3",
+    "1099": {
+      "clip": "audio/sent_new/1099.mp3",
       "t0": 0,
       "t1": 3.205,
       "words": [
@@ -35111,8 +34168,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1168": {
-      "clip": "audio/sent_new/1168.mp3",
+    "1100": {
+      "clip": "audio/sent_new/1100.mp3",
       "t0": 0,
       "t1": 1.965,
       "words": [
@@ -35137,8 +34194,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1169": {
-      "clip": "audio/sent_new/1169.mp3",
+    "1101": {
+      "clip": "audio/sent_new/1101.mp3",
       "t0": 0,
       "t1": 4.94,
       "words": [
@@ -35199,8 +34256,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1170": {
-      "clip": "audio/sent_new/1170.mp3",
+    "1102": {
+      "clip": "audio/sent_new/1102.mp3",
       "t0": 0,
       "t1": 2.01,
       "words": [
@@ -35225,8 +34282,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1171": {
-      "clip": "audio/sent_new/1171.mp3",
+    "1103": {
+      "clip": "audio/sent_new/1103.mp3",
       "t0": 0,
       "t1": 3.99,
       "words": [
@@ -35287,8 +34344,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1172": {
-      "clip": "audio/sent_new/1172.mp3",
+    "1104": {
+      "clip": "audio/sent_new/1104.mp3",
       "t0": 0,
       "t1": 2.66,
       "words": [
@@ -35313,8 +34370,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1173": {
-      "clip": "audio/sent_new/1173.mp3",
+    "1105": {
+      "clip": "audio/sent_new/1105.mp3",
       "t0": 0,
       "t1": 2.84,
       "words": [
@@ -35333,8 +34390,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1174": {
-      "clip": "audio/sent_new/1174.mp3",
+    "1106": {
+      "clip": "audio/sent_new/1106.mp3",
       "t0": 0,
       "t1": 4.44,
       "words": [
@@ -35371,8 +34428,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1175": {
-      "clip": "audio/sent_new/1175.mp3",
+    "1107": {
+      "clip": "audio/sent_new/1107.mp3",
       "t0": 0,
       "t1": 3.85,
       "words": [
@@ -35403,8 +34460,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1176": {
-      "clip": "audio/sent_new/1176.mp3",
+    "1108": {
+      "clip": "audio/sent_new/1108.mp3",
       "t0": 0,
       "t1": 3.72,
       "words": [
@@ -35435,8 +34492,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1177": {
-      "clip": "audio/sent_new/1177.mp3",
+    "1109": {
+      "clip": "audio/sent_new/1109.mp3",
       "t0": 0,
       "t1": 3.78,
       "words": [
@@ -35467,8 +34524,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1178": {
-      "clip": "audio/sent_new/1178.mp3",
+    "1110": {
+      "clip": "audio/sent_new/1110.mp3",
       "t0": 0,
       "t1": 2.09,
       "words": [
@@ -35481,8 +34538,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1179": {
-      "clip": "audio/sent_new/1179.mp3",
+    "1111": {
+      "clip": "audio/sent_new/1111.mp3",
       "t0": 0,
       "t1": 2.635,
       "words": [
@@ -35513,8 +34570,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1180": {
-      "clip": "audio/sent_new/1180.mp3",
+    "1112": {
+      "clip": "audio/sent_new/1112.mp3",
       "t0": 0,
       "t1": 1.172,
       "words": [
@@ -35539,8 +34596,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1181": {
-      "clip": "audio/sent_new/1181.mp3",
+    "1113": {
+      "clip": "audio/sent_new/1113.mp3",
       "t0": 0,
       "t1": 2.13,
       "words": [
@@ -35565,8 +34622,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1182": {
-      "clip": "audio/sent_new/1182.mp3",
+    "1114": {
+      "clip": "audio/sent_new/1114.mp3",
       "t0": 0,
       "t1": 2.05,
       "words": [
@@ -35591,8 +34648,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1183": {
-      "clip": "audio/sent_new/1183.mp3",
+    "1115": {
+      "clip": "audio/sent_new/1115.mp3",
       "t0": 0,
       "t1": 1.85,
       "words": [
@@ -35611,8 +34668,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1184": {
-      "clip": "audio/sent_new/1184.mp3",
+    "1116": {
+      "clip": "audio/sent_new/1116.mp3",
       "t0": 0,
       "t1": 5.39,
       "words": [
@@ -35643,8 +34700,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1185": {
-      "clip": "audio/sent_new/1185.mp3",
+    "1117": {
+      "clip": "audio/sent_new/1117.mp3",
       "t0": 0,
       "t1": 2.1,
       "words": [
@@ -35663,8 +34720,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1186": {
-      "clip": "audio/sent_new/1186.mp3",
+    "1118": {
+      "clip": "audio/sent_new/1118.mp3",
       "t0": 0,
       "t1": 2.02,
       "words": [
@@ -35683,8 +34740,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1187": {
-      "clip": "audio/sent_new/1187.mp3",
+    "1119": {
+      "clip": "audio/sent_new/1119.mp3",
       "t0": 0,
       "t1": 1.86,
       "words": [
@@ -35703,8 +34760,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1188": {
-      "clip": "audio/sent_new/1188.mp3",
+    "1120": {
+      "clip": "audio/sent_new/1120.mp3",
       "t0": 0,
       "t1": 2.76,
       "words": [
@@ -35723,8 +34780,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1189": {
-      "clip": "audio/sent_new/1189.mp3",
+    "1121": {
+      "clip": "audio/sent_new/1121.mp3",
       "t0": 0,
       "t1": 1.39,
       "words": [
@@ -35737,8 +34794,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1190": {
-      "clip": "audio/sent_new/1190.mp3",
+    "1122": {
+      "clip": "audio/sent_new/1122.mp3",
       "t0": 0,
       "t1": 1.42,
       "words": [
@@ -35751,8 +34808,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1191": {
-      "clip": "audio/sent_new/1191.mp3",
+    "1123": {
+      "clip": "audio/sent_new/1123.mp3",
       "t0": 0,
       "t1": 2.43,
       "words": [
@@ -35765,8 +34822,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1192": {
-      "clip": "audio/sent_new/1192.mp3",
+    "1124": {
+      "clip": "audio/sent_new/1124.mp3",
       "t0": 0,
       "t1": 4.99,
       "words": [
@@ -35809,8 +34866,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1193": {
-      "clip": "audio/sent_new/1193.mp3",
+    "1125": {
+      "clip": "audio/sent_new/1125.mp3",
       "t0": 0,
       "t1": 4.1,
       "words": [
@@ -35841,8 +34898,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1194": {
-      "clip": "audio/sent_new/1194.mp3",
+    "1126": {
+      "clip": "audio/sent_new/1126.mp3",
       "t0": 0,
       "t1": 4.05,
       "words": [
@@ -35873,8 +34930,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1195": {
-      "clip": "audio/sent_new/1195.mp3",
+    "1127": {
+      "clip": "audio/sent_new/1127.mp3",
       "t0": 0,
       "t1": 5.13,
       "words": [
@@ -35905,8 +34962,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1196": {
-      "clip": "audio/sent_new/1196.mp3",
+    "1128": {
+      "clip": "audio/sent_new/1128.mp3",
       "t0": 0,
       "t1": 5.8,
       "words": [
@@ -35943,8 +35000,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1197": {
-      "clip": "audio/sent_new/1197.mp3",
+    "1129": {
+      "clip": "audio/sent_new/1129.mp3",
       "t0": 0,
       "t1": 3,
       "words": [
@@ -35975,8 +35032,8 @@ window.PM_AUDIO = {
       ],
       "rep": 1
     },
-    "1198": {
-      "clip": "audio/sent_new/1198.mp3",
+    "1130": {
+      "clip": "audio/sent_new/1130.mp3",
       "t0": 0,
       "t1": 3.27,
       "rep": 1,
@@ -36007,8 +35064,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1199": {
-      "clip": "audio/sent_new/1199.mp3",
+    "1131": {
+      "clip": "audio/sent_new/1131.mp3",
       "t0": 0,
       "t1": 3.35,
       "rep": 1,
@@ -36039,8 +35096,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1200": {
-      "clip": "audio/sent_new/1200.mp3",
+    "1132": {
+      "clip": "audio/sent_new/1132.mp3",
       "t0": 0,
       "t1": 4.15,
       "rep": 1,
@@ -36071,8 +35128,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1201": {
-      "clip": "audio/sent_new/1201.mp3",
+    "1133": {
+      "clip": "audio/sent_new/1133.mp3",
       "t0": 0,
       "t1": 2.83,
       "rep": 1,
@@ -36103,8 +35160,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1202": {
-      "clip": "audio/sent_new/1202.mp3",
+    "1134": {
+      "clip": "audio/sent_new/1134.mp3",
       "t0": 0,
       "t1": 3.88,
       "rep": 1,
@@ -36141,8 +35198,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1203": {
-      "clip": "audio/sent_new/1203.mp3",
+    "1135": {
+      "clip": "audio/sent_new/1135.mp3",
       "t0": 0,
       "t1": 3.45,
       "rep": 1,
@@ -36173,8 +35230,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1204": {
-      "clip": "audio/sent_new/1204.mp3",
+    "1136": {
+      "clip": "audio/sent_new/1136.mp3",
       "t0": 0,
       "t1": 3.68,
       "rep": 1,
@@ -36205,8 +35262,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1205": {
-      "clip": "audio/sent_new/1205.mp3",
+    "1137": {
+      "clip": "audio/sent_new/1137.mp3",
       "t0": 0,
       "t1": 2.88,
       "rep": 1,
@@ -36231,8 +35288,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1206": {
-      "clip": "audio/sent_new/1206.mp3",
+    "1138": {
+      "clip": "audio/sent_new/1138.mp3",
       "t0": 0,
       "t1": 3.66,
       "rep": 1,
@@ -36263,8 +35320,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1207": {
-      "clip": "audio/sent_new/1207.mp3",
+    "1139": {
+      "clip": "audio/sent_new/1139.mp3",
       "t0": 0,
       "t1": 7.91,
       "rep": 1,
@@ -36319,8 +35376,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1208": {
-      "clip": "audio/sent_new/1208.mp3",
+    "1140": {
+      "clip": "audio/sent_new/1140.mp3",
       "t0": 0,
       "t1": 5.24,
       "rep": 1,
@@ -36363,8 +35420,8 @@ window.PM_AUDIO = {
         }
       ]
     },
-    "1210": {
-      "clip": "audio/sent_new/1210.mp3",
+    "1142": {
+      "clip": "audio/sent_new/1142.mp3",
       "t0": 0,
       "t1": 2.76,
       "rep": 1,
@@ -36453,853 +35510,828 @@ window.PM_AUDIO = {
     "parisuddhetthāyasmanto": 67,
     "tasmā tuṇhī evametaṃ dhārayāmīti": 68,
     "nidānaṃ niṭṭhitaṃ": 69,
-    "tatrime cattāro pārājikādhammā uddesaṃ āgacchanti": 80,
-    "yo pana bhikkhu bhikkhūnaṃ sikkhā-sājīva-samāpanno": 81,
-    "sikkhaṃ appaccakkhāya dubbalyaṃ anāvikatvā": 82,
-    "methunaṃ dhammaṃ paṭiseveyya": 83,
-    "antamaso tiracchāna-gatāyapi": 84,
-    "pārājiko hoti asaṃvāso": 85,
-    "yo pana bhikkhu gāmā vā araññā vā": 86,
-    "adinnaṃ theyya-saṅkhātaṃ ādiyeyya": 87,
-    "yathārūpe adinnādāne rājāno coraṃ gahetvā": 88,
-    "haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā": 89,
-    "corosi bālosi mūḷhosi thenosīti": 90,
-    "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno": 91,
-    "ayampi pārājiko hoti asaṃvāso": 92,
-    "yo pana bhikkhu sañcicca": 93,
-    "manussa-viggahaṃ jīvitā voropeyya": 94,
-    "sattha-hārakaṃ vāssa pariyeseyya": 95,
-    "maraṇa-vaṇṇaṃ vā saṃvaṇṇeyya": 96,
-    "maraṇāya vā samādapeyya": 97,
-    "ambho purisa kiṃ": 98,
-    "tuyhiminā pāpakena dujjīvitena": 99,
-    "mataṃ te jīvitā seyyo ti": 100,
-    "iti cittamano cittasaṅkappo": 101,
-    "aneka-pariyāyena maraṇa-vaṇṇaṃ vā saṃvaṇṇeyya": 102,
-    "yo pana bhikkhu anabhijānaṃ": 105,
-    "uttari-manussa-dhammaṃ attupanāyikaṃ": 106,
-    "alamariya-ñāṇadassanaṃ samudācareyya": 107,
-    "iti jānāmi iti passāmī ti": 108,
-    "tato aparena samayena": 109,
-    "samanu|ggāhīyamāno vā asamanu|ggāhīyamāno vā": 110,
-    "āpanno visuddhāpekkho evaṃ vadeyya": 111,
-    "ajānamevaṃ āvuso avacaṃ jānāmi": 112,
-    "apassaṃ passāmi": 113,
-    "tucchaṃ musā vilapin ti": 114,
-    "aññatra adhimānā ayampi pārājiko hoti asaṃvāso": 115,
-    "uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā": 116,
-    "yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā": 117,
-    "na labhati bhikkhūhi saddhiṃ saṃvāsaṃ": 118,
-    "yathā pure tathā pacchā": 119,
-    "pārājikuddeso dutiyo": 126,
-    "ime kho panāyasmanto": 136,
-    "terasa saṅghādisesā dhammā uddesaṃ āgacchanti": 137,
-    "sañcetanikā sukka-vissaṭṭhi": 138,
-    "aññatra supinantā saṅghādiseso": 139,
-    "yo pana bhikkhu otiṇṇo": 140,
-    "vipariṇatena cittena": 141,
-    "mātu-gāmena saddhiṃ": 142,
-    "kāya-saṃsaggaṃ samāpajjeyya": 143,
-    "hattha-ggāhaṃ vā veṇi-ggāhaṃ vā": 144,
-    "aññatarassa vā aññatarassa vā": 145,
-    "aṅgassa parāmasanaṃ saṅghādiseso": 146,
-    "vipariṇatena cittena mātu-gāmaṃ": 148,
-    "duṭṭhullāhi vācāhi obhāseyya": 149,
-    "yathā taṃ yuvā yuvatiṃ": 150,
-    "methun'upasaṃhitāhi saṅghādiseso": 151,
-    "vipariṇatena cittena mātu-gāmassa santike": 153,
-    "atta-kāma-pāricariyāya vaṇṇaṃ bhāseyya": 154,
-    "etadaggaṃ bhagini pāricariyānaṃ": 155,
-    "yā mādisaṃ sīlavantaṃ kalyāṇa-dhammaṃ brahma-cāriṃ": 156,
-    "etena dhammena paricareyyā ti": 157,
-    "methun'upasaṃhitena saṅghādiseso": 158,
-    "yo pana bhikkhu sañcarittaṃ samāpajjeyya": 159,
-    "itthiyā vā purisa-matiṃ": 160,
-    "purisassa vā itthi-matiṃ": 161,
-    "jāyattane vā jārattane vā": 162,
-    "antamaso taṅkhaṇikāyapi saṅghādiseso": 163,
-    "saññācikāya pana bhikkhunā kuṭiṃ kārayamānena": 164,
-    "assāmikaṃ attuddesaṃ pamāṇikā kāretabbā": 165,
-    "tatridaṃ pamāṇaṃ": 166,
-    "dīghaso dvādasa vidatthiyo sugata-vidatthiyā": 167,
-    "tiriyaṃ satt'antarā": 168,
-    "bhikkhū abhinetabbā vatthu-desanāya": 169,
-    "tehi bhikkhūhi vatthu desetabbaṃ": 170,
-    "anārambhaṃ saparikkamanaṃ": 171,
-    "sārambhe ce bhikkhu vatthusmiṃ aparikkamane": 172,
-    "saññācikāya kuṭiṃ kāreyya": 173,
-    "bhikkhū vā anabhineyya vatthu-desanāya": 174,
-    "pamāṇaṃ vā atikkāmeyya saṅghādiseso": 175,
-    "mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena": 176,
-    "sassāmikaṃ attuddesaṃ": 177,
-    "mahallakaṃ vihāraṃ kāreyya": 182,
-    "bhikkhū vā anabhineyya vatthu-desanāya saṅghādiseso": 183,
-    "yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto": 184,
-    "amūlakena pārājikena dhammena anuddhaṃseyya": 185,
-    "appeva nāma naṃ imamhā brahma-cariyā cāveyyan ti": 186,
-    "samanuggāhīyamāno vā asamanuggāhīyamāno vā": 188,
-    "amūlakañceva taṃ adhikaraṇaṃ hoti": 189,
-    "bhikkhu ca dosaṃ patiṭṭhāti saṅghādiseso": 190,
-    "añña-bhāgiyassa adhikaraṇassa": 192,
-    "kiñcidesaṃ lesa-mattaṃ upādāya": 193,
-    "pārājikena dhammena anuddhaṃseyya": 194,
-    "añña-bhāgiyañceva taṃ adhikaraṇaṃ hoti": 198,
-    "kocideso lesa-matto upādinno": 199,
-    "yo pana bhikkhu samaggassa saṅghassa": 201,
-    "bhedāya parakkameyya": 202,
-    "bhedana-saṃvattanikaṃ vā adhikaraṇaṃ": 203,
-    "samādāya paggayha tiṭṭheyya": 204,
-    "so bhikkhu bhikkhūhi evam·assa vacanīyo": 205,
-    "māyasmā samaggassa saṅghassa": 206,
-    "bhedāya parakkami": 207,
-    "samādāya paggayha aṭṭhāsi": 209,
-    "sametāyasmā saṅghena samaggo hi saṅgho": 210,
-    "sammodamāno avivadamāno": 211,
-    "ekuddeso phāsu viharatī ti": 212,
-    "evañca so bhikkhu bhikkhūhi": 213,
-    "vuccamāno tatheva paggaṇheyya": 214,
-    "so bhikkhu bhikkhūhi": 215,
-    "yāva-tatiyaṃ samanubhāsitabbo": 216,
-    "tassa paṭinissaggāya": 217,
-    "yāva-tatiyañce samanubhāsiyamāno": 218,
-    "taṃ paṭinissajjeyya": 219,
-    "iccetaṃ kusalaṃ": 220,
-    "no ce paṭinissajjeyya saṅghādiseso": 221,
-    "tasseva kho pana bhikkhussa bhikkhū honti": 222,
-    "anuvattakā vagga-vādakā": 223,
-    "eko vā dve vā tayo vā": 224,
-    "te evaṃ vadeyyuṃ": 225,
-    "māyasmanto etaṃ bhikkhuṃ kiñci avacuttha": 226,
-    "dhamma-vādī ceso bhikkhu": 227,
-    "vinaya-vādī ceso bhikkhu": 228,
-    "amhākañceso bhikkhu": 229,
-    "chandañca ruciñca ādāya voharati": 230,
-    "jānāti no bhāsati": 231,
-    "amhākampetaṃ khamatī ti": 232,
-    "te bhikkhū bhikkhūhi evamassu vacanīyā": 233,
-    "māyasmanto evaṃ avacuttha": 234,
-    "na ceso bhikkhu dhamma-vādī": 235,
-    "na ceso bhikkhu vinaya-vādī": 236,
-    "māyasmantānampi saṅghabhedo ruccittha": 237,
-    "sametāyasmantānaṃ saṅghena": 238,
-    "samaggo hi saṅgho": 239,
-    "evañca te bhikkhū bhikkhūhi": 242,
-    "vuccamānā tatheva paggaṇheyyuṃ": 243,
-    "te bhikkhū bhikkhūhi": 244,
-    "yāva-tatiyaṃ samanubhāsitabbā": 245,
-    "yāva-tatiyañce samanubhāsiyamānā": 247,
-    "taṃ paṭinissajjeyyuṃ": 248,
-    "no ce paṭinissajjeyyuṃ saṅghādiseso": 250,
-    "bhikkhu paneva dubbaca-jātiko hoti": 251,
-    "uddesa-pariyāpannesu sikkhā-padesu": 252,
-    "bhikkhūhi saha-dhammikaṃ vuccamāno": 253,
-    "attānaṃ avacanīyaṃ karoti": 254,
-    "mā maṃ āyasmanto kiñci avacuttha": 255,
-    "kalyāṇaṃ vā pāpakaṃ vā": 256,
-    "ahampāyasmante na kiñci vakkhāmi": 257,
-    "viramathāyasmanto mama vacanāyā ti": 259,
-    "māyasmā attānaṃ avacanīyaṃ akāsi": 261,
-    "vacanīyamevāyasmā attānaṃ karotu": 262,
-    "āyasmāpi bhikkhū vadatu saha-dhammena": 263,
-    "bhikkhūpi āyasmantaṃ vakkhanti saha-dhammena": 264,
-    "evaṃ saṃvaddhā hi tassa bhagavato parisā": 265,
-    "yadidaṃ aññamañña-vacanena": 266,
-    "aññamañña-vuṭṭhāpanenā ti": 267,
-    "bhikkhu paneva aññataraṃ": 277,
-    "gāmaṃ vā nigamaṃ vā upanissāya": 278,
-    "viharati kula-dūsako pāpa-samācāro": 279,
-    "tassa kho pāpakā samācārā": 280,
-    "dissanti ceva suyyanti ca": 281,
-    "kulāni ca tena duṭṭhāni": 282,
-    "āyasmā kho kula-dūsako pāpa-samācāro": 285,
-    "āyasmato kho pāpakā samācārā": 286,
-    "kulāni cāyasmatā duṭṭhāni": 288,
-    "pakkamatāyasmā imamhā āvāsā": 290,
-    "alaṃ te idha vāsenā ti": 291,
-    "evañca so bhikkhu bhikkhūhi vuccamāno": 292,
-    "te bhikkhū evaṃ vadeyya": 293,
-    "chanda-gāmino ca bhikkhū": 294,
-    "dosa-gāmino ca bhikkhū": 295,
-    "moha-gāmino ca bhikkhū": 296,
-    "bhaya-gāmino ca bhikkhū": 297,
-    "tādisikāya āpattiyā ekaccaṃ pabbājenti": 298,
-    "ekaccaṃ na pabbājentī ti": 299,
-    "māyasmā evaṃ avaca": 301,
-    "na ca bhikkhū chanda-gāmino": 302,
-    "na ca bhikkhū dosa-gāmino": 303,
-    "na ca bhikkhū moha-gāmino": 304,
-    "na ca bhikkhū bhaya-gāmino": 305,
-    "tatheva paggaṇheyya": 314,
-    "uddiṭṭhā kho āyasmanto": 322,
-    "nava paṭhamāpattikā": 324,
-    "cattāro yāva-tatiyakā": 325,
-    "yāvatīhaṃ jānaṃ paṭicchādeti": 327,
-    "tāvatīhaṃ tena bhikkhunā akāmā parivatthabbaṃ": 328,
-    "parivuttha-parivāsena bhikkhunā": 329,
-    "uttari chārattaṃ bhikkhu-mānattāya paṭipajjitabbaṃ": 330,
-    "ciṇṇa-mānatto bhikkhu": 331,
-    "yattha siyā vīsati-gaṇo bhikkhusaṅgho": 332,
-    "tattha so bhikkhu abbhetabbo": 333,
-    "ekenapi ce ūno vīsati-gaṇo": 334,
-    "bhikkhu-saṅgho taṃ bhikkhuṃ abbheyya": 335,
-    "so ca bhikkhu anabbhito": 336,
-    "te ca bhikkhū gārayhā": 337,
-    "ayaṃ tattha sāmīci": 338,
-    "saṅghādiseso niṭṭhito": 344,
-    "dve aniyatā dhammā uddesaṃ āgacchanti": 354,
-    "yo pana bhikkhu mātu-gāmena saddhiṃ eko ekāya": 355,
-    "raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappeyya": 356,
-    "tamenaṃ saddheyya-vacasā upāsikā disvā": 357,
-    "tiṇṇaṃ dhammānaṃ aññatarena vadeyya": 358,
-    "pārājikena vā saṅghādisesena vā pācittiyena vā": 359,
-    "nisajjaṃ bhikkhu paṭijānamāno": 360,
-    "tiṇṇaṃ dhammānaṃ aññatarena kāretabbo": 361,
-    "yena vā sā saddheyya-vacasā upāsikā vadeyya": 363,
-    "tena so bhikkhu kāretabbo": 364,
-    "ayaṃ dhammo aniyato": 365,
-    "na heva kho pana paṭicchannaṃ āsanaṃ hoti": 366,
-    "nālaṃkammaniyaṃ": 367,
-    "alañca kho hoti": 368,
-    "mātu-gāmaṃ duṭṭhullāhi vācāhi obhāsituṃ": 369,
-    "yo pana bhikkhu tathārūpe āsane mātu-gāmena saddhiṃ": 370,
-    "eko ekāya raho nisajjaṃ kappeyya": 371,
-    "dvinnaṃ dhammānaṃ aññatarena vadeyya": 373,
-    "saṅghādisesena vā pācittiyena vā": 374,
-    "dvinnaṃ dhammānaṃ aññatarena kāretabbo": 376,
-    "ayampi dhammo aniyato": 380,
-    "uddiṭṭhā kho āyasmanto dve aniyatā dhammā": 381,
-    "aniyato niṭṭhito": 387,
-    "uddesaṃ āgacchanti": 397,
-    "niṭṭhita-cīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine": 398,
-    "dasāha-paramaṃ atireka-cīvaraṃ dhāretabbaṃ": 399,
-    "taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ": 400,
-    "eka-rattampi ce bhikkhu ticīvarena vippavaseyya": 402,
-    "aññatra bhikkhu-sammutiyā nissaggiyaṃ pācittiyaṃ": 403,
-    "bhikkhuno paneva akāla-cīvaraṃ uppajjeyya": 405,
-    "ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ": 406,
-    "paṭiggahetvā khippameva kāretabbaṃ": 407,
-    "no cassa pāripūri": 408,
-    "māsa-paramaṃ tena bhikkhunā": 409,
-    "taṃ cīvaraṃ nikkhipitabbaṃ": 410,
-    "ūnassa pāripūriyā": 411,
-    "satiyā paccāsāya": 412,
-    "tato ce uttari nikkhipeyya": 413,
-    "satiyāpi paccāsāya": 414,
-    "nissaggiyaṃ pācittiyaṃ": 415,
-    "yo pana bhikkhu aññātikāya bhikkhuniyā": 416,
-    "purāṇa-cīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā": 417,
-    "hatthato cīvaraṃ paṭiggaṇheyya": 420,
-    "aññatra pārivattakā": 421,
-    "yo pana bhikkhu aññātakaṃ": 423,
-    "gaha-patiṃ vā gaha-patāniṃ vā": 424,
-    "cīvaraṃ viññāpeyya": 425,
-    "aññatra samayā": 426,
-    "tatthāyaṃ samayo": 428,
-    "acchinna-cīvaro vā hoti bhikkhu": 429,
-    "naṭṭha-cīvaro vā": 430,
-    "ayaṃ tattha samayo": 431,
-    "tañce aññātako gaha-pati vā gahapatānī vā": 432,
-    "bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya": 433,
-    "santaruttara-paramaṃ tena bhikkhunā": 434,
-    "tato cīvaraṃ sāditabbaṃ": 435,
-    "tato ce uttari sādiyeyya": 436,
-    "bhikkhuṃ paneva uddissa": 438,
-    "aññātakassa gaha-patissa vā gahapatāniyā vā": 439,
-    "cīvara-cetāpannaṃ upakkhaṭaṃ hoti": 440,
-    "iminā cīvara-cetāpannena cīvaraṃ cetāpetvā": 441,
-    "itthan-nāmaṃ bhikkhuṃ cīvarena acchādessāmī ti": 442,
-    "tatra ce so bhikkhu pubbe appavārito": 443,
-    "upasaṅkamitvā cīvare vikappaṃ āpajjeyya": 444,
-    "sādhu vata maṃ āyasmā": 445,
-    "iminā cīvara-cetāpannena": 446,
-    "evarūpaṃ vā evarūpaṃ vā": 447,
-    "cīvaraṃ cetāpetvā acchādehī ti": 448,
-    "kalyāṇa-kamyataṃ upādāya": 449,
-    "ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā": 452,
-    "pacceka-cīvara-cetāpannāni upakkhaṭāni honti": 453,
-    "imehi mayaṃ pacceka-cīvara-cetāpannehi": 454,
-    "pacceka-cīvarāni cetāpetvā": 455,
-    "itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā ti": 456,
-    "sādhu vata maṃ āyasmanto": 459,
-    "imehi pacceka-cīvara-cetāpannehi": 460,
-    "cīvaraṃ cetāpetvā": 462,
-    "acchādetha ubhova santā ekenā ti": 463,
-    "rājā vā rāja-bhoggo vā": 467,
-    "brāhmaṇo vā gaha-patiko vā": 468,
-    "dūtena cīvara-cetāpannaṃ pahiṇeyya": 469,
-    "itthan-nāmaṃ bhikkhuṃ cīvarena acchādehī ti": 471,
-    "so ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya": 472,
-    "idaṃ kho bhante āyasmantaṃ uddissa": 473,
-    "cīvara-cetāpannaṃ ābhataṃ": 474,
-    "paṭiggaṇhātu āyasmā cīvara-cetāpannan ti": 475,
-    "tena bhikkhunā so dūto evam·assa vacanīyo": 476,
-    "na kho mayaṃ āvuso cīvara-cetāpannaṃ paṭiggaṇhāma": 477,
-    "cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiyan ti": 478,
-    "so ce dūto taṃ bhikkhuṃ evaṃ vadeyya": 479,
-    "atthi panāyasmato koci veyyāvacca-karo ti": 480,
-    "cīvara-(a)tthikena bhikkhave bhikkhunā veyyāvacca-karo": 481,
-    "niddisitabbo ārāmiko vā upāsako vā": 482,
-    "eso kho āvuso bhikkhūnaṃ veyyāvacca-karo ti": 483,
-    "so ce dūto taṃ veyyāvacca-karaṃ saññāpetvā": 484,
-    "taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya": 485,
-    "yaṃ kho bhante āyasmā veyyāvacca-karaṃ niddisi": 486,
-    "saññatto so mayā upasaṅkamatāyasmā kālena": 487,
-    "cīvarena taṃ acchādessatī ti": 488,
-    "cīvaratthikena bhikkhave bhikkhunā veyyāvacca-karo upasaṅkamitvā": 489,
-    "dvatti-kkhattuṃ codetabbo sāretabbo": 490,
-    "attho me āvuso cīvarenā ti": 491,
-    "dvattikkhattuṃ codayamāno sārayamāno": 492,
-    "taṃ cīvaraṃ abhinipphādeyya": 493,
-    "no ce abhinipphādeyya": 495,
-    "catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ": 496,
-    "tuṇhībhūtena uddissa ṭhātabbaṃ": 497,
-    "tuṇhībhūto uddissa tiṭṭhamāno": 499,
-    "tato ce uttari vāyamamāno": 502,
-    "yatassa cīvara-cetāpannaṃ ābhataṃ": 506,
-    "tattha sāmaṃ vā gantabbaṃ": 507,
-    "dūto vā pāhetabbo": 508,
-    "yaṃ kho tumhe āyasmanto": 509,
-    "bhikkhuṃ uddissa cīvara-cetāpannaṃ pahiṇittha": 510,
-    "na taṃ tassa bhikkhuno": 511,
-    "kiñci atthaṃ anubhoti": 512,
-    "yuñjantāyasmanto sakaṃ": 513,
-    "mā vo sakaṃ vinassā ti": 514,
-    "kathinavaggo paṭhamo": 516,
-    "yo pana bhikkhu kosiya-missakaṃ santhataṃ kārāpeyya": 517,
-    "yo pana bhikkhu suddha-kāḷakānaṃ eḷaka-lomānaṃ": 519,
-    "santhataṃ kārāpeyya": 520,
-    "navaṃ pana bhikkhunā santhataṃ kārayamānena": 522,
-    "dve bhāgā suddha-kāḷakānaṃ eḷaka-lomānaṃ ādātabbā": 523,
-    "tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ": 524,
-    "anādā ce bhikkhu dve bhāge suddha-kāḷakānaṃ eḷaka-lomānaṃ": 525,
-    "navaṃ santhataṃ kārāpeyya": 527,
-    "navaṃ pana bhikkhunā santhataṃ kārāpetvā": 529,
-    "chabbassāni dhāretabbaṃ": 530,
-    "orena ce channaṃ vassānaṃ": 531,
-    "taṃ santhataṃ vissajjetvā vā avissajjetvā vā": 532,
-    "aññaṃ navaṃ santhataṃ kārāpeyya": 533,
-    "aññatra bhikkhu-sammutiyā": 534,
-    "nisīdana-santhataṃ pana bhikkhunā kārayamānena": 536,
-    "purāṇa-santhatassa sāmantā sugata-vidatthi ādātabbā": 537,
-    "dubbaṇṇa-karaṇāya": 538,
-    "anādā ce bhikkhu purāṇa-santhatassa sāmantā sugata-vidatthiṃ": 539,
-    "navaṃ nisīdana-santhataṃ kārāpeyya": 540,
-    "bhikkhuno paneva addhāna-magga-ppaṭipannassa eḷaka-lomāni uppajjeyyuṃ": 542,
-    "ākaṅkhamānena bhikkhunā paṭiggahetabbāni": 543,
-    "paṭiggahetvā tiyojana-paramaṃ": 544,
-    "sahatthā haritabbāni asante hārake": 545,
-    "tato ce uttari hareyya": 546,
-    "asantepi hārake": 547,
-    "eḷaka-lomāni dhovāpeyya vā rajāpeyya vā vijaṭāpeyya vā": 550,
-    "yo pana bhikkhu jātarūpa-rajataṃ": 552,
-    "uggaṇheyya vā uggaṇhāpeyya vā": 553,
-    "upanikkhittaṃ vā sādiyeyya": 554,
-    "yo pana bhikkhu nāna-ppakārakaṃ": 556,
-    "rūpiya-saṃvohāraṃ samāpajjeyya": 557,
-    "kaya-vikkayaṃ samāpajjeyya": 560,
-    "kosiyavaggo dutiyo": 562,
-    "dasāha-paramaṃ atireka-patto dhāretabbo": 563,
-    "yo pana bhikkhu ūnapañca-bandhanena pattena": 565,
-    "aññaṃ navaṃ pattaṃ cetāpeyya": 566,
-    "tena bhikkhunā so patto bhikkhu-parisāya nissajjitabbo": 568,
-    "yo ca tassā bhikkhu-parisāya patta-pariyanto": 569,
-    "so tassa bhikkhuno padātabbo": 570,
-    "ayaṃ te bhikkhu patto": 571,
-    "yāva bhedanāya dhāretabbo ti": 572,
-    "yāni kho pana tāni gilānānaṃ bhikkhūnaṃ": 574,
-    "paṭisāyanīyāni bhesajjāni": 575,
-    "seyyathidaṃ sappi navanītaṃ telaṃ madhu phāṇitaṃ": 576,
-    "tāni paṭiggahetvā": 577,
-    "sattāha-paramaṃ sannidhi-kārakaṃ paribhuñjitabbāni": 578,
-    "māso seso gimhānan ti": 580,
-    "bhikkhunā vassika-sāṭika-cīvaraṃ pariyesitabbaṃ": 581,
-    "addhamāso seso gimhānan ti katvā nivāsetabbaṃ": 582,
-    "orena ce māso seso gimhānan ti": 583,
-    "vassika-sāṭika-cīvaraṃ pariyeseyya": 584,
-    "orena ddhamāso seso gimhānan ti": 585,
-    "katvā nivāseyya": 586,
-    "yo pana bhikkhu bhikkhussa": 588,
-    "sāmaṃ cīvaraṃ datvā": 589,
-    "kupito anattamano": 590,
-    "acchindeyya vā acchindāpeyya vā": 591,
-    "yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā": 593,
-    "tanta-vāyehi cīvaraṃ vāyāpeyya": 594,
-    "aññātako gahapati vā gahapatānī vā": 597,
-    "tanta-vāye upasaṅkamitvā": 600,
-    "cīvare vikappaṃ āpajjeyya": 601,
-    "idaṃ kho āvuso cīvaraṃ maṃ uddissa viyyati": 602,
-    "āyatañca karotha": 603,
-    "vitthatañca appitañca": 604,
-    "suvītañca suppavāyitañca": 605,
-    "suvilekhitañca suvitacchitañca karotha": 606,
-    "appeva nāma mayampi": 607,
-    "āyasmantānaṃ kiñci-mattaṃ anupadajjeyyāmā ti": 608,
-    "evañca so bhikkhu vatvā": 609,
-    "kiñci-mattaṃ anupadajjeyya": 610,
-    "antamaso piṇḍapāta-mattampi": 611,
-    "dasāhānāgataṃ kattika-temāsika-puṇṇamaṃ": 613,
-    "bhikkhuno paneva acceka-cīvaraṃ uppajjeyya": 614,
-    "accekaṃ maññamānena bhikkhunā": 615,
-    "paṭiggahetabbaṃ paṭiggahetvā": 616,
-    "yāva cīvara-kāla-samayaṃ nikkhipitabbaṃ": 617,
-    "upavassaṃ kho pana kattika-puṇṇamaṃ": 620,
-    "yāni kho pana tāni āraññakāni senāsanāni": 621,
-    "sāsaṅka-sammatāni sappaṭibhayāni": 622,
-    "tathārūpesu bhikkhu senāsanesu viharanto": 623,
-    "ākaṅkhamāno tiṇṇaṃ cīvarānaṃ": 624,
-    "aññataraṃ cīvaraṃ antara-ghare nikkhipeyya": 625,
-    "siyā ca tassa bhikkhuno": 626,
-    "kocideva paccayo": 627,
-    "tena cīvarena vippavāsāya": 628,
-    "chāratta-paramaṃ tena bhikkhunā": 629,
-    "tena cīvarena vippavasitabbaṃ": 630,
-    "tato ce uttari vippavaseyya": 631,
-    "yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ": 634,
-    "pariṇataṃ attano pariṇāmeyya": 635,
-    "pattavaggo tatiyo": 637,
-    "nissaggiyapācittiyā niṭṭhitā": 645,
-    "sampajāna-musā-vāde pācittiyaṃ": 649,
-    "omasa-vāde pācittiyaṃ": 650,
-    "bhikkhu-pesuññe pācittiyaṃ": 651,
-    "yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya pācittiyaṃ": 652,
-    "yo pana bhikkhu anupasampannena": 653,
-    "uttari-diratta-tirattaṃ sahaseyyaṃ kappeyya pācittiyaṃ": 654,
-    "yo pana bhikkhu mātu-gāmena sahaseyyaṃ kappeyya pācittiyaṃ": 655,
-    "yo pana bhikkhu mātu-gāmassa": 656,
-    "uttari-chappañca-vācāhi": 657,
-    "dhammaṃ deseyya": 658,
-    "aññatra viññunā purisa-viggahena pācittiyaṃ": 659,
-    "yo pana bhikkhu anupasampannassa": 660,
-    "uttari-manussa-dhammaṃ āroceyya bhūtasmiṃ pācittiyaṃ": 661,
-    "duṭṭhullaṃ āpattiṃ": 663,
-    "anupasampannassa āroceyya": 664,
-    "aññatra bhikkhu-sammutiyā pācittiyaṃ": 665,
-    "yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā pācittiyaṃ": 666,
-    "musāvādavaggo paṭhamo": 667,
-    "bhūta-gāma-pātabyatāya pācittiyaṃ": 668,
-    "añña-vādake vihesake pācittiyaṃ": 669,
-    "ujjhāpanake khiyyanake pācittiyaṃ": 670,
-    "yo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā": 671,
-    "bhisiṃ vā kocchaṃ vā": 672,
-    "ajjhokāse santharitvā vā santharāpetvā vā": 673,
-    "taṃ pakkamanto neva uddhareyya na uddharāpeyya": 674,
-    "anāpucchaṃ vā gaccheyya pācittiyaṃ": 675,
-    "yo pana bhikkhu saṅghike vihāre": 676,
-    "seyyaṃ santharitvā vā santharāpetvā vā": 677,
-    "jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya": 681,
-    "yassa sambādho bhavissati": 682,
-    "so pakkamissatī ti": 683,
-    "etadeva paccayaṃ karitvā anaññaṃ pācittiyaṃ": 684,
-    "yo pana bhikkhu bhikkhuṃ kupito anattamano": 685,
-    "saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā pācittiyaṃ": 686,
-    "upari-vehāsa-kuṭiyā āhacca-pādakaṃ mañcaṃ vā pīṭhaṃ vā": 688,
-    "abhinisīdeyya vā abhinipajjeyya vā pācittiyaṃ": 689,
-    "yāva dvāra-kosā aggaḷaṭ-ṭhapanāya": 691,
-    "āloka-sandhi-parikammāya": 692,
-    "dvattic-chadanassa pariyāyaṃ": 693,
-    "appaharite ṭhitena adhiṭṭhātabbaṃ": 694,
-    "tato ce uttari appaharitepi": 695,
-    "ṭhito adhiṭṭhaheyya pācittiyaṃ": 696,
-    "yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ": 697,
-    "tiṇaṃ vā mattikaṃ vā": 698,
-    "siñceyya vā siñcāpeyya vā pācittiyaṃ": 699,
-    "bhūtagāmavaggo dutiyo": 700,
-    "yo pana bhikkhu asammato": 701,
-    "bhikkhuniyo ovadeyya pācittiyaṃ": 702,
-    "sammatopi ce bhikkhu atthaṅgate sūriye": 703,
-    "yo pana bhikkhu bhikkhun(ī)-upassayaṃ upasaṅkamitvā": 705,
-    "bhikkhuniyo ovadeyya aññatra samayā pācittiyaṃ": 706,
-    "tatthāyaṃ samayo gilānā hoti bhikkhunī": 707,
-    "yo pana bhikkhu evaṃ vadeyya": 709,
-    "āmisa-hetu therā bhikkhū bhikkhuniyo ovadantī ti pācittiyaṃ": 710,
-    "cīvaraṃ dadeyya aññatra pārivattakā pācittiyaṃ": 712,
-    "cīvaraṃ sibbeyya vā sibbāpeyya vā pācittiyaṃ": 714,
-    "yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya": 715,
-    "ekaddhāna-maggaṃ paṭipajjeyya": 716,
-    "antamaso gāma-antarampi": 717,
-    "aññatra samayā pācittiyaṃ": 718,
-    "sattha-gamanīyo hoti maggo": 720,
-    "sāsaṅka-sammato sappaṭibhayo": 721,
-    "yo pana bhikkhu bhikkhuniyā saddhiṃ": 723,
-    "saṃvidhāya ekaṃ nāvaṃ abhiruheyya": 724,
-    "uddhaṃ·gāminiṃ vā adho·gāminiṃ vā": 725,
-    "aññatra tiriyaṃ taraṇāya pācittiyaṃ": 726,
-    "yo pana bhikkhu jānaṃ": 727,
-    "bhikkhuni-paripācitaṃ piṇḍapātaṃ bhuñjeyya": 728,
-    "aññatra pubbe gihi-samārambhā pācittiyaṃ": 729,
-    "eko ekāya raho nisajjaṃ kappeyya pācittiyaṃ": 731,
-    "ovāda-vaggo tatiyo": 732,
-    "agilānena bhikkhunā eko āvasatha-piṇḍo bhuñjitabbo": 733,
-    "tato ce uttari bhuñjeyya pācittiyaṃ": 734,
-    "gaṇa-bhojane aññatra samayā pācittiyaṃ": 735,
-    "tatthāyaṃ samayo gilāna-samayo cīvara-dāna-samayo": 736,
-    "cīvara-kāra-samayo addhāna-gamana-samayo": 737,
-    "nāvābhiruhana-samayo mahāsamayo": 738,
-    "samaṇa-bhatta-samayo ayaṃ tattha samayo": 739,
-    "parampara-bhojane aññatra samayā pācittiyaṃ": 740,
-    "cīvara-kāra-samayo ayaṃ tattha samayo": 742,
-    "bhikkhuṃ paneva kulaṃ upagataṃ": 743,
-    "pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya": 744,
-    "ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā": 745,
-    "tato ce uttari paṭiggaṇheyya pācittiyaṃ": 746,
-    "dvatti-patta-pūre paṭiggahetvā tato nīharitvā": 747,
-    "bhikkhūhi saddhiṃ saṃ|vi|bhajitabbaṃ ayaṃ tattha sāmīci": 748,
-    "yo pana bhikkhu bhuttāvī pavārito": 749,
-    "anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā": 750,
-    "khādeyya vā bhuñjeyya vā pācittiyaṃ": 751,
-    "yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ": 752,
-    "anatirittena khādanīyena vā bhojanīyena vā": 753,
-    "abhihaṭṭhuṃ pavāreyya": 754,
-    "handa bhikkhu khāda vā bhuñja vā ti": 755,
-    "jānaṃ āsādanā-(a)pekkho bhuttasmiṃ pācittiyaṃ": 756,
-    "yo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā": 757,
-    "yo pana bhikkhu sannidhi-kārakaṃ": 759,
-    "khādanīyaṃ vā bhojanīyaṃ vā": 760,
-    "yāni kho pana tāni paṇīta-bhojanāni": 762,
-    "maccho maṃsaṃ khīraṃ dadhi": 764,
-    "yo pana bhikkhu evarūpāni paṇīta-bhojanāni": 765,
-    "agilāno attano atthāya viññāpetvā bhuñjeyya pācittiyaṃ": 766,
-    "yo pana bhikkhu adinnaṃ mukha-dvāraṃ": 767,
-    "āhāraṃ āhareyya": 768,
-    "aññatra udaka-danta-ponā pācittiyaṃ": 769,
-    "bhojana-vaggo catuttho": 770,
-    "yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā": 771,
-    "sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya pācittiyaṃ": 772,
-    "yo pana bhikkhu bhikkhuṃ": 773,
-    "ehāvuso gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā ti": 774,
-    "tassa dāpetvā vā adāpetvā vā uyyojeyya": 775,
-    "gacchāvuso na me tayā saddhiṃ": 776,
-    "kathā vā nisajjā vā phāsu hoti": 777,
-    "ekakassa me kathā vā nisajjā vā phāsu hotī ti": 778,
-    "yo pana bhikkhu sabhojane kule": 780,
-    "anupakhajja nisajjaṃ kappeyya pācittiyaṃ": 781,
-    "yo pana bhikkhu mātu-gāmena saddhiṃ": 782,
-    "raho paṭicchanne āsane nisajjaṃ kappeyya pācittiyaṃ": 783,
-    "yo pana bhikkhu nimantito sabhatto samāno": 786,
-    "santaṃ bhikkhuṃ anāpucchā pure-bhattaṃ vā pacchā-bhattaṃ vā": 787,
-    "kulesu cārittaṃ āpajjeyya aññatra samayā pācittiyaṃ": 788,
-    "cīvara-dāna-samayo cīvara-kāra-samayo": 790,
-    "agilānena bhikkhunā": 792,
-    "catu-māsa-ppaccaya-pavāraṇā sāditabbā": 793,
-    "aññatra puna-pavāraṇāya": 794,
-    "aññatra nicca-pavāraṇāya": 795,
-    "tato ce uttari sādiyeyya pācittiyaṃ": 796,
-    "yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya": 797,
-    "aññatra tathā-rūpa-ppaccayā pācittiyaṃ": 798,
-    "kocideva paccayo senaṃ gamanāya": 800,
-    "dirattatirattaṃ tena bhikkhunā": 801,
-    "senāya vasitabbaṃ": 802,
-    "tato ce uttari vaseyya pācittiyaṃ": 803,
-    "dirattatirattaṃ ce bhikkhu senāya vasamāno": 804,
-    "uyyodhikaṃ vā balaggaṃ vā": 805,
-    "senābyūhaṃ vā anīkadassanaṃ vā gaccheyya pācittiyaṃ": 806,
-    "acelakavaggo pañcamo": 807,
-    "surā-meraya-pāne pācittiyaṃ": 808,
-    "aṅguli-patodake pācittiyaṃ": 809,
-    "udake hasadhamme pācittiyaṃ": 810,
-    "anādariye pācittiyaṃ": 811,
-    "bhiṃsāpeyya pācittiyaṃ": 813,
-    "yo pana bhikkhu agilāno visibbanāpekkho": 814,
-    "jotiṃ samādaheyya vā samādahāpeyya vā": 815,
-    "aññatra tathārūpa-ppaccayā pācittiyaṃ": 816,
-    "yo pana bhikkhu orenaddha-māsaṃ nahāyeyya": 817,
-    "diyaḍḍho māso seso gimhānan ti": 820,
-    "vassānassa paṭhamo māso": 821,
-    "iccete aḍḍhateyyamāsā": 822,
-    "uṇha-samayo pariḷāha-samayo": 823,
-    "gilāna-samayo kamma-samayo": 824,
-    "addhāna-gamana-samayo vāta-vuṭṭhi-samayo": 825,
-    "navaṃ pana bhikkhunā cīvara-lābhena": 827,
-    "tiṇṇaṃ dubbaṇṇa-karaṇānaṃ aññataraṃ dubbaṇṇa-karaṇaṃ ādātabbaṃ": 828,
-    "nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā": 829,
-    "anādā ce bhikkhu tiṇṇaṃ dubbaṇṇa-karaṇānaṃ": 830,
-    "aññataraṃ dubbaṇṇa-karaṇaṃ navaṃ cīvaraṃ paribhuñjeyya pācittiyaṃ": 831,
-    "yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā": 832,
-    "sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā": 833,
-    "sāmaṃ cīvaraṃ vikappetvā": 834,
-    "ap|paccuddhāraṇaṃ paribhuñjeyya pācittiyaṃ": 835,
-    "pattaṃ vā cīvaraṃ vā": 837,
-    "nisīdanaṃ vā sūci-gharaṃ vā": 838,
-    "kāya-bandhanaṃ vā apanidheyya vā apanidhāpeyya vā": 839,
-    "antamaso hasa-apekkhopi pācittiyaṃ": 840,
-    "surā-pāna-vaggo chaṭṭho": 841,
-    "yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya pācittiyaṃ": 842,
-    "yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya pācittiyaṃ": 843,
-    "yo pana bhikkhu jānaṃ yathā-dhammaṃ nihata-adhikaraṇaṃ": 844,
-    "puna-kammāya ukkoṭeyya pācittiyaṃ": 845,
-    "yo pana bhikkhu bhikkhussa jānaṃ": 846,
-    "duṭṭhullaṃ āpattiṃ paṭicchādeyya pācittiyaṃ": 847,
-    "ūnavīsati-vassaṃ puggalaṃ upasampādeyya": 849,
-    "so ca puggalo anupasampanno": 850,
-    "idaṃ tasmiṃ pācittiyaṃ": 852,
-    "theyya-satthena saddhiṃ saṃvidhāya": 854,
-    "antamaso gāma-antarampi pācittiyaṃ": 856,
-    "yo pana bhikkhu mātu-gāmena saddhiṃ saṃvidhāya": 857,
-    "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi": 861,
-    "yathā yeme antarāyikā dhammā vuttā bhagavatā": 862,
-    "te paṭisevato nālaṃ antarāyāyā ti": 863,
-    "so bhikkhu bhikkhūhi evamassa vacanīyo": 864,
-    "mā bhagavantaṃ abbhācikkhi": 866,
-    "na hi sādhu bhagavato abbhakkhānaṃ": 867,
-    "na hi bhagavā evaṃ vadeyya": 868,
-    "aneka-pariyāyena āvuso": 869,
-    "antarāyikā dhammā antarāyikā vuttā bhagavatā": 870,
-    "alañca pana te paṭisevato antarāyāyā ti": 871,
-    "evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya": 872,
-    "so bhikkhu bhikkhūhi yāva-tatiyaṃ": 873,
-    "samanubhāsitabbo tassa paṭinissaggāya": 874,
-    "yāva-tatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya": 875,
-    "no ce paṭinissajjeyya pācittiyaṃ": 877,
-    "tathā-vādinā bhikkhunā akaṭa-anudhammena": 879,
-    "taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ": 880,
-    "sambhuñjeyya vā saṃvaseyya vā": 881,
-    "saha vā seyyaṃ kappeyya pācittiyaṃ": 882,
-    "samaṇuddesopi ce evaṃ vadeyya": 883,
-    "so samaṇuddeso bhikkhūhi evamassa vacanīyo": 887,
-    "māvuso samaṇuddesa evaṃ avaca": 888,
-    "aneka-pariyāyenāvuso samaṇuddesa": 892,
-    "evañca so samaṇuddeso bhikkhūhi": 895,
-    "ajjatagge te āvuso samaṇuddesa": 898,
-    "na ceva so bhagavā satthā apadisitabbo": 899,
-    "yampi caññe samaṇuddesā labhanti": 900,
-    "bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ": 901,
-    "sāpi te natthi": 902,
-    "cara pire vinassā ti": 903,
-    "yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ": 904,
-    "upalāpeyya vā upaṭṭhāpeyya vā": 905,
-    "sambhuñjeyya vā saha vā seyyaṃ kappeyya pācittiyaṃ": 906,
-    "sappāṇakavaggo sattamo": 907,
-    "yo pana bhikkhu bhikkhūhi": 908,
-    "saha-dhammikaṃ vuccamāno evaṃ vadeyya": 909,
-    "na tāvāhaṃ āvuso": 910,
-    "etasmiṃ sikkhā-pade sikkhissāmi": 911,
-    "yāva na aññaṃ bhikkhuṃ byattaṃ vinaya-dharaṃ paripucchāmī ti pācittiyaṃ": 912,
-    "sikkhamānena bhikkhave bhikkhunā": 913,
-    "aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ": 914,
-    "yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya": 916,
-    "kiṃ pan(a) imehi khudda-anukhuddakehi": 917,
-    "sikkhā-padehi uddiṭṭhehi": 918,
-    "yāvadeva kukkuccāya vihesāya": 919,
-    "vilekhāya saṃvattantī ti": 920,
-    "sikkhāpada-vivaṇṇake pācittiyaṃ": 921,
-    "yo pana bhikkhu anvaddha-māsaṃ pātimokkhe uddissamāne evaṃ vadeyya": 922,
-    "idān(i) eva kho ahaṃ jānāmi": 923,
-    "ayampi kira dhammo suttāgato sutta-pariyāpanno": 924,
-    "anvaddha-māsaṃ uddesaṃ āgacchatī ti": 925,
-    "tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinna-pubbaṃ": 926,
-    "iminā bhikkhunā dvatti-kkhattuṃ pātimokkhe uddissamāne": 927,
-    "ko pana vādo bhiyyo": 928,
-    "na ca tassa bhikkhuno aññāṇakena mutti atthi": 929,
-    "yañca tattha āpattiṃ āpanno": 930,
-    "tañca yathā-dhammo kāretabbo": 931,
-    "uttari cassa moho āropetabbo": 932,
-    "tassa te āvuso alābhā": 933,
-    "tassa te dulladdhaṃ yaṃ tvaṃ pātimokkhe uddissamāne": 934,
-    "na sādhukaṃ aṭṭhiṃ katvā": 935,
-    "manasi karosī ti": 936,
-    "idaṃ tasmiṃ mohanake pācittiyaṃ": 937,
-    "yo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya pācittiyaṃ": 938,
-    "yo pana bhikkhu bhikkhussa kupito": 939,
-    "anattamano tala-sattikaṃ uggireyya pācittiyaṃ": 940,
-    "yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya pācittiyaṃ": 941,
-    "yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya": 942,
-    "itissa muhuttampi aphāsu bhavissatī ti": 943,
-    "yo pana bhikkhu bhikkhūnaṃ bhaṇḍana-jātānaṃ": 945,
-    "kalaha-jātānaṃ vivāda-āpannānaṃ upassutiṃ tiṭṭheyya": 946,
-    "yaṃ ime bhaṇissanti taṃ sossāmī ti": 947,
-    "yo pana bhikkhu dhammikānaṃ kammānaṃ chandaṃ datvā": 949,
-    "pacchā khīyana-dhammaṃ āpajjeyya pācittiyaṃ": 950,
-    "yo pana bhikkhu saṅghe vinicchaya-kathāya vattamānāya": 951,
-    "chandaṃ adatvā uṭṭhāyāsanā pakkameyya pācittiyaṃ": 952,
-    "yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā": 953,
-    "pacchā khīyana-dhammaṃ āpajjeyya": 954,
-    "yathā-santhutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī ti pācittiyaṃ": 955,
-    "yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ": 956,
-    "puggalassa pariṇāmeyya pācittiyaṃ": 957,
-    "sahadhammikavaggo aṭṭhamo": 958,
-    "yo pana bhikkhu rañño khattiyassa muddhā-abhisittassa": 959,
-    "anikkhanta-rājake aniggata-ratanake": 960,
-    "pubbe appaṭisaṃvidito": 961,
-    "inda-khīlaṃ atikkāmeyya pācittiyaṃ": 962,
-    "yo pana bhikkhu ratanaṃ vā ratana-sammataṃ vā": 963,
-    "aññatra ajjhārāmā vā ajjhāvasathā vā": 964,
-    "uggaṇheyya vā uggaṇhāpeyya vā pācittiyaṃ": 965,
-    "ratanaṃ vā pana bhikkhunā ratana-sammataṃ vā": 966,
-    "ajjhārāme vā ajjhāvasathe vā": 967,
-    "uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ": 968,
-    "yassa bhavissati so harissatī ti": 969,
-    "yo pana bhikkhu santaṃ bhikkhuṃ anāpucchā": 971,
-    "vikāle gāmaṃ paviseyya": 972,
-    "aññatra tathārūpā accāyikā karaṇīyā pācittiyaṃ": 973,
-    "yo pana bhikkhu aṭṭhi-mayaṃ vā danta-mayaṃ vā": 974,
-    "visāṇa-mayaṃ vā sūci-gharaṃ kārāpeyya bhedanakaṃ pācittiyaṃ": 975,
-    "navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena": 976,
-    "aṭṭha-aṅgula-pādakaṃ kāretabbaṃ sugata-aṅgulena": 977,
-    "aññatra heṭṭhimāya aṭaniyā": 978,
-    "taṃ atikkāmayato chedanakaṃ pācittiyaṃ": 979,
-    "yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūla-onaddhaṃ kārāpeyya uddālanakaṃ pācittiyaṃ": 980,
-    "nisīdanaṃ pana bhikkhunā kārayamānena": 981,
-    "pamāṇikaṃ kāretabbaṃ": 982,
-    "tatridaṃ pamāṇaṃ dīghaso dve vidatthiyo sugata-vidatthiyā": 983,
-    "tiriyaṃ diyaḍḍhaṃ dasā vidatthi": 984,
-    "kaṇḍu-ppaṭicchādiṃ pana bhikkhunā kārayamānena": 986,
-    "pamāṇikā kāretabbā": 987,
-    "dīghaso catasso vidatthiyo sugata-vidatthiyā": 989,
-    "tiriyaṃ dve vidatthiyo": 990,
-    "vassika-sāṭikaṃ pana bhikkhunā kārayamānena": 992,
-    "tatridaṃ pamāṇaṃ dīghaso cha vidatthiyo sugata-vidatthiyā": 994,
-    "tiriyaṃ aḍḍhateyyā": 995,
-    "yo pana bhikkhu sugata-cīvara-ppamāṇaṃ cīvaraṃ kārāpeyya": 997,
-    "atirekaṃ vā chedanakaṃ pācittiyaṃ": 998,
-    "tatridaṃ sugatassa sugata-cīvara-ppamāṇaṃ": 999,
-    "dīghaso nava vidatthiyo sugata-vidatthiyā": 1000,
-    "tiriyaṃ cha vidatthiyo": 1001,
-    "idaṃ sugatassa sugata-cīvara-ppamāṇanti": 1002,
-    "ratanavaggo navamo": 1003,
-    "uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā": 1004,
-    "pācittiyā niṭṭhitā": 1010,
-    "cattāro pāṭidesanīyā dhammā uddesaṃ āgacchanti": 1012,
-    "yo pana bhikkhu aññātikāya-bhikkhuniyā": 1013,
-    "antara-gharaṃ paviṭṭhāya hatthato": 1014,
-    "sahatthā paṭiggahetvā": 1016,
-    "khādeyya vā bhuñjeyya vā": 1017,
-    "paṭidesetabbaṃ tena bhikkhunā": 1018,
-    "gārayhaṃ āvuso dhammaṃ āpajjiṃ": 1019,
-    "asappāyaṃ pāṭidesanīyaṃ": 1020,
-    "taṃ paṭidesemī ti": 1021,
-    "bhikkhū paneva kulesu nimantitā bhuñjanti": 1022,
-    "tatra ce sā bhikkhunī": 1023,
-    "vosāsamāna-rūpā ṭhitā hoti": 1024,
-    "idha sūpaṃ detha idha odanaṃ dethā ti": 1025,
-    "tehi bhikkhūhi sā bhikkhunī apasādetabbā": 1026,
-    "apasakka tāva bhagini": 1027,
-    "yāva bhikkhū bhuñjantī ti": 1028,
-    "ekassapi ce bhikkhuno na paṭibhāseyya": 1029,
-    "taṃ bhikkhuniṃ apasādetuṃ": 1030,
-    "paṭidesetabbaṃ tehi bhikkhūhi": 1033,
-    "gārayhaṃ āvuso dhammaṃ āpajjimhā": 1034,
-    "taṃ paṭidesemā ti": 1036,
-    "yāni kho pana tāni sekkha-sammatāni kulāni": 1037,
-    "yo pana bhikkhu tathārūpesu sekkha-sammatesu kulesu": 1038,
-    "pubbe animantito agilāno": 1039,
-    "yo pana bhikkhu tathārūpesu senāsanesu": 1049,
-    "pubbe appaṭisaṃviditaṃ": 1050,
-    "ajjhārāme sahatthā paṭiggahetvā": 1052,
-    "agilāno khādeyya vā bhuñjeyya vā": 1053,
-    "pāṭidesanīyā niṭṭhitā": 1065,
-    "sekhiyā dhammā uddesaṃ āgacchanti": 1067,
-    "parimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā": 1068,
-    "parimaṇḍalaṃ pārupissāmīti sikkhā karaṇīyā": 1069,
-    "suppaṭicchanno antara-ghare gamissāmīti sikkhā karaṇīyā": 1070,
-    "suppaṭicchanno antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1071,
-    "susaṃvuto antara-ghare gamissāmīti sikkhā karaṇīyā": 1072,
-    "susaṃvuto antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1073,
-    "okkhitta-cakkhu antara-ghare gamissāmīti sikkhā karaṇīyā": 1074,
-    "okkhitta-cakkhu antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1075,
-    "na ukkhittakāya antara-ghare gamissāmīti sikkhā karaṇīyā": 1076,
-    "na ukkhittakāya antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1077,
-    "parimaṇḍalavaggo paṭhamo": 1078,
-    "na ujjagghikāya antara-ghare gamissāmīti sikkhā karaṇīyā": 1079,
-    "na ujjagghikāya antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1080,
-    "appa-saddo antara-ghare gamissāmīti sikkhā karaṇīyā": 1081,
-    "appa-saddo antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1082,
-    "na kāyap-pacālakaṃ antara-ghare gamissāmīti sikkhā karaṇīyā": 1083,
-    "na kāyap-pacālakaṃ antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1084,
-    "na bāhup-pacālakaṃ antara-ghare gamissāmīti sikkhā karaṇīyā": 1085,
-    "na bāhup-pacālakaṃ antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1086,
-    "na sīsap-pacālakaṃ antara-ghare gamissāmīti sikkhā karaṇīyā": 1087,
-    "na sīsap-pacālakaṃ antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1088,
-    "ujjagghikavaggo dutiyo": 1089,
-    "na khambha-kato antara-ghare gamissāmīti sikkhā karaṇīyā": 1090,
-    "na khambha-kato antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1091,
-    "na oguṇṭhito antara-ghare gamissāmīti sikkhā karaṇīyā": 1092,
-    "na oguṇṭhito antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1093,
-    "na ukkuṭikāya antara-ghare gamissāmīti sikkhā karaṇīyā": 1094,
-    "na pallatthikāya antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1095,
-    "sakkaccaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā": 1096,
-    "patta-saññī piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā": 1097,
-    "sama-sūpakaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā": 1098,
-    "sama-tittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā": 1099,
-    "khambhakatavaggo tatiyo": 1100,
-    "sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā": 1101,
-    "patta-saññī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā": 1102,
-    "sapadānaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā": 1103,
-    "sama-sūpakaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā": 1104,
-    "na thūpakato omadditvā piṇḍapātaṃ": 1105,
-    "bhuñjissāmīti sikkhā karaṇīyā": 1106,
-    "na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi": 1107,
-    "bhiyyo-kamyataṃ upādāyāti sikkhā karaṇīyā": 1108,
-    "na sūpaṃ vā odanaṃ vā agilāno attano atthāya viññāpetvā": 1109,
-    "na ujjhāna-saññī paresaṃ pattaṃ olokessāmīti sikkhā karaṇīyā": 1111,
-    "nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā": 1112,
-    "parimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā": 1113,
-    "sakkaccavaggo catuttho": 1114,
-    "na anāhaṭe kabaḷe mukha-dvāraṃ vivarissāmīti sikkhā karaṇīyā": 1115,
-    "na bhuñjamāno sabba-hatthaṃ mukhe pakkhipissāmīti sikkhā karaṇīyā": 1116,
-    "na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā": 1117,
-    "na piṇḍ(a)-ukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1118,
-    "na kabaḷa-avacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1119,
-    "na avagaṇḍa-kārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1120,
-    "na hattha-niddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1121,
-    "na sittha-avakārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1122,
-    "na jivhā-nicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1123,
-    "na capucapu-kārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1124,
-    "kabaḷavaggo pañcamo": 1125,
-    "na surusuru-kārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1126,
-    "na hattha-nillehakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1127,
-    "na patta-nillehakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1128,
-    "na oṭṭha-nillehakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1129,
-    "na sāmisena hatthena pānīya-thālakaṃ": 1130,
-    "paṭiggahessāmīti sikkhā karaṇīyā": 1131,
-    "na sasitthakaṃ patta-dhovanaṃ antara-ghare": 1132,
-    "chaḍḍessāmīti sikkhā karaṇīyā": 1133,
-    "na chatta-pāṇissa agilānassa": 1134,
-    "dhammaṃ desessāmīti sikkhā karaṇīyā": 1135,
-    "na daṇḍa-pāṇissa agilānassa": 1136,
-    "na sattha-pāṇissa agilānassa": 1138,
-    "na āvudha-pāṇissa agilānassa": 1140,
-    "surusuruvaggo chaṭṭho": 1142,
-    "na pādukāruḷhassa agilānassa": 1143,
-    "na upāhanāruḷhassa agilānassa": 1145,
-    "na yāna-gatassa agilānassa": 1147,
-    "na sayana-gatassa agilānassa": 1149,
-    "na pallatthikāya nisinnassa agilānassa": 1151,
-    "na veṭhita-sīsassa agilānassa": 1153,
-    "na oguṇṭhita-sīsassa agilānassa": 1155,
-    "na chamāyaṃ nisīditvā āsane nisinnassa agilānassa": 1157,
-    "na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa": 1159,
-    "na ṭhito nisinnassa agilānassa": 1161,
-    "na pacchato gacchanto purato gacchantassa agilānassa": 1163,
-    "na uppathena gacchanto pathena gacchantassa agilānassa": 1165,
-    "na ṭhito agilāno uccāraṃ vā passāvaṃ vā": 1167,
-    "karissāmīti sikkhā karaṇīyā": 1168,
-    "na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā": 1169,
-    "na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā": 1171,
-    "pādukavaggo sattamo": 1173,
-    "uddiṭṭhā kho āyasmanto sekhiyā dhammā": 1174,
-    "sekhiyā niṭṭhitā": 1180,
-    "satta adhikaraṇa-samathā dhammā": 1182,
-    "uppann(a)-uppannānaṃ adhikaraṇānaṃ samathāya vūpasamāya": 1184,
-    "sammukhā-vinayo dātabbo": 1185,
-    "sati-vinayo dātabbo": 1186,
-    "amūḷha-vinayo dātabbo": 1187,
-    "paṭiññāya kāretabbaṃ": 1188,
-    "yebhuyyasikā": 1189,
-    "tassa-pāpiyasikā": 1190,
-    "tiṇa-vatthārakoti": 1191,
-    "uddiṭṭhā kho āyasmanto satta adhikaraṇasamathā dhammā": 1192,
-    "parisuddhetthāyasmanto tasmā tuṇhī evametaṃ dhārayāmīti": 1196,
-    "adhikaraṇasamathā niṭṭhitā": 1197,
-    "uddiṭṭhā cattāro pārājikā dhammā": 1199,
-    "uddiṭṭhā terasa saṅghādisesā dhammā": 1200,
-    "uddiṭṭhā dve aniyatā dhammā": 1201,
-    "uddiṭṭhā tiṃsa nissaggiyā pācittiyā dhammā": 1202,
-    "uddiṭṭhā dvenavuti pācittiyā dhammā": 1203,
-    "uddiṭṭhā cattāro pāṭidesanīyā dhammā": 1204,
-    "uddiṭṭhā sekhiyā dhammā": 1205,
-    "uddiṭṭhā satta adhikaraṇasamathā dhammā": 1206,
-    "ettakaṃ tassa bhagavato sutta-āgataṃ sutta-pariyāpannaṃ anvaddha-māsaṃ uddesaṃ āgacchati": 1207,
-    "tattha sabbeh(i)eva samaggehi sammodamānehi avivadamānehi sikkhitabbanti": 1208,
-    "bhikkhupātimokkhaṃ niṭṭhitaṃ": 1210
+    "corosi bālosi mūḷhosi thenosīti": 70,
+    "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno": 71,
+    "ayampi pārājiko hoti asaṃvāso": 72,
+    "yo pana bhikkhu sañcicca": 73,
+    "manussa-viggahaṃ jīvitā voropeyya": 74,
+    "sattha-hārakaṃ vāssa pariyeseyya": 75,
+    "maraṇa-vaṇṇaṃ vā saṃvaṇṇeyya": 76,
+    "maraṇāya vā samādapeyya": 77,
+    "ambho purisa kiṃ": 78,
+    "tuyhiminā pāpakena dujjīvitena": 79,
+    "mataṃ te jīvitā seyyo ti": 80,
+    "iti cittamano cittasaṅkappo": 81,
+    "aneka-pariyāyena maraṇa-vaṇṇaṃ vā saṃvaṇṇeyya": 82,
+    "yo pana bhikkhu anabhijānaṃ": 85,
+    "uttari-manussa-dhammaṃ attupanāyikaṃ": 86,
+    "alamariya-ñāṇadassanaṃ samudācareyya": 87,
+    "iti jānāmi iti passāmī ti": 88,
+    "tato aparena samayena": 89,
+    "samanu|ggāhīyamāno vā asamanu|ggāhīyamāno vā": 90,
+    "āpanno visuddhāpekkho evaṃ vadeyya": 91,
+    "ajānamevaṃ āvuso avacaṃ jānāmi": 92,
+    "apassaṃ passāmi": 93,
+    "tucchaṃ musā vilapin ti": 94,
+    "aññatra adhimānā ayampi pārājiko hoti asaṃvāso": 95,
+    "uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā": 96,
+    "yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā": 97,
+    "na labhati bhikkhūhi saddhiṃ saṃvāsaṃ": 98,
+    "yathā pure tathā pacchā": 99,
+    "pārājikuddeso dutiyo": 106,
+    "ime kho panāyasmanto": 107,
+    "terasa saṅghādisesā dhammā uddesaṃ āgacchanti": 108,
+    "sañcetanikā sukka-vissaṭṭhi": 109,
+    "aññatra supinantā saṅghādiseso": 110,
+    "yo pana bhikkhu otiṇṇo": 111,
+    "vipariṇatena cittena": 112,
+    "mātu-gāmena saddhiṃ": 113,
+    "kāya-saṃsaggaṃ samāpajjeyya": 114,
+    "hattha-ggāhaṃ vā veṇi-ggāhaṃ vā": 115,
+    "aññatarassa vā aññatarassa vā": 116,
+    "etadaggaṃ bhagini pāricariyānaṃ": 117,
+    "yā mādisaṃ sīlavantaṃ kalyāṇa-dhammaṃ brahma-cāriṃ": 118,
+    "etena dhammena paricareyyā ti": 119,
+    "methun'upasaṃhitena saṅghādiseso": 120,
+    "yo pana bhikkhu sañcarittaṃ samāpajjeyya": 121,
+    "itthiyā vā purisa-matiṃ": 122,
+    "purisassa vā itthi-matiṃ": 123,
+    "jāyattane vā jārattane vā": 124,
+    "antamaso taṅkhaṇikāyapi saṅghādiseso": 125,
+    "saññācikāya pana bhikkhunā kuṭiṃ kārayamānena": 126,
+    "assāmikaṃ attuddesaṃ pamāṇikā kāretabbā": 127,
+    "tatridaṃ pamāṇaṃ": 128,
+    "dīghaso dvādasa vidatthiyo sugata-vidatthiyā": 129,
+    "tiriyaṃ satt'antarā": 130,
+    "bhikkhū abhinetabbā vatthu-desanāya": 131,
+    "tehi bhikkhūhi vatthu desetabbaṃ": 132,
+    "anārambhaṃ saparikkamanaṃ": 133,
+    "sārambhe ce bhikkhu vatthusmiṃ aparikkamane": 134,
+    "saññācikāya kuṭiṃ kāreyya": 135,
+    "bhikkhū vā anabhineyya vatthu-desanāya": 136,
+    "pamāṇaṃ vā atikkāmeyya saṅghādiseso": 137,
+    "mahallakaṃ pana bhikkhunā vihāraṃ kārayamānena": 138,
+    "sassāmikaṃ attuddesaṃ": 139,
+    "mahallakaṃ vihāraṃ kāreyya": 144,
+    "bhikkhū vā anabhineyya vatthu-desanāya saṅghādiseso": 145,
+    "yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīto": 146,
+    "amūlakena pārājikena dhammena anuddhaṃseyya": 147,
+    "appeva nāma naṃ imamhā brahma-cariyā cāveyyan ti": 148,
+    "samanuggāhīyamāno vā asamanuggāhīyamāno vā": 150,
+    "amūlakañceva taṃ adhikaraṇaṃ hoti": 151,
+    "bhikkhu ca dosaṃ patiṭṭhāti saṅghādiseso": 152,
+    "añña-bhāgiyassa adhikaraṇassa": 154,
+    "kiñcidesaṃ lesa-mattaṃ upādāya": 155,
+    "pārājikena dhammena anuddhaṃseyya": 156,
+    "añña-bhāgiyañceva taṃ adhikaraṇaṃ hoti": 160,
+    "kocideso lesa-matto upādinno": 161,
+    "yo pana bhikkhu samaggassa saṅghassa": 163,
+    "bhedāya parakkameyya": 164,
+    "bhedana-saṃvattanikaṃ vā adhikaraṇaṃ": 165,
+    "samādāya paggayha tiṭṭheyya": 166,
+    "so bhikkhu bhikkhūhi evam·assa vacanīyo": 167,
+    "māyasmā samaggassa saṅghassa": 168,
+    "bhedāya parakkami": 169,
+    "samādāya paggayha aṭṭhāsi": 171,
+    "sametāyasmā saṅghena samaggo hi saṅgho": 172,
+    "sammodamāno avivadamāno": 173,
+    "ekuddeso phāsu viharatī ti": 174,
+    "evañca so bhikkhu bhikkhūhi": 175,
+    "vuccamāno tatheva paggaṇheyya": 176,
+    "so bhikkhu bhikkhūhi": 177,
+    "yāva-tatiyaṃ samanubhāsitabbo": 178,
+    "tassa paṭinissaggāya": 179,
+    "yāva-tatiyañce samanubhāsiyamāno": 180,
+    "taṃ paṭinissajjeyya": 181,
+    "iccetaṃ kusalaṃ": 182,
+    "no ce paṭinissajjeyya saṅghādiseso": 183,
+    "tasseva kho pana bhikkhussa bhikkhū honti": 184,
+    "anuvattakā vagga-vādakā": 185,
+    "eko vā dve vā tayo vā": 186,
+    "te evaṃ vadeyyuṃ": 187,
+    "māyasmanto etaṃ bhikkhuṃ kiñci avacuttha": 188,
+    "dhamma-vādī ceso bhikkhu": 189,
+    "vinaya-vādī ceso bhikkhu": 190,
+    "amhākañceso bhikkhu": 191,
+    "chandañca ruciñca ādāya voharati": 192,
+    "jānāti no bhāsati": 193,
+    "amhākampetaṃ khamatī ti": 194,
+    "te bhikkhū bhikkhūhi evamassu vacanīyā": 195,
+    "māyasmanto evaṃ avacuttha": 196,
+    "na ceso bhikkhu dhamma-vādī": 197,
+    "na ceso bhikkhu vinaya-vādī": 198,
+    "māyasmantānampi saṅghabhedo ruccittha": 199,
+    "sametāyasmantānaṃ saṅghena": 200,
+    "samaggo hi saṅgho": 201,
+    "evañca te bhikkhū bhikkhūhi": 204,
+    "vuccamānā tatheva paggaṇheyyuṃ": 205,
+    "te bhikkhū bhikkhūhi": 206,
+    "yāva-tatiyaṃ samanubhāsitabbā": 207,
+    "yāva-tatiyañce samanubhāsiyamānā": 209,
+    "taṃ paṭinissajjeyyuṃ": 210,
+    "no ce paṭinissajjeyyuṃ saṅghādiseso": 212,
+    "bhikkhu paneva dubbaca-jātiko hoti": 213,
+    "uddesa-pariyāpannesu sikkhā-padesu": 214,
+    "bhikkhūhi saha-dhammikaṃ vuccamāno": 215,
+    "attānaṃ avacanīyaṃ karoti": 216,
+    "mā maṃ āyasmanto kiñci avacuttha": 217,
+    "kalyāṇaṃ vā pāpakaṃ vā": 218,
+    "ahampāyasmante na kiñci vakkhāmi": 219,
+    "viramathāyasmanto mama vacanāyā ti": 221,
+    "māyasmā attānaṃ avacanīyaṃ akāsi": 223,
+    "vacanīyamevāyasmā attānaṃ karotu": 224,
+    "āyasmāpi bhikkhū vadatu saha-dhammena": 225,
+    "bhikkhūpi āyasmantaṃ vakkhanti saha-dhammena": 226,
+    "evaṃ saṃvaddhā hi tassa bhagavato parisā": 227,
+    "yadidaṃ aññamañña-vacanena": 228,
+    "aññamañña-vuṭṭhāpanenā ti": 229,
+    "bhikkhu paneva aññataraṃ": 239,
+    "gāmaṃ vā nigamaṃ vā upanissāya": 240,
+    "viharati kula-dūsako pāpa-samācāro": 241,
+    "tassa kho pāpakā samācārā": 242,
+    "dissanti ceva suyyanti ca": 243,
+    "kulāni ca tena duṭṭhāni": 244,
+    "āyasmā kho kula-dūsako pāpa-samācāro": 247,
+    "āyasmato kho pāpakā samācārā": 248,
+    "kulāni cāyasmatā duṭṭhāni": 250,
+    "pakkamatāyasmā imamhā āvāsā": 252,
+    "alaṃ te idha vāsenā ti": 253,
+    "evañca so bhikkhu bhikkhūhi vuccamāno": 254,
+    "te bhikkhū evaṃ vadeyya": 255,
+    "chanda-gāmino ca bhikkhū": 256,
+    "dosa-gāmino ca bhikkhū": 257,
+    "moha-gāmino ca bhikkhū": 258,
+    "bhaya-gāmino ca bhikkhū": 259,
+    "tādisikāya āpattiyā ekaccaṃ pabbājenti": 260,
+    "ekaccaṃ na pabbājentī ti": 261,
+    "māyasmā evaṃ avaca": 263,
+    "na ca bhikkhū chanda-gāmino": 264,
+    "na ca bhikkhū dosa-gāmino": 265,
+    "na ca bhikkhū moha-gāmino": 266,
+    "na ca bhikkhū bhaya-gāmino": 267,
+    "tatheva paggaṇheyya": 276,
+    "uddiṭṭhā kho āyasmanto": 284,
+    "nava paṭhamāpattikā": 286,
+    "cattāro yāva-tatiyakā": 287,
+    "yāvatīhaṃ jānaṃ paṭicchādeti": 289,
+    "tāvatīhaṃ tena bhikkhunā akāmā parivatthabbaṃ": 290,
+    "parivuttha-parivāsena bhikkhunā": 291,
+    "uttari chārattaṃ bhikkhu-mānattāya paṭipajjitabbaṃ": 292,
+    "ciṇṇa-mānatto bhikkhu": 293,
+    "yattha siyā vīsati-gaṇo bhikkhusaṅgho": 294,
+    "tattha so bhikkhu abbhetabbo": 295,
+    "ekenapi ce ūno vīsati-gaṇo": 296,
+    "bhikkhu-saṅgho taṃ bhikkhuṃ abbheyya": 297,
+    "so ca bhikkhu anabbhito": 298,
+    "te ca bhikkhū gārayhā": 299,
+    "ayaṃ tattha sāmīci": 300,
+    "saṅghādiseso niṭṭhito": 306,
+    "dve aniyatā dhammā uddesaṃ āgacchanti": 308,
+    "yo pana bhikkhu mātu-gāmena saddhiṃ eko ekāya": 309,
+    "raho paṭicchanne āsane alaṃkammaniye nisajjaṃ kappeyya": 310,
+    "tamenaṃ saddheyya-vacasā upāsikā disvā": 311,
+    "tiṇṇaṃ dhammānaṃ aññatarena vadeyya": 312,
+    "pārājikena vā saṅghādisesena vā pācittiyena vā": 313,
+    "nisajjaṃ bhikkhu paṭijānamāno": 314,
+    "tiṇṇaṃ dhammānaṃ aññatarena kāretabbo": 315,
+    "yena vā sā saddheyya-vacasā upāsikā vadeyya": 317,
+    "tena so bhikkhu kāretabbo": 318,
+    "ayaṃ dhammo aniyato": 319,
+    "na heva kho pana paṭicchannaṃ āsanaṃ hoti": 320,
+    "nālaṃkammaniyaṃ": 321,
+    "alañca kho hoti": 322,
+    "mātu-gāmaṃ duṭṭhullāhi vācāhi obhāsituṃ": 323,
+    "yo pana bhikkhu tathārūpe āsane mātu-gāmena saddhiṃ": 324,
+    "eko ekāya raho nisajjaṃ kappeyya": 325,
+    "ayampi dhammo aniyato": 326,
+    "uddiṭṭhā kho āyasmanto dve aniyatā dhammā": 327,
+    "aniyato niṭṭhito": 333,
+    "uddesaṃ āgacchanti": 336,
+    "niṭṭhita-cīvarasmiṃ bhikkhunā ubbhatasmiṃ kathine": 337,
+    "dasāha-paramaṃ atireka-cīvaraṃ dhāretabbaṃ": 338,
+    "taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ": 339,
+    "eka-rattampi ce bhikkhu ticīvarena vippavaseyya": 341,
+    "aññatra bhikkhu-sammutiyā nissaggiyaṃ pācittiyaṃ": 342,
+    "bhikkhuno paneva akāla-cīvaraṃ uppajjeyya": 344,
+    "ākaṅkhamānena bhikkhunā paṭiggahetabbaṃ": 345,
+    "paṭiggahetvā khippameva kāretabbaṃ": 346,
+    "no cassa pāripūri": 347,
+    "māsa-paramaṃ tena bhikkhunā": 348,
+    "taṃ cīvaraṃ nikkhipitabbaṃ": 349,
+    "ūnassa pāripūriyā": 350,
+    "satiyā paccāsāya": 351,
+    "tato ce uttari nikkhipeyya": 352,
+    "satiyāpi paccāsāya": 353,
+    "nissaggiyaṃ pācittiyaṃ": 354,
+    "yo pana bhikkhu aññātikāya bhikkhuniyā": 355,
+    "purāṇa-cīvaraṃ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā": 356,
+    "hatthato cīvaraṃ paṭiggaṇheyya": 359,
+    "aññatra pārivattakā": 360,
+    "acchinna-cīvaro vā hoti bhikkhu": 361,
+    "naṭṭha-cīvaro vā": 362,
+    "ayaṃ tattha samayo": 363,
+    "tañce aññātako gaha-pati vā gahapatānī vā": 364,
+    "bahūhi cīvarehi abhihaṭṭhuṃ pavāreyya": 365,
+    "santaruttara-paramaṃ tena bhikkhunā": 366,
+    "tato cīvaraṃ sāditabbaṃ": 367,
+    "tato ce uttari sādiyeyya": 368,
+    "bhikkhuṃ paneva uddissa": 370,
+    "aññātakassa gaha-patissa vā gahapatāniyā vā": 371,
+    "cīvara-cetāpannaṃ upakkhaṭaṃ hoti": 372,
+    "iminā cīvara-cetāpannena cīvaraṃ cetāpetvā": 373,
+    "itthan-nāmaṃ bhikkhuṃ cīvarena acchādessāmī ti": 374,
+    "tatra ce so bhikkhu pubbe appavārito": 375,
+    "upasaṅkamitvā cīvare vikappaṃ āpajjeyya": 376,
+    "sādhu vata maṃ āyasmā": 377,
+    "iminā cīvara-cetāpannena": 378,
+    "evarūpaṃ vā evarūpaṃ vā": 379,
+    "cīvaraṃ cetāpetvā acchādehī ti": 380,
+    "kalyāṇa-kamyataṃ upādāya": 381,
+    "ubhinnaṃ aññātakānaṃ gahapatīnaṃ vā gahapatānīnaṃ vā": 384,
+    "pacceka-cīvara-cetāpannāni upakkhaṭāni honti": 385,
+    "imehi mayaṃ pacceka-cīvara-cetāpannehi": 386,
+    "pacceka-cīvarāni cetāpetvā": 387,
+    "itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā ti": 388,
+    "sādhu vata maṃ āyasmanto": 391,
+    "imehi pacceka-cīvara-cetāpannehi": 392,
+    "cīvaraṃ cetāpetvā": 394,
+    "acchādetha ubhova santā ekenā ti": 395,
+    "rājā vā rāja-bhoggo vā": 399,
+    "brāhmaṇo vā gaha-patiko vā": 400,
+    "dūtena cīvara-cetāpannaṃ pahiṇeyya": 401,
+    "itthan-nāmaṃ bhikkhuṃ cīvarena acchādehī ti": 403,
+    "so ce dūto taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya": 404,
+    "idaṃ kho bhante āyasmantaṃ uddissa": 405,
+    "cīvara-cetāpannaṃ ābhataṃ": 406,
+    "paṭiggaṇhātu āyasmā cīvara-cetāpannan ti": 407,
+    "tena bhikkhunā so dūto evam·assa vacanīyo": 408,
+    "na kho mayaṃ āvuso cīvara-cetāpannaṃ paṭiggaṇhāma": 409,
+    "cīvarañca kho mayaṃ paṭiggaṇhāma kālena kappiyan ti": 410,
+    "so ce dūto taṃ bhikkhuṃ evaṃ vadeyya": 411,
+    "atthi panāyasmato koci veyyāvacca-karo ti": 412,
+    "cīvara-(a)tthikena bhikkhave bhikkhunā veyyāvacca-karo": 413,
+    "niddisitabbo ārāmiko vā upāsako vā": 414,
+    "eso kho āvuso bhikkhūnaṃ veyyāvacca-karo ti": 415,
+    "so ce dūto taṃ veyyāvacca-karaṃ saññāpetvā": 416,
+    "taṃ bhikkhuṃ upasaṅkamitvā evaṃ vadeyya": 417,
+    "yaṃ kho bhante āyasmā veyyāvacca-karaṃ niddisi": 418,
+    "saññatto so mayā upasaṅkamatāyasmā kālena": 419,
+    "cīvarena taṃ acchādessatī ti": 420,
+    "cīvaratthikena bhikkhave bhikkhunā veyyāvacca-karo upasaṅkamitvā": 421,
+    "dvatti-kkhattuṃ codetabbo sāretabbo": 422,
+    "attho me āvuso cīvarenā ti": 423,
+    "dvattikkhattuṃ codayamāno sārayamāno": 424,
+    "taṃ cīvaraṃ abhinipphādeyya": 425,
+    "no ce abhinipphādeyya": 427,
+    "catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ": 428,
+    "tuṇhībhūtena uddissa ṭhātabbaṃ": 429,
+    "tuṇhībhūto uddissa tiṭṭhamāno": 431,
+    "tato ce uttari vāyamamāno": 434,
+    "yatassa cīvara-cetāpannaṃ ābhataṃ": 438,
+    "tattha sāmaṃ vā gantabbaṃ": 439,
+    "dūto vā pāhetabbo": 440,
+    "yaṃ kho tumhe āyasmanto": 441,
+    "bhikkhuṃ uddissa cīvara-cetāpannaṃ pahiṇittha": 442,
+    "na taṃ tassa bhikkhuno": 443,
+    "kiñci atthaṃ anubhoti": 444,
+    "yuñjantāyasmanto sakaṃ": 445,
+    "mā vo sakaṃ vinassā ti": 446,
+    "kathinavaggo paṭhamo": 448,
+    "yo pana bhikkhu kosiya-missakaṃ santhataṃ kārāpeyya": 449,
+    "yo pana bhikkhu suddha-kāḷakānaṃ eḷaka-lomānaṃ": 451,
+    "santhataṃ kārāpeyya": 452,
+    "navaṃ pana bhikkhunā santhataṃ kārayamānena": 454,
+    "dve bhāgā suddha-kāḷakānaṃ eḷaka-lomānaṃ ādātabbā": 455,
+    "tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ": 456,
+    "anādā ce bhikkhu dve bhāge suddha-kāḷakānaṃ eḷaka-lomānaṃ": 457,
+    "navaṃ santhataṃ kārāpeyya": 459,
+    "navaṃ pana bhikkhunā santhataṃ kārāpetvā": 461,
+    "chabbassāni dhāretabbaṃ": 462,
+    "orena ce channaṃ vassānaṃ": 463,
+    "taṃ santhataṃ vissajjetvā vā avissajjetvā vā": 464,
+    "aññaṃ navaṃ santhataṃ kārāpeyya": 465,
+    "aññatra bhikkhu-sammutiyā": 466,
+    "nisīdana-santhataṃ pana bhikkhunā kārayamānena": 468,
+    "purāṇa-santhatassa sāmantā sugata-vidatthi ādātabbā": 469,
+    "dubbaṇṇa-karaṇāya": 470,
+    "anādā ce bhikkhu purāṇa-santhatassa sāmantā sugata-vidatthiṃ": 471,
+    "navaṃ nisīdana-santhataṃ kārāpeyya": 472,
+    "bhikkhuno paneva addhāna-magga-ppaṭipannassa eḷaka-lomāni uppajjeyyuṃ": 474,
+    "ākaṅkhamānena bhikkhunā paṭiggahetabbāni": 475,
+    "paṭiggahetvā tiyojana-paramaṃ": 476,
+    "sahatthā haritabbāni asante hārake": 477,
+    "tato ce uttari hareyya": 478,
+    "asantepi hārake": 479,
+    "eḷaka-lomāni dhovāpeyya vā rajāpeyya vā vijaṭāpeyya vā": 482,
+    "yo pana bhikkhu jātarūpa-rajataṃ": 484,
+    "uggaṇheyya vā uggaṇhāpeyya vā": 485,
+    "upanikkhittaṃ vā sādiyeyya": 486,
+    "yo pana bhikkhu nāna-ppakārakaṃ": 488,
+    "rūpiya-saṃvohāraṃ samāpajjeyya": 489,
+    "kaya-vikkayaṃ samāpajjeyya": 492,
+    "kosiyavaggo dutiyo": 494,
+    "dasāha-paramaṃ atireka-patto dhāretabbo": 495,
+    "yo pana bhikkhu ūnapañca-bandhanena pattena": 497,
+    "aññaṃ navaṃ pattaṃ cetāpeyya": 498,
+    "tena bhikkhunā so patto bhikkhu-parisāya nissajjitabbo": 500,
+    "yo ca tassā bhikkhu-parisāya patta-pariyanto": 501,
+    "so tassa bhikkhuno padātabbo": 502,
+    "ayaṃ te bhikkhu patto": 503,
+    "yāva bhedanāya dhāretabbo ti": 504,
+    "yāni kho pana tāni gilānānaṃ bhikkhūnaṃ": 506,
+    "paṭisāyanīyāni bhesajjāni": 507,
+    "seyyathidaṃ sappi navanītaṃ telaṃ madhu phāṇitaṃ": 508,
+    "tāni paṭiggahetvā": 509,
+    "sattāha-paramaṃ sannidhi-kārakaṃ paribhuñjitabbāni": 510,
+    "māso seso gimhānan ti": 512,
+    "bhikkhunā vassika-sāṭika-cīvaraṃ pariyesitabbaṃ": 513,
+    "addhamāso seso gimhānan ti katvā nivāsetabbaṃ": 514,
+    "orena ce māso seso gimhānan ti": 515,
+    "vassika-sāṭika-cīvaraṃ pariyeseyya": 516,
+    "orena ddhamāso seso gimhānan ti": 517,
+    "katvā nivāseyya": 518,
+    "yo pana bhikkhu bhikkhussa": 520,
+    "sāmaṃ cīvaraṃ datvā": 521,
+    "kupito anattamano": 522,
+    "acchindeyya vā acchindāpeyya vā": 523,
+    "yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā": 525,
+    "tanta-vāyehi cīvaraṃ vāyāpeyya": 526,
+    "aññātako gahapati vā gahapatānī vā": 529,
+    "tanta-vāye upasaṅkamitvā": 532,
+    "cīvare vikappaṃ āpajjeyya": 533,
+    "idaṃ kho āvuso cīvaraṃ maṃ uddissa viyyati": 534,
+    "āyatañca karotha": 535,
+    "vitthatañca appitañca": 536,
+    "suvītañca suppavāyitañca": 537,
+    "suvilekhitañca suvitacchitañca karotha": 538,
+    "appeva nāma mayampi": 539,
+    "āyasmantānaṃ kiñci-mattaṃ anupadajjeyyāmā ti": 540,
+    "evañca so bhikkhu vatvā": 541,
+    "kiñci-mattaṃ anupadajjeyya": 542,
+    "antamaso piṇḍapāta-mattampi": 543,
+    "dasāhānāgataṃ kattika-temāsika-puṇṇamaṃ": 545,
+    "bhikkhuno paneva acceka-cīvaraṃ uppajjeyya": 546,
+    "accekaṃ maññamānena bhikkhunā": 547,
+    "paṭiggahetabbaṃ paṭiggahetvā": 548,
+    "yāva cīvara-kāla-samayaṃ nikkhipitabbaṃ": 549,
+    "upavassaṃ kho pana kattika-puṇṇamaṃ": 552,
+    "yāni kho pana tāni āraññakāni senāsanāni": 553,
+    "sāsaṅka-sammatāni sappaṭibhayāni": 554,
+    "tathārūpesu bhikkhu senāsanesu viharanto": 555,
+    "ākaṅkhamāno tiṇṇaṃ cīvarānaṃ": 556,
+    "aññataraṃ cīvaraṃ antara-ghare nikkhipeyya": 557,
+    "siyā ca tassa bhikkhuno": 558,
+    "kocideva paccayo": 559,
+    "tena cīvarena vippavāsāya": 560,
+    "chāratta-paramaṃ tena bhikkhunā": 561,
+    "tena cīvarena vippavasitabbaṃ": 562,
+    "tato ce uttari vippavaseyya": 563,
+    "yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ": 566,
+    "pariṇataṃ attano pariṇāmeyya": 567,
+    "pattavaggo tatiyo": 569,
+    "nissaggiyapācittiyā niṭṭhitā": 577,
+    "sampajāna-musā-vāde pācittiyaṃ": 581,
+    "omasa-vāde pācittiyaṃ": 582,
+    "bhikkhu-pesuññe pācittiyaṃ": 583,
+    "yo pana bhikkhu anupasampannaṃ padaso dhammaṃ vāceyya pācittiyaṃ": 584,
+    "yo pana bhikkhu anupasampannena": 585,
+    "uttari-diratta-tirattaṃ sahaseyyaṃ kappeyya pācittiyaṃ": 586,
+    "yo pana bhikkhu mātu-gāmena sahaseyyaṃ kappeyya pācittiyaṃ": 587,
+    "yo pana bhikkhu mātu-gāmassa": 588,
+    "uttari-chappañca-vācāhi": 589,
+    "dhammaṃ deseyya": 590,
+    "aññatra viññunā purisa-viggahena pācittiyaṃ": 591,
+    "yo pana bhikkhu anupasampannassa": 592,
+    "uttari-manussa-dhammaṃ āroceyya bhūtasmiṃ pācittiyaṃ": 593,
+    "duṭṭhullaṃ āpattiṃ": 595,
+    "anupasampannassa āroceyya": 596,
+    "aññatra bhikkhu-sammutiyā pācittiyaṃ": 597,
+    "yo pana bhikkhu pathaviṃ khaṇeyya vā khaṇāpeyya vā pācittiyaṃ": 598,
+    "musāvādavaggo paṭhamo": 599,
+    "bhūta-gāma-pātabyatāya pācittiyaṃ": 600,
+    "añña-vādake vihesake pācittiyaṃ": 601,
+    "ujjhāpanake khiyyanake pācittiyaṃ": 602,
+    "yo pana bhikkhu saṅghikaṃ mañcaṃ vā pīṭhaṃ vā": 603,
+    "bhisiṃ vā kocchaṃ vā": 604,
+    "ajjhokāse santharitvā vā santharāpetvā vā": 605,
+    "taṃ pakkamanto neva uddhareyya na uddharāpeyya": 606,
+    "anāpucchaṃ vā gaccheyya pācittiyaṃ": 607,
+    "yo pana bhikkhu saṅghike vihāre": 608,
+    "seyyaṃ santharitvā vā santharāpetvā vā": 609,
+    "jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya": 613,
+    "yassa sambādho bhavissati": 614,
+    "so pakkamissatī ti": 615,
+    "etadeva paccayaṃ karitvā anaññaṃ pācittiyaṃ": 616,
+    "yo pana bhikkhu bhikkhuṃ kupito anattamano": 617,
+    "saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā pācittiyaṃ": 618,
+    "upari-vehāsa-kuṭiyā āhacca-pādakaṃ mañcaṃ vā pīṭhaṃ vā": 620,
+    "abhinisīdeyya vā abhinipajjeyya vā pācittiyaṃ": 621,
+    "yāva dvāra-kosā aggaḷaṭ-ṭhapanāya": 623,
+    "āloka-sandhi-parikammāya": 624,
+    "dvattic-chadanassa pariyāyaṃ": 625,
+    "appaharite ṭhitena adhiṭṭhātabbaṃ": 626,
+    "tato ce uttari appaharitepi": 627,
+    "ṭhito adhiṭṭhaheyya pācittiyaṃ": 628,
+    "yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ": 629,
+    "tiṇaṃ vā mattikaṃ vā": 630,
+    "siñceyya vā siñcāpeyya vā pācittiyaṃ": 631,
+    "bhūtagāmavaggo dutiyo": 632,
+    "yo pana bhikkhu asammato": 633,
+    "bhikkhuniyo ovadeyya pācittiyaṃ": 634,
+    "sammatopi ce bhikkhu atthaṅgate sūriye": 635,
+    "yo pana bhikkhu bhikkhun(ī)-upassayaṃ upasaṅkamitvā": 637,
+    "bhikkhuniyo ovadeyya aññatra samayā pācittiyaṃ": 638,
+    "tatthāyaṃ samayo gilānā hoti bhikkhunī": 639,
+    "yo pana bhikkhu evaṃ vadeyya": 641,
+    "āmisa-hetu therā bhikkhū bhikkhuniyo ovadantī ti pācittiyaṃ": 642,
+    "cīvaraṃ dadeyya aññatra pārivattakā pācittiyaṃ": 644,
+    "cīvaraṃ sibbeyya vā sibbāpeyya vā pācittiyaṃ": 646,
+    "yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhāya": 647,
+    "ekaddhāna-maggaṃ paṭipajjeyya": 648,
+    "antamaso gāma-antarampi": 649,
+    "aññatra samayā pācittiyaṃ": 650,
+    "sattha-gamanīyo hoti maggo": 652,
+    "sāsaṅka-sammato sappaṭibhayo": 653,
+    "yo pana bhikkhu bhikkhuniyā saddhiṃ": 655,
+    "saṃvidhāya ekaṃ nāvaṃ abhiruheyya": 656,
+    "uddhaṃ·gāminiṃ vā adho·gāminiṃ vā": 657,
+    "aññatra tiriyaṃ taraṇāya pācittiyaṃ": 658,
+    "yo pana bhikkhu jānaṃ": 659,
+    "bhikkhuni-paripācitaṃ piṇḍapātaṃ bhuñjeyya": 660,
+    "aññatra pubbe gihi-samārambhā pācittiyaṃ": 661,
+    "eko ekāya raho nisajjaṃ kappeyya pācittiyaṃ": 663,
+    "ovāda-vaggo tatiyo": 664,
+    "agilānena bhikkhunā eko āvasatha-piṇḍo bhuñjitabbo": 665,
+    "tato ce uttari bhuñjeyya pācittiyaṃ": 666,
+    "gaṇa-bhojane aññatra samayā pācittiyaṃ": 667,
+    "tatthāyaṃ samayo gilāna-samayo cīvara-dāna-samayo": 668,
+    "cīvara-kāra-samayo addhāna-gamana-samayo": 669,
+    "nāvābhiruhana-samayo mahāsamayo": 670,
+    "samaṇa-bhatta-samayo ayaṃ tattha samayo": 671,
+    "parampara-bhojane aññatra samayā pācittiyaṃ": 672,
+    "cīvara-kāra-samayo ayaṃ tattha samayo": 674,
+    "bhikkhuṃ paneva kulaṃ upagataṃ": 675,
+    "pūvehi vā manthehi vā abhihaṭṭhuṃ pavāreyya": 676,
+    "ākaṅkhamānena bhikkhunā dvattipattapūrā paṭiggahetabbā": 677,
+    "tato ce uttari paṭiggaṇheyya pācittiyaṃ": 678,
+    "dvatti-patta-pūre paṭiggahetvā tato nīharitvā": 679,
+    "bhikkhūhi saddhiṃ saṃ|vi|bhajitabbaṃ ayaṃ tattha sāmīci": 680,
+    "yo pana bhikkhu bhuttāvī pavārito": 681,
+    "anatirittaṃ khādanīyaṃ vā bhojanīyaṃ vā": 682,
+    "khādeyya vā bhuñjeyya vā pācittiyaṃ": 683,
+    "yo pana bhikkhu bhikkhuṃ bhuttāviṃ pavāritaṃ": 684,
+    "anatirittena khādanīyena vā bhojanīyena vā": 685,
+    "abhihaṭṭhuṃ pavāreyya": 686,
+    "handa bhikkhu khāda vā bhuñja vā ti": 687,
+    "jānaṃ āsādanā-(a)pekkho bhuttasmiṃ pācittiyaṃ": 688,
+    "yo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā": 689,
+    "yo pana bhikkhu sannidhi-kārakaṃ": 691,
+    "khādanīyaṃ vā bhojanīyaṃ vā": 692,
+    "yāni kho pana tāni paṇīta-bhojanāni": 694,
+    "maccho maṃsaṃ khīraṃ dadhi": 696,
+    "yo pana bhikkhu evarūpāni paṇīta-bhojanāni": 697,
+    "agilāno attano atthāya viññāpetvā bhuñjeyya pācittiyaṃ": 698,
+    "yo pana bhikkhu adinnaṃ mukha-dvāraṃ": 699,
+    "āhāraṃ āhareyya": 700,
+    "aññatra udaka-danta-ponā pācittiyaṃ": 701,
+    "bhojana-vaggo catuttho": 702,
+    "yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā": 703,
+    "sahatthā khādanīyaṃ vā bhojanīyaṃ vā dadeyya pācittiyaṃ": 704,
+    "yo pana bhikkhu bhikkhuṃ": 705,
+    "ehāvuso gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā ti": 706,
+    "tassa dāpetvā vā adāpetvā vā uyyojeyya": 707,
+    "gacchāvuso na me tayā saddhiṃ": 708,
+    "kathā vā nisajjā vā phāsu hoti": 709,
+    "ekakassa me kathā vā nisajjā vā phāsu hotī ti": 710,
+    "yo pana bhikkhu sabhojane kule": 712,
+    "anupakhajja nisajjaṃ kappeyya pācittiyaṃ": 713,
+    "yo pana bhikkhu mātu-gāmena saddhiṃ": 714,
+    "raho paṭicchanne āsane nisajjaṃ kappeyya pācittiyaṃ": 715,
+    "yo pana bhikkhu nimantito sabhatto samāno": 718,
+    "santaṃ bhikkhuṃ anāpucchā pure-bhattaṃ vā pacchā-bhattaṃ vā": 719,
+    "kulesu cārittaṃ āpajjeyya aññatra samayā pācittiyaṃ": 720,
+    "cīvara-dāna-samayo cīvara-kāra-samayo": 722,
+    "agilānena bhikkhunā": 724,
+    "catu-māsa-ppaccaya-pavāraṇā sāditabbā": 725,
+    "aññatra puna-pavāraṇāya": 726,
+    "aññatra nicca-pavāraṇāya": 727,
+    "tato ce uttari sādiyeyya pācittiyaṃ": 728,
+    "yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gaccheyya": 729,
+    "aññatra tathā-rūpa-ppaccayā pācittiyaṃ": 730,
+    "kocideva paccayo senaṃ gamanāya": 732,
+    "dirattatirattaṃ tena bhikkhunā": 733,
+    "senāya vasitabbaṃ": 734,
+    "tato ce uttari vaseyya pācittiyaṃ": 735,
+    "dirattatirattaṃ ce bhikkhu senāya vasamāno": 736,
+    "uyyodhikaṃ vā balaggaṃ vā": 737,
+    "senābyūhaṃ vā anīkadassanaṃ vā gaccheyya pācittiyaṃ": 738,
+    "acelakavaggo pañcamo": 739,
+    "surā-meraya-pāne pācittiyaṃ": 740,
+    "aṅguli-patodake pācittiyaṃ": 741,
+    "udake hasadhamme pācittiyaṃ": 742,
+    "anādariye pācittiyaṃ": 743,
+    "bhiṃsāpeyya pācittiyaṃ": 745,
+    "yo pana bhikkhu agilāno visibbanāpekkho": 746,
+    "jotiṃ samādaheyya vā samādahāpeyya vā": 747,
+    "aññatra tathārūpa-ppaccayā pācittiyaṃ": 748,
+    "yo pana bhikkhu orenaddha-māsaṃ nahāyeyya": 749,
+    "diyaḍḍho māso seso gimhānan ti": 752,
+    "vassānassa paṭhamo māso": 753,
+    "iccete aḍḍhateyyamāsā": 754,
+    "uṇha-samayo pariḷāha-samayo": 755,
+    "gilāna-samayo kamma-samayo": 756,
+    "addhāna-gamana-samayo vāta-vuṭṭhi-samayo": 757,
+    "navaṃ pana bhikkhunā cīvara-lābhena": 759,
+    "tiṇṇaṃ dubbaṇṇa-karaṇānaṃ aññataraṃ dubbaṇṇa-karaṇaṃ ādātabbaṃ": 760,
+    "nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā": 761,
+    "anādā ce bhikkhu tiṇṇaṃ dubbaṇṇa-karaṇānaṃ": 762,
+    "aññataraṃ dubbaṇṇa-karaṇaṃ navaṃ cīvaraṃ paribhuñjeyya pācittiyaṃ": 763,
+    "yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā": 764,
+    "sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā": 765,
+    "sāmaṃ cīvaraṃ vikappetvā": 766,
+    "ap|paccuddhāraṇaṃ paribhuñjeyya pācittiyaṃ": 767,
+    "pattaṃ vā cīvaraṃ vā": 769,
+    "nisīdanaṃ vā sūci-gharaṃ vā": 770,
+    "kāya-bandhanaṃ vā apanidheyya vā apanidhāpeyya vā": 771,
+    "antamaso hasa-apekkhopi pācittiyaṃ": 772,
+    "surā-pāna-vaggo chaṭṭho": 773,
+    "yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya pācittiyaṃ": 774,
+    "yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya pācittiyaṃ": 775,
+    "yo pana bhikkhu jānaṃ yathā-dhammaṃ nihata-adhikaraṇaṃ": 776,
+    "puna-kammāya ukkoṭeyya pācittiyaṃ": 777,
+    "yo pana bhikkhu bhikkhussa jānaṃ": 778,
+    "duṭṭhullaṃ āpattiṃ paṭicchādeyya pācittiyaṃ": 779,
+    "ūnavīsati-vassaṃ puggalaṃ upasampādeyya": 781,
+    "so ca puggalo anupasampanno": 782,
+    "idaṃ tasmiṃ pācittiyaṃ": 784,
+    "theyya-satthena saddhiṃ saṃvidhāya": 786,
+    "antamaso gāma-antarampi pācittiyaṃ": 788,
+    "yo pana bhikkhu mātu-gāmena saddhiṃ saṃvidhāya": 789,
+    "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi": 793,
+    "yathā yeme antarāyikā dhammā vuttā bhagavatā": 794,
+    "te paṭisevato nālaṃ antarāyāyā ti": 795,
+    "so bhikkhu bhikkhūhi evamassa vacanīyo": 796,
+    "mā bhagavantaṃ abbhācikkhi": 798,
+    "na hi sādhu bhagavato abbhakkhānaṃ": 799,
+    "na hi bhagavā evaṃ vadeyya": 800,
+    "aneka-pariyāyena āvuso": 801,
+    "antarāyikā dhammā antarāyikā vuttā bhagavatā": 802,
+    "alañca pana te paṭisevato antarāyāyā ti": 803,
+    "evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya": 804,
+    "so bhikkhu bhikkhūhi yāva-tatiyaṃ": 805,
+    "samanubhāsitabbo tassa paṭinissaggāya": 806,
+    "yāva-tatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya": 807,
+    "no ce paṭinissajjeyya pācittiyaṃ": 809,
+    "tathā-vādinā bhikkhunā akaṭa-anudhammena": 811,
+    "taṃ diṭṭhiṃ appaṭinissaṭṭhena saddhiṃ": 812,
+    "sambhuñjeyya vā saṃvaseyya vā": 813,
+    "saha vā seyyaṃ kappeyya pācittiyaṃ": 814,
+    "samaṇuddesopi ce evaṃ vadeyya": 815,
+    "so samaṇuddeso bhikkhūhi evamassa vacanīyo": 819,
+    "māvuso samaṇuddesa evaṃ avaca": 820,
+    "aneka-pariyāyenāvuso samaṇuddesa": 824,
+    "evañca so samaṇuddeso bhikkhūhi": 827,
+    "ajjatagge te āvuso samaṇuddesa": 830,
+    "na ceva so bhagavā satthā apadisitabbo": 831,
+    "yampi caññe samaṇuddesā labhanti": 832,
+    "bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ": 833,
+    "sāpi te natthi": 834,
+    "cara pire vinassā ti": 835,
+    "yo pana bhikkhu jānaṃ tathānāsitaṃ samaṇuddesaṃ": 836,
+    "upalāpeyya vā upaṭṭhāpeyya vā": 837,
+    "sambhuñjeyya vā saha vā seyyaṃ kappeyya pācittiyaṃ": 838,
+    "sappāṇakavaggo sattamo": 839,
+    "yo pana bhikkhu bhikkhūhi": 840,
+    "saha-dhammikaṃ vuccamāno evaṃ vadeyya": 841,
+    "na tāvāhaṃ āvuso": 842,
+    "etasmiṃ sikkhā-pade sikkhissāmi": 843,
+    "yāva na aññaṃ bhikkhuṃ byattaṃ vinaya-dharaṃ paripucchāmī ti pācittiyaṃ": 844,
+    "sikkhamānena bhikkhave bhikkhunā": 845,
+    "aññātabbaṃ paripucchitabbaṃ paripañhitabbaṃ": 846,
+    "yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya": 848,
+    "kiṃ pan(a) imehi khudda-anukhuddakehi": 849,
+    "sikkhā-padehi uddiṭṭhehi": 850,
+    "yāvadeva kukkuccāya vihesāya": 851,
+    "vilekhāya saṃvattantī ti": 852,
+    "sikkhāpada-vivaṇṇake pācittiyaṃ": 853,
+    "yo pana bhikkhu anvaddha-māsaṃ pātimokkhe uddissamāne evaṃ vadeyya": 854,
+    "idān(i) eva kho ahaṃ jānāmi": 855,
+    "ayampi kira dhammo suttāgato sutta-pariyāpanno": 856,
+    "anvaddha-māsaṃ uddesaṃ āgacchatī ti": 857,
+    "tañce bhikkhuṃ aññe bhikkhū jāneyyuṃ nisinna-pubbaṃ": 858,
+    "iminā bhikkhunā dvatti-kkhattuṃ pātimokkhe uddissamāne": 859,
+    "ko pana vādo bhiyyo": 860,
+    "na ca tassa bhikkhuno aññāṇakena mutti atthi": 861,
+    "yañca tattha āpattiṃ āpanno": 862,
+    "tañca yathā-dhammo kāretabbo": 863,
+    "uttari cassa moho āropetabbo": 864,
+    "tassa te āvuso alābhā": 865,
+    "tassa te dulladdhaṃ yaṃ tvaṃ pātimokkhe uddissamāne": 866,
+    "na sādhukaṃ aṭṭhiṃ katvā": 867,
+    "manasi karosī ti": 868,
+    "idaṃ tasmiṃ mohanake pācittiyaṃ": 869,
+    "yo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya pācittiyaṃ": 870,
+    "yo pana bhikkhu bhikkhussa kupito": 871,
+    "anattamano tala-sattikaṃ uggireyya pācittiyaṃ": 872,
+    "yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya pācittiyaṃ": 873,
+    "yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya": 874,
+    "itissa muhuttampi aphāsu bhavissatī ti": 875,
+    "yo pana bhikkhu bhikkhūnaṃ bhaṇḍana-jātānaṃ": 877,
+    "kalaha-jātānaṃ vivāda-āpannānaṃ upassutiṃ tiṭṭheyya": 878,
+    "yaṃ ime bhaṇissanti taṃ sossāmī ti": 879,
+    "yo pana bhikkhu dhammikānaṃ kammānaṃ chandaṃ datvā": 881,
+    "pacchā khīyana-dhammaṃ āpajjeyya pācittiyaṃ": 882,
+    "yo pana bhikkhu saṅghe vinicchaya-kathāya vattamānāya": 883,
+    "chandaṃ adatvā uṭṭhāyāsanā pakkameyya pācittiyaṃ": 884,
+    "yo pana bhikkhu samaggena saṅghena cīvaraṃ datvā": 885,
+    "pacchā khīyana-dhammaṃ āpajjeyya": 886,
+    "yathā-santhutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī ti pācittiyaṃ": 887,
+    "yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ": 888,
+    "puggalassa pariṇāmeyya pācittiyaṃ": 889,
+    "sahadhammikavaggo aṭṭhamo": 890,
+    "yo pana bhikkhu rañño khattiyassa muddhā-abhisittassa": 891,
+    "anikkhanta-rājake aniggata-ratanake": 892,
+    "pubbe appaṭisaṃvidito": 893,
+    "inda-khīlaṃ atikkāmeyya pācittiyaṃ": 894,
+    "yo pana bhikkhu ratanaṃ vā ratana-sammataṃ vā": 895,
+    "aññatra ajjhārāmā vā ajjhāvasathā vā": 896,
+    "uggaṇheyya vā uggaṇhāpeyya vā pācittiyaṃ": 897,
+    "ratanaṃ vā pana bhikkhunā ratana-sammataṃ vā": 898,
+    "ajjhārāme vā ajjhāvasathe vā": 899,
+    "uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ": 900,
+    "yassa bhavissati so harissatī ti": 901,
+    "yo pana bhikkhu santaṃ bhikkhuṃ anāpucchā": 903,
+    "vikāle gāmaṃ paviseyya": 904,
+    "aññatra tathārūpā accāyikā karaṇīyā pācittiyaṃ": 905,
+    "yo pana bhikkhu aṭṭhi-mayaṃ vā danta-mayaṃ vā": 906,
+    "visāṇa-mayaṃ vā sūci-gharaṃ kārāpeyya bhedanakaṃ pācittiyaṃ": 907,
+    "navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena": 908,
+    "aṭṭha-aṅgula-pādakaṃ kāretabbaṃ sugata-aṅgulena": 909,
+    "aññatra heṭṭhimāya aṭaniyā": 910,
+    "taṃ atikkāmayato chedanakaṃ pācittiyaṃ": 911,
+    "yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūla-onaddhaṃ kārāpeyya uddālanakaṃ pācittiyaṃ": 912,
+    "nisīdanaṃ pana bhikkhunā kārayamānena": 913,
+    "pamāṇikaṃ kāretabbaṃ": 914,
+    "tatridaṃ pamāṇaṃ dīghaso dve vidatthiyo sugata-vidatthiyā": 915,
+    "tiriyaṃ diyaḍḍhaṃ dasā vidatthi": 916,
+    "kaṇḍu-ppaṭicchādiṃ pana bhikkhunā kārayamānena": 918,
+    "pamāṇikā kāretabbā": 919,
+    "dīghaso catasso vidatthiyo sugata-vidatthiyā": 921,
+    "tiriyaṃ dve vidatthiyo": 922,
+    "vassika-sāṭikaṃ pana bhikkhunā kārayamānena": 924,
+    "tatridaṃ pamāṇaṃ dīghaso cha vidatthiyo sugata-vidatthiyā": 926,
+    "tiriyaṃ aḍḍhateyyā": 927,
+    "yo pana bhikkhu sugata-cīvara-ppamāṇaṃ cīvaraṃ kārāpeyya": 929,
+    "atirekaṃ vā chedanakaṃ pācittiyaṃ": 930,
+    "tatridaṃ sugatassa sugata-cīvara-ppamāṇaṃ": 931,
+    "dīghaso nava vidatthiyo sugata-vidatthiyā": 932,
+    "tiriyaṃ cha vidatthiyo": 933,
+    "idaṃ sugatassa sugata-cīvara-ppamāṇanti": 934,
+    "ratanavaggo navamo": 935,
+    "uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā": 936,
+    "pācittiyā niṭṭhitā": 942,
+    "cattāro pāṭidesanīyā dhammā uddesaṃ āgacchanti": 944,
+    "yo pana bhikkhu aññātikāya-bhikkhuniyā": 945,
+    "antara-gharaṃ paviṭṭhāya hatthato": 946,
+    "sahatthā paṭiggahetvā": 948,
+    "khādeyya vā bhuñjeyya vā": 949,
+    "paṭidesetabbaṃ tena bhikkhunā": 950,
+    "gārayhaṃ āvuso dhammaṃ āpajjiṃ": 951,
+    "asappāyaṃ pāṭidesanīyaṃ": 952,
+    "taṃ paṭidesemī ti": 953,
+    "bhikkhū paneva kulesu nimantitā bhuñjanti": 954,
+    "tatra ce sā bhikkhunī": 955,
+    "vosāsamāna-rūpā ṭhitā hoti": 956,
+    "idha sūpaṃ detha idha odanaṃ dethā ti": 957,
+    "tehi bhikkhūhi sā bhikkhunī apasādetabbā": 958,
+    "apasakka tāva bhagini": 959,
+    "yāva bhikkhū bhuñjantī ti": 960,
+    "ekassapi ce bhikkhuno na paṭibhāseyya": 961,
+    "taṃ bhikkhuniṃ apasādetuṃ": 962,
+    "paṭidesetabbaṃ tehi bhikkhūhi": 965,
+    "gārayhaṃ āvuso dhammaṃ āpajjimhā": 966,
+    "taṃ paṭidesemā ti": 968,
+    "yāni kho pana tāni sekkha-sammatāni kulāni": 969,
+    "yo pana bhikkhu tathārūpesu sekkha-sammatesu kulesu": 970,
+    "pubbe animantito agilāno": 971,
+    "yo pana bhikkhu tathārūpesu senāsanesu": 981,
+    "pubbe appaṭisaṃviditaṃ": 982,
+    "ajjhārāme sahatthā paṭiggahetvā": 984,
+    "agilāno khādeyya vā bhuñjeyya vā": 985,
+    "pāṭidesanīyā niṭṭhitā": 997,
+    "sekhiyā dhammā uddesaṃ āgacchanti": 999,
+    "parimaṇḍalaṃ nivāsessāmīti sikkhā karaṇīyā": 1000,
+    "parimaṇḍalaṃ pārupissāmīti sikkhā karaṇīyā": 1001,
+    "suppaṭicchanno antara-ghare gamissāmīti sikkhā karaṇīyā": 1002,
+    "suppaṭicchanno antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1003,
+    "susaṃvuto antara-ghare gamissāmīti sikkhā karaṇīyā": 1004,
+    "susaṃvuto antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1005,
+    "okkhitta-cakkhu antara-ghare gamissāmīti sikkhā karaṇīyā": 1006,
+    "okkhitta-cakkhu antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1007,
+    "na ukkhittakāya antara-ghare gamissāmīti sikkhā karaṇīyā": 1008,
+    "na ukkhittakāya antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1009,
+    "parimaṇḍalavaggo paṭhamo": 1010,
+    "na ujjagghikāya antara-ghare gamissāmīti sikkhā karaṇīyā": 1011,
+    "na ujjagghikāya antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1012,
+    "appa-saddo antara-ghare gamissāmīti sikkhā karaṇīyā": 1013,
+    "appa-saddo antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1014,
+    "na kāyap-pacālakaṃ antara-ghare gamissāmīti sikkhā karaṇīyā": 1015,
+    "na kāyap-pacālakaṃ antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1016,
+    "na bāhup-pacālakaṃ antara-ghare gamissāmīti sikkhā karaṇīyā": 1017,
+    "na bāhup-pacālakaṃ antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1018,
+    "na sīsap-pacālakaṃ antara-ghare gamissāmīti sikkhā karaṇīyā": 1019,
+    "na sīsap-pacālakaṃ antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1020,
+    "ujjagghikavaggo dutiyo": 1021,
+    "na khambha-kato antara-ghare gamissāmīti sikkhā karaṇīyā": 1022,
+    "na khambha-kato antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1023,
+    "na oguṇṭhito antara-ghare gamissāmīti sikkhā karaṇīyā": 1024,
+    "na oguṇṭhito antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1025,
+    "na ukkuṭikāya antara-ghare gamissāmīti sikkhā karaṇīyā": 1026,
+    "na pallatthikāya antara-ghare nisīdissāmīti sikkhā karaṇīyā": 1027,
+    "sakkaccaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā": 1028,
+    "patta-saññī piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā": 1029,
+    "sama-sūpakaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā": 1030,
+    "sama-tittikaṃ piṇḍapātaṃ paṭiggahessāmīti sikkhā karaṇīyā": 1031,
+    "khambhakatavaggo tatiyo": 1032,
+    "sakkaccaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā": 1033,
+    "patta-saññī piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā": 1034,
+    "sapadānaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā": 1035,
+    "sama-sūpakaṃ piṇḍapātaṃ bhuñjissāmīti sikkhā karaṇīyā": 1036,
+    "na thūpakato omadditvā piṇḍapātaṃ": 1037,
+    "bhuñjissāmīti sikkhā karaṇīyā": 1038,
+    "na sūpaṃ vā byañjanaṃ vā odanena paṭicchādessāmi": 1039,
+    "bhiyyo-kamyataṃ upādāyāti sikkhā karaṇīyā": 1040,
+    "na sūpaṃ vā odanaṃ vā agilāno attano atthāya viññāpetvā": 1041,
+    "na ujjhāna-saññī paresaṃ pattaṃ olokessāmīti sikkhā karaṇīyā": 1043,
+    "nātimahantaṃ kabaḷaṃ karissāmīti sikkhā karaṇīyā": 1044,
+    "parimaṇḍalaṃ ālopaṃ karissāmīti sikkhā karaṇīyā": 1045,
+    "sakkaccavaggo catuttho": 1046,
+    "na anāhaṭe kabaḷe mukha-dvāraṃ vivarissāmīti sikkhā karaṇīyā": 1047,
+    "na bhuñjamāno sabba-hatthaṃ mukhe pakkhipissāmīti sikkhā karaṇīyā": 1048,
+    "na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā": 1049,
+    "na piṇḍ(a)-ukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1050,
+    "na kabaḷa-avacchedakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1051,
+    "na avagaṇḍa-kārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1052,
+    "na hattha-niddhunakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1053,
+    "na sittha-avakārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1054,
+    "na jivhā-nicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1055,
+    "na capucapu-kārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1056,
+    "kabaḷavaggo pañcamo": 1057,
+    "na surusuru-kārakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1058,
+    "na hattha-nillehakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1059,
+    "na patta-nillehakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1060,
+    "na oṭṭha-nillehakaṃ bhuñjissāmīti sikkhā karaṇīyā": 1061,
+    "na sāmisena hatthena pānīya-thālakaṃ": 1062,
+    "paṭiggahessāmīti sikkhā karaṇīyā": 1063,
+    "na sasitthakaṃ patta-dhovanaṃ antara-ghare": 1064,
+    "chaḍḍessāmīti sikkhā karaṇīyā": 1065,
+    "na chatta-pāṇissa agilānassa": 1066,
+    "dhammaṃ desessāmīti sikkhā karaṇīyā": 1067,
+    "na daṇḍa-pāṇissa agilānassa": 1068,
+    "na sattha-pāṇissa agilānassa": 1070,
+    "na āvudha-pāṇissa agilānassa": 1072,
+    "surusuruvaggo chaṭṭho": 1074,
+    "na pādukāruḷhassa agilānassa": 1075,
+    "na upāhanāruḷhassa agilānassa": 1077,
+    "na yāna-gatassa agilānassa": 1079,
+    "na sayana-gatassa agilānassa": 1081,
+    "na pallatthikāya nisinnassa agilānassa": 1083,
+    "na veṭhita-sīsassa agilānassa": 1085,
+    "na oguṇṭhita-sīsassa agilānassa": 1087,
+    "na chamāyaṃ nisīditvā āsane nisinnassa agilānassa": 1089,
+    "na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa": 1091,
+    "na ṭhito nisinnassa agilānassa": 1093,
+    "na pacchato gacchanto purato gacchantassa agilānassa": 1095,
+    "na uppathena gacchanto pathena gacchantassa agilānassa": 1097,
+    "na ṭhito agilāno uccāraṃ vā passāvaṃ vā": 1099,
+    "karissāmīti sikkhā karaṇīyā": 1100,
+    "na harite agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā": 1101,
+    "na udake agilāno uccāraṃ vā passāvaṃ vā kheḷaṃ vā": 1103,
+    "pādukavaggo sattamo": 1105,
+    "uddiṭṭhā kho āyasmanto sekhiyā dhammā": 1106,
+    "sekhiyā niṭṭhitā": 1112,
+    "satta adhikaraṇa-samathā dhammā": 1114,
+    "uppann(a)-uppannānaṃ adhikaraṇānaṃ samathāya vūpasamāya": 1116,
+    "sammukhā-vinayo dātabbo": 1117,
+    "sati-vinayo dātabbo": 1118,
+    "amūḷha-vinayo dātabbo": 1119,
+    "paṭiññāya kāretabbaṃ": 1120,
+    "yebhuyyasikā": 1121,
+    "tassa-pāpiyasikā": 1122,
+    "tiṇa-vatthārakoti": 1123,
+    "uddiṭṭhā kho āyasmanto satta adhikaraṇasamathā dhammā": 1124,
+    "parisuddhetthāyasmanto tasmā tuṇhī evametaṃ dhārayāmīti": 1128,
+    "adhikaraṇasamathā niṭṭhitā": 1129,
+    "uddiṭṭhā cattāro pārājikā dhammā": 1131,
+    "uddiṭṭhā terasa saṅghādisesā dhammā": 1132,
+    "uddiṭṭhā dve aniyatā dhammā": 1133,
+    "uddiṭṭhā tiṃsa nissaggiyā pācittiyā dhammā": 1134,
+    "uddiṭṭhā dvenavuti pācittiyā dhammā": 1135,
+    "uddiṭṭhā cattāro pāṭidesanīyā dhammā": 1136,
+    "uddiṭṭhā sekhiyā dhammā": 1137,
+    "uddiṭṭhā satta adhikaraṇasamathā dhammā": 1138,
+    "ettakaṃ tassa bhagavato sutta-āgataṃ sutta-pariyāpannaṃ anvaddha-māsaṃ uddesaṃ āgacchati": 1139,
+    "tattha sabbeh(i)eva samaggehi sammodamānehi avivadamānehi sikkhitabbanti": 1140,
+    "bhikkhupātimokkhaṃ niṭṭhitaṃ": 1142
   }
 };
