@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>第四章 连续音轨·分句边界标注</title>
+<style>
+  :root{
+    --bg:#faf7f0;--card:#fff;--line:#e7e0d3;--ink:#3a3327;--muted:#8a8170;
+    --accent:#b07a3a;--accent2:#3f7a3a;--danger:#b0403a;--ok:#2e7d32;--green:#2e7d32;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"PingFang SC","Microsoft YaHei",system-ui,sans-serif;}
+  header{position:sticky;top:0;background:#fff;border-bottom:1px solid var(--line);padding:10px 16px;z-index:30;}
+  h1{font-size:17px;margin:0 0 8px}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  button{border:1px solid var(--line);background:#fff;border-radius:8px;padding:8px 11px;cursor:pointer;font-size:13px;color:var(--ink);}
+  button:hover{border-color:var(--accent)}
+  button.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+  button:disabled{opacity:.45;cursor:not-allowed}
+  .stat{font-size:13px;color:var(--muted)}
+  .wrap{display:flex;height:calc(100vh - 64px);}
+  aside{width:300px;border-right:1px solid var(--line);overflow:auto;background:#fff;}
+  aside .item{padding:8px 12px;border-bottom:1px solid var(--line);cursor:pointer;font-size:12px;}
+  aside .item:hover{background:#f3eee4}
+  aside .item.cur{background:#fdeccd}
+  aside .item .idx{color:var(--muted);font-size:11px}
+  aside .item .done{float:right;color:var(--ok);font-weight:bold}
+  aside .item .seg{color:var(--accent2);font-size:11px}
+  section{flex:1;padding:18px 24px;overflow:auto}
+  #meta{font-size:13px;color:var(--muted);margin-bottom:6px}
+  #meta b{color:var(--ink);font-size:16px}
+  #pali{font-size:18px;margin:6px 0 14px;line-height:1.5}
+  /* timeline */
+  #timeline{position:relative;height:64px;background:#efe9dc;border-radius:10px;margin:10px 0;cursor:pointer;user-select:none;touch-action:none}
+  #span{position:absolute;top:0;bottom:0;background:rgba(176,122,58,.18);border-left:2px solid var(--accent);border-right:2px solid var(--danger)}
+  #fill{position:absolute;left:0;top:0;bottom:0;background:#e9cfa6;width:0;pointer-events:none}
+  #playhead{position:absolute;top:-3px;bottom:-3px;width:2px;background:#222;z-index:5;pointer-events:none}
+  .handle{position:absolute;top:0;bottom:0;width:14px;margin-left:-7px;z-index:6;cursor:ew-resize;
+    border-radius:4px;display:flex;align-items:center;justify-content:center;font-size:10px;color:#fff;}
+  #hStart{background:var(--green)}
+  #hEnd{background:var(--danger)}
+  .handle::after{content:"";width:2px;height:60%;background:rgba(255,255,255,.8)}
+  #ticks{position:relative;height:18px;color:var(--muted);font-size:11px}
+  /* controls */
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:8px 0}
+  .grp{border:1px solid var(--line);border-radius:8px;padding:6px 8px;display:flex;gap:4px;align-items:center;background:#fff}
+  .grp .lbl{font-size:12px;color:var(--muted);margin-right:4px}
+  .nudge{padding:6px 9px;font-size:12px}
+  #readout{font-variant-numeric:tabular-nums;font-size:14px;margin-left:auto;color:var(--ink)}
+  .legend{font-size:12px;color:var(--muted);margin-top:16px;line-height:1.7}
+  .legend code{background:#efe9dc;padding:1px 5px;border-radius:4px}
+</style>
+</head>
+<body>
+<header>
+  <h1>第四章（Saṅghādisesa）连续音轨 · 分句边界标注</h1>
+  <div class="bar">
+    <button id="prev">← 上一句</button>
+    <span id="pos" class="stat"></span>
+    <button id="next">下一句 →</button>
+    <button id="jump">跳到未标注</button>
+    <button id="play" class="primary">▶ 播放 (空格)</button>
+    <button id="save" class="primary">保存分段</button>
+    <button id="reset">恢复默认边界</button>
+    <span id="status" class="stat"></span>
+  </div>
+</header>
+<div class="wrap">
+  <aside id="list"></aside>
+  <section>
+    <div id="meta"></div>
+    <div id="pali"></div>
+
+    <div id="timeline">
+      <div id="fill"></div>
+      <div id="span"></div>
+      <div id="hStart" class="handle" title="起点（绿色）拖动或用微调钮">◀</div>
+      <div id="hEnd" class="handle" title="终点（红色）拖动或用微调钮">▶</div>
+      <div id="playhead"></div>
+    </div>
+
+    <div class="row">
+      <div class="grp"><span class="lbl">起点 ▶</span>
+        <button class="nudge" data-t="start" data-d="-10">−10s</button>
+        <button class="nudge" data-t="start" data-d="-1">−1s</button>
+        <button class="nudge" data-t="start" data-d="-0.1">−0.1</button>
+        <button class="nudge" data-t="start" data-d="0.1">+0.1</button>
+        <button class="nudge" data-t="start" data-d="1">+1s</button>
+        <button class="nudge" data-t="start" data-d="10">+10s</button>
+      </div>
+      <div class="grp"><span class="lbl">终点 ◀</span>
+        <button class="nudge" data-t="end" data-d="-10">−10s</button>
+        <button class="nudge" data-t="end" data-d="-1">−1s</button>
+        <button class="nudge" data-t="end" data-d="-0.1">−0.1</button>
+        <button class="nudge" data-t="end" data-d="0.1">+0.1</button>
+        <button class="nudge" data-t="end" data-d="1">+1s</button>
+        <button class="nudge" data-t="end" data-d="10">+10s</button>
+      </div>
+      <span id="readout"></span>
+    </div>
+
+    <div class="legend">
+      操作：拖动时间轴上的 <b style="color:var(--green)">绿色起点</b> 与 <b style="color:var(--danger)">红色终点</b> 把手，决定这一句在整章录音里的起止；也可用上方 ±0.1/±1/±10 秒按钮微调（"前移几十秒"就按 −10s）。<br>
+      <code>空格</code> 播放/暂停（只播当前句区间，到终点自动停并回到起点）；点时间轴任意处可定位播放头。<code>下一句</code> 会自动把下一句起点接在当前句终点，您只需把红色终点往后拖到下一句的结束处。<br>
+      标好后点 <code>保存分段</code>，边界写入 <code>app/audio/ch4_segments.json</code>（不改动现有分句数据）。句前 ✓ 表示已手动改过。
+    </div>
+  </section>
+</div>
+
+<script src="audio/manifest_audio.js"></script>
+<script>
+const PM = window.PM_AUDIO;
+const SENT = PM.sentences;
+const round = (x,n=3)=>Math.round(x*1000)/1000;
+const $ = id=>document.getElementById(id);
+
+// 收集 ch4 句子 + 由 manifest t1 累加得到默认边界（后续按真实时长缩放）
+const IDXS=[]; const def0={}; let acc=0;
+for(let i=136;i<=352;i++){
+  const e=SENT[String(i)];
+  if(e&&e.clip&&e.words&&e.words.length){ IDXS.push(i); def0[i]=[round(acc),round(acc+(e.t1||0))]; acc+=(e.t1||0); }
+}
+const THEO = acc; // 理论总时长
+
+let audio = new Audio("audio/ch4_full.m4a");
+let dur = THEO;
+let cur = 0;
+let segs = {};          // idx -> [t0,t1] 手动覆盖（绝对时间，单位秒）
+let edited = new Set();
+let drag = null;        // 'start' | 'end'
+
+audio.addEventListener("loadedmetadata", ()=>{ dur = audio.duration || THEO; render(); });
+audio.addEventListener("timeupdate", updatePlayhead);
+audio.addEventListener("ended", ()=>{ $("play").textContent="▶ 播放 (空格)"; });
+
+function idxOf(k){ return IDXS[k]; }
+function curSeg(){
+  const idx=idxOf(cur);
+  if(segs[idx]) return segs[idx].slice();
+  // 默认边界按真实时长缩放
+  const s=def0[idx]; const k=dur/THEO;
+  return [round(s[0]*k), round(s[1]*k)];
+}
+function setSeg(t0,t1){
+  t0=Math.max(0,Math.min(dur-0.05,t0));
+  t1=Math.max(t0+0.05,Math.min(dur,t1));
+  segs[idxOf(cur)]=[round(t0),round(t1)]; edited.add(idxOf(cur)); render();
+}
+
+function render(){
+  const idx=idxOf(cur); const e=SENT[String(idx)];
+  const [t0,t1]=curSeg();
+  $("pos").textContent=(cur+1)+" / "+IDXS.length+"  ·  #"+idx;
+  $("meta").innerHTML=`<b>idx ${idx}</b> · 录音 <code>audio/ch4_full.m4a</code> · 句长 ${(t1-t0).toFixed(2)}s`;
+  $("pali").textContent = e.words.map(w=>w.p).join(" ");
+  // 时间轴
+  const L=tl=>((tl/dur)*100);
+  $("span").style.left=L(t0)+"%"; $("span").style.width=(L(t1)-L(t0))+"%";
+  $("hStart").style.left=L(t0)+"%"; $("hEnd").style.left=L(t1)+"%";
+  $("readout").textContent=`起点 ${t0.toFixed(2)}s  →  终点 ${t1.toFixed(2)}s  （时长 ${(t1-t0).toFixed(2)}s）`;
+  updatePlayhead();
+  renderList();
+}
+function updatePlayhead(){
+  const p=dur?audio.currentTime/dur:0;
+  $("fill").style.width=(p*100)+"%";
+  $("playhead").style.left=(p*100)+"%";
+}
+function renderList(){
+  const list=$("list"); list.innerHTML="";
+  IDXS.forEach((idx,k)=>{
+    const e=SENT[String(idx)];
+    const it=document.createElement("div");
+    it.className="item"+(k===cur?" cur":"");
+    const d=segs[idx];
+    const seg=d?`<span class="seg">${d[0].toFixed(1)}–${d[1].toFixed(1)}</span> `:"";
+    const done=edited.has(idx)?"✓":"";
+    it.innerHTML=`<span class="idx">#${idx}</span> ${done?`<span class="done">${done}</span>`:""}<br><span class="pali">${e.words.map(w=>w.p).join(" ")}</span><br>${seg}`;
+    it.onclick=()=>loadSentence(k);
+    list.appendChild(it);
+  });
+}
+function loadSentence(k){
+  cur=Math.max(0,Math.min(IDXS.length-1,k));
+  render();
+  // 滚动列表到当前
+  const cur2=document.querySelector("#list .cur"); if(cur2) cur2.scrollIntoView({block:"nearest"});
+}
+
+// 播放：从起点播到终点
+$("play").onclick=togglePlay;
+function togglePlay(){
+  if(audio.paused){
+    const [t0,t1]=curSeg();
+    if(audio.currentTime<t0-0.01 || audio.currentTime>t1) audio.currentTime=t0;
+    audio.play(); $("play").textContent="⏸ 暂停 (空格)";
+  } else { audio.pause(); $("play").textContent="▶ 播放 (空格)"; }
+}
+audio.addEventListener("timeupdate",()=>{ if(!audio.paused){ const [,t1]=curSeg(); if(audio.currentTime>=t1){ audio.currentTime=curSeg()[0]; audio.pause(); $("play").textContent="▶ 播放 (空格)"; } } });
+
+// 拖拽把手
+function timeFromX(clientX){ const r=$("timeline").getBoundingClientRect(); return Math.max(0,Math.min(dur,(clientX-r.left)/r.width*dur)); }
+$("hStart").addEventListener("pointerdown",e=>{drag="start";e.preventDefault();$("hStart").setPointerCapture(e.pointerId);});
+$("hEnd").addEventListener("pointerdown",e=>{drag="end";e.preventDefault();$("hEnd").setPointerCapture(e.pointerId);});
+$("hStart").addEventListener("pointermove",e=>{ if(drag==="start"){ const t=timeFromX(e.clientX); const [,t1]=curSeg(); setSeg(t,t1); }});
+$("hEnd").addEventListener("pointermove",e=>{ if(drag==="end"){ const t=timeFromX(e.clientX); const [t0]=curSeg(); setSeg(t0,t); }});
+$("hStart").addEventListener("pointerup",()=>drag=null);
+$("hEnd").addEventListener("pointerup",()=>drag=null);
+
+// 点时间轴定位播放头
+$("timeline").addEventListener("pointerdown",e=>{ if(e.target.classList.contains("handle"))return; audio.currentTime=timeFromX(e.clientX); updatePlayhead(); });
+
+// 微调按钮
+document.querySelectorAll(".nudge").forEach(b=>{
+  b.onclick=()=>{ const which=b.dataset.t; const d=parseFloat(b.dataset.d); const [t0,t1]=curSeg();
+    if(which==="start") setSeg(t0+d,t1); else setSeg(t0,t1+d); };
+});
+
+$("prev").onclick=()=>loadSentence(cur-1);
+$("next").onclick=()=>{
+  // 先把当前句收进 segs（确保有终点可衔接）
+  segs[idxOf(cur)] = curSeg(); edited.add(idxOf(cur));
+  const prevEnd = segs[idxOf(cur)][1];
+  loadSentence(cur+1);
+  const ni = idxOf(cur);
+  if(segs[ni] === undefined){
+    // 下一句起点接上一句终点，长度沿用其默认句长
+    const e2 = SENT[String(ni)];
+    const len = (e2.t1 || 1) * (dur / THEO);
+    segs[ni] = [round(prevEnd), round(prevEnd + len)];
+    edited.add(ni);
+  }
+  render();
+};
+$("jump").onclick=()=>{ let t=cur; for(let k=1;k<=IDXS.length;k++){ const kk=(cur+k)%IDXS.length; if(!edited.has(idxOf(kk))){t=kk;break;} } loadSentence(t); };
+$("reset").onclick=()=>{ const idx=idxOf(cur); delete segs[idx]; edited.delete(idx); render(); };
+
+$("save").onclick=async()=>{
+  // 把当前句也收进去
+  const idx=idxOf(cur); segs[idx]=curSeg(); edited.add(idx);
+  try{
+    const r=await fetch("/save2",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({segments:segs})});
+    const j=await r.json();
+    if(j.ok) $("status").textContent=`已保存 ${j.count} 句边界 → ch4_segments.json`;
+    else $("status").textContent="保存失败："+j.error;
+  }catch(e){ $("status").textContent="保存出错："+e; }
+};
+
+// 空格播放/暂停
+document.addEventListener("keydown",e=>{ if(e.code==="Space" && e.target.tagName!=="INPUT"){ e.preventDefault(); togglePlay(); } });
+
+audio.load();
+loadSentence(0);
+</script>
+</body>
+</html>

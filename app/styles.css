@@ -12,6 +12,7 @@
   --hard: #c8861a;
   --again: #b23b3b;
   --easy: #2a6f6f;
+  --read: #6a4fb0;
   --shadow: 0 6px 24px rgba(80, 60, 30, 0.10);
   --radius: 16px;
 }
@@ -27,7 +28,7 @@ body {
   line-height: 1.6;
   min-height: 100vh;
 }
-.pali { font-family: "Times New Roman", "Songti SC", serif; font-style: italic; }
+.pali { font-family: "Times New Roman", "Songti SC", serif; }
 
 /* ---------- Header ---------- */
 header.top {
@@ -100,20 +101,29 @@ main { max-width: 920px; margin: 22px auto 60px; padding: 0 16px; }
   color: var(--muted); font-size: 13px; margin-bottom: 12px;
 }
 .progress-pill .bar { flex: 1; margin: 0 12px; }
+.study-nav { display: flex; gap: 12px; justify-content: center; margin-top: 14px; flex: 0 0 auto; }
+.study-nav .btn { min-width: 120px; }
 
 .card {
   width: 100%; background: var(--panel); border: 1px solid var(--line);
   border-radius: 22px; box-shadow: var(--shadow); overflow: hidden;
+  display: flex; flex-direction: column;
 }
 .card .illus {
-  width: 100%; aspect-ratio: 16/9; background: #efe7d4; object-fit: cover; display: block;
+  width: 100%; max-height: 140px; aspect-ratio: auto; object-fit: cover; background: #efe7d4; display: block;
 }
 .card .illus.placeholder {
   display: flex; align-items: center; justify-content: center; flex-direction: column;
-  color: var(--muted); font-size: 13px; gap: 6px;
+  color: var(--muted); font-size: 13px; gap: 6px; aspect-ratio: auto; min-height: 96px;
 }
 .card .illus.placeholder svg { opacity: .5; }
-.card .body { padding: 22px 24px 26px; }
+.card .body { padding: 18px 20px 22px; }
+/* 学习/熟读页：图片缩小（桌面端置于左侧、限高不拉伸）；整块随页面滚动，不强制限制在一屏 */
+@media (min-width: 680px) {
+  .card { flex-direction: row; align-items: flex-start; }
+  .card .illus { width: 34%; flex: 0 0 34%; max-height: 280px; object-fit: cover; }
+  .card .body { flex: 1; }
+}
 .card .sec-tag { color: var(--teal); font-size: 12px; letter-spacing: .5px; }
 .card .meaning { font-size: 18px; margin: 8px 0 4px; font-weight: 600; }
 .card .note { color: var(--maroon-soft); font-size: 13px; }
@@ -121,10 +131,10 @@ main { max-width: 920px; margin: 22px auto 60px; padding: 0 16px; }
 .answer { margin-top: 18px; border-top: 1px dashed var(--line); padding-top: 16px; display: none; }
 .answer.show { display: block; }
 .answer .pali-full { font-size: 22px; color: var(--maroon); margin-bottom: 12px; line-height: 1.5; }
-.words { display: flex; flex-wrap: wrap; gap: 8px; }
+.words { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 12px; }
 .word {
-  display: flex; flex-direction: column; align-items: center; min-width: 56px;
-  background: #fbf6ea; border: 1px solid var(--line); border-radius: 10px; padding: 7px 9px;
+  display: flex; flex-direction: column; align-items: center; min-width: 44px;
+  background: #fbf6ea; border: 1px solid var(--line); border-radius: 8px; padding: 4px 6px;
 }
 .word .p { font-style: italic; color: var(--maroon); font-size: 15px; text-align: center; }
 .word .z { color: var(--ink); font-size: 12px; text-align: center; margin-top: 2px; }
@@ -219,6 +229,32 @@ main { max-width: 920px; margin: 22px auto 60px; padding: 0 16px; }
   .recite-item img { width: 100%; height: 150px; }
   .rating { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* ---------- 熟读 ---------- */
+.read-wrap { width: 100%; }
+/* 熟读页：巴利正文字号加大，逐词译字号减小（仅作用于熟读页，不影响学习页） */
+.read-wrap .pali-full.pali { font-size: 28px; line-height: 1.5; margin-bottom: 14px; }
+.read-wrap .words .word .z { font-size: 10px; }
+.read-wrap .words .word .p { font-size: 16px; }
+.read-top { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+.read-top .info { color: var(--muted); font-size: 13px; }
+.read-top .info b { color: var(--read); }
+.read-controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 4px 0; }
+.read-controls .grp { display: inline-flex; align-items: center; gap: 8px; background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 5px 8px 5px 14px; }
+.read-controls .grp > .lbl { color: var(--muted); font-size: 12px; }
+.read-controls select { border: 1px solid var(--line); border-radius: 8px; padding: 4px 6px; background: var(--panel); font-size: 13px; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; overflow: hidden; background: var(--panel); }
+.seg button { border: none; background: transparent; padding: 6px 12px; cursor: pointer; font-size: 13px; color: var(--ink); }
+.seg button.active { background: var(--read); color: #fff; }
+.seg button + button { border-left: 1px solid var(--line); }
+.read-prog { color: var(--muted); font-size: 13px; margin: 6px 0 4px; line-height: 1.5; }
+.read-prog b { color: var(--read); }
+.read-actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
+.btn.mark { background: var(--good); }
+.btn.mark.done { background: var(--read); }
+.rec-status { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); font-size: 13px; }
+.rec-dot { width: 9px; height: 9px; border-radius: 50%; background: #ccc; display: inline-block; }
+.rec-dot.on { background: var(--again); }
 
 /* ---------- 发音按钮 ---------- */
 .speak {

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>句末语音修复 · 对照试听</title>
+<style>
+  body{font-family:"Microsoft YaHei",system-ui,sans-serif;background:#f5f6fa;color:#222;margin:0;padding:20px;line-height:1.5}
+  h1{font-size:20px}
+  .note{color:#666;font-size:13px;margin-bottom:18px}
+  .card{background:#fff;border:1px solid #e2e5ee;border-radius:10px;padding:14px 16px;margin-bottom:14px;display:flex;flex-wrap:wrap;align-items:center;gap:12px}
+  .idx{font-weight:700;min-width:52px}
+  .pali{font-style:italic;flex:1;min-width:200px}
+  .tag{font-size:12px;color:#888;font-style:normal;display:block}
+  .grp{display:flex;gap:8px;align-items:center}
+  .btn{padding:8px 14px;border:none;border-radius:8px;cursor:pointer;font-size:14px;color:#fff}
+  .btn.fix{background:#2e9e5b}
+  .btn.old{background:#c0392b}
+</style>
+</head>
+<body>
+<h1>🔊 句末修复 · 修复后 vs 修复前 对照试听</h1>
+<div class="note">每句点「修复后」或「修复前」试听，对照末尾差异。修复目标：把被切掉的末词尾音补回、并加足句末停顿余量。同句切歌会自动停旧的。</div>
+<div id="root"></div>
+<script>
+// idx -> [巴利原文, 说明]
+const DATA = {
+  1003:["Ratanavaggo navamo","末词 navamo(第九) — 修复后完整收尾"],
+  1002:["idaṃ sugatassa sugata-cīvara-ppamāṇanti","末词 …ppamāṇanti — 完整"],
+  1004:["Uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā","末词 dhammā — 已补全尾巴(修正后)"],
+  950:["pacchā khīyana-dhammaṃ āpajjeyya pācittiyaṃ","末词 pācittiyaṃ — 尾音复原"],
+  884:["tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi","末词 ājānāmi — 完整"],
+  937:["idaṃ tasmiṃ mohanake pācittiyaṃ","⚠️ 尊者报语音与文字不符 — 待复核"],
+  1000:["dīghaso nava vidatthiyo sugata-vidatthiyā","末词 sugata-vidatthiyā — 已补全尾巴(修正后)"],
+  928:["ko pana vādo bhiyyo","末词 bhiyyo — 完整"],
+  879:["tathā-vādinā bhikkhunā akaṭa-anudhammena","⚠️ 尊者报语音与文字不符 — 待复核"],
+  881:["sambhuñjeyya vā saṃvaseyya vā","⚠️ 尊者报尾巴被切 — 待复核"],
+};
+const IDS = Object.keys(DATA).map(Number);
+const root=document.getElementById('root');
+for(const idx of IDS){
+  const [pali,desc]=DATA[idx];
+  const div=document.createElement('div');
+  div.className='card';
+  div.innerHTML=
+    '<div class="idx">#'+idx+'</div>'+
+    '<div class="pali">'+pali+'<span class="tag">'+desc+'</span></div>'+
+    '<div class="grp">'+
+      '<button class="btn fix" data-src="audio/sent_new/'+idx+'.mp3">🔉 修复后</button>'+
+      '<button class="btn old" data-src="audio/sent_new_bak_recut_fix_20260802_143909/'+idx+'.mp3">🔈 修复前(原始)</button>'+
+    '</div>';
+  root.appendChild(div);
+}
+let cur=null;
+document.addEventListener('click',function(e){
+  const b=e.target.closest('.btn');
+  if(!b) return;
+  if(cur){cur.pause();cur=null;}
+  cur=new Audio(b.dataset.src);
+  cur.play().catch(()=>{});
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>第四章 逐词手动标注 · 试点</title>
+<style>
+  :root{
+    --bg:#faf7f0;--card:#fff;--line:#e7e0d3;--ink:#3a3327;--muted:#8a8170;
+    --accent:#b07a3a;--accent2:#3f7a3a;--danger:#b0403a;--ok:#2e7d32;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"PingFang SC","Microsoft YaHei",system-ui,sans-serif;}
+  header{position:sticky;top:0;background:#fff;border-bottom:1px solid var(--line);
+    padding:10px 16px;z-index:30;}
+  h1{font-size:17px;margin:0 0 8px}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  button{border:1px solid var(--line);background:#fff;border-radius:8px;
+    padding:8px 12px;cursor:pointer;font-size:13px;color:var(--ink);}
+  button:hover{border-color:var(--accent)}
+  button.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+  button.big{font-size:16px;padding:12px 22px;background:var(--accent);color:#fff;border-color:var(--accent)}
+  button:disabled{opacity:.45;cursor:not-allowed}
+  .stat{font-size:13px;color:var(--muted);margin-left:auto}
+  .wrap{display:flex;height:calc(100vh - 64px);}
+  aside{width:280px;border-right:1px solid var(--line);overflow:auto;background:#fff;}
+  aside .item{padding:9px 12px;border-bottom:1px solid var(--line);cursor:pointer;font-size:13px;}
+  aside .item:hover{background:#f3eee4}
+  aside .item.cur{background:#fdeccd}
+  aside .item .idx{color:var(--muted);font-size:11px}
+  aside .item .pali{color:var(--ink)}
+  aside .item .done{float:right;color:var(--ok);font-weight:bold}
+  section{flex:1;padding:18px 22px;overflow:auto}
+  #meta{font-size:13px;color:var(--muted);margin-bottom:10px}
+  #meta b{color:var(--ink);font-size:15px}
+  #player{display:flex;align-items:center;gap:14px;margin:14px 0}
+  #track{position:relative;flex:1;height:42px;background:#efe9dc;border-radius:8px;cursor:pointer;overflow:hidden}
+  #fill{position:absolute;left:0;top:0;bottom:0;background:#e9cfa6;width:0}
+  #playhead{position:absolute;top:-2px;bottom:-2px;width:2px;background:var(--accent);left:0;z-index:4}
+  .bmark{position:absolute;top:0;bottom:0;width:2px;background:var(--danger);z-index:3;cursor:pointer}
+  #time{font-variant-numeric:tabular-nums;font-size:13px;color:var(--muted);min-width:120px;text-align:right}
+  #controls{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0 4px}
+  #hint{font-size:13px;color:var(--muted);min-height:20px;margin:6px 0}
+  #words{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+  .wchip{background:var(--card);border:1px solid var(--line);border-radius:10px;
+    padding:10px 12px;min-width:120px;cursor:pointer;user-select:none;}
+  .wchip:hover{border-color:var(--accent)}
+  .wchip.play{background:#fdeccd;border-color:var(--accent)}
+  .wchip .p{font-size:15px;font-weight:600}
+  .wchip .z{font-size:12px;color:var(--muted)}
+  .wchip .t{font-size:11px;color:var(--accent2);font-variant-numeric:tabular-nums;margin-top:3px}
+  .legend{font-size:12px;color:var(--muted);margin-top:18px;line-height:1.7}
+  .legend code{background:#efe9dc;padding:1px 5px;border-radius:4px}
+</style>
+</head>
+<body>
+<header>
+  <h1>第四章（Saṅghādisesa）逐词手动标注 · 试点</h1>
+  <div class="bar">
+    <button id="prev">← 上一句</button>
+    <span id="pos" class="stat"></span>
+    <button id="next">下一句 →</button>
+    <button id="jump">跳到未标注</button>
+    <button id="loadExist">以现有边界为起点</button>
+    <button id="save" class="primary">保存本章</button>
+    <span id="status" class="stat"></span>
+  </div>
+</header>
+<div class="wrap">
+  <aside id="list"></aside>
+  <section>
+    <div id="meta"></div>
+    <div id="player">
+      <button id="play" class="big">▶ 播放</button>
+      <div id="track"><div id="fill"></div><div id="playhead"></div></div>
+      <div id="time">0.00 / 0.00</div>
+    </div>
+    <div id="controls">
+      <button id="cut" class="primary">✂ 在此分词</button>
+      <button id="undo">撤销上一个</button>
+      <button id="clear">清除全部</button>
+      <button id="replaySeg">↺ 重听本句（从头）</button>
+    </div>
+    <div id="hint"></div>
+    <div id="words"></div>
+    <div class="legend">
+      用法：点 <code>▶ 播放</code> 听这句录音 → 在每两个词之间按 <code>✂ 在此分词</code>（暂停与否都行，时间点取当前播放位置）→ 标满 N-1 个边界后，下方自动分成 N 个词。<br>
+      点任意词块可单独试听该词；点进度条上的红竖线可删除该边界。<code>以现有边界为起点</code> 会先载入之前的时间轴，您只需修正不对的地方。<br>
+      标完后点 <code>保存本章</code> 写回文件。句前带 ✓ 表示已标注。
+    </div>
+  </section>
+</div>
+
+<script src="audio/manifest_audio.js"></script>
+<script>
+const PM = window.PM_AUDIO;
+const SENT = PM.sentences;
+const IDXS = [];
+for (let i = 136; i <= 352; i++) {
+  const e = SENT[String(i)];
+  if (e && e.clip && e.words && e.words.length) IDXS.push(i);
+}
+const round = (x, n = 3) => Math.round(x * 1000) / 1000;
+const $ = (id) => document.getElementById(id);
+
+let cur = 0;
+let overrides = {};        // idx -> [{t0,t1}, ...] 已确认的分词
+let bounds = [];           // 当前句的内部边界时间（升序）
+let audio = new Audio();
+let dur = 0;
+let edited = new Set();    // 已触碰过的 idx
+
+audio.addEventListener("loadedmetadata", () => { dur = audio.duration; render(); });
+audio.addEventListener("timeupdate", updatePlayhead);
+audio.addEventListener("ended", () => { $("play").textContent = "▶ 播放"; });
+
+function idxOf(k){ return IDXS[k]; }
+function entry(k){ return SENT[String(idxOf(k))]; }
+
+function loadSentence(k){
+  cur = Math.max(0, Math.min(IDXS.length - 1, k));
+  const e = entry(cur);
+  audio.src = e.clip;           // 例如 "audio/sent/175.mp3"
+  audio.load();
+  $("play").textContent = "▶ 播放";
+  // 初始化边界：若已有 override 用 override；否则空（从头手标）
+  if (overrides[idxOf(cur)]) {
+    const segs = overrides[idxOf(cur)];
+    bounds = segs.slice(1).map(s => +s.t0);   // 内部边界 = 第2..N词的 t0
+  } else {
+    bounds = [];
+  }
+  renderList();
+  render();
+}
+
+function segmentsFor(idx){
+  const e = SENT[String(idx)];
+  const N = e.words.length;
+  const bs = bounds.slice().sort((a,b)=>a-b);
+  if (bs.length !== N - 1) return null;
+  const segs = [];
+  let start = 0;
+  for (let i = 0; i < N; i++){
+    const end = (i < N - 1) ? bs[i] : dur;
+    segs.push({ t0: round(start), t1: round(end) });
+    start = end;
+  }
+  return segs;
+}
+
+function captureCurrent(){
+  const idx = idxOf(cur);
+  const segs = segmentsFor(idx);
+  if (segs) { overrides[idx] = segs; edited.add(idx); }
+}
+
+function render(){
+  const idx = idxOf(cur);
+  const e = SENT[String(idx)];
+  $("pos").textContent = (cur+1) + " / " + IDXS.length;
+  const pali = e.words.map(w => w.p).join(" ");
+  $("meta").innerHTML = `<b>idx ${idx}</b> · 共 ${e.words.length} 词 · 录音 <code>${e.clip}</code><br><span style="font-size:15px">${pali}</span>`;
+  // 边界标记
+  const track = $("track");
+  track.querySelectorAll(".bmark").forEach(n=>n.remove());
+  bounds.slice().sort((a,b)=>a-b).forEach((b,i)=>{
+    const m = document.createElement("div");
+    m.className = "bmark";
+    m.style.left = (b / (dur||1) * 100) + "%";
+    m.title = "删除边界 @ " + b.toFixed(2) + "s";
+    m.onclick = (ev)=>{ ev.stopPropagation(); bounds.splice(bounds.indexOf(b),1); render(); };
+    track.appendChild(m);
+  });
+  renderWords();
+  // 提示
+  const N = e.words.length;
+  if (bounds.length === N - 1){
+    $("hint").style.color = "var(--ok)";
+    $("hint").textContent = `已标满 ${N-1} 个边界，分词完成 ✓`;
+  } else {
+    $("hint").style.color = "var(--muted)";
+    $("hint").textContent = `还需标记 ${N-1 - bounds.length} 个边界（共 ${N} 词，需 ${N-1} 个内部边界）`;
+  }
+  updatePlayhead();
+}
+
+function renderWords(){
+  const idx = idxOf(cur);
+  const e = SENT[String(idx)];
+  const N = e.words.length;
+  const bs = bounds.slice().sort((a,b)=>a-b);
+  const box = $("words");
+  box.innerHTML = "";
+  let start = 0;
+  for (let i = 0; i < N; i++){
+    const end = (i < N - 1) ? bs[i] : dur;
+    const w = e.words[i];
+    const chip = document.createElement("div");
+    chip.className = "wchip";
+    chip.innerHTML = `<div class="p">${w.p||""}</div><div class="z">${w.z||""}</div>` +
+                     `<div class="t">${start.toFixed(2)} – ${end.toFixed(2)}s</div>`;
+    chip.onclick = ()=> playSeg(start, end, chip);
+    box.appendChild(chip);
+    start = end;
+  }
+}
+
+function renderList(){
+  const list = $("list");
+  list.innerHTML = "";
+  IDXS.forEach((idx, k)=>{
+    const e = SENT[String(idx)];
+    const it = document.createElement("div");
+    it.className = "item" + (k===cur?" cur":"");
+    const done = overrides[idx] ? "✓" : "";
+    it.innerHTML = `<span class="idx">#${idx}</span> ${done?`<span class="done">${done}</span>`:""}<br><span class="pali">${e.words.map(w=>w.p).join(" ")}</span>`;
+    it.onclick = ()=>{ captureCurrent(); loadSentence(k); };
+    list.appendChild(it);
+  });
+}
+
+function updatePlayhead(){
+  const p = dur ? (audio.currentTime / dur) : 0;
+  $("fill").style.width = (p*100)+"%";
+  $("playhead").style.left = (p*100)+"%";
+  $("time").textContent = audio.currentTime.toFixed(2) + " / " + (dur?dur.toFixed(2):"?.??");
+}
+
+function playSeg(t0, t1, chip){
+  audio.currentTime = t0;
+  audio.play();
+  $("play").textContent = "⏸ 暂停";
+  document.querySelectorAll(".wchip").forEach(c=>c.classList.remove("play"));
+  if (chip) chip.classList.add("play");
+  const stop = ()=>{ if (audio.currentTime >= t1){ audio.pause(); audio.removeEventListener("timeupdate", stop); document.querySelectorAll(".wchip").forEach(c=>c.classList.remove("play")); $("play").textContent="▶ 播放"; } };
+  audio.addEventListener("timeupdate", stop);
+}
+
+// 事件
+$("play").onclick = ()=>{
+  if (audio.paused){ audio.play(); $("play").textContent="⏸ 暂停"; }
+  else { audio.pause(); $("play").textContent="▶ 播放"; }
+};
+$("track").onclick = (ev)=>{
+  const r = ev.currentTarget.getBoundingClientRect();
+  const x = (ev.clientX - r.left) / r.width;
+  audio.currentTime = Math.max(0, Math.min(dur, x * dur));
+  updatePlayhead();
+};
+$("cut").onclick = ()=>{
+  const t = round(audio.currentTime);
+  if (t <= 0 || t >= dur){ $("hint").textContent="边界须在当前句范围内（0~"+dur.toFixed(2)+"s）"; return; }
+  if (bounds.includes(t)){ $("hint").textContent="该时间点已有边界"; return; }
+  bounds.push(t); bounds.sort((a,b)=>a-b); render();
+};
+$("undo").onclick = ()=>{ bounds.pop(); render(); };
+$("clear").onclick = ()=>{ bounds = []; render(); };
+$("replaySeg").onclick = ()=>{ audio.currentTime = 0; audio.play(); $("play").textContent="⏸ 暂停"; };
+$("loadExist").onclick = ()=>{
+  const e = entry(cur);
+  bounds = e.words.slice(1).map(w => +w.t0 || 0).filter(t=>t>0 && t<(dur||1e9));
+  bounds.sort((a,b)=>a-b); render();
+  $("status").textContent = "已载入现有边界，可逐处修正";
+};
+$("prev").onclick = ()=>{ captureCurrent(); loadSentence(cur-1); };
+$("next").onclick = ()=>{ captureCurrent(); loadSentence(cur+1); };
+$("jump").onclick = ()=>{
+  captureCurrent();
+  let target = cur;
+  for (let k = 1; k <= IDXS.length; k++){
+    const kk = (cur + k) % IDXS.length;
+    if (!overrides[idxOf(kk)]) { target = kk; break; }
+  }
+  loadSentence(target);
+};
+$("save").onclick = async ()=>{
+  captureCurrent();
+  const root = JSON.parse(JSON.stringify(PM));
+  let cnt = 0, skip = 0;
+  for (const idx in overrides){
+    const segs = overrides[idx];
+    const e = root.sentences[idx];
+    if (!e || !e.words || e.words.length !== segs.length){ skip++; continue; }
+    for (let i = 0; i < segs.length; i++){ e.words[i].t0 = segs[i].t0; e.words[i].t1 = segs[i].t1; }
+    cnt++;
+  }
+  try {
+    const r = await fetch("/save", { method:"POST", headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({ data: root }) });
+    const j = await r.json();
+    if (j.ok){ $("status").textContent = `已保存 ${cnt} 句写回文件` + (skip?`（跳过 ${skip} 句不完整）`:""); }
+    else { $("status").textContent = "保存失败：" + j.error; }
+  } catch(e){ $("status").textContent = "保存出错：" + e; }
+};
+
+// 键盘（可选，非必须）：空格播放/暂停，[ / ] 跳 0.1s
+document.addEventListener("keydown", (e)=>{
+  if (e.target.tagName === "INPUT") return;
+  if (e.code === "Space"){ e.preventDefault(); $("play").click(); }
+});
+
+loadSentence(0);
+</script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+== 句末完整性声学扫描 (min_headroom=0.15) ==
+扫描=1211 | 状态: {'OK': 584, '异常紧贴': 615, 'TTS': 11, '无声/过短': 1}
+
+== 最可疑(句末语音紧贴切片末尾 -> 可能截断) 按 headroom 升序 ==
+ch4 idx 189 headroom=0.0 dur=3.41 last_voiced=3.41 peak=0.3139 | amūlakañceva taṃ adhikaraṇaṃ hoti
+ch4 idx 227 headroom=0.0 dur=2.6 last_voiced=2.6 peak=0.2688 | dhamma-vādī ceso bhikkhu
+ch4 idx 242 headroom=0.0 dur=2.13 last_voiced=2.13 peak=0.363 | evañca te bhikkhū bhikkhūhi
+ch4 idx 309 headroom=0.0 dur=3.07 last_voiced=3.07 peak=0.3093 | kulāni cāyasmatā duṭṭhāni
+ch4 idx 326 headroom=0.0 dur=5.16 last_voiced=5.16 peak=0.3092 | Yesaṃ bhikkhu aññataraṃ vā aññataraṃ v
+ch4 idx 337 headroom=0.0 dur=1.79 last_voiced=1.79 peak=0.1766 | te ca bhikkhū gārayhā
+ch4 idx 344 headroom=0.0 dur=0.85 last_voiced=0.85 peak=0.1792 | Saṅghādisesuddeso tatiyo.
+ch4 idx 345 headroom=0.0 dur=2.13 last_voiced=2.13 peak=0.2097 | Sutā kho panāyasmantehi
+ch5 idx 388 headroom=0.0 dur=0.85 last_voiced=0.85 peak=0.2334 | Sutā kho panāyasmantehi
+ch6 idx 397 headroom=0.0 dur=2.13 last_voiced=2.13 peak=0.2509 | uddesaṃ āgacchanti
+ch6 idx 639 headroom=0.0 dur=3.88 last_voiced=3.88 peak=0.3328 | tiṃsa nissaggiyā pācittiyā dhammā
+ch7 idx 837 headroom=0.0 dur=2.6 last_voiced=2.6 peak=0.3022 | pattaṃ vā cīvaraṃ vā
+ch7 idx 881 headroom=0.0 dur=3.07 last_voiced=3.07 peak=0.269 | sambhuñjeyya vā saṃvaseyya vā
+ch7 idx 900 headroom=0.0 dur=3.88 last_voiced=3.88 peak=0.2298 | yampi caññe samaṇuddesā labhanti
+ch7 idx 903 headroom=0.0 dur=3.07 last_voiced=3.07 peak=0.2884 | cara pire vinassā ti
+ch7 idx 957 headroom=0.0 dur=3.41 last_voiced=3.41 peak=0.2763 | puggalassa pariṇāmeyya pācittiyaṃ
+ch7 idx 964 headroom=0.0 dur=3.41 last_voiced=3.41 peak=0.2916 | aññatra ajjhārāmā vā ajjhāvasathā vā
+ch7 idx 971 headroom=0.0 dur=3.88 last_voiced=3.88 peak=0.2775 | Yo pana bhikkhu santaṃ bhikkhuṃ anāpuc
+ch7 idx 982 headroom=0.0 dur=2.6 last_voiced=2.6 peak=0.2743 | pamāṇikaṃ kāretabbaṃ
+ch7 idx 995 headroom=0.0 dur=1.79 last_voiced=1.79 peak=0.2289 | tiriyaṃ aḍḍhateyyā
+ch7 idx1008 headroom=0.0 dur=2.6 last_voiced=2.6 peak=0.2445 | parisuddhetthāyasmanto
+ch9 idx1178 headroom=0.0 dur=2.13 last_voiced=2.13 peak=0.2134 | parisuddhetthāyasmanto
+ch10 idx1195 headroom=0.0 dur=5.16 last_voiced=5.16 peak=0.1921 | tatiyampi pucchāmi kaccittha parisuddh
+ch1 idx   4 headroom=0.001 dur=1.621 last_voiced=1.62 peak=0.2881 | Padīpujjalanaṃ niṭṭhitaṃ.
+ch1 idx  13 headroom=0.001 dur=2.821 last_voiced=2.82 peak=0.2726 | Tasmā chanda-pārisuddhi (pavāraṇā)-āha
+ch1 idx  34 headroom=0.001 dur=17.941 last_voiced=17.94 peak=0.3389 | Pubbakaraṇa-pubbakiccāni samāpetvā des
+ch3 idx 118 headroom=0.001 dur=5.581 last_voiced=5.58 peak=0.2956 | na labhati bhikkhūhi saddhiṃ saṃvāsaṃ
+ch3 idx 119 headroom=0.001 dur=3.181 last_voiced=3.18 peak=0.2348 | yathā pure tathā pacchā
+ch3 idx 126 headroom=0.001 dur=1.381 last_voiced=1.38 peak=0.0865 | pārājikuddeso dutiyo
+ch3 idx 131 headroom=0.001 dur=1.141 last_voiced=1.14 peak=0.1271 | dvenavuti pācittiyā dhammā
+ch3 idx 134 headroom=0.001 dur=2.821 last_voiced=2.82 peak=0.0944 | satta adhikaraṇasamathā dhammā
+ch4 idx 244 headroom=0.001 dur=1.451 last_voiced=1.45 peak=0.3255 | te bhikkhū bhikkhūhi
+ch4 idx 302 headroom=0.001 dur=2.391 last_voiced=2.39 peak=0.3337 | na ca bhikkhū chanda-gāmino
+ch4 idx 351 headroom=0.001 dur=0.981 last_voiced=0.98 peak=0.1494 | satta adhikaraṇasamathā dhammā
+ch6 idx 402 headroom=0.001 dur=4.821 last_voiced=4.82 peak=0.2751 | eka-rattampi ce bhikkhu ticīvarena vip
+ch6 idx 424 headroom=0.001 dur=2.731 last_voiced=2.73 peak=0.3775 | gaha-patiṃ vā gaha-patāniṃ vā
+ch6 idx 475 headroom=0.001 dur=3.671 last_voiced=3.67 peak=0.3684 | paṭiggaṇhātu āyasmā cīvara-cetāpannan 
+ch6 idx 527 headroom=0.001 dur=2.261 last_voiced=2.26 peak=0.394 | navaṃ santhataṃ kārāpeyya
+ch6 idx 566 headroom=0.001 dur=2.261 last_voiced=2.26 peak=0.4975 | aññaṃ navaṃ pattaṃ cetāpeyya
+ch6 idx 577 headroom=0.001 dur=2.391 last_voiced=2.39 peak=0.3142 | tāni paṭiggahetvā
+ch6 idx 586 headroom=0.001 dur=2.261 last_voiced=2.26 peak=0.2119 | katvā nivāseyya
+ch6 idx 631 headroom=0.001 dur=3.201 last_voiced=3.2 peak=0.3331 | Tato ce uttari vippavaseyya
+ch7 idx 858 headroom=0.001 dur=2.731 last_voiced=2.73 peak=0.287 | ekaddhāna-maggaṃ paṭipajjeyya
+ch7 idx 885 headroom=0.001 dur=4.821 last_voiced=4.82 peak=0.2163 | yathā yeme antarāyikā dhammā vuttā bha
+ch7 idx 890 headroom=0.001 dur=3.671 last_voiced=3.67 peak=0.2344 | na hi sādhu bhagavato abbhakkhānaṃ
+ch7 idx 998 headroom=0.001 dur=3.671 last_voiced=3.67 peak=0.237 | atirekaṃ vā chedanakaṃ pācittiyaṃ
+ch9 idx1140 headroom=0.001 dur=2.391 last_voiced=2.39 peak=0.2596 | Na āvudha-pāṇissa agilānassa
+ch9 idx1174 headroom=0.001 dur=4.481 last_voiced=4.48 peak=0.2348 | Uddiṭṭhā kho āyasmanto sekhiyā dhammā
+ch10 idx1190 headroom=0.001 dur=1.451 last_voiced=1.45 peak=0.168 | Tassa-pāpiyasikā
+ch11 idx1208 headroom=0.001 dur=5.291 last_voiced=5.29 peak=0.2034 | tattha sabbeh(i)eva samaggehi sammodam
+ch4 idx 201 headroom=0.002 dur=4.742 last_voiced=4.74 peak=0.3661 | Yo pana bhikkhu samaggassa saṅghassa
+ch4 idx 215 headroom=0.002 dur=2.052 last_voiced=2.05 peak=0.3051 | so bhikkhu bhikkhūhi
+ch4 idx 218 headroom=0.002 dur=2.992 last_voiced=2.99 peak=0.3105 | yāva-tatiyañce samanubhāsiyamāno
+ch4 idx 264 headroom=0.002 dur=4.141 last_voiced=4.14 peak=0.3281 | bhikkhūpi āyasmantaṃ vakkhanti saha-dh
+ch4 idx 277 headroom=0.002 dur=2.992 last_voiced=2.99 peak=0.5162 | Bhikkhu paneva aññataraṃ
+ch4 idx 286 headroom=0.002 dur=3.462 last_voiced=3.46 peak=0.284 | āyasmato kho pāpakā samācārā
+ch4 idx 307 headroom=0.002 dur=3.332 last_voiced=3.33 peak=0.3334 | āyasmato kho pāpakā samācārā
+ch5 idx 384 headroom=0.002 dur=2.652 last_voiced=2.65 peak=0.2249 | tatiyampi pucchāmi kaccittha parisuddh
+ch5 idx 389 headroom=0.002 dur=1.242 last_voiced=1.24 peak=0.1755 | tiṃsa nissaggiyā pācittiyā dhammā
+ch6 idx 395 headroom=0.002 dur=2.052 last_voiced=2.05 peak=0.2229 | Ime kho panāyasmanto
+ch6 idx 414 headroom=0.002 dur=2.052 last_voiced=2.05 peak=0.2667 | satiyāpi paccāsāya
+ch6 idx 429 headroom=0.002 dur=2.992 last_voiced=2.99 peak=0.2952 | acchinna-cīvaro vā hoti bhikkhu
+ch6 idx 457 headroom=0.002 dur=3.332 last_voiced=3.33 peak=0.6379 | tatra ce so bhikkhu pubbe appavārito
+ch6 idx 488 headroom=0.002 dur=3.332 last_voiced=3.33 peak=0.3572 | cīvarena taṃ acchādessatī ti
+ch6 idx 489 headroom=0.002 dur=5.552 last_voiced=5.55 peak=0.5949 | Cīvaratthikena bhikkhave bhikkhunā vey
+ch6 idx 517 headroom=0.002 dur=9.732 last_voiced=9.73 peak=0.3921 | Yo pana bhikkhu kosiya-missakaṃ santha
+ch6 idx 583 headroom=0.002 dur=4.272 last_voiced=4.27 peak=0.5165 | Orena ce māso seso gimhānan ti
+ch6 idx 597 headroom=0.002 dur=2.992 last_voiced=2.99 peak=0.4474 | aññātako gahapati vā gahapatānī vā
+ch6 idx 600 headroom=0.002 dur=2.652 last_voiced=2.65 peak=0.4265 | tanta-vāye upasaṅkamitvā
+ch6 idx 618 headroom=0.002 dur=2.992 last_voiced=2.99 peak=0.3826 | Tato ce uttari nikkhipeyya
+ch6 idx 622 headroom=0.002 dur=3.332 last_voiced=3.33 peak=0.3299 | sāsaṅka-sammatāni sappaṭibhayāni
+ch6 idx 624 headroom=0.002 dur=3.802 last_voiced=3.8 peak=0.3059 | ākaṅkhamāno tiṇṇaṃ cīvarānaṃ
+ch6 idx 634 headroom=0.002 dur=3.933 last_voiced=3.93 peak=0.3963 | Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ
+ch6 idx 640 headroom=0.002 dur=4.141 last_voiced=4.14 peak=0.2862 | Tatthāyasmante pucchāmi kaccittha pari
+ch6 idx 642 headroom=0.002 dur=3.802 last_voiced=3.8 peak=0.259 | tatiyampi pucchāmi kaccittha parisuddh
+ch7 idx 672 headroom=0.002 dur=2.182 last_voiced=2.18 peak=0.3081 | bhisiṃ vā kocchaṃ vā
+ch7 idx 721 headroom=0.002 dur=2.522 last_voiced=2.52 peak=0.1684 | sāsaṅka-sammato sappaṭibhayo
+ch7 idx 747 headroom=0.002 dur=4.272 last_voiced=4.27 peak=0.3475 | Dvatti-patta-pūre paṭiggahetvā tato nī
+ch7 idx 778 headroom=0.002 dur=4.612 last_voiced=4.61 peak=0.2819 | ekakassa me kathā vā nisajjā vā phāsu 
+ch7 idx 793 headroom=0.002 dur=3.462 last_voiced=3.46 peak=0.2568 | catu-māsa-ppaccaya-pavāraṇā sāditabbā
+ch7 idx 795 headroom=0.002 dur=2.652 last_voiced=2.65 peak=0.2347 | aññatra nicca-pavāraṇāya
+ch7 idx 823 headroom=0.002 dur=3.462 last_voiced=3.46 peak=0.2363 | uṇha-samayo pariḷāha-samayo
+ch7 idx 879 headroom=0.002 dur=4.742 last_voiced=4.74 peak=0.3241 | tathā-vādinā bhikkhunā akaṭa-anudhamme
+ch7 idx 887 headroom=0.002 dur=4.612 last_voiced=4.61 peak=0.279 | so samaṇuddeso bhikkhūhi evamassa vaca
+ch7 idx 892 headroom=0.002 dur=3.933 last_voiced=3.93 peak=0.3215 | aneka-pariyāyenāvuso samaṇuddesa
+ch7 idx 904 headroom=0.002 dur=4.272 last_voiced=4.27 peak=0.2423 | Yo pana bhikkhu jānaṃ tathānāsitaṃ sam
+ch7 idx 909 headroom=0.002 dur=4.141 last_voiced=4.14 peak=0.3376 | saha-dhammikaṃ vuccamāno evaṃ vadeyya
+ch7 idx 929 headroom=0.002 dur=4.141 last_voiced=4.14 peak=0.2774 | na ca tassa bhikkhuno aññāṇakena mutti
+ch7 idx 932 headroom=0.002 dur=3.332 last_voiced=3.33 peak=0.2544 | uttari cassa moho āropetabbo
+ch7 idx 943 headroom=0.002 dur=3.933 last_voiced=3.93 peak=0.2626 | itissa muhuttampi aphāsu bhavissatī ti
+ch7 idx 951 headroom=0.002 dur=4.742 last_voiced=4.74 peak=0.3037 | Yo pana bhikkhu saṅghe vinicchaya-kath
+ch7 idx 969 headroom=0.002 dur=3.332 last_voiced=3.33 peak=0.2897 | yassa bhavissati so harissatī ti
+ch7 idx 980 headroom=0.002 dur=7.772 last_voiced=7.77 peak=0.2529 | Yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tū
+ch7 idx 989 headroom=0.002 dur=4.141 last_voiced=4.14 peak=0.3127 | dīghaso catasso vidatthiyo sugata-vida
+ch7 idx1004 headroom=0.002 dur=6.492 last_voiced=6.49 peak=0.2792 | Uddiṭṭhā kho āyasmanto dvenavuti pācit
+ch8 idx1046 headroom=0.002 dur=1.373 last_voiced=1.37 peak=0.1971 | taṃ paṭidesemī ti
+ch8 idx1056 headroom=0.002 dur=2.522 last_voiced=2.52 peak=0.3481 | asappāyaṃ pāṭidesanīyaṃ
+ch8 idx1064 headroom=0.002 dur=3.462 last_voiced=3.46 peak=0.3513 | tasmā tuṇhī evametaṃ dhārayāmīti
+ch9 idx1132 headroom=0.002 dur=2.992 last_voiced=2.99 peak=0.2172 | Na sasitthakaṃ patta-dhovanaṃ antara-g
+ch9 idx1138 headroom=0.002 dur=2.522 last_voiced=2.52 peak=0.2823 | Na sattha-pāṇissa agilānassa
+ch9 idx1149 headroom=0.002 dur=2.522 last_voiced=2.52 peak=0.2436 | Na sayana-gatassa agilānassa
+ch10 idx1181 headroom=0.002 dur=2.182 last_voiced=2.18 peak=0.2304 | Ime kho panāyasmanto
+ch10 idx1184 headroom=0.002 dur=5.421 last_voiced=5.42 peak=0.2345 | Uppann(a)-uppannānaṃ adhikaraṇānaṃ sam
+ch10 idx1186 headroom=0.002 dur=2.052 last_voiced=2.05 peak=0.2121 | Sati-vinayo dātabbo
+ch1 idx   7 headroom=0.003 dur=10.813 last_voiced=10.81 peak=0.3736 | Etāni cattāri vattāni sammajjanakaraṇā
+ch2 idx  44 headroom=0.003 dur=3.613 last_voiced=3.61 peak=0.2667 | taṃ sabbeva santā sādhukaṃ
+ch3 idx 125 headroom=0.003 dur=2.413 last_voiced=2.41 peak=0.2363 | tasmā tuṇhī evametaṃ dhārayāmīti
+ch3 idx 127 headroom=0.003 dur=2.653 last_voiced=2.65 peak=0.2922 | Sutā kho panāyasmantehi
+ch3 idx 129 headroom=0.003 dur=1.573 last_voiced=1.57 peak=0.1527 | dve aniyatā dhammā
+ch4 idx 150 headroom=0.003 dur=2.443 last_voiced=2.44 peak=0.2711 | yathā taṃ yuvā yuvatiṃ
+ch4 idx 166 headroom=0.003 dur=1.973 last_voiced=1.97 peak=0.1974 | tatridaṃ pamāṇaṃ
+ch4 idx 203 headroom=0.003 dur=3.253 last_voiced=3.25 peak=0.366 | bhedana-saṃvattanikaṃ vā adhikaraṇaṃ
+ch4 idx 239 headroom=0.003 dur=1.843 last_voiced=1.84 peak=0.2945 | samaggo hi saṅgho
+ch4 idx 273 headroom=0.003 dur=2.783 last_voiced=2.78 peak=0.3898 | yāva-tatiyañce samanubhāsiyamāno
+ch4 idx 282 headroom=0.003 dur=2.783 last_voiced=2.78 peak=0.2929 | kulāni ca tena duṭṭhāni
+ch4 idx 304 headroom=0.003 dur=2.313 last_voiced=2.31 peak=0.3643 | na ca bhikkhū moha-gāmino
+ch4 idx 349 headroom=0.003 dur=1.033 last_voiced=1.03 peak=0.1862 | cattāro pāṭidesanīyā dhammā
+ch5 idx 368 headroom=0.003 dur=1.973 last_voiced=1.97 peak=0.3132 | alañca kho hoti
+ch6 idx 405 headroom=0.003 dur=4.063 last_voiced=4.06 peak=0.3599 | bhikkhuno paneva akāla-cīvaraṃ uppajje
+ch6 idx 554 headroom=0.003 dur=2.443 last_voiced=2.44 peak=0.4363 | upanikkhittaṃ vā sādiyeyya
+
+== 参考: 余量充足的正常句(抽样前 20) ==
+ch4 idx 136 headroom=0.3 dur=2.47 last_voiced=2.17 | Ime kho panāyasmanto
+ch4 idx 168 headroom=0.3 dur=2.6 last_voiced=2.3 | tiriyaṃ satt'antarā
+ch7 idx 740 headroom=0.3 dur=4.69 last_voiced=4.39 | Parampara-bhojane aññatra samayā pācit
+ch7 idx 773 headroom=0.3 dur=3.07 last_voiced=2.77 | Yo pana bhikkhu bhikkhuṃ
+ch4 idx 204 headroom=0.301 dur=2.861 last_voiced=2.56 | samādāya paggayha tiṭṭheyya
+ch7 idx 683 headroom=0.301 dur=2.731 last_voiced=2.43 | so pakkamissatī ti
+ch3 idx 100 headroom=0.303 dur=4.693 last_voiced=4.39 | mataṃ te jīvitā seyyo ti
+ch7 idx 673 headroom=0.303 dur=5.213 last_voiced=4.91 | ajjhokāse santharitvā vā santharāpetvā
+ch4 idx 330 headroom=0.304 dur=5.474 last_voiced=5.17 | uttari chārattaṃ bhikkhu-mānattāya paṭ
+ch2 idx  51 headroom=0.305 dur=3.685 last_voiced=3.38 | veyyākaraṇaṃ hoti
+ch4 idx 171 headroom=0.307 dur=3.097 last_voiced=2.79 | anārambhaṃ saparikkamanaṃ
+ch7 idx 668 headroom=0.308 dur=5.448 last_voiced=5.14 | Bhūta-gāma-pātabyatāya pācittiyaṃ
+ch7 idx 847 headroom=0.308 dur=4.768 last_voiced=4.46 | duṭṭhullaṃ āpattiṃ paṭicchādeyya pācit
+ch1 idx  15 headroom=0.309 dur=8.509 last_voiced=8.2 | Utūnīdha pana sāsane hemanta-gimha-vas
+ch3 idx  96 headroom=0.309 dur=4.189 last_voiced=3.88 | maraṇa-vaṇṇaṃ vā saṃvaṇṇeyya
+ch7 idx 857 headroom=0.309 dur=4.559 last_voiced=4.25 | Yo pana bhikkhu mātu-gāmena saddhiṃ sa
+ch5 idx 380 headroom=0.31 dur=3.41 last_voiced=3.1 | ayampi dhammo aniyato
+ch6 idx 434 headroom=0.31 dur=3.75 last_voiced=3.44 | santaruttara-paramaṃ tena bhikkhunā
+ch7 idx 871 headroom=0.31 dur=5.5 last_voiced=5.19 | alañca pana te paṭisevato antarāyāyā t
+ch5 idx 375 headroom=0.311 dur=3.541 last_voiced=3.23 | nisajjaṃ bhikkhu paṭijānamāno

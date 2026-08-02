@@ -183,6 +183,7 @@
     if (name === 'dashboard') renderDashboard();
     if (name === 'browse') renderBrowse();
     if (name === 'recite') renderRecite();
+    if (name !== 'read') { try { stopReadLoop(); } catch (e) {} if (mediaRec && mediaRec.recording) stopRec(); }
   }
   function banner(msg, type) {
     var b = document.getElementById('banner');
@@ -193,21 +194,22 @@
 
   // ---------- 仪表盘 ----------
   function renderDashboard() {
-    var total = DATA.rules.filter(function (r) { return !r.hidden; }).length, studied = 0, mastered = 0;
+    var total = DATA.rules.filter(function (r) { return !r.hidden; }).length, studied = 0, mastered = 0, readN = 0;
     Object.keys(state.progress).forEach(function (k) {
       var p = state.progress[k];
       if (p.box >= 1) studied++;
       if (p.box >= 4) mastered++;
+      if (p.read) readN++;
     });
     var rf = reciteFrontier();
     var grid = document.getElementById('statGrid');
     grid.innerHTML =
-      stat(total, '总句数') + stat(studied, '已学', 'gold') + stat(mastered, '熟练', 'teal') +
-      stat(rf + 1, '连诵可达', 'maroon');
+      stat(total, '总句数') + stat(studied, '已学', 'gold') + stat(readN, '已熟读', 'read') +
+      stat(mastered, '熟练', 'teal') + stat(rf + 1, '连诵可达', 'maroon');
     // 章节条
     var bars = document.getElementById('sectionBars'); bars.innerHTML = '';
     DATA.sections.forEach(function (s) {
-      var n = 0, st = 0, ma = 0;
+      var n = 0, st = 0, ma = 0, rd = 0;
       for (var i = s.ruleStart; i <= s.ruleEnd; i++) {
         var r = DATA.rules[i];
         if (r.hidden) continue;
@@ -215,10 +217,12 @@
         var p = state.progress[r.key];
         if (p && p.box >= 1) st++;
         if (p && p.box >= 4) ma++;
+        if (p && p.read) rd++;
       }
       var row = el('<div class="section-row"><div class="head"><span class="t">' + esc(s.title) +
-        '</span><span class="c">已学 ' + st + ' / 熟练 ' + ma + ' / 共 ' + n + '</span></div>' +
+        '</span><span class="c">已熟读 ' + rd + ' / 已学 ' + st + ' / 熟练 ' + ma + ' / 共 ' + n + '</span></div>' +
         '<div class="bar"><span style="width:' + (st / n * 100) + '%"></span></div>' +
+        '<div class="bar read" style="margin-top:4px"><span style="width:' + (rd / n * 100) + '%"></span></div>' +
         '<div class="bar master" style="margin-top:4px"><span style="width:' + (ma / n * 100) + '%"></span></div></div>');
       bars.appendChild(row);
     });
@@ -269,9 +273,13 @@
     var prog = el('<div class="progress-pill"><span>第 ' + (session.pos + 1) + ' / ' + total + ' 张</span>' +
       '<span class="bar"><span style="width:' + ((session.pos) / total * 100) + '%"></span></span>' +
       '<span>' + studiedToday() + ' 已学今日</span></div>');
-    w.appendChild(prog); w.appendChild(card);
+    var nav = el('<div class="study-nav">' +
+      '<button class="btn ghost" id="stPrev"' + (session.pos <= 0 ? ' disabled' : '') + '>← 上一句</button>' +
+      '<button class="btn ghost" id="stNext"' + (session.pos >= total - 1 ? ' disabled' : '') + '>下一句 →</button>' +
+      '</div>');
+    w.appendChild(prog); w.appendChild(card); w.appendChild(nav);
 
-    document.getElementById('revealBtn').onclick = function () {
+    function doReveal() {
       session.revealed = true;
       var a = document.getElementById('answer');
       var words = rule.words.map(function (wd, i) {
@@ -288,7 +296,17 @@
       a.querySelectorAll('.rating button').forEach(function (b) {
         b.onclick = function () { rate(rule, b.dataset.r); };
       });
-    };
+    }
+    document.getElementById('revealBtn').onclick = doReveal;
+    if (session.revealed) doReveal();
+    document.getElementById('stPrev').onclick = function () { studyNav(-1); };
+    document.getElementById('stNext').onclick = function () { studyNav(1); };
+  }
+  function studyNav(dir) {
+    var np = session.pos + dir;
+    if (np < 0 || np >= session.queue.length) return;
+    session.pos = np;
+    renderStudyCard();
   }
   function studiedToday() {
     var n = 0;
@@ -304,6 +322,151 @@
     session.revealed = false;
     if (session.pos >= session.queue.length) renderStudyDone();
     else renderStudyCard();
+  }
+
+  // ---------- 熟读（先朗诵熟练，再开始背诵）----------
+  // 依据认知科学实证有效的熟读方法：慢速原音跟读 → 单句循环读顺 → 录音回听对比 → 标记已熟读
+  var readSession = { queue: [], pos: 0, showPali: true, rate: 1, loopTimes: 3 };
+  var readAudio = new Audio(); readAudio.preload = 'auto';
+  var readLoop = { running: false, timer: null };
+  var mediaRec = { rec: null, chunks: [], stream: null, url: null, audio: null, recording: false };
+
+  function startRead() {
+    readSession.queue = DATA.rules.filter(function (r) { return !r.hidden; });
+    readSession.pos = 0;
+    showView('read');
+    renderReadCard();
+  }
+  function enterRead() {
+    if (readSession.queue.length && readSession.pos < readSession.queue.length) { showView('read'); renderReadCard(); }
+    else startRead();
+  }
+  function readCount() {
+    var n = 0;
+    Object.keys(state.progress).forEach(function (k) { if (state.progress[k] && state.progress[k].read) n++; });
+    return n;
+  }
+  function stopReadLoop() { readLoop.running = false; if (readLoop.timer) clearTimeout(readLoop.timer); try { readAudio.pause(); } catch (e) {} updateReadLoopBtn(); }
+  function playReadSentence(idx, rate, cb) {
+    var m = REC.sentences[String(idx)];
+    if (!m || !m.clip) { if (cb) cb(); return; }
+    readAudio.src = m.clip;
+    readAudio.playbackRate = rate || 1;
+    readAudio.onended = function () { if (cb) cb(); };
+    readAudio.onerror = function () { if (cb) cb(); };
+    readAudio.play().catch(function () {});
+  }
+  function startReadLoop() {
+    stopReadLoop();
+    if (readSession.pos >= readSession.queue.length) return;
+    var idx = readSession.queue[readSession.pos].idx;
+    readLoop.running = true; updateReadLoopBtn();
+    stepReadLoop(idx, 1);
+  }
+  function stepReadLoop(idx, n) {
+    if (!readLoop.running) return;
+    if (readSession.loopTimes !== 'inf' && n > readSession.loopTimes) { readLoop.running = false; updateReadLoopBtn(); return; }
+    playReadSentence(idx, readSession.rate, function () {
+      if (!readLoop.running) return;
+      if (readSession.loopTimes !== 'inf' && n >= readSession.loopTimes) { readLoop.running = false; updateReadLoopBtn(); return; }
+      readLoop.timer = setTimeout(function () { stepReadLoop(idx, n + 1); }, 700);
+    });
+  }
+  function startRec() {
+    if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) { banner('当前环境不支持录音（需用 https 或 localhost 打开本应用）。', 'warn'); return; }
+    navigator.mediaDevices.getUserMedia({ audio: true }).then(function (stream) {
+      mediaRec.stream = stream; mediaRec.chunks = [];
+      var mr = new MediaRecorder(stream);
+      mediaRec.rec = mr; mediaRec.recording = true;
+      mr.ondataavailable = function (e) { if (e.data && e.data.size) mediaRec.chunks.push(e.data); };
+      mr.onstop = function () {
+        if (mediaRec.url) URL.revokeObjectURL(mediaRec.url);
+        var blob = new Blob(mediaRec.chunks, { type: 'audio/webm' });
+        mediaRec.url = URL.createObjectURL(blob);
+        if (!mediaRec.audio) mediaRec.audio = new Audio();
+        mediaRec.audio.src = mediaRec.url;
+        stream.getTracks().forEach(function (t) { t.stop(); });
+        mediaRec.recording = false; renderReadCard();
+      };
+      mr.start(); renderReadCard();
+    }).catch(function (err) { banner('无法访问麦克风：' + (err && err.message ? err.message : err), 'err'); });
+  }
+  function stopRec() { if (mediaRec.rec && mediaRec.rec.state === 'recording') mediaRec.rec.stop(); }
+  function updateReadLoopBtn() { var b = document.getElementById('loopBtn'); if (b) b.textContent = readLoop.running ? '■ 停止' : '▶ 开始循环'; }
+  function markRead(rule) {
+    var p = state.progress[rule.key] || { box: 0, due: Date.now(), reps: 0, lapses: 0, added: Date.now(), lastReviewed: null, lastRating: null };
+    p.read = true; state.progress[rule.key] = p; save();
+    banner('已标记第 ' + (rule.idx + 1) + ' 句为「已熟读」 🪷 随喜', 'info');
+    // 标记后自动跳下一句（末句则停在原地）
+    if (readSession.pos < readSession.queue.length - 1) {
+      stopReadLoop();
+      readSession.pos++;
+      renderReadCard();
+    } else {
+      renderReadCard();
+    }
+  }
+  function renderReadCard() {
+    var rule = readSession.queue[readSession.pos];
+    if (!rule) { document.getElementById('readWrap').innerHTML = '<div class="empty-hint">没有可熟读的句。</div>'; return; }
+    var sec = sectionOf(rule);
+    var total = readSession.queue.length;
+    var isRead = !!(state.progress[rule.key] && state.progress[rule.key].read);
+    var words = rule.words.map(function (wd, i) {
+      return '<div class="word">' + speakBtn(wd.p, null, wd.p) + '<span class="p">' + esc(wd.p) + '</span><span class="z' + (wd.z ? '' : ' empty') + '">' + esc(wd.z || '—') + '</span></div>';
+    }).join('');
+    var readLine = '<div class="pali-read"><b>读音参考</b> ' + esc(window.PaliTTS ? PaliTTS.toReadable(rule.pali) : rule.pali) + '</div>';
+    var paliHtml = readSession.showPali
+      ? (recSentBtn(rule.idx) + speakBtn(rule.pali, 'speak-full', rule.key) + '<div class="pali-full pali">' + esc(rule.pali) + '</div>' + readLine)
+      : '<div class="hint" style="color:var(--muted)">巴利文已隐藏（跟读模式）。点「显示巴利」查看。</div>';
+
+    var rateBtns = [['0.6', '慢'], ['1', '常速'], ['1.3', '快']].map(function (p) {
+      return '<button data-rate="' + p[0] + '" class="' + (String(readSession.rate) === p[0] ? 'active' : '') + '">' + p[1] + '</button>';
+    }).join('');
+    var loopOpts = [['1', '1 遍'], ['3', '3 遍'], ['5', '5 遍'], ['inf', '连续']].map(function (p) {
+      return '<option value="' + p[0] + '"' + (String(readSession.loopTimes) === p[0] ? ' selected' : '') + '>' + p[1] + '</option>';
+    }).join('');
+
+    var w = document.getElementById('readWrap');
+    w.innerHTML =
+      '<div class="read-top"><span class="info">第 ' + (readSession.pos + 1) + ' / ' + total + ' 句 · ' + esc(sec.title) + '</span>' +
+      '<span class="info">已熟读 <b>' + readCount() + '</b> / ' + total + '</span></div>' +
+      '<div class="read-controls">' +
+        '<div class="grp"><span class="lbl">原音速度</span><span class="seg" id="rateSeg">' + rateBtns + '</span></div>' +
+        '<div class="grp"><span class="lbl">🔁 循环</span><select id="loopSel">' + loopOpts + '</select>' +
+          '<button class="btn ghost" id="loopBtn" style="padding:6px 12px;font-size:13px">' + (readLoop.running ? '■ 停止' : '▶ 开始循环') + '</button></div>' +
+        '<div class="grp"><span class="lbl">🎙 录音</span>' +
+          '<button class="btn ghost" id="recBtn" style="padding:6px 12px;font-size:13px">' + (mediaRec.recording ? '■ 停止并回放' : '● 开始录音') + '</button>' +
+          '<button class="btn ghost" id="myRecBtn" style="padding:6px 12px;font-size:13px"' + (mediaRec.url ? '' : ' disabled') + '>再听我的录音</button>' +
+          '<span class="rec-status"><span class="rec-dot' + (mediaRec.recording ? ' on' : '') + '"></span>' + (mediaRec.recording ? '录音中…' : '跟读对比') + '</span></div>' +
+      '</div>' +
+      '<div class="read-prog">方法：先听原音（可放慢），再<b>跟读</b>；用 🔁 循环把它读顺，用 🎙 录下自己与原音对比。整句读熟后点「✓ 标记已熟读」。</div>' +
+      '<div class="card">' + illusHTML(rule) +
+        '<div class="body">' +
+          '<div class="sec-tag">' + esc(sec.title) + ' · 第 ' + (rule.idx + 1) + ' 句</div>' +
+          '<div class="meaning">' + esc(rule.meaning || '（无参考译文）') + '</div>' +
+          (rule.note ? '<div class="note">' + esc(rule.note) + '</div>' : '') +
+          paliHtml +
+          '<div class="words">' + words + '</div>' +
+        '</div></div>' +
+      '<div class="read-actions">' +
+        '<button class="btn ghost" id="rdPrev">← 上一句</button>' +
+        '<button class="btn ghost" id="rdNext">下一句 →</button>' +
+        '<button class="btn ghost" id="rdTogglePali">' + (readSession.showPali ? '隐藏巴利（跟读）' : '显示巴利') + '</button>' +
+        '<button class="btn mark' + (isRead ? ' done' : '') + '" id="rdMark">' + (isRead ? '✓ 已熟读' : '✓ 标记已熟读') + '</button>' +
+      '</div>';
+
+    w.querySelectorAll('#rateSeg button').forEach(function (b) {
+      b.onclick = function () { readSession.rate = parseFloat(b.dataset.rate); renderReadCard(); };
+    });
+    document.getElementById('loopSel').onchange = function (e) { readSession.loopTimes = e.target.value === 'inf' ? 'inf' : parseInt(e.target.value, 10); };
+    document.getElementById('loopBtn').onclick = function () { if (readLoop.running) stopReadLoop(); else startReadLoop(); };
+    document.getElementById('recBtn').onclick = function () { if (mediaRec.recording) stopRec(); else startRec(); };
+    document.getElementById('myRecBtn').onclick = function () { if (mediaRec.audio) mediaRec.audio.play(); };
+    document.getElementById('rdPrev').onclick = function () { stopReadLoop(); if (readSession.pos > 0) { readSession.pos--; renderReadCard(); } };
+    document.getElementById('rdNext').onclick = function () { stopReadLoop(); if (readSession.pos < total - 1) { readSession.pos++; renderReadCard(); } };
+    document.getElementById('rdTogglePali').onclick = function () { readSession.showPali = !readSession.showPali; renderReadCard(); };
+    document.getElementById('rdMark').onclick = function () { markRead(rule); };
   }
 
   // ---------- 连诵 ----------
@@ -437,6 +600,7 @@
     document.getElementById('tabs').addEventListener('click', function (e) {
       if (!e.target.dataset.view) return;
       if (e.target.dataset.view === 'study') enterStudy();
+      else if (e.target.dataset.view === 'read') enterRead();
       else showView(e.target.dataset.view);
     });
     document.getElementById('startStudy').onclick = startStudy;

@@ -1,0 +1,151 @@
+第1章(事前任务) 强制对齐转写核对报告
+生成: 2026-08-01 | 源: 事前任务20220801_085203.mp3(完整录音)
+格式: [句idx] (clip起止s) 对齐词(起~止s) ...  | 正确文本(逐词)
+================================================================================
+
+[00] clip 0.00~28.43s  rep=3
+  对齐: Namo(0.56~0.86) tassa(1.74~2.18) bhagavato(2.56~3.68) arahato(4.52~5.22) sammāsambuddhassa(6.52~8.86) Namo(10.32~10.68) tassa(11.54~11.96) bhagavato(12.34~13.46) arahato(14.24~14.98) sammāsambuddhassa(16.02~18.32) Namo(19.72~20.10) tassa(20.90~21.38) bhagavato(21.77~22.98) arahato(23.90~24.68) sammāsambuddhassa(25.42~28.43)
+  正确: Namo tassa bhagavato arahato sammāsambuddhassa
+
+[01] clip 0.00~10.53s  rep=1
+  对齐: Sammajjanī(0.38~1.10) padīpo(1.44~1.82) ca(2.00~2.10) udakaṃ(2.38~2.98) āsanena(3.14~3.98) ca(4.16~4.26) uposathassa(5.34~6.20) (pavāraṇāya)(6.23~6.44) etāni(6.48~7.02) ‘pubbakaraṇan’ti(7.22~8.74) vuccati(8.92~10.53)
+  正确: Sammajjanī padīpo ca udakaṃ āsanena ca uposathassa (pavāraṇāya) etāni ‘pubbakaraṇan’ti vuccati
+
+[02] clip 0.00~4.88s  rep=1
+  对齐: Iti(0.46~0.78) aṭṭhakathācariyehi(1.14~2.94) vuttattā(3.16~4.88)
+  正确: Iti aṭṭhakathācariyehi vuttattā
+
+[03] clip 0.00~3.67s  rep=1
+  对齐: Sammajjana-karaṇaṃ(0.32~1.98) niṭṭhitaṃ(2.16~3.67)
+  正确: Sammajjana-karaṇaṃ niṭṭhitaṃ
+
+[04] clip 0.00~8.52s  rep=1
+  对齐: Padīpujjalanaṃ(0.66~3.44) niṭṭhitaṃ(3.64~8.52)
+  正确: Padīpujjalanaṃ niṭṭhitaṃ
+
+[05] clip 0.00~8.01s  rep=1
+  对齐: Idāni(0.62~1.06) pana(1.12~1.30) suriyālokassa(1.62~2.34) atthitāya(2.38~2.74) padīpakiccaṃ(3.18~4.02) idha(4.08~5.80) natthi(5.96~8.01)
+  正确: Idāni pana suriyālokassa atthitāya padīpakiccaṃ idha natthi
+
+[06] clip 0.00~3.37s  rep=1
+  对齐: Āsanena(0.46~1.27) saha(1.30~1.41) pānīya-paribhojanīya-udakaṭṭhapanaṃ(1.41~2.62) niṭṭhitaṃ(2.66~3.37)
+  正确: Āsanena saha pānīya-paribhojanīya-udakaṭṭhapanaṃ niṭṭhitaṃ
+
+[07] clip 0.00~3.42s  rep=1
+  对齐: Etāni(0.01~0.41) cattāri(0.41~0.66) vattāni(0.66~0.94) sammajjanakaraṇādīni(0.94~1.80) saṅghasannipātato(1.80~2.32) paṭhamaṃ(2.32~2.69) kattabbattā(2.69~3.42)
+  正确: Etāni cattāri vattāni sammajjanakaraṇādīni saṅghasannipātato paṭhamaṃ kattabbattā
+
+[08] clip 0.00~4.56s  rep=1
+  对齐: ‘Uposathassa(0.16~0.86) uposathakammassa(0.95~1.86) (pavāraṇāya(2.22~2.60) pavāraṇākammassa)(2.66~3.40) pubbakaraṇan’ti(3.48~4.01) vuccati(4.01~4.56)
+  正确: ‘Uposathassa uposathakammassa (pavāraṇāya pavāraṇākammassa) pubbakaraṇan’ti vuccati
+
+[09] clip 0.00~3.66s  rep=1
+  对齐: Pubbakaraṇānī’ti(0.19~2.31) akkhātāni(2.34~3.66)
+  正确: Pubbakaraṇānī’ti akkhātāni
+
+[10] clip 0.00~13.40s  rep=1
+  对齐: Chanda-pārisuddhi(0.07~1.19) (pavāraṇā)-utukkhānaṃ(1.19~3.12) bhikkhugaṇanā(3.70~4.94) ca(5.21~5.26) ovādo(5.26~5.31) uposathassa(5.48~6.54) (pavāraṇāya)(6.62~10.38) etāni(10.48~10.82) ‘pubbakiccan’ti(10.82~11.54) vuccati(11.82~13.40)
+  正确: Chanda-pārisuddhi (pavāraṇā)-utukkhānaṃ bhikkhugaṇanā ca ovādo uposathassa (pavāraṇāya) etāni ‘pubbakiccan’ti vuccati
+
+[11] clip 0.00~3.56s  rep=1
+  对齐: Iti(0.07~0.32) aṭṭhakathācariyehi(0.43~1.68) vuttattā(1.92~3.56)
+  正确: Iti aṭṭhakathācariyehi vuttattā
+
+[12] clip 0.00~5.77s  rep=1
+  对齐: Ayaṃ(0.32~0.57) sīmā(0.66~0.74) khaṇḍasīmā(0.83~1.92) na(2.12~2.22) mahāsīmā(2.72~3.78) na(3.90~4.08) gāmasīmā(4.25~5.77)
+  正确: Ayaṃ sīmā khaṇḍasīmā na mahāsīmā na gāmasīmā
+
+[13] clip 0.00~4.94s  rep=1
+  对齐: Tasmā(0.50~0.92) chanda-pārisuddhi(1.01~2.14) (pavāraṇā)-āharaṇaṃ(2.27~3.53) idha(3.53~3.70) natthi(3.74~4.94)
+  正确: Tasmā chanda-pārisuddhi (pavāraṇā)-āharaṇaṃ idha natthi
+
+[14] clip 0.00~3.01s  rep=1
+  对齐: Chandāharaṇa(0.47~0.52) pārisuddhi(0.52~0.57) (pavāraṇā)-āharaṇāni(0.57~0.88) pana(0.88~0.94) imissaṃ(0.98~1.09) sīmāyaṃ(1.09~1.31) hatthapāsaṃ(1.36~1.57) vijahitvā(1.64~1.95) nisinnānaṃ(1.95~2.00) bhikkhūnaṃ(2.00~2.30) abhāvato(2.38~2.52) natthi(2.52~3.01)
+  正确: Chandāharaṇa pārisuddhi (pavāraṇā)-āharaṇāni pana imissaṃ sīmāyaṃ hatthapāsaṃ vijahitvā nisinnānaṃ bhikkhūnaṃ abhāvato natthi
+
+[15] clip 0.00~3.71s  rep=1
+  对齐: Utūnīdha(0.05~0.30) pana(0.37~0.64) sāsane(0.74~1.08) hemanta-gimha-vassānānaṃ(1.12~2.58) vasena(2.58~2.83) tīṇi(2.83~2.91) honti(2.94~3.71)
+  正确: Utūnīdha pana sāsane hemanta-gimha-vassānānaṃ vasena tīṇi honti
+
+[16] clip 0.00~2.87s  rep=1
+  对齐: Ayaṃ(0.28~0.56) hemanta-utu(0.78~1.54) (gimha-utu(1.64~2.14) /(2.14~2.15) vassāna-utu)(2.35~2.87)
+  正确: Ayaṃ hemanta-utu (gimha-utu / vassāna-utu)
+
+[17] clip 0.00~3.16s  rep=1
+  对齐: Asmiṃ(0.06~0.57) utumhi(0.84~1.14) aṭṭha(1.28~1.50) (dasa)(1.55~1.74) uposathā(1.82~3.16)
+  正确: Asmiṃ utumhi aṭṭha (dasa) uposathā
+
+[18] clip 0.00~11.88s  rep=1
+  对齐: Iminā(0.60~1.18) pakkhena(1.50~1.86) eko(2.09~2.32) uposatho(2.41~3.30) sampatto(3.44~4.28) tayo(4.55~5.12) uposathā(5.33~6.30) atikkantā(6.58~7.88) cattāro(8.41~9.48) uposathā(9.48~10.44) avasiṭṭhā(10.52~11.88)
+  正确: Iminā pakkhena eko uposatho sampatto tayo uposathā atikkantā cattāro uposathā avasiṭṭhā
+
+[19] clip 0.00~9.43s  rep=1
+  对齐: Imasmiṃ(0.29~0.84) pana(0.84~0.98) uposathagge(0.98~1.56) (pavāraṇagge)(1.82~2.90) sannipatitānaṃ(3.04~4.92) bhikkhūnaṃ(5.16~6.03) gaṇanā(6.32~7.06) cattāro(7.34~7.68) bhikkhū(7.72~8.18) honti(8.32~9.43)
+  正确: Imasmiṃ pana uposathagge (pavāraṇagge) sannipatitānaṃ bhikkhūnaṃ gaṇanā cattāro bhikkhū honti
+
+[20] clip 0.00~8.12s  rep=1
+  对齐: Bhikkhunīnamovādo(0.26~2.08) pana(2.34~2.74) idāni(3.15~3.78) tāsaṃ(3.84~4.39) natthitāya(4.58~5.96) natthi(6.00~8.12)
+  正确: Bhikkhunīnamovādo pana idāni tāsaṃ natthitāya natthi
+
+[21] clip 0.00~6.39s  rep=1
+  对齐: Etāni(0.65~0.86) pañcakammāni(0.94~1.55) chandāharaṇādīni(1.55~2.10) pātimokkhuddesato(2.10~3.09) (pavāraṇākammato)(3.09~4.61) paṭhamaṃ(4.68~5.13) kattabbattā(5.13~6.39)
+  正确: Etāni pañcakammāni chandāharaṇādīni pātimokkhuddesato (pavāraṇākammato) paṭhamaṃ kattabbattā
+
+[22] clip 0.00~5.02s  rep=1
+  对齐: ‘Uposathassa(0.07~0.72) uposathakammassa(0.80~1.23) (pavāraṇāya(1.23~1.73) pavāraṇākammassa)(1.73~2.52) pubbakiccan’ti(2.96~4.02) vuccati(4.20~5.02)
+  正确: ‘Uposathassa uposathakammassa (pavāraṇāya pavāraṇākammassa) pubbakiccan’ti vuccati
+
+[23] clip 0.00~4.10s  rep=1
+  对齐: Pubbakiccānī’ti(0.32~3.28) akkhātāni(3.32~4.10)
+  正确: Pubbakiccānī’ti akkhātāni
+
+[24] clip 0.00~16.72s  rep=1
+  对齐: Uposatho(0.00~1.04) (pavāraṇā)(1.04~2.10) yāvatikā(2.15~4.14) ca(4.31~4.36) bhikkhū(4.48~4.91) kammappattā(5.08~6.40) sabhāgāpattiyo(6.48~8.06) ca(8.60~9.14) na(9.18~9.22) vijjanti(9.28~10.16) vajjanīyā(10.28~11.36) ca(11.48~11.60) puggalā(11.71~12.08) tasmiṃ(12.14~12.51) na(12.58~12.68) honti(13.52~13.78) ‘pattakallan’ti(13.92~15.58) vuccati(15.78~16.72)
+  正确: Uposatho (pavāraṇā) yāvatikā ca bhikkhū kammappattā sabhāgāpattiyo ca na vijjanti vajjanīyā ca puggalā tasmiṃ na honti ‘pattakallan’ti vuccati
+
+[25] clip 0.00~3.12s  rep=1
+  对齐: Iti(0.09~0.24) aṭṭhakathācariyehi(0.33~1.48) vuttattā(1.61~3.12)
+  正确: Iti aṭṭhakathācariyehi vuttattā
+
+[26] clip 0.00~10.91s  rep=1
+  对齐: Divasavasena(0.11~1.20) tīsu(1.24~1.41) uposathesu(1.41~1.96) (pavāraṇāsu)(1.96~2.38) cātuddasī-pannarasī-sāmaggīsu(2.38~4.66) ajjuposatho(4.66~6.68) pannaraso(6.96~7.53) /(7.53~7.54) cātuddaso(7.54~8.00) (ajja(8.04~8.22) pavāraṇā(8.50~9.52) pannarasī)(9.72~10.91)
+  正确: Divasavasena tīsu uposathesu (pavāraṇāsu) cātuddasī-pannarasī-sāmaggīsu ajjuposatho pannaraso / cātuddaso (ajja pavāraṇā pannarasī)
+
+[27] clip 0.00~17.84s  rep=1
+  对齐: Kāraṇapuggalavasena(0.28~2.24) tīsu(2.48~2.85) uposathesu(2.85~4.58) saṅgha-gaṇa-puggala-uposathesu(4.70~7.49) ajjuposatho(7.58~8.00) saṅgha-uposatho(8.00~8.60) (pavāraṇāsu(9.70~10.53) saṅgha-gaṇa-puggala-pavāraṇāsu(10.53~14.59) ajja(14.62~14.86) pavāraṇā(15.05~15.66) saṅgha-pavāraṇā)(16.00~17.84)
+  正确: Kāraṇapuggalavasena tīsu uposathesu saṅgha-gaṇa-puggala-uposathesu ajjuposatho saṅgha-uposatho (pavāraṇāsu saṅgha-gaṇa-puggala-pavāraṇāsu ajja pavāraṇā saṅgha-pavāraṇā)
+
+[28] clip 0.00~12.62s  rep=1
+  对齐: Kātabbākāravasena(0.21~1.68) tīsu(2.02~2.42) uposathesu(2.76~3.68) suttuddesa-pārisuddhi-adhiṭṭhāna-uposathesu(4.54~6.50) ajjuposatho(6.62~6.74) suttuddesa-uposatho(6.86~7.86) (pavāraṇāsu(7.86~8.42) saṅgha-aññamañña-adhiṭṭhāna-pavāraṇāsu(8.83~11.04) ajja(11.04~11.12) pavāraṇā(11.19~11.42) saṅgha-pavāraṇā)(11.48~12.62)
+  正确: Kātabbākāravasena tīsu uposathesu suttuddesa-pārisuddhi-adhiṭṭhāna-uposathesu ajjuposatho suttuddesa-uposatho (pavāraṇāsu saṅgha-aññamañña-adhiṭṭhāna-pavāraṇāsu ajja pavāraṇā saṅgha-pavāraṇā)
+
+[29] clip 0.00~22.90s  rep=1
+  对齐: Yattakā(0.27~0.82) bhikkhū(1.10~1.61) tassa(1.61~3.04) uposathakammassa(3.62~5.58) (pavāraṇākammassa)(5.63~7.06) pattā(7.22~7.50) yuttā(7.65~8.06) anurūpā(8.32~8.86) sabbantimena(9.02~9.60) paricchedena(10.44~11.42) cattāro(11.83~12.98) (pañca)(13.12~13.40) bhikkhū(13.46~15.84) pakatattā(16.00~16.76) saṅghena(16.90~17.22) anukkhittā(17.63~18.80) te(18.96~19.06) ca(19.20~19.34) kho(19.75~20.24) hatthapāsaṃ(20.39~21.44) avijahitvā(21.50~21.76) ekasīmāyaṃ(21.76~22.06) ṭhitā(22.18~22.90)
+  正确: Yattakā bhikkhū tassa uposathakammassa (pavāraṇākammassa) pattā yuttā anurūpā sabbantimena paricchedena cattāro (pañca) bhikkhū pakatattā saṅghena anukkhittā te ca kho hatthapāsaṃ avijahitvā ekasīmāyaṃ ṭhitā
+
+[30] clip 0.00~2.98s  rep=1
+  对齐: Tesaṃ(0.13~0.37) vikāla-bhojanādi-vatthu-sabhāgāpattiyo(0.37~2.34) ca(2.49~2.54) na(2.54~2.59) vijjanti(2.59~2.98)
+  正确: Tesaṃ vikāla-bhojanādi-vatthu-sabhāgāpattiyo ca na vijjanti
+
+[31] clip 0.00~17.85s  rep=1
+  对齐: Gahaṭṭha-paṇḍakādayo(0.38~5.55) ekavīsati(5.55~6.54) vajjanīyā-puggalā(6.68~8.34) hatthapāsato(9.14~10.16) bahikaraṇavasena(10.25~12.96) vajjetabbā(13.18~14.82) te(14.98~15.02) asmiṃ(15.06~15.81) na(16.14~16.22) honti(16.37~17.85)
+  正确: Gahaṭṭha-paṇḍakādayo ekavīsati vajjanīyā-puggalā hatthapāsato bahikaraṇavasena vajjetabbā te asmiṃ na honti
+
+[32] clip 0.00~9.06s  rep=1
+  对齐: Saṅghassa(0.24~0.86) uposathakammaṃ(1.00~3.04) (pavāraṇākammaṃ)(3.30~4.77) imehi(4.77~4.98) catūhi(5.08~5.40) lakkhaṇehi(5.52~6.29) saṅgahitaṃ(6.29~6.92) ‘pattakallan’ti(6.96~7.60) vuccati(7.72~9.06)
+  正确: Saṅghassa uposathakammaṃ (pavāraṇākammaṃ) imehi catūhi lakkhaṇehi saṅgahitaṃ ‘pattakallan’ti vuccati
+
+[33] clip 0.00~3.97s  rep=1
+  对齐: Pattakālavantan’ti(0.89~3.16) akkhātaṃ(3.50~3.97)
+  正确: Pattakālavantan’ti akkhātaṃ
+
+[34] clip 0.00~18.31s  rep=1
+  对齐: Pubbakaraṇa-pubbakiccāni(0.00~3.76) samāpetvā(5.32~7.28) desitāpattikassa(7.33~8.64) samaggassa(8.79~10.14) bhikkhusaṅghassa(10.23~11.60) anumatiyā(11.70~12.22) pātimokkhaṃ(13.10~13.74) uddisituṃ(13.74~14.33) (pavāraṇā(14.52~15.52) ñattiṃ)(15.78~16.24) ārādhanaṃ(16.32~17.19) karoma(17.22~18.31)
+  正确: Pubbakaraṇa-pubbakiccāni samāpetvā desitāpattikassa samaggassa bhikkhusaṅghassa anumatiyā pātimokkhaṃ uddisituṃ (pavāraṇā ñattiṃ) ārādhanaṃ karoma
+
+[35] clip 0.00~43.97s  rep=1
+  对齐: Sādhu!(3.22~18.42) Sādhu!(21.16~26.60) Sādhu!(26.96~43.97)
+  正确: Sādhu! Sādhu! Sādhu!
+
+================================================================================
+说明: 对齐词文与正确文本应当逐词一致; 时间轴为各词在分句内相对起点。

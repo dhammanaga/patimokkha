@@ -1,0 +1,35 @@
+===== 第1章 idx 0-35 =====
+第1章: PASS=36 FAIL=0
+===== 第2章 idx 36-79 =====
+idx 70: PASS (TTS兜底, 无真人录音)
+idx 71: PASS (TTS兜底, 无真人录音)
+idx 72: PASS (TTS兜底, 无真人录音)
+idx 73: PASS (TTS兜底, 无真人录音)
+idx 74: PASS (TTS兜底, 无真人录音)
+idx 75: PASS (TTS兜底, 无真人录音)
+idx 76: PASS (TTS兜底, 无真人录音)
+idx 77: PASS (TTS兜底, 无真人录音)
+idx 78: PASS (TTS兜底, 无真人录音)
+idx 79: PASS (TTS兜底, 无真人录音)
+第2章: PASS=44 FAIL=0
+===== 第3章 idx 80-135 =====
+第3章: PASS=56 FAIL=0
+===== 第4章 idx 136-352 =====
+第4章: PASS=217 FAIL=0
+===== 第5章 idx 353-394 =====
+第5章: PASS=42 FAIL=0
+===== 第6章 idx 395-645 =====
+第6章: PASS=251 FAIL=0
+===== 第7章 idx 646-1010 =====
+第7章: PASS=365 FAIL=0
+===== 第8章 idx 1011-1065 =====
+第8章: PASS=55 FAIL=0
+===== 第9章 idx 1066-1180 =====
+第9章: PASS=115 FAIL=0
+===== 第10章 idx 1181-1197 =====
+第10章: PASS=17 FAIL=0
+===== 第11章 idx 1198-1210 =====
+idx 1209: PASS (TTS兜底, 无真人录音)
+第11章: PASS=13 FAIL=0
+
+总计: PASS=1211 FAIL=0

@@ -1,0 +1,308 @@
+idx 0 D=26.173 bound=[0.04, 26.173] words=15 repeat=3
+   0 Namo           0.040~0.720
+   1 tassa          1.200~1.620
+   2 bhagavato      2.380~3.510
+   3 arahato        3.980~4.540
+   4 sammāsambuddhassa 4.540~6.080
+   5 Namo           6.220~8.770
+   6 tassa          8.770~11.420
+   7 bhagavato      12.140~13.260
+   8 arahato        13.700~14.910
+   9 sammāsambuddhassa 15.480~17.780
+  10 Namo           19.160~19.540
+  11 tassa          20.360~20.790
+  12 bhagavato      20.790~21.250
+  13 arahato        21.250~21.300
+  14 sammāsambuddhassa 21.300~26.173
+idx 1 D=9.325 bound=[0.04, 9.325] words=11 repeat=1
+   0 Sammajjanī     0.040~0.740
+   1 padīpo         1.100~1.460
+   2 ca             1.640~1.740
+   3 udakaṃ         2.020~2.650
+   4 āsanena        2.800~3.620
+   5 ca             3.800~3.900
+   6 uposathassa    4.980~5.850
+   7 (pavāraṇāya)   5.850~6.010
+   8 etāni          6.120~6.660
+   9 ‘pubbakaraṇan’ti 6.860~8.380
+  10 vuccati        8.560~9.325
+idx 2 D=3.469 bound=[0.08, 3.469] words=3 repeat=1
+   0 Iti            0.080~0.300
+   1 aṭṭhakathācariyehi 0.680~2.480
+   2 vuttattā       2.690~3.469
+idx 3 D=2.845 bound=[0.04, 2.845] words=2 repeat=1
+   0 Sammajjana-karaṇaṃ 0.040~1.660
+   1 niṭṭhitaṃ      1.840~2.845
+idx 4 SKIP tts/no-clip
+idx 5 D=6.709 bound=[0.14, 6.709] words=7 repeat=1
+   0 Idāni          0.140~0.720
+   1 pana           0.940~1.280
+   2 suriyālokassa  1.680~2.940
+   3 atthitāya      3.220~4.080
+   4 padīpakiccaṃ   4.580~6.190
+   5 idha           6.380~6.460
+   6 natthi         6.460~6.709
+idx 6 D=6.949 bound=[0.06, 6.949] words=4 repeat=1
+   0 Āsanena        0.060~0.700
+   1 saha           1.020~1.400
+   2 pānīya-paribhojanīya-udakaṭṭhapanaṃ 1.740~5.640
+   3 niṭṭhitaṃ      5.840~6.949
+idx 7 D=10.261 bound=[0.06, 10.261] words=7 repeat=1
+   0 Etāni          0.060~0.520
+   1 cattāri        0.840~1.420
+   2 vattāni        1.700~2.320
+   3 sammajjanakaraṇādīni 3.080~5.500
+   4 saṅghasannipātato 6.620~8.200
+   5 paṭhamaṃ       8.560~9.260
+   6 kattabbattā    9.440~10.261
+idx 8 D=5.941 bound=[0.0, 5.941] words=6 repeat=1
+   0 ‘Uposathassa   0.000~1.020
+   1 uposathakammassa 1.400~2.750
+   2 (pavāraṇāya    2.750~3.210
+   3 pavāraṇākammassa) 3.210~3.620
+   4 pubbakaraṇan’ti 3.730~4.980
+   5 vuccati        5.170~5.941
+idx 9 D=3.901 bound=[0.0, 3.901] words=2 repeat=1
+   0 Pubbakaraṇānī’ti 0.000~2.300
+   1 akkhātāni      2.830~3.901
+idx 10 D=11.629 bound=[0.02, 11.629] words=10 repeat=1
+   0 Chanda-pārisuddhi 0.020~1.240
+   1 (pavāraṇā)-utukkhānaṃ 1.410~2.850
+   2 bhikkhugaṇanā  3.340~4.420
+   3 ca             4.700~4.750
+   4 ovādo          4.800~5.740
+   5 uposathassa    6.980~7.890
+   6 (pavāraṇāya)   7.890~8.300
+   7 etāni          8.410~8.880
+   8 ‘pubbakiccan’ti 9.130~10.740
+   9 vuccati        10.910~11.629
+idx 11 D=3.661 bound=[0.06, 3.661] words=3 repeat=1
+   0 Iti            0.060~0.240
+   1 aṭṭhakathācariyehi 0.580~2.640
+   2 vuttattā       2.870~3.661
+idx 12 D=3.805 bound=[0.04, 3.805] words=7 repeat=1
+   0 Ayaṃ           0.040~0.360
+   1 sīmā           0.520~0.860
+   2 khaṇḍasīmā     1.160~1.960
+   3 na             2.800~2.900
+   4 mahāsīmā       3.190~3.540
+   5 na             3.540~3.590
+   6 gāmasīmā       3.590~3.805
+idx 13 D=3.229 bound=[0.0, 3.229] words=5 repeat=1
+   0 Tasmā          0.000~0.180
+   1 chanda-pārisuddhi 0.360~0.850
+   2 (pavāraṇā)-āharaṇaṃ 0.850~1.220
+   3 idha           1.580~1.820
+   4 natthi         2.330~3.229
+idx 14 D=5.941 bound=[0.0, 5.941] words=12 repeat=1
+   0 Chandāharaṇa   0.000~0.470
+   1 pārisuddhi     0.580~1.240
+   2 (pavāraṇā)-āharaṇāni 1.510~2.220
+   3 pana           2.220~2.560
+   4 imissaṃ        2.830~2.880
+   5 sīmāyaṃ        2.880~3.230
+   6 hatthapāsaṃ    3.230~3.630
+   7 vijahitvā      3.630~3.950
+   8 nisinnānaṃ     3.950~4.150
+   9 bhikkhūnaṃ     4.150~4.200
+  10 abhāvato       4.200~4.250
+  11 natthi         4.250~5.941
+idx 15 D=7.141 bound=[0.32, 7.141] words=7 repeat=1
+   0 Utūnīdha       0.320~0.900
+   1 pana           1.220~1.580
+   2 sāsane         1.960~2.560
+   3 hemanta-gimha-vassānānaṃ 2.940~5.450
+   4 vasena         5.640~6.300
+   5 tīṇi           6.680~6.780
+   6 honti          6.870~7.141
+idx 16 D=3.853 bound=[0.04, 3.853] words=5 repeat=1
+   0 Ayaṃ           0.040~0.570
+   1 hemanta-utu    0.900~1.630
+   2 (gimha-utu     1.630~2.020
+   3 /              2.020~2.030
+   4 vassāna-utu)   2.710~3.853
+idx 17 D=2.605 bound=[0.08, 2.605] words=5 repeat=1
+   0 Asmiṃ          0.080~0.600
+   1 utumhi         0.700~1.200
+   2 aṭṭha          1.720~2.020
+   3 (dasa)         2.170~2.220
+   4 uposathā       2.320~2.605
+idx 18 D=11.701 bound=[0.06, 11.701] words=11 repeat=1
+   0 Iminā          0.060~0.480
+   1 pakkhena       0.820~1.400
+   2 eko            1.800~2.060
+   3 uposatho       2.480~3.340
+   4 sampatto       3.700~4.280
+   5 tayo           5.360~5.680
+   6 uposathā       5.900~6.580
+   7 atikkantā      6.960~7.820
+   8 cattāro        8.660~9.280
+   9 uposathā       9.560~10.240
+  10 avasiṭṭhā      10.700~11.701
+idx 19 D=9.637 bound=[0.04, 9.637] words=10 repeat=1
+   0 Imasmiṃ        0.040~0.720
+   1 pana           0.800~1.120
+   2 uposathagge    1.520~2.600
+   3 (pavāraṇagge)  2.880~2.930
+   4 sannipatitānaṃ 3.160~5.310
+   5 bhikkhūnaṃ     5.780~6.460
+   6 gaṇanā         6.640~7.080
+   7 cattāro        7.520~8.080
+   8 bhikkhū        8.520~8.980
+   9 honti          9.180~9.637
+idx 20 D=6.229 bound=[0.0, 6.229] words=6 repeat=1
+   0 Bhikkhunīnamovādo 0.000~1.580
+   1 pana           1.980~2.320
+   2 idāni          2.760~3.300
+   3 tāsaṃ          3.580~4.120
+   4 natthitāya     4.300~5.340
+   5 natthi         5.820~6.229
+idx 21 D=8.797 bound=[0.06, 8.797] words=7 repeat=1
+   0 Etāni          0.060~0.440
+   1 pañcakammāni   0.560~1.700
+   2 chandāharaṇādīni 2.100~4.140
+   3 pātimokkhuddesato 5.160~6.740
+   4 (pavāraṇākammato) 6.940~6.990
+   5 paṭhamaṃ       7.140~7.850
+   6 kattabbattā    8.020~8.797
+idx 22 D=5.461 bound=[0.0, 5.461] words=6 repeat=1
+   0 ‘Uposathassa   0.000~1.040
+   1 uposathakammassa 1.420~2.650
+   2 (pavāraṇāya    2.650~3.000
+   3 pavāraṇākammassa) 3.000~3.050
+   4 pubbakiccan’ti 3.300~4.420
+   5 vuccati        4.650~5.461
+idx 23 D=3.229 bound=[0.0, 3.229] words=2 repeat=1
+   0 Pubbakiccānī’ti 0.000~1.660
+   1 akkhātāni      2.140~3.229
+idx 24 D=17.005 bound=[0.04, 17.005] words=18 repeat=1
+   0 Uposatho       0.040~0.720
+   1 (pavāraṇā)     0.970~1.020
+   2 yāvatikā       1.220~1.980
+   3 ca             2.180~2.260
+   4 bhikkhū        2.540~2.900
+   5 kammappattā    3.280~4.060
+   6 sabhāgāpattiyo 5.220~6.400
+   7 ca             6.680~6.780
+   8 na             7.120~7.200
+   9 vijjanti       7.600~8.360
+  10 vajjanīyā      9.480~10.060
+  11 ca             10.300~10.400
+  12 puggalā        10.780~11.320
+  13 tasmiṃ         11.920~12.530
+  14 na             12.720~12.800
+  15 honti          13.140~13.540
+  16 ‘pattakallan’ti 14.100~15.980
+  17 vuccati        16.200~17.005
+idx 25 D=3.589 bound=[0.06, 3.589] words=3 repeat=1
+   0 Iti            0.060~0.260
+   1 aṭṭhakathācariyehi 0.580~2.560
+   2 vuttattā       2.800~3.589
+idx 26 D=13.285 bound=[0.02, 13.285] words=12 repeat=1
+   0 Divasavasena   0.020~1.320
+   1 tīsu           1.660~2.060
+   2 uposathesu     2.420~3.320
+   3 (pavāraṇāsu)   3.750~3.800
+   4 cātuddasī-pannarasī-sāmaggīsu 4.180~8.060
+   5 ajjuposatho    8.880~9.740
+   6 pannaraso      10.240~11.220
+   7 /              11.220~11.230
+   8 cātuddaso      11.320~11.420
+   9 (ajja          12.060~12.110
+  10 pavāraṇā       12.110~12.700
+  11 pannarasī)     12.780~13.285
+idx 27 D=16.693 bound=[0.88, 16.693] words=11 repeat=1
+   0 Kāraṇapuggalavasena 0.880~2.740
+   1 tīsu           3.200~3.560
+   2 uposathesu     4.140~5.220
+   3 saṅgha-gaṇa-puggala-uposathesu 6.040~10.140
+   4 ajjuposatho    11.040~12.220
+   5 saṅgha-uposatho 12.660~14.180
+   6 (pavāraṇāsu    14.330~14.380
+   7 saṅgha-gaṇa-puggala-pavāraṇāsu 14.380~14.430
+   8 ajja           14.430~14.480
+   9 pavāraṇā       14.480~14.530
+  10 saṅgha-pavāraṇā) 14.530~16.693
+idx 28 D=15.949 bound=[0.42, 15.949] words=11 repeat=1
+   0 Kātabbākāravasena 0.420~2.100
+   1 tīsu           2.500~2.900
+   2 uposathesu     3.280~4.220
+   3 suttuddesa-pārisuddhi-adhiṭṭhāna-uposathesu 5.000~10.120
+   4 ajjuposatho    11.000~11.980
+   5 suttuddesa-uposatho 12.340~14.510
+   6 (pavāraṇāsu    14.510~14.560
+   7 saṅgha-aññamañña-adhiṭṭhāna-pavāraṇāsu 14.560~14.610
+   8 ajja           14.610~14.660
+   9 pavāraṇā       14.660~14.710
+  10 saṅgha-pavāraṇā) 14.710~15.949
+idx 29 D=21.085 bound=[0.58, 21.085] words=23 repeat=1
+   0 Yattakā        0.580~1.020
+   1 bhikkhū        1.160~1.460
+   2 tassa          1.820~2.160
+   3 uposathakammassa 2.460~3.650
+   4 (pavāraṇākammassa) 3.650~4.090
+   5 pattā          4.480~4.740
+   6 yuttā          4.940~5.200
+   7 anurūpā        5.500~6.380
+   8 sabbantimena   7.380~8.320
+   9 paricchedena   8.700~9.600
+  10 cattāro        10.080~10.620
+  11 (pañca)        10.740~10.840
+  12 bhikkhū        10.840~11.040
+  13 pakatattā      11.500~12.300
+  14 saṅghena       13.440~14.060
+  15 anukkhittā     14.320~15.040
+  16 te             15.980~16.080
+  17 ca             16.240~16.320
+  18 kho            16.500~16.580
+  19 hatthapāsaṃ    16.740~17.650
+  20 avijahitvā     17.860~19.000
+  21 ekasīmāyaṃ     19.380~20.570
+  22 ṭhitā          20.720~21.085
+idx 30 D=7.813 bound=[1.0, 7.813] words=5 repeat=1
+   0 Tesaṃ          1.000~1.390
+   1 vikāla-bhojanādi-vatthu-sabhāgāpattiyo 1.390~5.720
+   2 ca             6.080~6.180
+   3 na             6.440~6.540
+   4 vijjanti       6.780~7.813
+idx 31 D=14.629 bound=[1.0, 14.629] words=10 repeat=1
+   0 Gahaṭṭha-paṇḍakādayo 1.000~3.120
+   1 ekavīsati      3.640~4.580
+   2 vajjanīyā-puggalā 4.780~6.420
+   3 hatthapāsato   7.300~8.340
+   4 bahikaraṇavasena 8.700~10.520
+   5 vajjetabbā     10.900~11.740
+   6 te             12.720~12.800
+   7 asmiṃ          13.120~13.570
+   8 na             13.680~13.760
+   9 honti          14.140~14.629
+idx 32 D=9.733 bound=[0.04, 9.733] words=9 repeat=1
+   0 Saṅghassa      0.040~0.680
+   1 uposathakammaṃ 1.080~2.040
+   2 (pavāraṇākammaṃ) 2.080~2.540
+   3 imehi          2.960~3.480
+   4 catūhi         3.810~4.440
+   5 lakkhaṇehi     4.920~5.680
+   6 saṅgahitaṃ     6.120~7.550
+   7 ‘pattakallan’ti 7.550~8.840
+   8 vuccati        9.020~9.733
+idx 33 D=3.901 bound=[0.04, 3.901] words=2 repeat=1
+   0 Pattakālavantan’ti 0.040~1.960
+   1 akkhātaṃ       2.520~3.901
+idx 34 D=17.365 bound=[0.0, 17.365] words=12 repeat=1
+   0 Pubbakaraṇa-pubbakiccāni 0.000~2.360
+   1 samāpetvā      2.820~3.580
+   2 desitāpattikassa 4.660~6.360
+   3 samaggassa     6.720~7.460
+   4 bhikkhusaṅghassa 7.880~9.380
+   5 anumatiyā      10.320~11.160
+   6 pātimokkhaṃ    11.640~12.720
+   7 uddisituṃ      13.000~14.040
+   8 (pavāraṇā      14.040~14.580
+   9 ñattiṃ)        14.760~15.340
+  10 ārādhanaṃ      15.380~15.900
+  11 karoma         16.200~17.365
+idx 35 D=5.269 bound=[0.04, 5.269] words=3 repeat=1
+   0 Sādhu!         0.040~1.560
+   1 Sādhu!         2.040~3.420
+   2 Sādhu!         3.860~5.269

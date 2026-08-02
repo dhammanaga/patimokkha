@@ -1,0 +1,43 @@
+第1章(事前任务) 全36句音频校对报告
+生成: 2026-08-01 | 方法: 完整录音强制对齐→全局词时→中点边界切片→逐句解码验证
+结论: 36/36 句 内容正确(无截断/无串句/均有真实语音/时长吻合)
+============================================================================================
+idx clip                   语span    切片s      截断      串句      文本(首词…末词)
+0   0.mp3                  25.32    26.94    否       否       Namo … sammāsambuddhassa [PASS]
+1   1.mp3                  9.26     11.44    否       否       Sammajjanī … vuccati [PASS]
+2   2.mp3                  3.42     4.81     否       否       Iti … vuttattā [PASS]
+3   3.mp3                  2.59     3.28     否       否       Sammajjana-karaṇaṃ … niṭṭhitaṃ [PASS]
+4   4.mp3                  1.58     1.62     否       否       Padīpujjalanaṃ … niṭṭhitaṃ [PASS]
+5   5.mp3                  6.57     7.45     否       否       Idāni … natthi [PASS]
+6   6.mp3                  7.14     8.39     否       否       Āsanena … niṭṭhitaṃ [PASS]
+7   7.mp3                  10.16    10.81    否       否       Etāni … kattabbattā [PASS]
+8   8.mp3                  6.92     7.55     否       否       ‘Uposathassa … vuccati [PASS]
+9   9.mp3                  3.82     5.56     否       否       Pubbakaraṇānī’ti … akkhātāni [PASS]
+10  10.mp3                 11.54    13.57    否       否       Chanda-pārisuddhi … vuccati [PASS]
+11  11.mp3                 3.60     4.96     否       否       Iti … vuttattā [PASS]
+12  12.mp3                 5.58     6.78     否       否       Ayaṃ … gāmasīmā [PASS]
+13  13.mp3                 2.32     2.82     否       否       Tasmā … natthi [PASS]
+14  14.mp3                 3.38     3.78     否       否       Chandāharaṇa … natthi [PASS]
+15  15.mp3                 7.26     8.17     否       否       Utūnīdha … honti [PASS]
+16  16.mp3                 2.74     3.61     否       否       Ayaṃ … vassāna-utu) [PASS]
+17  17.mp3                 2.98     3.83     否       否       Asmiṃ … uposathā [PASS]
+18  18.mp3                 11.64    13.33    否       否       Iminā … avasiṭṭhā [PASS]
+19  19.mp3                 9.58     11.46    否       否       Imasmiṃ … honti [PASS]
+20  20.mp3                 6.18     7.62     否       否       Bhikkhunīnamovādo … natthi [PASS]
+21  21.mp3                 8.72     9.76     否       否       Etāni … kattabbattā [PASS]
+22  22.mp3                 5.84     6.64     否       否       ‘Uposathassa … vuccati [PASS]
+23  23.mp3                 3.16     5.05     否       否       Pubbakiccānī’ti … akkhātāni [PASS]
+24  24.mp3                 16.90    18.90    否       否       Uposatho … vuccati [PASS]
+25  25.mp3                 3.52     4.88     否       否       Iti … vuttattā [PASS]
+26  26.mp3                 11.69    12.88    否       否       Divasavasena … pannarasī) [PASS]
+27  27.mp3                 14.52    15.35    否       否       Kāraṇapuggalavasena … saṅgha-pavāraṇā) [PASS]
+28  28.mp3                 15.60    16.02    否       否       Kātabbākāravasena … saṅgha-pavāraṇā) [PASS]
+29  29.mp3                 20.30    21.47    否       否       Yattakā … ṭhitā [PASS]
+30  30.mp3                 6.76     8.68     否       否       Tesaṃ … vijjanti [PASS]
+31  31.mp3                 15.04    16.43    否       否       Gahaṭṭha-paṇḍakādayo … honti [PASS]
+32  32.mp3                 9.68     10.69    否       否       Saṅghassa … vuccati [PASS]
+33  33.mp3                 3.96     4.43     否       否       Pattakālavantan’ti … akkhātaṃ [PASS]
+34  34.mp3                 17.90    17.94    否       否       Pubbakaraṇa-pubbakiccāni … karoma [PASS]
+35  35.mp3                 8.89     8.81     否       否       Sādhu! … Sādhu! [PASS]
+============================================================================================
+PASS 36/36 | 截断句=0 | 串句句=0 | 无声句=0

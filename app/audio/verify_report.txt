@@ -1,0 +1,1073 @@
+== 逐词覆盖校对报告 ==
+校验=1211 | 状态: {'PASS': 843, '词缺失': 212, '存疑': 141, 'TTS': 11, '空解码': 4}
+
+== 词缺失(真不在音频里, 高置信) ==
+ch1 idx   4 [词缺失] | Padīpujjalanaṃ niṭṭhitaṃ.
+        缺词: padipujalanam(0.13)
+        dec: ta
+ch1 idx  13 [词缺失] | Tasmā chanda-pārisuddhi (pavāraṇā)-āharaṇaṃ 
+        缺词: pavaranaharanam(0.20)
+        dec: saasamachantapalisuthi
+ch1 idx  14 [词缺失] | Chandāharaṇa pārisuddhi (pavāraṇā)-āharaṇāni
+        缺词: parisudhi(0.22), imisam(0.17), simayam(0.29), vijahitva(0.33), bhikhunam(0.33)
+        dec: aaahaalananaethanathe
+ch3 idx  93 [词缺失] | Yo pana bhikkhu sañcicca
+        缺词: bhikhu(0.33)
+        dec: yobanebekosanjija
+ch3 idx 109 [词缺失] | tato aparena samayena
+        缺词: tato(0.25)
+        dec: dadeaapalenasanmarena
+ch3 idx 122 [词缺失] | dutiyampi pucchāmi kaccittha parisuddhā
+        缺词: dutiyampi(0.24), puchami(0.14), kacitha(0.14), parisudha(0.12)
+        dec: dodeanbe
+ch3 idx 123 [词缺失] | tatiyampi pucchāmi kaccittha parisuddhā
+        缺词: tatiyampi(0.33)
+        dec: epucramiekajisa
+ch3 idx 126 [词缺失] | pārājikuddeso dutiyo
+        缺词: parajikudeso(0.25), dutiyo(0.17)
+        dec: gakriisapale
+ch3 idx 127 [词缺失] | Sutā kho panāyasmantehi
+        缺词: panayasmantehi(0.29)
+        dec: yesuthabalichuthe
+ch3 idx 128 [词缺失] | terasa saṅghādisesā dhammā
+        缺词: sanghadisesa(0.20)
+        dec: ethayasa
+ch3 idx 129 [词缺失] | dve aniyatā dhammā
+        缺词: aniyata(0.29)
+        dec: almando
+ch3 idx 130 [词缺失] | tiṃsa nissaggiyā pācittiyā dhammā
+        缺词: nisagiya(0.20), pacitiya(0.20)
+        dec: ma
+ch3 idx 131 [词缺失] | dvenavuti pācittiyā dhammā
+        缺词: dvenavuti(0.15), pacitiya(0.00), dhama(0.22)
+        dec: nhee
+ch3 idx 132 [词缺失] | cattāro pāṭidesanīyā dhammā
+        缺词: cataro(0.33), patidesaniya(0.27)
+        dec: manmedanaa
+ch3 idx 133 [词缺失] | sekhiyā dhammā
+        缺词: sekhiya(0.29)
+        dec: alayami
+ch3 idx 134 [词缺失] | satta adhikaraṇasamathā dhammā
+        缺词: adhikaranasamatha(0.28)
+        dec: balajikutesu
+ch3 idx 135 [词缺失] | avivadamānehi sikkhitabbaṃ
+        缺词: avivadamanehi(0.11), sikhitabam(0.12)
+        dec: tutiyo
+ch4 idx 140 [词缺失] | Yo pana bhikkhu otiṇṇo
+        缺词: bhikhu(0.33)
+        dec: yobannabeguodena
+ch4 idx 141 [词缺失] | vipariṇatena cittena
+        缺词: citena(0.33)
+        dec: hyeybrndynajdyna
+ch4 idx 147 [词缺失] | Yo pana bhikkhu otiṇṇo
+        缺词: bhikhu(0.33)
+        dec: yoobanaabeigoodeinoo
+ch4 idx 152 [词缺失] | Yo pana bhikkhu otiṇṇo
+        缺词: bhikhu(0.17)
+        dec: yabanabegoodeinoo
+ch4 idx 161 [词缺失] | purisassa vā itthi-matiṃ
+        缺词: ithimatim(0.33)
+        dec: npirisesawaedimede
+ch4 idx 172 [词缺失] | Sārambhe ce bhikkhu vatthusmiṃ aparikkamane
+        缺词: bhikhu(0.17), vathusmim(0.22)
+        dec: saranbeejeebegoodozemeabragamanee
+ch4 idx 173 [词缺失] | saññācikāya kuṭiṃ kāreyya
+        缺词: kutim(0.20)
+        dec: sannyaajiigaayagudankaareyaa
+ch4 idx 178 [词缺失] | bhikkhū abhinetabbā vatthu-desanāya
+        缺词: bhikhu(0.33)
+        dec: anpekiuapinedapaawutuudejanaaraa
+ch4 idx 181 [词缺失] | Sārambhe ce bhikkhu vatthusmiṃ aparikkamane
+        缺词: vathusmim(0.33)
+        dec: jaatanpekrepikiutiucakminapataikamale
+ch4 idx 184 [词缺失] | Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīt
+        缺词: doso(0.00)
+        dec: reaapanaapekhupikhuntunteaateaaceaaapatiteaa
+ch4 idx 187 [词缺失] | tato aparena samayena
+        缺词: tato(0.25)
+        dec: dadcabarenaazamiyena
+ch4 idx 191 [词缺失] | Yo pana bhikkhu bhikkhuṃ duṭṭho doso appatīt
+        缺词: doso(0.00)
+        dec: yeaapannabekhupekhuntunteaateaaceaaaappatniteaa
+ch4 idx 220 [词缺失] | iccetaṃ kusalaṃ
+        缺词: icetam(0.33)
+        dec: ejedanguzala
+ch4 idx 225 [词缺失] | te evaṃ vadeyyuṃ
+        缺词: evam(0.25)
+        dec: teeewowedeyoo
+ch4 idx 227 [词缺失] | dhamma-vādī ceso bhikkhu
+        缺词: bhikhu(0.17)
+        dec: damawadigecabe
+ch4 idx 228 [词缺失] | vinaya-vādī ceso bhikkhu
+        缺词: bhikhu(0.17)
+        dec: eguwiniawaasannygresapegu
+ch4 idx 229 [词缺失] | amhākañceso bhikkhu
+        缺词: bhikhu(0.33)
+        dec: amagenjezobegu
+ch4 idx 242 [词缺失] | evañca te bhikkhū bhikkhūhi
+        缺词: evanca(0.33), bhikhu(0.33), bhikhuhi(0.25)
+        dec: hewenjadeebegube
+ch4 idx 244 [词缺失] | te bhikkhū bhikkhūhi
+        缺词: bhikhu(0.17), bhikhuhi(0.12)
+        dec: tebegobe
+ch4 idx 249 [词缺失] | iccetaṃ kusalaṃ
+        缺词: icetam(0.33)
+        dec: ejeedanguzalan
+ch4 idx 253 [词缺失] | bhikkhūhi saha-dhammikaṃ vuccamāno
+        缺词: bhikhuhi(0.12)
+        dec: pegoyezadanmiganojaamana
+ch4 idx 255 [词缺失] | mā maṃ āyasmanto kiñci avacuttha
+        缺词: kinci(0.20)
+        dec: mamanayajamandogengenawakyota
+ch4 idx 257 [词缺失] | ahampāyasmante na kiñci vakkhāmi
+        缺词: kinci(0.20)
+        dec: ahanbayazamandenaagenjiewega
+ch4 idx 260 [词缺失] | so bhikkhu bhikkhūhi evam·assa vacanīyo
+        缺词: bhikhu(0.33)
+        dec: soobegobegooheiwamasawojaniyoo
+ch4 idx 268 [词缺失] | evañca so bhikkhu bhikkhūhi
+        缺词: evanca(0.33), bhikhu(0.33), bhikhuhi(0.25)
+        dec: ewekyasobegube
+ch4 idx 270 [词缺失] | so bhikkhu bhikkhūhi
+        缺词: bhikhu(0.33), bhikhuhi(0.25)
+        dec: cabegube
+ch4 idx 277 [词缺失] | Bhikkhu paneva aññataraṃ
+        缺词: bhikhu(0.17)
+        dec: pekubanewainya
+ch4 idx 284 [词缺失] | so bhikkhu bhikkhūhi evam·assa vacanīyo
+        缺词: bhikhu(0.33), bhikhuhi(0.25)
+        dec: tobegoobegooheewamasawojeniyo
+ch4 idx 292 [词缺失] | evañca so bhikkhu bhikkhūhi vuccamāno
+        缺词: bhikhu(0.33), bhikhuhi(0.25)
+        dec: ewenjaasoobegubegoeojaamanoo
+ch4 idx 293 [词缺失] | te bhikkhū evaṃ vadeyya
+        缺词: bhikhu(0.17), evam(0.25), vadeya(0.33)
+        dec: deebegoeewouwede
+ch4 idx 296 [词缺失] | moha-gāmino ca bhikkhū
+        缺词: bhikhu(0.33)
+        dec: mohagaminojaabe
+ch4 idx 302 [词缺失] | na ca bhikkhū chanda-gāmino
+        缺词: bhikhu(0.17), chandagamino(0.33)
+        dec: najabygwjnag
+ch4 idx 303 [词缺失] | na ca bhikkhū dosa-gāmino
+        缺词: bhikhu(0.33)
+        dec: mnajabegudozakamino
+ch4 idx 304 [词缺失] | na ca bhikkhū moha-gāmino
+        缺词: bhikhu(0.33)
+        dec: najabegumohaga
+ch4 idx 305 [词缺失] | na ca bhikkhū bhaya-gāmino
+        缺词: bhikhu(0.33)
+        dec: aminonajabegubeyagaminor
+ch4 idx 313 [词缺失] | evañca so bhikkhu bhikkhūhi vuccamāno
+        缺词: evanca(0.33), bhikhu(0.33), bhikhuhi(0.25)
+        dec: ewenjazoobegubeguojamano
+ch4 idx 315 [词缺失] | so bhikkhu bhikkhūhi
+        缺词: bhikhu(0.29), bhikhuhi(0.22)
+        dec: b
+ch4 idx 320 [词缺失] | iccetaṃ kusalaṃ
+        缺词: icetam(0.33)
+        dec: ejeedanguzelan
+ch4 idx 326 [词缺失] | Yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpaj
+        缺词: bhikhu(0.33)
+        dec: resanpeguinyatranwannyatranwaabejeidowa
+ch4 idx 331 [词缺失] | ciṇṇa-mānatto bhikkhu
+        缺词: bhikhu(0.17)
+        dec: jeynlmanldoblgl
+ch4 idx 333 [词缺失] | tattha so bhikkhu abbhetabbo
+        缺词: bhikhu(0.33)
+        dec: dantazobeguabedaboo
+ch4 idx 336 [词缺失] | so ca bhikkhu anabbhito
+        缺词: bhikhu(0.17)
+        dec: jabyglanlby
+ch4 idx 337 [词缺失] | te ca bhikkhū gārayhā
+        缺词: garayha(0.14)
+        dec: dodejapiku
+ch4 idx 340 [词缺失] | dutiyampi pucchāmi kaccittha parisuddhā
+        缺词: dutiyampi(0.33), puchami(0.20), kacitha(0.20), parisudha(0.17)
+        dec: dda
+ch4 idx 341 [词缺失] | tatiyampi pucchāmi kaccittha parisuddhā
+        缺词: kacitha(0.29), parisudha(0.33)
+        dec: ibojamigjeyta
+ch4 idx 342 [词缺失] | parisuddhetthāyasmanto
+        缺词: parisudhethayasmanto(0.09)
+        dec: da
+ch4 idx 343 [词缺失] | tasmā tuṇhī evametaṃ dhārayāmīti
+        缺词: tunhi(0.20), evametam(0.25)
+        dec: adiranbeba
+ch4 idx 344 [词缺失] | Saṅghādisesuddeso tatiyo.
+        缺词: sanghadisesudeso(0.21)
+        dec: ami
+ch4 idx 345 [词缺失] | Sutā kho panāyasmantehi
+        缺词: panayasmantehi(0.17)
+        dec: itapricuta
+ch4 idx 348 [词缺失] | dvenavuti pācittiyā dhammā
+        缺词: dvenavuti(0.33), pacitiya(0.25)
+        dec: odazamadowni
+ch4 idx 349 [词缺失] | cattāro pāṭidesanīyā dhammā
+        缺词: cataro(0.33)
+        dec: eamidad
+ch4 idx 350 [词缺失] | sekhiyā dhammā
+        缺词: sekhiya(0.29)
+        dec: riamitny
+ch4 idx 351 [词缺失] | satta adhikaraṇasamathā dhammā
+        缺词: adhikaranasamatha(0.10), dhama(0.22)
+        dec: snga
+ch4 idx 352 [词缺失] | avivadamānehi sikkhitabbaṃ
+        缺词: avivadamanehi(0.23)
+        dec: izesonahthito
+ch5 idx 355 [词缺失] | Yo pana bhikkhu mātu-gāmena saddhiṃ eko ekāy
+        缺词: bhikhu(0.33)
+        dec: yobanabeigomadugamenazadenigoigaayaa
+ch5 idx 379 [词缺失] | tena so bhikkhu kāretabbo
+        缺词: bhikhu(0.33)
+        dec: denazobegugaridabo
+ch5 idx 385 [词缺失] | parisuddhetthāyasmanto
+        缺词: parisudhethayasmanto(0.23)
+        dec: bizada
+ch5 idx 387 [词缺失] | Aniyatuddeso catuttho.
+        缺词: aniyatudeso(0.11)
+        dec: precutta
+ch5 idx 390 [词缺失] | dvenavuti pācittiyā dhammā
+        缺词: pacitiya(0.31), dhama(0.20)
+        dec: adoni
+ch5 idx 394 [词缺失] | avivadamānehi sikkhitabbaṃ
+        缺词: avivadamanehi(0.27), sikhitabam(0.32)
+        dec: toaythito
+ch6 idx 416 [词缺失] | Yo pana bhikkhu aññātikāya bhikkhuniyā
+        缺词: bhikhu(0.33)
+        dec: yeabanaabeguannyaadikaayabeguniyaa
+ch6 idx 429 [词缺失] | acchinna-cīvaro vā hoti bhikkhu
+        缺词: bhikhu(0.33)
+        dec: hatkrenaagriiwareawaaahatibe
+ch6 idx 456 [词缺失] | itthannāmaṃ bhikkhuṃ cīvarehi acchādessāmā t
+        缺词: bhikhum(0.29)
+        dec: idannanmanbekonkriwareheakyatacaamatnny
+ch6 idx 457 [词缺失] | tatra ce so bhikkhu pubbe appavārito
+        缺词: bhikhu(0.17)
+        dec: tataragyeseapegupunpeapbawaariteaa
+ch6 idx 462 [词缺失] | cīvaraṃ cetāpetvā
+        缺词: cetapetva(0.33)
+        dec: wajiwarajedabe
+ch6 idx 480 [词缺失] | atthi panāyasmato koci veyyāvacca-karo ti
+        缺词: koci(0.25)
+        dec: adhibanayajamaateaageaajiwuraawakragareaatnny
+ch6 idx 494 [词缺失] | iccetaṃ kusalaṃ
+        缺词: icetam(0.33)
+        dec: ejeedaanguzelaa
+ch6 idx 501 [词缺失] | iccetaṃ kusalaṃ
+        缺词: icetam(0.33)
+        dec: ejeedaguzala
+ch6 idx 517 [词缺失] | Yo pana bhikkhu kosiya-missakaṃ santhataṃ kā
+        缺词: bhikhu(0.33)
+        dec: yobanabegukojiyaamejakanjangdanangarabera
+ch6 idx 524 [词缺失] | tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ
+        缺词: catutham(0.25)
+        dec: dadiiranodadanajadodangogariyana
+ch6 idx 539 [词缺失] | Anādā ce bhikkhu purāṇa-santhatassa sāmantā 
+        缺词: bhikhu(0.33)
+        dec: anataceapegiuparanajantatacaacaamhantaacukatawidate
+ch6 idx 552 [词缺失] | Yo pana bhikkhu jātarūpa-rajataṃ
+        缺词: bhikhu(0.33)
+        dec: yobanaabegujadaarubaarajadan
+ch6 idx 556 [词缺失] | Yo pana bhikkhu nāna-ppakārakaṃ
+        缺词: bhikhu(0.33)
+        dec: yobanabegunanabaga
+ch6 idx 559 [词缺失] | Yo pana bhikkhu nāna-ppakārakaṃ
+        缺词: bhikhu(0.33)
+        dec: yoobanaabegunannabagaraga
+ch6 idx 565 [词缺失] | Yo pana bhikkhu ūnapañca-bandhanena pattena
+        缺词: bhikhu(0.33)
+        dec: yeabanaablguunapengjabhandanenapadena
+ch6 idx 567 [词缺失] | nissaggiyaṃ pācittiyaṃ
+        缺词: pacitiyam(0.33)
+        dec: beyanesegiranbajediran
+ch6 idx 571 [词缺失] | ayaṃ te bhikkhu patto
+        缺词: bhikhu(0.33), pato(0.25)
+        dec: bayandebeguba
+ch6 idx 580 [词缺失] | Māso seso gimhānan ti
+        缺词: seso(0.25)
+        dec: majeaajeceaagiimana
+ch6 idx 582 [词缺失] | addhamāso seso gimhānan ti katvā nivāsetabba
+        缺词: seso(0.25)
+        dec: adaamhajeaajeceaaginmaanantannykaptawaanaiwaacetatpan
+ch6 idx 588 [词缺失] | Yo pana bhikkhu bhikkhussa
+        缺词: bhikhu(0.22), bhikhusa(0.18)
+        dec: aab
+ch6 idx 593 [词缺失] | Yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā
+        缺词: bhikhu(0.33)
+        dec: yoobanaabegusaamanzodanwunyaabedawo
+ch6 idx 609 [词缺失] | Evañca so bhikkhu vatvā
+        缺词: evanca(0.33), bhikhu(0.33), vatva(0.20)
+        dec: ewenjazobeguwuda
+ch6 idx 615 [词缺失] | accekaṃ maññamānena bhikkhunā
+        缺词: bhikhuna(0.25)
+        dec: aajekanmennyamanenabegua
+ch6 idx 618 [词缺失] | Tato ce uttari nikkhipeyya
+        缺词: nikhipeya(0.33)
+        dec: tadoojeeodarenegibe
+ch6 idx 623 [词缺失] | tathārūpesu bhikkhu senāsanesu viharanto
+        缺词: bhikhu(0.33)
+        dec: tatharupaijupekucenaajanejuuwi
+ch6 idx 626 [词缺失] | siyā ca tassa bhikkhuno
+        缺词: bhikhuno(0.25)
+        dec: siyajadazaabegu
+ch6 idx 627 [词缺失] | kocideva paccayo
+        缺词: pacayo(0.17)
+        dec: kojiideehwabeje
+ch6 idx 630 [词缺失] | tena cīvarena vippavasitabbaṃ
+        缺词: vipavasitabam(0.31)
+        dec: deenageworenaawebawajida
+ch6 idx 631 [词缺失] | Tato ce uttari vippavaseyya
+        缺词: vipavaseya(0.20)
+        dec: dadoojeodariobawoji
+ch6 idx 634 [词缺失] | Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ
+        缺词: bhikhu(0.33), labham(0.33)
+        dec: yobanaabegujanajangiganla
+ch6 idx 643 [词缺失] | parisuddhetthāyasmanto
+        缺词: parisudhethayasmanto(0.15)
+        dec: rdedaa
+ch7 idx 655 [词缺失] | Yo pana bhikkhu mātu-gāmena sahaseyyaṃ kappe
+        缺词: bhikhu(0.33)
+        dec: yobanaabegumadugamenaazahazeyangabeyabajediyan
+ch7 idx 656 [词缺失] | Yo pana bhikkhu mātu-gāmassa
+        缺词: bhikhu(0.33)
+        dec: yobanaobegumaduganmaza
+ch7 idx 660 [词缺失] | Yo pana bhikkhu anupasampannassa
+        缺词: bhikhu(0.33)
+        dec: yobanaabegonubazanbannazaa
+ch7 idx 662 [词缺失] | Yo pana bhikkhu bhikkhussa
+        缺词: bhikhu(0.33)
+        dec: yoblnablgubygowsa
+ch7 idx 663 [词缺失] | duṭṭhullaṃ āpattiṃ
+        缺词: apatim(0.33)
+        dec: doudonlanabadee
+ch7 idx 669 [词缺失] | Añña-vādake vihesake pācittiyaṃ
+        缺词: anavadake(0.33)
+        dec: enyeawodegewiheezegebajediya
+ch7 idx 670 [词缺失] | Ujjhāpanake khiyyanake pācittiyaṃ
+        缺词: pacitiyam(0.33)
+        dec: ujaabanagekheranagebajadia
+ch7 idx 672 [词缺失] | bhisiṃ vā kocchaṃ vā
+        缺词: kocham(0.33)
+        dec: bicinwakiugranwa
+ch7 idx 676 [词缺失] | Yo pana bhikkhu saṅghike vihāre
+        缺词: bhikhu(0.33)
+        dec: yoobanaabegusengigeewihaare
+ch7 idx 679 [词缺失] | anāpucchaṃ vā gaccheyya pācittiyaṃ
+        缺词: pacitiyam(0.22)
+        dec: anabukhranwaagekhreraabakrednnran
+ch7 idx 681 [词缺失] | jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyy
+        缺词: bhikhum(0.29)
+        dec: jaanabobubagadanbegoanubagajajeyankabeya
+ch7 idx 682 [词缺失] | yassa sambādho bhavissati
+        缺词: bhavisati(0.33)
+        dec: yazaazambadoboezadi
+ch7 idx 685 [词缺失] | Yo pana bhikkhu bhikkhuṃ kupito anattamano
+        缺词: bhikhu(0.33)
+        dec: yobanaabegubekongubidoonadamanoo
+ch7 idx 697 [词缺失] | Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ
+        缺词: bhikhu(0.33)
+        dec: yobanaabeguganaasapanakanudaka
+ch7 idx 699 [词缺失] | siñceyya vā siñcāpeyya vā pācittiyaṃ
+        缺词: sincapeya(0.33)
+        dec: jimgrerawacimgyaberawaapaakrittannyran
+ch7 idx 705 [词缺失] | Yo pana bhikkhu bhikkhun(ī)-upassayaṃ upasaṅ
+        缺词: bhikhu(0.33)
+        dec: yaabanaabegubegunubazananubazangameidawa
+ch7 idx 707 [词缺失] | Tatthāyaṃ samayo gilānā hoti bhikkhunī
+        缺词: hoti(0.25)
+        dec: tatthaarancakmaireaaakilaanaaheaatannypikhune
+ch7 idx 709 [词缺失] | Yo pana bhikkhu evaṃ vadeyya
+        缺词: bhikhu(0.17), evam(0.25)
+        dec: yobanaabegoewonwodiyaa
+ch7 idx 710 [词缺失] | āmisa-hetu therā bhikkhū bhikkhuniyo ovadant
+        缺词: bhikhu(0.33)
+        dec: aamiijahetuutherapheguphegunereaaaawatantannytannyapaakritannyran
+ch7 idx 713 [词缺失] | Yo pana bhikkhu aññātikāya bhikkhuniyā
+        缺词: bhikhu(0.33)
+        dec: yobanaabeguinyadiigayabeguniyaa
+ch7 idx 715 [词缺失] | Yo pana bhikkhu bhikkhuniyā saddhiṃ saṃvidhā
+        缺词: bhikhu(0.33)
+        dec: yoobanaabegubeguniyaazadensanwidaaya
+ch7 idx 723 [词缺失] | Yo pana bhikkhu bhikkhuniyā saddhiṃ
+        缺词: bhikhu(0.33), sadhim(0.33)
+        dec: yaobanaabegubeguniazade
+ch7 idx 727 [词缺失] | Yo pana bhikkhu jānaṃ
+        缺词: bhikhu(0.33)
+        dec: yoomanaabegujaana
+ch7 idx 730 [词缺失] | Yo pana bhikkhu bhikkhuniyā saddhiṃ
+        缺词: bhikhu(0.33), sadhim(0.33)
+        dec: yaobanaabegubeguniyazadae
+ch7 idx 756 [词缺失] | jānaṃ āsādanā-(a)pekkho bhuttasmiṃ pācittiya
+        缺词: pacitiyam(0.33)
+        dec: graananaajaranabaykeaaabhutdajamebhaakhridnnyra
+ch7 idx 767 [词缺失] | Yo pana bhikkhu adinnaṃ mukha-dvāraṃ
+        缺词: bhikhu(0.33)
+        dec: yobanaabeguaadeinaugaadwara
+ch7 idx 769 [词缺失] | aññatra udaka-danta-ponā pācittiyaṃ
+        缺词: pacitiyam(0.33)
+        dec: annyatarautakadandabeaanaabaakhretannyran
+ch7 idx 771 [词缺失] | Yo pana bhikkhu acelakassa vā paribbājakassa
+        缺词: bhikhu(0.33)
+        dec: yoobannaabeguajelagajawabarebaajagadawabarigajigayawa
+ch7 idx 773 [词缺失] | Yo pana bhikkhu bhikkhuṃ
+        缺词: bhikhu(0.33), bhikhum(0.29)
+        dec: yobanabegubekoo
+ch7 idx 776 [词缺失] | gacchāvuso na me tayā saddhiṃ
+        缺词: sadhim(0.33)
+        dec: gekhraawuuceaananmedaraacadeny
+ch7 idx 782 [词缺失] | Yo pana bhikkhu mātu-gāmena saddhiṃ
+        缺词: bhikhu(0.33), sadhim(0.33)
+        dec: yeabanaaabegumaduugaamaenajaday
+ch7 idx 784 [词缺失] | Yo pana bhikkhu mātu-gāmena saddhiṃ
+        缺词: bhikhu(0.33), sadhim(0.33)
+        dec: yaobanaabegaumadugaaminazade
+ch7 idx 786 [词缺失] | Yo pana bhikkhu nimantito sabhatto samāno
+        缺词: bhikhu(0.33)
+        dec: yobanaobegunimaandidosabadoosamanoo
+ch7 idx 797 [词缺失] | Yo pana bhikkhu uyyuttaṃ senaṃ dassanāya gac
+        缺词: uyutam(0.33)
+        dec: reaabanaaraabekiuaunrupdancenhandakcanaarakekhrera
+ch7 idx 808 [词缺失] | Surā-meraya-pāne pācittiyaṃ
+        缺词: pacitiyam(0.33)
+        dec: surameriabaanebagedian
+ch7 idx 812 [词缺失] | Yo pana bhikkhu bhikkhuṃ
+        缺词: bhikhu(0.33), bhikhum(0.29)
+        dec: yabanaabegub
+ch7 idx 817 [词缺失] | Yo pana bhikkhu orenaddha-māsaṃ nahāyeyya
+        缺词: bhikhu(0.33)
+        dec: yobanaobeguorinadaamazanhayiya
+ch7 idx 820 [词缺失] | diyaḍḍho māso seso gimhānan ti
+        缺词: seso(0.25)
+        dec: thiiyateaamaceaaceceaagitmaanansanny
+ch7 idx 830 [词缺失] | Anādā ce bhikkhu tiṇṇaṃ dubbaṇṇa-karaṇānaṃ
+        缺词: bhikhu(0.33)
+        dec: anadajebekodeynaddovanaakarnana
+ch7 idx 836 [词缺失] | Yo pana bhikkhu bhikkhussa
+        缺词: bhikhu(0.33)
+        dec: yobanaabegobekos
+ch7 idx 841 [词缺失] | Surā-pāna-vaggo chaṭṭho
+        缺词: chatho(0.33)
+        dec: cuutaabaanawaygeaa
+ch7 idx 843 [词缺失] | Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ pari
+        缺词: pacitiyam(0.33)
+        dec: yabanaabegiugaananjabanaganudakanpribungreaabaakedira
+ch7 idx 846 [词缺失] | Yo pana bhikkhu bhikkhussa jānaṃ
+        缺词: bhikhu(0.33)
+        dec: yabanaabegobekosajan
+ch7 idx 848 [词缺失] | Yo pana bhikkhu jānaṃ
+        缺词: bhikhu(0.33)
+        dec: hyabnabegujaana
+ch7 idx 851 [词缺失] | te ca bhikkhū gārayhā
+        缺词: bhikhu(0.33), garayha(0.14)
+        dec: dejabegu
+ch7 idx 853 [词缺失] | Yo pana bhikkhu jānaṃ
+        缺词: bhikhu(0.33)
+        dec: yobanaabegujana
+ch7 idx 857 [词缺失] | Yo pana bhikkhu mātu-gāmena saddhiṃ saṃvidhā
+        缺词: bhikhu(0.33), sadhim(0.33)
+        dec: yaabanaarabegumadugaaminaajadencaanwidaara
+ch7 idx 860 [词缺失] | Yo pana bhikkhu evaṃ vadeyya
+        缺词: bhikhu(0.33), evam(0.25)
+        dec: aabanaabegueewonwade
+ch7 idx 864 [词缺失] | so bhikkhu bhikkhūhi evamassa vacanīyo
+        缺词: bhikhu(0.33)
+        dec: sobegubeguheiwamasaawajaniro
+ch7 idx 868 [词缺失] | na hi bhagavā evaṃ vadeyya
+        缺词: vadeya(0.33)
+        dec: naheibegawaaeewo
+ch7 idx 870 [词缺失] | antarāyikā dhammā antarāyikā vuttā bhagavatā
+        缺词: vuta(0.25)
+        dec: andaraigaadamaandaraigaodabagawoda
+ch7 idx 876 [词缺失] | iccetaṃ kusalaṃ
+        缺词: icetam(0.25), kusalam(0.22)
+        dec: da
+ch7 idx 878 [词缺失] | Yo pana bhikkhu jānaṃ
+        缺词: bhikhu(0.33)
+        dec: yobanaabegujana
+ch7 idx 887 [词缺失] | so samaṇuddeso bhikkhūhi evamassa vacanīyo
+        缺词: bhikhuhi(0.25)
+        dec: sasamanudesaabekoheewamhasaojanni
+ch7 idx 891 [词缺失] | na hi bhagavā evaṃ vadeyya
+        缺词: vadeya(0.33)
+        dec: nahiibegawaaeewonwadi
+ch7 idx 893 [词缺失] | antarāyikā dhammā antarāyikā vuttā bhagavatā
+        缺词: vuta(0.25)
+        dec: andarayigadamaandaraigaodabagawo
+ch7 idx 895 [词缺失] | evañca so samaṇuddeso bhikkhūhi
+        缺词: bhikhuhi(0.25)
+        dec: ewangraacaajamaniudeceaaa
+ch7 idx 900 [词缺失] | yampi caññe samaṇuddesā labhanti
+        缺词: samanudesa(0.30)
+        dec: boyanbiizinyeeziminaodizaalaba
+ch7 idx 901 [词缺失] | bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ
+        缺词: bhikhuhi(0.25), sahaseyam(0.33)
+        dec: beguijadaindiadadiadana
+ch7 idx 906 [词缺失] | sambhuñjeyya vā saha vā seyyaṃ kappeyya pāci
+        缺词: pacitiyam(0.33)
+        dec: sanbuungeyawajawajeyangabeyabajedi
+ch7 idx 908 [词缺失] | Yo pana bhikkhu bhikkhūhi
+        缺词: bhikhu(0.17), bhikhuhi(0.12)
+        dec: yobanabebe
+ch7 idx 913 [词缺失] | Sikkhamānena bhikkhave bhikkhunā
+        缺词: bhikhuna(0.25)
+        dec: cegaamanenaabeka
+ch7 idx 916 [词缺失] | Yo pana bhikkhu pātimokkhe uddissamāne evaṃ 
+        缺词: bhikhu(0.33)
+        dec: yaabanabegubadimageodesaamaaneewonwodi
+ch7 idx 919 [词缺失] | yāvadeva kukkuccāya vihesāya
+        缺词: kukucaya(0.25)
+        dec: yawaadeewaagogojaawi
+ch7 idx 922 [词缺失] | Yo pana bhikkhu anvaddha-māsaṃ pātimokkhe ud
+        缺词: bhikhu(0.33)
+        dec: yaabannaabegaanadaamhajanbaadiimeaakayautejamhaneewanwadi
+ch7 idx 928 [词缺失] | ko pana vādo bhiyyo
+        缺词: bhiyo(0.20)
+        dec: manekobanawadob
+ch7 idx 929 [词缺失] | na ca tassa bhikkhuno aññāṇakena mutti atthi
+        缺词: athi(0.25)
+        dec: breaanajaadajabeguuneaaannyanakenamudanya
+ch7 idx 930 [词缺失] | yañca tattha āpattiṃ āpanno
+        缺词: apatim(0.33)
+        dec: ajadadaabadena
+ch7 idx 937 [词缺失] | idaṃ tasmiṃ mohanake pācittiyaṃ
+        缺词: pacitiyam(0.33)
+        dec: idandajameimeaahaanakebaakandnnyran
+ch7 idx 939 [词缺失] | Yo pana bhikkhu bhikkhussa kupito
+        缺词: bhikhu(0.17), bhikhusa(0.25), kupito(0.00)
+        dec: banaabgb
+ch7 idx 943 [词缺失] | itissa muhuttampi aphāsu bhavissatī ti
+        缺词: bhavisati(0.33)
+        dec: iidijaamuudambiiaaabaacubweja
+ch7 idx 944 [词缺失] | etadeva paccayaṃ karitvā anaññaṃ pācittiyaṃ
+        缺词: pacitiyam(0.33)
+        dec: hedadewabejiangaridawaanenyanbajedi
+ch7 idx 945 [词缺失] | Yo pana bhikkhu bhikkhūnaṃ bhaṇḍana-jātānaṃ
+        缺词: bhikhu(0.33)
+        dec: yobanaabegubegunambananaza
+ch7 idx 946 [词缺失] | kalaha-jātānaṃ vivāda-āpannānaṃ upassutiṃ ti
+        缺词: titheya(0.29)
+        dec: kalahajadanawiwadaabandanaubasoten
+ch7 idx 947 [词缺失] | yaṃ ime bhaṇissanti taṃ sossāmī ti
+        缺词: sosami(0.33)
+        dec: rranimepanicamtannyatancwada
+ch7 idx 949 [词缺失] | Yo pana bhikkhu dhammikānaṃ kammānaṃ chandaṃ
+        缺词: bhikhu(0.33)
+        dec: yoabanawabegudamiganagamanachanda
+ch7 idx 950 [词缺失] | pacchā khīyana-dhammaṃ āpajjeyya pācittiyaṃ
+        缺词: pacitiyam(0.33)
+        dec: bejaakeenadamaabejeyaabajedi
+ch7 idx 951 [词缺失] | Yo pana bhikkhu saṅghe vinicchaya-kathāya va
+        缺词: bhikhu(0.33)
+        dec: yobanaabegusangewinejiagadaayawada
+ch7 idx 956 [词缺失] | Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇ
+        缺词: bhikhu(0.33)
+        dec: yaabanawabegujananzangiganlabanbre
+ch7 idx 959 [词缺失] | Yo pana bhikkhu rañño khattiyassa muddhā-abh
+        缺词: bhikhu(0.33)
+        dec: yaabanaabegurinyeokadiasamudaabiise
+ch7 idx 962 [词缺失] | inda-khīlaṃ atikkāmeyya pācittiyaṃ
+        缺词: pacitiyam(0.33)
+        dec: wedideaaaindaagilanadagaameraabagedi
+ch7 idx 963 [词缺失] | Yo pana bhikkhu ratanaṃ vā ratana-sammataṃ v
+        缺词: bhikhu(0.17)
+        dec: yoobanaabegoradanawaaradanaazama
+ch7 idx 965 [词缺失] | uggaṇheyya vā uggaṇhāpeyya vā pācittiyaṃ
+        缺词: pacitiyam(0.33)
+        dec: wadawauganniawaugannabeawabaje
+ch7 idx 968 [词缺失] | uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ
+        缺词: nikhipitabam(0.33)
+        dec: diwaogeheedwawaogabedwawanigibi
+ch7 idx 969 [词缺失] | yassa bhavissati so harissatī ti
+        缺词: bhavisati(0.33)
+        dec: yajaboejadizohare
+ch7 idx 974 [词缺失] | Yo pana bhikkhu aṭṭhi-mayaṃ vā danta-mayaṃ v
+        缺词: bhikhu(0.33)
+        dec: yawabanawabeguadimiawaadanda
+ch7 idx 976 [词缺失] | Navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kār
+        缺词: pitham(0.33)
+        dec: nobanaabegunamenjanwabidanwakareamu
+ch7 idx 980 [词缺失] | Yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūla-ona
+        缺词: pitham(0.33)
+        dec: yeaabanarabekhumanggranwabiidanwaadileaanadangarabeaudalanaganba
+ch7 idx 988 [词缺失] | tatridaṃ pamāṇaṃ
+        缺词: tatridam(0.31), pamanam(0.33)
+        dec: edaba
+ch7 idx1005 [词缺失] | Tatthāyasmante pucchāmi kaccittha parisuddhā
+        缺词: parisudha(0.33)
+        dec: dantaayasamandebojaamiikejaetaba
+ch8 idx1013 [词缺失] | Yo pana bhikkhu aññātikāya-bhikkhuniyā
+        缺词: bhikhu(0.33)
+        dec: yobenaabeguinyedigayaabeguniyaa
+ch8 idx1028 [词缺失] | yāva bhikkhū bhuñjantī ti
+        缺词: bhikhu(0.17)
+        dec: yawabegebaonjandidi
+ch8 idx1029 [词缺失] | Ekassapi ce bhikkhuno na paṭibhāseyya
+        缺词: ekasapi(0.29)
+        dec: egaezebijaebegunonabribajegha
+ch8 idx1030 [词缺失] | taṃ bhikkhuniṃ apasādetuṃ
+        缺词: bhikhunim(0.33)
+        dec: danbeguneabhajaadedo
+ch8 idx1032 [词缺失] | yāva bhikkhū bhuñjantī ti
+        缺词: bhikhu(0.33)
+        dec: yawaabegubonyandidi
+ch8 idx1065 [词缺失] | Cattāro pāṭidesanīyā dhammā niṭṭhitā.
+        缺词: cataro(0.33)
+        dec: paatidecaniiyanethitaa
+ch9 idx1074 [词缺失] | Okkhitta-cakkhu antara-ghare gamissāmīti sik
+        缺词: okhitacakhu(0.27)
+        dec: aghedajjagwandraagregamesamiddisegakarndia
+ch9 idx1089 [词缺失] | Ujjagghikavaggo dutiyo
+        缺词: ujaghikavago(0.33)
+        dec: ojegigawegodudiyoo
+ch9 idx1106 [词缺失] | bhuñjissāmīti sikkhā karaṇīyā
+        缺词: sikha(0.20)
+        dec: nbwnjyazamydyzygagrnnyya
+ch9 idx1162 [词缺失] | dhammaṃ desessāmīti sikkhā karaṇīyā
+        缺词: dhamam(0.33)
+        dec: dmdyjyjamydysekakrnnia
+ch9 idx1163 [词缺失] | Na pacchato gacchanto purato gacchantassa ag
+        缺词: pachato(0.14), purato(0.17)
+        dec: nlbljldwglthlndwbwrldgclndslagllnsl
+ch9 idx1180 [词缺失] | Sekhiyā dhammā niṭṭhitā.
+        缺词: sekhiya(0.22), dhama(0.29), nithita(0.22)
+        dec: di
+ch10 idx1189 [词缺失] | Yebhuyyasikā
+        缺词: yebhuyasika(0.30)
+        dec: eboyeziga
+ch10 idx1190 [词缺失] | Tassa-pāpiyasikā
+        缺词: tasapapiyasika(0.17)
+        dec: dzabhbyga
+
+== 存疑(失真大, 待人工核) ==
+ch1 idx  10 [存疑] | Chanda-pārisuddhi (pavāraṇā)-utukkhānaṃ, bhi
+        存疑词: ovado(0.40)
+        dec: candapalisuhthiuhthukhanabekhugananakyouwatoubeosahthasaatanebubagingc
+ch1 idx  17 [存疑] | Asmiṃ utumhi aṭṭha (dasa) uposathā.
+        存疑词: asmim(0.40)
+        dec: aacameanputungheaaathaupeaachatha
+ch1 idx  30 [存疑] | Tesaṃ vikāla-bhojanādi-vatthu-sabhāgāpattiyo
+        存疑词: tesam(0.40)
+        dec: dechanwekalaphakranasiwaathucabhakapasiyukranaawekrante
+ch2 idx  49 [存疑] | parisuddhā ti vedissāmi
+        存疑词: vedisami(0.38)
+        dec: baariciuthasannywesannycamanny
+ch3 idx  94 [存疑] | manussa-viggahaṃ jīvitā voropeyya
+        存疑词: voropeya(0.38)
+        dec: amanusawekahangjiwetaulupera
+ch3 idx 125 [存疑] | tasmā tuṇhī evametaṃ dhārayāmīti
+        存疑词: tunhi(0.40), evametam(0.38)
+        dec: atiyampepukhrami
+ch4 idx 149 [存疑] | duṭṭhullāhi vācāhi obhāseyya
+        存疑词: obhaseya(0.38)
+        dec: dutthunlaaiiwakraaioapaacera
+ch4 idx 151 [存疑] | methun'upasaṃhitāhi saṅghādiseso
+        存疑词: sanghadiseso(0.42)
+        dec: matunupakcanritaaricangaatnnyceceaa
+ch4 idx 158 [存疑] | methun'upasaṃhitena saṅghādiseso
+        存疑词: sanghadiseso(0.42)
+        dec: methuniubacanhitenacankaatinyceceaa
+ch4 idx 175 [存疑] | pamāṇaṃ vā atikkāmeyya saṅghādiseso
+        存疑词: sanghadiseso(0.42)
+        dec: bhamannhanwakatikkaameracankaaticeceaa
+ch4 idx 179 [存疑] | tehi bhikkhūhi vatthu desetabbaṃ
+        存疑词: bhikhuhi(0.38), vathu(0.40)
+        dec: teehiibeguyewodudezeedaba
+ch4 idx 183 [存疑] | bhikkhū vā anabhineyya vatthu-desanāya saṅgh
+        存疑词: sanghadiseso(0.42)
+        dec: bhikhuwaaanaapriinerawattutecanaaracankaasnnyceca
+ch4 idx 190 [存疑] | bhikkhu ca dosaṃ patiṭṭhāti saṅghādiseso
+        存疑词: dosam(0.40), sanghadiseso(0.42)
+        dec: bhetguukraadeaacanpatitthaasannyciungaatnceceaa
+ch4 idx 200 [存疑] | bhikkhu ca dosaṃ patiṭṭhāti saṅghādiseso
+        存疑词: dosam(0.40), sanghadiseso(0.42)
+        dec: bhetkhuukrateaacanpatitthaasannycankaaticecheaa
+ch4 idx 208 [存疑] | bhedana-saṃvattanikaṃ vā adhikaraṇaṃ
+        存疑词: bhedanasamvatanikam(0.37)
+        dec: beranazanwodaniganwadigarana
+ch4 idx 213 [存疑] | evañca so bhikkhu bhikkhūhi
+        存疑词: bhikhuhi(0.38)
+        dec: ewanjasobegiubegiu
+ch4 idx 222 [存疑] | Tasseva kho pana bhikkhussa bhikkhū honti
+        存疑词: honti(0.40)
+        dec: dakcewaakheaabhannaabhikhucaabhikhuuhunsanny
+ch4 idx 237 [存疑] | māyasmantānampi saṅghabhedo ruccittha
+        存疑词: sanghabhedo(0.36)
+        dec: marajamantannhampriijankapeseaariukrethaa
+ch4 idx 250 [存疑] | no ce paṭinissajjeyyuṃ saṅghādiseso
+        存疑词: sanghadiseso(0.42)
+        dec: neaaghrepatinhacchackhrerunchankatnnycecea
+ch4 idx 274 [存疑] | taṃ paṭinissajjeyya
+        存疑词: patinisajeya(0.42)
+        dec: manoodanbirinezejiyaa
+ch4 idx 276 [存疑] | no ce paṭinissajjeyya saṅghādiseso
+        存疑词: sanghadiseso(0.42)
+        dec: neaaakrepatinacagreraacankaatinyceceaa
+ch4 idx 294 [存疑] | chanda-gāmino ca bhikkhū
+        存疑词: chandagamino(0.42)
+        dec: khyantakhamnnneaakraabekiu
+ch4 idx 301 [存疑] | māyasmā evaṃ avaca
+        存疑词: avaca(0.40)
+        dec: mayezamaewonaweja
+ch4 idx 321 [存疑] | no ce paṭinissajjeyya saṅghādiseso
+        存疑词: sanghadiseso(0.42)
+        dec: neaakrepatinitcakkreracankaticeceaa
+ch4 idx 328 [存疑] | tāvatīhaṃ tena bhikkhunā akāmā parivatthabba
+        存疑词: parivathabam(0.42)
+        dec: dawadihandenaabekunaaagaamaberewa
+ch4 idx 335 [存疑] | bhikkhu-saṅgho taṃ bhikkhuṃ abbheyya
+        存疑词: bhikhusangho(0.42)
+        dec: bheguacankeaatanbegunabhera
+ch4 idx 346 [存疑] | dve aniyatā dhammā
+        存疑词: dhama(0.40)
+        dec: haricunteytaara
+ch4 idx 347 [存疑] | tiṃsa nissaggiyā pācittiyā dhammā
+        存疑词: timsa(0.40), nisagiya(0.38), pacitiya(0.38)
+        dec: ayazamando
+ch5 idx 386 [空解码] | tasmā tuṇhī evametaṃ dhārayāmīti
+        dec: 
+ch5 idx 388 [空解码] | Sutā kho panāyasmantehi
+        dec: 
+ch5 idx 389 [空解码] | tiṃsa nissaggiyā pācittiyā dhammā
+        dec: 
+ch5 idx 391 [空解码] | cattāro pāṭidesanīyā dhammā
+        dec: 
+ch5 idx 392 [存疑] | sekhiyā dhammā
+        存疑词: sekhiya(0.36)
+        dec: ryam
+ch5 idx 393 [存疑] | satta adhikaraṇasamathā dhammā
+        存疑词: adhikaranasamatha(0.40), dhama(0.40)
+        dec: midiania
+ch6 idx 398 [存疑] | Niṭṭhita-cīvarasmiṃ bhikkhunā ubbhatasmiṃ ka
+        存疑词: nithitacivarasmim(0.41)
+        dec: nhatidagrewatacaminpekhunaaaupatacaminkathine
+ch6 idx 407 [存疑] | paṭiggahetvā khippameva kāretabbaṃ
+        存疑词: patigahetva(0.36)
+        dec: badegaadawaakebaamewaakariidabaan
+ch6 idx 413 [存疑] | Tato ce uttari nikkhipeyya
+        存疑词: utari(0.40)
+        dec: dadoojeeodiriinikiibeyaa
+ch6 idx 414 [存疑] | satiyāpi paccāsāya
+        存疑词: pacasaya(0.38)
+        dec: cadirabiipaga
+ch6 idx 438 [存疑] | Bhikkhuṃ paneva uddissa
+        存疑词: udisa(0.40)
+        dec: bheghunpanewaaaupticaa
+ch6 idx 451 [存疑] | Bhikkhuṃ paneva uddissa
+        存疑词: udisa(0.40)
+        dec: bhekhunpaknewaaautaca
+ch6 idx 453 [存疑] | pacceka-cīvara-cetāpannāni upakkhaṭāni honti
+        存疑词: honti(0.40)
+        dec: pajaykagewaraakredaabannannnubakgadaanehwunsanny
+ch6 idx 466 [存疑] | Bhikkhuṃ paneva uddissa
+        存疑词: udisa(0.40)
+        dec: bekhunpanewaaupteca
+ch6 idx 477 [存疑] | na kho mayaṃ āvuso cīvara-cetāpannaṃ paṭigga
+        存疑词: avuso(0.40)
+        dec: naakhaamiranaaawujaagyiwaragredaabannanpatigannaama
+ch6 idx 489 [存疑] | Cīvaratthikena bhikkhave bhikkhunā veyyāvacc
+        存疑词: bhikhave(0.38)
+        dec: gewaradiganaabegawebegunaawaaawegyaagaraubajanygame
+ch6 idx 491 [存疑] | attho me āvuso cīvarenā ti
+        存疑词: avuso(0.40)
+        dec: ateaameaaauceaakriiwatenaasanny
+ch6 idx 496 [存疑] | catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ
+        存疑词: catukhatum(0.40)
+        dec: jadogadonbenjagadoncegaduvarama
+ch6 idx 497 [存疑] | tuṇhībhūtena uddissa ṭhātabbaṃ
+        存疑词: udisa(0.40)
+        dec: dunninbhutenaautecathaatatpan
+ch6 idx 499 [存疑] | tuṇhībhūto uddissa tiṭṭhamāno
+        存疑词: udisa(0.40)
+        dec: tunnnnyputeaaauptiijaaatitamaaneaa
+ch6 idx 502 [存疑] | tato ce uttari vāyamamāno
+        存疑词: utari(0.40)
+        dec: dadojeeoderiiwaemaamanao
+ch6 idx 507 [存疑] | tattha sāmaṃ vā gantabbaṃ
+        存疑词: tatha(0.40)
+        dec: dadazaamanwagandaba
+ch6 idx 509 [存疑] | yaṃ kho tumhe āyasmanto
+        存疑词: tumhe(0.40)
+        dec: yankoodomeayazamandoo
+ch6 idx 510 [存疑] | bhikkhuṃ uddissa cīvara-cetāpannaṃ pahiṇitth
+        存疑词: udisa(0.40)
+        dec: bhekhunauptecakriiwarakhredapannanpihinethaa
+ch6 idx 512 [存疑] | kiñci atthaṃ anubhoti
+        存疑词: atham(0.40)
+        dec: ginkriiadananubeaaa
+ch6 idx 514 [存疑] | mā vo sakaṃ vinassā ti
+        存疑词: sakam(0.40)
+        dec: maawoozegaunazaadi
+ch6 idx 520 [存疑] | santhataṃ kārāpeyya
+        存疑词: karapeya(0.38)
+        dec: sandadangara
+ch6 idx 525 [存疑] | Anādā ce bhikkhu dve bhāge suddha-kāḷakānaṃ 
+        存疑词: bhage(0.40)
+        dec: anaadaajerapitkiutwebaakhaichuttagalagaananelagaaleaampaanan
+ch6 idx 526 [存疑] | tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ
+        存疑词: catutham(0.38)
+        dec: dadiraodaadanagadudangagariyana
+ch6 idx 540 [存疑] | navaṃ nisīdana-santhataṃ kārāpeyya
+        存疑词: nisidanasanthatam(0.41)
+        dec: nawonizarenazandadangarabeya
+ch6 idx 546 [存疑] | Tato ce uttari hareyya
+        存疑词: utari(0.40)
+        dec: dadoojeodareeha
+ch6 idx 554 [存疑] | upanikkhittaṃ vā sādiyeyya
+        存疑词: sadiyeya(0.38)
+        dec: ubanekeidanwazadi
+ch6 idx 566 [存疑] | aññaṃ navaṃ pattaṃ cetāpeyya
+        存疑词: navam(0.40), patam(0.40), cetapeya(0.38)
+        dec: enyanobadanjeda
+ch6 idx 568 [存疑] | Tena bhikkhunā so patto bhikkhu-parisāya nis
+        存疑词: nisajitabo(0.40)
+        dec: deanabekunaceaabhadeaabeguparicaaraanecegridaba
+ch6 idx 589 [存疑] | sāmaṃ cīvaraṃ datvā
+        存疑词: datva(0.40)
+        dec: oaamaiwaaa
+ch6 idx 596 [存疑] | Bhikkhuṃ paneva uddissa
+        存疑词: udisa(0.40)
+        dec: bhikhunpanewaaaupdeca
+ch6 idx 600 [存疑] | tanta-vāye upasaṅkamitvā
+        存疑词: upasankamitva(0.38)
+        dec: dandawayeugwazengame
+ch6 idx 604 [存疑] | vitthatañca appitañca
+        存疑词: vithatanca(0.40), apitanca(0.38)
+        dec: weidadenjaabidena
+ch6 idx 607 [存疑] | appeva nāma mayampi
+        存疑词: apeva(0.40)
+        dec: abeewanamamaya
+ch6 idx 614 [存疑] | bhikkhuno paneva acceka-cīvaraṃ uppajjeyya
+        存疑词: acekacivaram(0.42)
+        dec: begunobanewaejegajiiweranubeje
+ch6 idx 629 [存疑] | chāratta-paramaṃ tena bhikkhunā
+        存疑词: bhikhuna(0.38)
+        dec: khraradabaramadenaabeku
+ch6 idx 639 [存疑] | tiṃsa nissaggiyā pācittiyā dhammā
+        存疑词: timsa(0.40), dhama(0.40)
+        dec: denzanezegiyabajediyada
+ch7 idx 673 [存疑] | ajjhokāse santharitvā vā santharāpetvā vā
+        存疑词: ajhokase(0.38)
+        dec: ejogajejantridawaawaasantrabatdawaawa
+ch7 idx 677 [存疑] | seyyaṃ santharitvā vā santharāpetvā vā
+        存疑词: seyam(0.40)
+        dec: cerancantharittawaawaacantaraapactawaawaa
+ch7 idx 698 [存疑] | tiṇaṃ vā mattikaṃ vā
+        存疑词: tinam(0.40)
+        dec: dnnynawaamadiganwaa
+ch7 idx 708 [存疑] | ayaṃ tattha samayo
+        存疑词: tatha(0.40)
+        dec: ayandatazemiyoo
+ch7 idx 716 [存疑] | ekaddhāna-maggaṃ paṭipajjeyya
+        存疑词: patipajeya(0.40)
+        dec: egadanameganbatibegera
+ch7 idx 739 [存疑] | samaṇa-bhatta-samayo ayaṃ tattha samayo
+        存疑词: tatha(0.40)
+        dec: miyozemnabadazimiyoyendadazamiyo
+ch7 idx 742 [存疑] | cīvara-kāra-samayo ayaṃ tattha samayo
+        存疑词: tatha(0.40)
+        dec: jiwaragarazemeyoiyandatazemeyo
+ch7 idx 748 [存疑] | bhikkhūhi saddhiṃ saṃ|vi|bhajitabbaṃ ayaṃ ta
+        存疑词: bhikhuhi(0.38)
+        dec: bekuuriijatimchanwiipakritakpanarantatthaacaamiikre
+ch7 idx 764 [存疑] | maccho maṃsaṃ khīraṃ dadhi
+        存疑词: dadhi(0.40)
+        dec: mytchamanjankirn
+ch7 idx 815 [存疑] | jotiṃ samādaheyya vā samādahāpeyya vā
+        存疑词: jotim(0.40)
+        dec: jodenzamahadaheyawajamahadahabeyawa
+ch7 idx 825 [存疑] | addhāna-gamana-samayo vāta-vuṭṭhi-samayo
+        存疑词: vatavuthisamayo(0.40)
+        dec: adanagaminazameyaawadawodiizame
+ch7 idx 837 [存疑] | pattaṃ vā cīvaraṃ vā
+        存疑词: patam(0.40)
+        dec: badanwaakiiwaranu
+ch7 idx 842 [存疑] | Yo pana bhikkhu sañcicca pāṇaṃ jīvitā vorope
+        存疑词: voropeya(0.38)
+        dec: reaabannabikhiucangkhrikrapaanangriiwidaawateaaperaapakritannyran
+ch7 idx 855 [存疑] | ekaddhāna-maggaṃ paṭipajjeyya
+        存疑词: patipajeya(0.40)
+        dec: egadaanaamaganbatiibe
+ch7 idx 858 [存疑] | ekaddhāna-maggaṃ paṭipajjeyya
+        存疑词: patipajeya(0.40)
+        dec: egadanamegamberibe
+ch7 idx 865 [存疑] | māyasmā evaṃ avaca
+        存疑词: avaca(0.40)
+        dec: maeyazanmaewonawet
+ch7 idx 871 [存疑] | alañca pana te paṭisevato antarāyāyā ti
+        存疑词: patisevato(0.40)
+        dec: alangyabanaadebarijewaataaandarararasanny
+ch7 idx 873 [存疑] | so bhikkhu bhikkhūhi yāva-tatiyaṃ
+        存疑词: yavatatiyam(0.36)
+        dec: ceaabegiubegiuheraawadakdanny
+ch7 idx 882 [存疑] | saha vā seyyaṃ kappeyya pācittiyaṃ
+        存疑词: seyam(0.40)
+        dec: cahawaacerangapberabhaagritiiran
+ch7 idx 886 [存疑] | te paṭisevato nālaṃ antarāyāyā ti
+        存疑词: patisevato(0.40)
+        dec: debdisewadanalanandrayaya
+ch7 idx 888 [存疑] | māvuso samaṇuddesa evaṃ avaca
+        存疑词: avaca(0.40)
+        dec: yomaawujoozumnupdeijaaiwonawe
+ch7 idx 899 [存疑] | na ceva so bhagavā satthā apadisitabbo
+        存疑词: satha(0.40)
+        dec: naajewazoobagawazadaabadizeda
+ch7 idx 902 [存疑] | sāpi te natthi
+        存疑词: nathi(0.40)
+        dec: jerajabiden
+ch7 idx 910 [存疑] | na tāvāhaṃ āvuso
+        存疑词: avuso(0.40)
+        dec: naadawahaawu
+ch7 idx 917 [存疑] | kiṃ pan(a) imehi khudda-anukhuddakehi
+        存疑词: imehi(0.40)
+        dec: derakimbaknannmarekhupdaaniukhude
+ch7 idx 918 [存疑] | sikkhā-padehi uddiṭṭhehi
+        存疑词: udithehi(0.38)
+        dec: saigabadeheod
+ch7 idx 920 [存疑] | vilekhāya saṃvattantī ti
+        存疑词: samvatanti(0.40)
+        dec: ywilekayaazanwodandi
+ch7 idx 924 [存疑] | ayampi kira dhammo suttāgato sutta-pariyāpan
+        存疑词: sutapariyapano(0.36)
+        dec: eyanbigiradamozaudagadozaudabria
+ch7 idx 932 [存疑] | uttari cassa moho āropetabbo
+        存疑词: utari(0.40)
+        dec: hodrijazamohoarobe
+ch7 idx 935 [存疑] | na sādhukaṃ aṭṭhiṃ katvā
+        存疑词: athim(0.40)
+        dec: nnaajaalukanadhenka
+ch7 idx 953 [存疑] | Yo pana bhikkhu samaggena saṅghena cīvaraṃ d
+        存疑词: datva(0.40)
+        dec: yabanaabekiusamegenaasangenaaciiwaran
+ch7 idx 954 [存疑] | pacchā khīyana-dhammaṃ āpajjeyya
+        存疑词: pacha(0.40)
+        dec: bejaagiyanadamaabe
+ch7 idx 961 [存疑] | pubbe appaṭisaṃvidito
+        存疑词: apatisamvidito(0.36)
+        dec: tanagebaubeeabideezan
+ch7 idx 972 [存疑] | vikāle gāmaṃ paviseyya
+        存疑词: paviseya(0.38)
+        dec: wuigaalegaamaabu
+ch7 idx 983 [存疑] | tatridaṃ pamāṇaṃ dīghaso dve vidatthiyo suga
+        存疑词: tatridam(0.38), sugatavidathiya(0.40)
+        dec: ddadeedanbamanadigadoodoewidadiosugada
+ch7 idx 995 [存疑] | tiriyaṃ aḍḍhateyyā
+        存疑词: adhateya(0.38)
+        dec: witatiraa
+ch7 idx 999 [存疑] | Tatridaṃ sugatassa sugata-cīvara-ppamāṇaṃ
+        存疑词: tatridam(0.38)
+        dec: dadadedanzugadazasugadachiwara
+ch8 idx1023 [存疑] | tatra ce sā bhikkhunī
+        存疑词: bhikhuni(0.38)
+        dec: tataragrecaapekunanny
+ch8 idx1024 [存疑] | vosāsamāna-rūpā ṭhitā hoti
+        存疑词: thita(0.40)
+        dec: hozazamanarubadidahodi
+ch8 idx1026 [存疑] | Tehi bhikkhūhi sā bhikkhunī apasādetabbā
+        存疑词: bhikhuhi(0.38)
+        dec: deehiibegoyeezaabeguniabaazadeedaba
+ch8 idx1040 [存疑] | khādanīyaṃ vā bhojanīyaṃ vā
+        存疑词: bhojaniyam(0.40)
+        dec: kaaraniranwaabeaagwaniranwaa
+ch8 idx1064 [存疑] | tasmā tuṇhī evametaṃ dhārayāmīti
+        存疑词: tunhi(0.40)
+        dec: dajamadonniiewamedandarirame
+ch9 idx1071 [存疑] | Suppaṭicchanno antara-ghare nisīdissāmīti si
+        存疑词: supatichano(0.36)
+        dec: cwabarekhyanneaaaandarakatnnijedikjaamiitnncitkaakaranira
+ch9 idx1075 [存疑] | Okkhitta-cakkhu antara-ghare nisīdissāmīti s
+        存疑词: nisidisamiti(0.42)
+        dec: aaagitagrayghuandraakarennncetaicaamntannychikaakaranira
+ch9 idx1084 [存疑] | Na kāyap-pacālakaṃ antara-ghare nisīdissāmīt
+        存疑词: sikha(0.40)
+        dec: nakayabasalagaragarenisedasamitiisegakaraniya
+ch9 idx1093 [存疑] | Na oguṇṭhito antara-ghare nisīdissāmīti sikk
+        存疑词: sikha(0.40)
+        dec: naaogoondidoandreagaranizeideizaamediizegaagaraniyaa
+ch9 idx1095 [存疑] | Na pallatthikāya antara-ghare nisīdissāmīti 
+        存疑词: sikha(0.40)
+        dec: naabanladiigayeandraagareniisiideizaamiidiizaigaagaraniya
+ch9 idx1109 [存疑] | Na sūpaṃ vā odanaṃ vā agilāno attano atthāya
+        存疑词: supam(0.40)
+        dec: naajobanwaodananwaagilanaaadanoaadayaawunyaabea
+ch9 idx1111 [存疑] | Na ujjhāna-saññī paresaṃ pattaṃ olokessāmīti
+        存疑词: sikha(0.40)
+        dec: nawjanaajenyebaresanbatdanulaagejamidisegagraniya
+ch9 idx1112 [存疑] | Nātimahantaṃ kabaḷaṃ karissāmīti sikkhā kara
+        存疑词: sikha(0.40)
+        dec: naatiimantankabalankaricaamiitechakaakatani
+ch9 idx1114 [存疑] | Sakkaccavaggo catuttho
+        存疑词: sakacavago(0.40)
+        dec: segejawegojadutoo
+ch9 idx1116 [存疑] | Na bhuñjamāno sabba-hatthaṃ mukhe pakkhipiss
+        存疑词: sikha(0.40)
+        dec: nabungyamhaneaajabahadammhugaypakipiijaamiidnicaigaakaraniiya
+ch9 idx1118 [存疑] | Na piṇḍ(a)-ukkhepakaṃ bhuñjissāmīti sikkhā k
+        存疑词: sikha(0.40)
+        dec: naabendughebakanbungeijaamiidiicakkakaranniya
+ch9 idx1120 [存疑] | Na avagaṇḍa-kārakaṃ bhuñjissāmīti sikkhā kar
+        存疑词: sikha(0.40)
+        dec: naawagandaagalakabonjezamidzaigaagalaniya
+ch9 idx1121 [存疑] | Na hattha-niddhunakaṃ bhuñjissāmīti sikkhā k
+        存疑词: sikha(0.40)
+        dec: nahadaanidiunaganbonjezamidiisegaagaraniya
+ch9 idx1123 [存疑] | Na jivhā-nicchārakaṃ bhuñjissāmīti sikkhā ka
+        存疑词: jivhanicharakam(0.40), sikha(0.40)
+        dec: nhjywnanysarganbwnjy'samydyzyykakrnnyya
+ch9 idx1124 [存疑] | Na capucapu-kārakaṃ bhuñjissāmīti sikkhā kar
+        存疑词: sikha(0.40)
+        dec: najabujabugaraganbonjezamidiizegaagarandiya
+ch9 idx1126 [存疑] | Na surusuru-kārakaṃ bhuñjissāmīti sikkhā kar
+        存疑词: sikha(0.40)
+        dec: najurujurugarakanbungejaamidiijaigaagaraniya
+ch9 idx1127 [存疑] | Na hattha-nillehakaṃ bhuñjissāmīti sikkhā ka
+        存疑词: bhunjisamiti(0.42)
+        dec: nhhdanglyagbwnjyjamydyskakrnya
+ch9 idx1128 [存疑] | Na patta-nillehakaṃ bhuñjissāmīti sikkhā kar
+        存疑词: sikha(0.40)
+        dec: naapataneleakanbunkhrecaamiitinychekaakarantiiraa
+ch9 idx1131 [存疑] | paṭiggahessāmīti sikkhā karaṇīyā
+        存疑词: sikha(0.40)
+        dec: gambregezamidizegagaraniya
+ch9 idx1132 [存疑] | Na sasitthakaṃ patta-dhovanaṃ antara-ghare
+        存疑词: sasithakam(0.40)
+        dec: najasdayejaganbadadowonaandraga
+ch9 idx1133 [存疑] | chaḍḍessāmīti sikkhā karaṇīyā
+        存疑词: sikha(0.40)
+        dec: rsadzamidizaigagrnia
+ch9 idx1134 [存疑] | Na chatta-pāṇissa agilānassa
+        存疑词: chatapanisa(0.36)
+        dec: nlchldlbanejlgalldaha
+ch9 idx1135 [存疑] | dhammaṃ desessāmīti sikkhā karaṇīyā
+        存疑词: sikha(0.40)
+        dec: zadamandizezamidizegagaraniya
+ch9 idx1139 [存疑] | dhammaṃ desessāmīti sikkhā karaṇīyā
+        存疑词: sikha(0.40)
+        dec: zadamandizezamidizaigagaraniya
+ch9 idx1146 [存疑] | dhammaṃ desessāmīti sikkhā karaṇīyā
+        存疑词: sikha(0.40)
+        dec: zadamandizezamidizegagalania
+ch9 idx1150 [存疑] | dhammaṃ desessāmīti sikkhā karaṇīyā
+        存疑词: sikha(0.40)
+        dec: zarimandizezamidizeegagaranya
+ch9 idx1154 [存疑] | dhammaṃ desessāmīti sikkhā karaṇīyā
+        存疑词: sikha(0.40)
+        dec: danmandecajaamiitnycakakaranniiya
+ch9 idx1160 [存疑] | dhammaṃ desessāmīti sikkhā karaṇīyā
+        存疑词: sikha(0.40)
+        dec: damaandezaezaamideezaegaagaraniya
+ch9 idx1161 [存疑] | Na ṭhito nisinnassa agilānassa
+        存疑词: thito(0.40)
+        dec: nadidonizeinazaagilanaza
+ch9 idx1165 [存疑] | Na uppathena gacchanto pathena gacchantassa 
+        存疑词: gachanto(0.38)
+        dec: nawbdhinakejandwbdhinakejndajaaglanhjaa
+ch9 idx1166 [存疑] | dhammaṃ desessāmīti sikkhā karaṇīyā
+        存疑词: sikha(0.40)
+        dec: damandejeyjamiidejeykakaraniya
+ch9 idx1168 [存疑] | karissāmīti sikkhā karaṇīyā
+        存疑词: karisamiti(0.40), sikha(0.40)
+        dec: akryzamydyzaegagrndya
+ch9 idx1172 [存疑] | karissāmīti sikkhā karaṇīyā
+        存疑词: karisamiti(0.40), sikha(0.40)
+        dec: lanwagryzawdytyykagrndya

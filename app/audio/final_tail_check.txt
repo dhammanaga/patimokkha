@@ -1,0 +1,3842 @@
+[
+ {
+  "ch": 1,
+  "idx": 0,
+  "st": "末词疑似缺失",
+  "lw": "sammasambuddhassa",
+  "lw_suf": "dhassa",
+  "dec": "namutasaphakawatualahatusanmasanuhasanamutasapakawatualahatusanmasanbuhtasanamotasaphakawatualahatusvmmasvmbothasa",
+  "r_tail": 0.15,
+  "pali": "Namo tassa bhagavato arahato sammāsambuddhassa"
+ },
+ {
+  "ch": 1,
+  "idx": 10,
+  "st": "末词疑似缺失",
+  "lw": "vuccati",
+  "lw_suf": "uccati",
+  "dec": "candaparisuhthiuhthukhanabekhugananakyouwatoubosahthasaetanibubagingcanteujrate",
+  "r_tail": 0.21,
+  "pali": "Chanda-pārisuddhi (pavāraṇā)-utukkhānaṃ, bhikkhugaṇanā ca ovādo, uposathassa (pavāraṇāya) etāni ‘pubbakiccan’ti vuccati."
+ },
+ {
+  "ch": 1,
+  "idx": 12,
+  "st": "末词疑似缺失",
+  "lw": "gamasima",
+  "lw_suf": "masima",
+  "dec": "ayansimakhanhthasimanamahasimanakamasima",
+  "r_tail": 0.55,
+  "pali": "Ayaṃ sīmā khaṇḍasīmā, na mahāsīmā, na gāmasīmā."
+ },
+ {
+  "ch": 1,
+  "idx": 15,
+  "st": "末词疑似缺失",
+  "lw": "honti",
+  "lw_suf": "honti",
+  "dec": "otonitaabanasasanehimandakinghawasananawasenadinihundi",
+  "r_tail": 0.22,
+  "pali": "Utūnīdha pana sāsane hemanta-gimha-vassānānaṃ vasena tīṇi honti."
+ },
+ {
+  "ch": 1,
+  "idx": 17,
+  "st": "末词疑似缺失",
+  "lw": "uposatha",
+  "lw_suf": "osatha",
+  "dec": "aacameunputungheaaathaupeachatha",
+  "r_tail": 0.42,
+  "pali": "Asmiṃ utumhi aṭṭha (dasa) uposathā."
+ },
+ {
+  "ch": 1,
+  "idx": 19,
+  "st": "末词疑似缺失",
+  "lw": "honti",
+  "lw_suf": "honti",
+  "dec": "imasamipanauposahthakesanepatihthanangbihkhunagkalanajatalopikhuhunti",
+  "r_tail": 0.3,
+  "pali": "Imasmiṃ pana uposathagge (pavāraṇagge) sannipatitānaṃ bhikkhūnaṃ gaṇanā cattāro bhikkhū honti."
+ },
+ {
+  "ch": 1,
+  "idx": 22,
+  "st": "末词疑似缺失",
+  "lw": "vuccati",
+  "lw_suf": "uccati",
+  "dec": "uposathasauposathakamasabobakhinchanteujate",
+  "r_tail": 0.25,
+  "pali": "‘Uposathassa uposathakammassa (pavāraṇāya pavāraṇākammassa) pubbakiccan’ti vuccati."
+ },
+ {
+  "ch": 1,
+  "idx": 24,
+  "st": "末词疑似缺失",
+  "lw": "vuccati",
+  "lw_suf": "uccati",
+  "dec": "ubosathoyavatiikacapikhugammabatasabhakapatiyocanavicantivajaniacapukaladasminahundibatakalantiucate",
+  "r_tail": 0.17,
+  "pali": "Uposatho (pavāraṇā) yāvatikā ca bhikkhū kammappattā sabhāgāpattiyo ca na vijjanti, vajjanīyā ca puggalā tasmiṃ na honti, ‘pattakallan’ti vuccati."
+ },
+ {
+  "ch": 1,
+  "idx": 25,
+  "st": "末词疑似缺失",
+  "lw": "vuttatta",
+  "lw_suf": "ttatta",
+  "dec": "ihtheahthakahthacaliehiuhthatha",
+  "r_tail": 0.42,
+  "pali": "Iti aṭṭhakathācariyehi vuttattā."
+ },
+ {
+  "ch": 1,
+  "idx": 30,
+  "st": "末词疑似缺失",
+  "lw": "vijjanti",
+  "lw_suf": "jjanti",
+  "dec": "dechanwekalaphokranasiwahthucabakapatiyukranaawekrante",
+  "r_tail": 0.21,
+  "pali": "Tesaṃ vikāla-bhojanādi-vatthu-sabhāgāpattiyo ca na vijjanti."
+ },
+ {
+  "ch": 1,
+  "idx": 32,
+  "st": "末词疑似缺失",
+  "lw": "vuccati",
+  "lw_suf": "uccati",
+  "dec": "sangkhasauposathakamaimehecatohelakhanehesangkhahetapatakalanteucate",
+  "r_tail": 0.24,
+  "pali": "Saṅghassa uposathakammaṃ (pavāraṇākammaṃ) imehi catūhi lakkhaṇehi saṅgahitaṃ ‘pattakallan’ti vuccati."
+ },
+ {
+  "ch": 2,
+  "idx": 40,
+  "st": "OK-末词在尾",
+  "lw": "uddiseyya",
+  "lw_suf": "iseyya",
+  "dec": "batemukanuticeya",
+  "r_tail": 0.62,
+  "pali": "pātimokkhaṃ uddiseyya"
+ },
+ {
+  "ch": 2,
+  "idx": 42,
+  "st": "末词疑似缺失",
+  "lw": "arocetha",
+  "lw_suf": "ocetha",
+  "dec": "parisuhthingayasamantowaluketha",
+  "r_tail": 0.53,
+  "pali": "Pārisuddhiṃ āyasmanto ārocetha"
+ },
+ {
+  "ch": 2,
+  "idx": 43,
+  "st": "OK-末词在尾",
+  "lw": "uddisissami",
+  "lw_suf": "issami",
+  "dec": "padimokhanutisisame",
+  "r_tail": 0.71,
+  "pali": "pātimokkhaṃ uddisissāmi"
+ },
+ {
+  "ch": 2,
+  "idx": 45,
+  "st": "OK-末词在尾",
+  "lw": "karoma",
+  "lw_suf": "karoma",
+  "dec": "sunomamanasikaluma",
+  "r_tail": 0.57,
+  "pali": "suṇoma manasi karoma"
+ },
+ {
+  "ch": 2,
+  "idx": 46,
+  "st": "末词疑似缺失",
+  "lw": "avikareyya",
+  "lw_suf": "areyya",
+  "dec": "yasaseabatesuawekaleya",
+  "r_tail": 0.53,
+  "pali": "Yassa siyā āpatti so āvikareyya"
+ },
+ {
+  "ch": 2,
+  "idx": 48,
+  "st": "OK-末词在尾",
+  "lw": "panayasmante",
+  "lw_suf": "smante",
+  "dec": "dunghipawenakobanayasmande",
+  "r_tail": 0.59,
+  "pali": "tuṇhībhāvena kho panāyasmante"
+ },
+ {
+  "ch": 2,
+  "idx": 49,
+  "st": "末词疑似缺失",
+  "lw": "vedissami",
+  "lw_suf": "issami",
+  "dec": "baarichiuthasannywesanycamanny",
+  "r_tail": 0.33,
+  "pali": "parisuddhā ti vedissāmi"
+ },
+ {
+  "ch": 2,
+  "idx": 50,
+  "st": "末词疑似缺失",
+  "lw": "paccekaputthassa",
+  "lw_suf": "thassa",
+  "dec": "yathakhopanapachekabutasa",
+  "r_tail": 0.5,
+  "pali": "Yathā kho pana pacceka-puṭṭhassa"
+ },
+ {
+  "ch": 2,
+  "idx": 51,
+  "st": "末词疑似缺失",
+  "lw": "hoti",
+  "lw_suf": "hoti",
+  "dec": "weyakalanahute",
+  "r_tail": 0.4,
+  "pali": "veyyākaraṇaṃ hoti"
+ },
+ {
+  "ch": 2,
+  "idx": 53,
+  "st": "末词疑似缺失",
+  "lw": "hoti",
+  "lw_suf": "hoti",
+  "dec": "yawatatianganusawithanghuti",
+  "r_tail": 0.4,
+  "pali": "yāvatatiyaṃ anusāvitaṃ hoti"
+ },
+ {
+  "ch": 2,
+  "idx": 54,
+  "st": "OK-末词在尾",
+  "lw": "anusaviyamane",
+  "lw_suf": "yamane",
+  "dec": "yonbanabekuyawadadiyaanusaweyamane",
+  "r_tail": 0.6,
+  "pali": "Yo pana bhikkhu yāvatatiyaṃ anusāviyamāne"
+ },
+ {
+  "ch": 2,
+  "idx": 55,
+  "st": "末词疑似缺失",
+  "lw": "navikareyya",
+  "lw_suf": "areyya",
+  "dec": "salamanusandengabadennawekalea",
+  "r_tail": 0.33,
+  "pali": "saramāno santiṃ āpattiṃ nāvikareyya"
+ },
+ {
+  "ch": 2,
+  "idx": 56,
+  "st": "末词疑似缺失",
+  "lw": "hoti",
+  "lw_suf": "hoti",
+  "dec": "sanbajanamusawatasahuti",
+  "r_tail": 0.43,
+  "pali": "sampajāna-musāvādassa hoti"
+ },
+ {
+  "ch": 2,
+  "idx": 57,
+  "st": "末词疑似缺失",
+  "lw": "panayasmanto",
+  "lw_suf": "smanto",
+  "dec": "sambajanamusawatokobanayasmando",
+  "r_tail": 0.53,
+  "pali": "Sampajāna-musāvādo kho panāyasmanto"
+ },
+ {
+  "ch": 2,
+  "idx": 58,
+  "st": "OK-末词在尾",
+  "lw": "bhagavata",
+  "lw_suf": "gavata",
+  "dec": "andaraigotamoutobagawata",
+  "r_tail": 0.62,
+  "pali": "antarāyiko dhammo vutto bhagavatā"
+ },
+ {
+  "ch": 2,
+  "idx": 60,
+  "st": "末词疑似缺失",
+  "lw": "visuddhapekkhena",
+  "lw_suf": "kkhena",
+  "dec": "aabanenawisuthabekena",
+  "r_tail": 0.53,
+  "pali": "āpannena visuddhāpekkhena"
+ },
+ {
+  "ch": 2,
+  "idx": 61,
+  "st": "OK-末词在尾",
+  "lw": "avikatabba",
+  "lw_suf": "atabba",
+  "dec": "sandeapateaweekatapa",
+  "r_tail": 0.57,
+  "pali": "santī āpatti āvikātabbā"
+ },
+ {
+  "ch": 3,
+  "idx": 83,
+  "st": "末词疑似缺失",
+  "lw": "patiseveyya",
+  "lw_suf": "eveyya",
+  "dec": "mehthulangthammanpatisewea",
+  "r_tail": 0.35,
+  "pali": "methunaṃ dhammaṃ paṭiseveyya"
+ },
+ {
+  "ch": 3,
+  "idx": 84,
+  "st": "OK-末词在尾",
+  "lw": "tiracchanagatayapi",
+  "lw_suf": "tayapi",
+  "dec": "andamasotilachahanakatayapi",
+  "r_tail": 0.71,
+  "pali": "antamaso tiracchāna-gatāyapi"
+ },
+ {
+  "ch": 3,
+  "idx": 86,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "youbanebikhukanmawaalanyawa",
+  "r_tail": 0.15,
+  "pali": "Yo pana bhikkhu gāmā vā araññā vā"
+ },
+ {
+  "ch": 3,
+  "idx": 89,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "haneyungwapantheyungwapapaceyungwa",
+  "r_tail": 0.12,
+  "pali": "haneyyuṃ vā bandheyyuṃ vā pabbājeyyuṃ vā"
+ },
+ {
+  "ch": 3,
+  "idx": 91,
+  "st": "末词疑似缺失",
+  "lw": "adiyamano",
+  "lw_suf": "yamano",
+  "dec": "dathalupanpikhuathingnangatiamano",
+  "r_tail": 0.5,
+  "pali": "tathārūpaṃ bhikkhu adinnaṃ ādiyamāno"
+ },
+ {
+  "ch": 3,
+  "idx": 94,
+  "st": "OK-末词在尾",
+  "lw": "voropeyya",
+  "lw_suf": "opeyya",
+  "dec": "amanusawekahangjiwetaolupeya",
+  "r_tail": 0.56,
+  "pali": "manussa-viggahaṃ jīvitā voropeyya"
+ },
+ {
+  "ch": 3,
+  "idx": 95,
+  "st": "OK-末词在尾",
+  "lw": "pariyeseyya",
+  "lw_suf": "eseyya",
+  "dec": "sathahalakanwasapaliyeseya",
+  "r_tail": 0.59,
+  "pali": "sattha-hārakaṃ vāssa pariyeseyya"
+ },
+ {
+  "ch": 3,
+  "idx": 96,
+  "st": "OK-末词在尾",
+  "lw": "samvanneyya",
+  "lw_suf": "nneyya",
+  "dec": "maranangwannanwasangwaneya",
+  "r_tail": 0.59,
+  "pali": "maraṇa-vaṇṇaṃ vā saṃvaṇṇeyya"
+ },
+ {
+  "ch": 3,
+  "idx": 97,
+  "st": "OK-末词在尾",
+  "lw": "samadapeyya",
+  "lw_suf": "apeyya",
+  "dec": "malanangyawasanmadapeya",
+  "r_tail": 0.62,
+  "pali": "maraṇāya vā samādapeyya"
+ },
+ {
+  "ch": 3,
+  "idx": 100,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "madandejiweidaxieyoude",
+  "r_tail": 0.18,
+  "pali": "mataṃ te jīvitā seyyo ti"
+ },
+ {
+  "ch": 3,
+  "idx": 101,
+  "st": "末词疑似缺失",
+  "lw": "cittasankappo",
+  "lw_suf": "nkappo",
+  "dec": "yidejidamanojidasanggabo",
+  "r_tail": 0.38,
+  "pali": "iti cittamano cittasaṅkappo"
+ },
+ {
+  "ch": 3,
+  "idx": 102,
+  "st": "末词疑似缺失",
+  "lw": "samvanneyya",
+  "lw_suf": "nneyya",
+  "dec": "anekapariyayenamaranangwanangwasvngwaneya",
+  "r_tail": 0.43,
+  "pali": "aneka-pariyāyena maraṇa-vaṇṇaṃ vā saṃvaṇṇeyya"
+ },
+ {
+  "ch": 3,
+  "idx": 103,
+  "st": "末词疑似缺失",
+  "lw": "samadapeyya",
+  "lw_suf": "apeyya",
+  "dec": "malananyawasanmadabeya",
+  "r_tail": 0.53,
+  "pali": "maraṇāya vā samādapeyya"
+ },
+ {
+  "ch": 3,
+  "idx": 107,
+  "st": "末词疑似缺失",
+  "lw": "samudacareyya",
+  "lw_suf": "areyya",
+  "dec": "alamaliyayanatasanasamutacaleya",
+  "r_tail": 0.42,
+  "pali": "alamariya-ñāṇadassanaṃ samudācareyya"
+ },
+ {
+  "ch": 3,
+  "idx": 108,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "itejanamiitipasamite",
+  "r_tail": 0.2,
+  "pali": "iti jānāmi iti passāmī ti"
+ },
+ {
+  "ch": 3,
+  "idx": 109,
+  "st": "OK-末词在尾",
+  "lw": "samayena",
+  "lw_suf": "mayena",
+  "dec": "dadeaapalenasanmayena",
+  "r_tail": 0.8,
+  "pali": "tato aparena samayena"
+ },
+ {
+  "ch": 3,
+  "idx": 110,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "samanukahiyamanuwaasanmanukahiyamanuwa",
+  "r_tail": 0.11,
+  "pali": "samanu|ggāhīyamāno vā asamanu|ggāhīyamāno vā"
+ },
+ {
+  "ch": 3,
+  "idx": 111,
+  "st": "末词疑似缺失",
+  "lw": "vadeyya",
+  "lw_suf": "adeyya",
+  "dec": "apanowisuhthapekhoewangwateya",
+  "r_tail": 0.44,
+  "pali": "āpanno visuddhāpekkho evaṃ vadeyya"
+ },
+ {
+  "ch": 3,
+  "idx": 112,
+  "st": "OK-末词在尾",
+  "lw": "janami",
+  "lw_suf": "janami",
+  "dec": "achanamewaausoawachacaanami",
+  "r_tail": 0.59,
+  "pali": "ajānamevaṃ āvuso avacaṃ jānāmi"
+ },
+ {
+  "ch": 3,
+  "idx": 113,
+  "st": "OK-末词在尾",
+  "lw": "passami",
+  "lw_suf": "assami",
+  "dec": "habasanbasami",
+  "r_tail": 0.83,
+  "pali": "apassaṃ passāmi"
+ },
+ {
+  "ch": 3,
+  "idx": 114,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "tuchangmusavelapingti",
+  "r_tail": 0.36,
+  "pali": "tucchaṃ musā vilapin ti"
+ },
+ {
+  "ch": 3,
+  "idx": 115,
+  "st": "末词疑似缺失",
+  "lw": "asamvaso",
+  "lw_suf": "amvaso",
+  "dec": "hayantalaatimanahayanbepalajukohutiasngwasu",
+  "r_tail": 0.25,
+  "pali": "aññatra adhimānā ayampi pārājiko hoti asaṃvāso"
+ },
+ {
+  "ch": 3,
+  "idx": 116,
+  "st": "末词疑似缺失",
+  "lw": "dhamma",
+  "lw_suf": "dhamma",
+  "dec": "huthithakhoayaasomantocatalobalajikahtamma",
+  "r_tail": 0.43,
+  "pali": "Uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā"
+ },
+ {
+  "ch": 3,
+  "idx": 117,
+  "st": "末词疑似缺失",
+  "lw": "apajjitva",
+  "lw_suf": "jjitva",
+  "dec": "yesanpekhuannyangtalangwaanyangtalangwaabachitoa",
+  "r_tail": 0.23,
+  "pali": "Yesaṃ bhikkhu aññataraṃ vā aññataraṃ vā āpajjitvā"
+ },
+ {
+  "ch": 3,
+  "idx": 120,
+  "st": "末词疑似缺失",
+  "lw": "asamvaso",
+  "lw_suf": "amvaso",
+  "dec": "balachikohotiasangwasu",
+  "r_tail": 0.27,
+  "pali": "pārājiko hoti asaṃvāso"
+ },
+ {
+  "ch": 3,
+  "idx": 121,
+  "st": "末词疑似缺失",
+  "lw": "parisuddha",
+  "lw_suf": "suddha",
+  "dec": "dathaayacamantebudamikakrithapalisuhtha",
+  "r_tail": 0.36,
+  "pali": "Tatthāyasmante pucchāmi kaccittha parisuddhā"
+ },
+ {
+  "ch": 4,
+  "idx": 140,
+  "st": "OK-末词在尾",
+  "lw": "otinno",
+  "lw_suf": "otinno",
+  "dec": "yobannabeiguodeinao",
+  "r_tail": 0.57,
+  "pali": "Yo pana bhikkhu otiṇṇo"
+ },
+ {
+  "ch": 4,
+  "idx": 162,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "jayadanewajaradanewa",
+  "r_tail": 0.2,
+  "pali": "jāyattane vā jārattane vā"
+ },
+ {
+  "ch": 4,
+  "idx": 216,
+  "st": "末词疑似缺失",
+  "lw": "samanubhasitabbo",
+  "lw_suf": "itabbo",
+  "dec": "raawadadiranjamanubaajitatbea",
+  "r_tail": 0.44,
+  "pali": "yāva-tatiyaṃ samanubhāsitabbo"
+ },
+ {
+  "ch": 4,
+  "idx": 220,
+  "st": "OK-末词在尾",
+  "lw": "kusalam",
+  "lw_suf": "usalam",
+  "dec": "ejedanguzala",
+  "r_tail": 0.73,
+  "pali": "iccetaṃ kusalaṃ"
+ },
+ {
+  "ch": 4,
+  "idx": 250,
+  "st": "末词疑似缺失",
+  "lw": "sanghadiseso",
+  "lw_suf": "diseso",
+  "dec": "neaagrepatinhaccyankreruncangatnyjecea",
+  "r_tail": 0.09,
+  "pali": "no ce paṭinissajjeyyuṃ saṅghādiseso"
+ },
+ {
+  "ch": 4,
+  "idx": 251,
+  "st": "末词疑似缺失",
+  "lw": "hoti",
+  "lw_suf": "hoti",
+  "dec": "phekhubanewadubajyajadikohodie",
+  "r_tail": 0.38,
+  "pali": "Bhikkhu paneva dubbaca-jātiko hoti"
+ },
+ {
+  "ch": 4,
+  "idx": 252,
+  "st": "末词疑似缺失",
+  "lw": "sikkhapadesu",
+  "lw_suf": "padesu",
+  "dec": "updeycakpariyaapantechiucikkhaapatecu",
+  "r_tail": 0.38,
+  "pali": "uddesa-pariyāpannesu sikkhā-padesu"
+ },
+ {
+  "ch": 4,
+  "idx": 256,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "kalayaananwaababaganwaa",
+  "r_tail": 0.17,
+  "pali": "kalyāṇaṃ vā pāpakaṃ vā"
+ },
+ {
+  "ch": 4,
+  "idx": 259,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "wiramataayazamandoomamawajanayaadi",
+  "r_tail": 0.12,
+  "pali": "viramathāyasmanto mama vacanāyā ti"
+ },
+ {
+  "ch": 4,
+  "idx": 260,
+  "st": "末词疑似缺失",
+  "lw": "vacaniyo",
+  "lw_suf": "caniyo",
+  "dec": "soobegoobegooheiwamasawojeniyoo",
+  "r_tail": 0.53,
+  "pali": "so bhikkhu bhikkhūhi evam·assa vacanīyo"
+ },
+ {
+  "ch": 4,
+  "idx": 263,
+  "st": "末词疑似缺失",
+  "lw": "sahadhammena",
+  "lw_suf": "ammena",
+  "dec": "ayazamabiebegoowadaadoozaadanmeena",
+  "r_tail": 0.5,
+  "pali": "āyasmāpi bhikkhū vadatu saha-dhammena"
+ },
+ {
+  "ch": 4,
+  "idx": 265,
+  "st": "末词疑似缺失",
+  "lw": "parisa",
+  "lw_suf": "parisa",
+  "dec": "ewonjaamadaayedaksabagawateaabarisaa",
+  "r_tail": 0.48,
+  "pali": "evaṃ saṃvaddhā hi tassa bhagavato parisā"
+ },
+ {
+  "ch": 4,
+  "idx": 269,
+  "st": "末词疑似缺失",
+  "lw": "pagganheyya",
+  "lw_suf": "nheyya",
+  "dec": "ueojamanaodeteewaabeganeeyaa",
+  "r_tail": 0.44,
+  "pali": "vuccamāno tatheva paggaṇheyya"
+ },
+ {
+  "ch": 4,
+  "idx": 275,
+  "st": "末词疑似缺失",
+  "lw": "kusalam",
+  "lw_suf": "usalam",
+  "dec": "eijeedanguzelan",
+  "r_tail": 0.5,
+  "pali": "iccetaṃ kusalaṃ"
+ },
+ {
+  "ch": 4,
+  "idx": 279,
+  "st": "末词疑似缺失",
+  "lw": "papasamacaro",
+  "lw_suf": "macaro",
+  "dec": "wuiherediigulaaduuzegeobabazamaajaroo",
+  "r_tail": 0.48,
+  "pali": "viharati kula-dūsako pāpa-samācāro"
+ },
+ {
+  "ch": 4,
+  "idx": 281,
+  "st": "末词疑似缺失",
+  "lw": "ca",
+  "lw_suf": "ca",
+  "dec": "kraadaaticansannygrewacunrwansannykra",
+  "r_tail": 0.24,
+  "pali": "dissanti ceva suyyanti ca"
+ },
+ {
+  "ch": 4,
+  "idx": 283,
+  "st": "末词疑似缺失",
+  "lw": "ca",
+  "lw_suf": "ca",
+  "dec": "araanannydiccantikrewacunrantannykraa",
+  "r_tail": 0.24,
+  "pali": "dissanti ceva suyyanti ca"
+ },
+ {
+  "ch": 4,
+  "idx": 284,
+  "st": "末词疑似缺失",
+  "lw": "vacaniyo",
+  "lw_suf": "caniyo",
+  "dec": "toobegeobegeohiiwamasawajeniyoo",
+  "r_tail": 0.53,
+  "pali": "so bhikkhu bhikkhūhi evam·assa vacanīyo"
+ },
+ {
+  "ch": 4,
+  "idx": 285,
+  "st": "末词疑似缺失",
+  "lw": "papasamacaro",
+  "lw_suf": "macaro",
+  "dec": "ayajamakooguladujekoobabaajamaajaroo",
+  "r_tail": 0.48,
+  "pali": "āyasmā kho kula-dūsako pāpa-samācāro"
+ },
+ {
+  "ch": 4,
+  "idx": 287,
+  "st": "末词疑似缺失",
+  "lw": "ca",
+  "lw_suf": "ca",
+  "dec": "graataticcansannykrewacunrwansannykra",
+  "r_tail": 0.24,
+  "pali": "dissanti ceva suyyanti ca"
+ },
+ {
+  "ch": 4,
+  "idx": 290,
+  "st": "末词疑似缺失",
+  "lw": "avasa",
+  "lw_suf": "avasa",
+  "dec": "begamadayezemaimamaawaazaa",
+  "r_tail": 0.38,
+  "pali": "pakkamatāyasmā imamhā āvāsā"
+ },
+ {
+  "ch": 4,
+  "idx": 291,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "alanteidaawaacenaatnny",
+  "r_tail": 0.18,
+  "pali": "alaṃ te idha vāsenā ti"
+ },
+ {
+  "ch": 4,
+  "idx": 292,
+  "st": "OK-末词在尾",
+  "lw": "vuccamano",
+  "lw_suf": "camano",
+  "dec": "ewenjaasoobegobegoeojaamanoo",
+  "r_tail": 0.56,
+  "pali": "evañca so bhikkhu bhikkhūhi vuccamāno"
+ },
+ {
+  "ch": 4,
+  "idx": 295,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhu",
+  "lw_suf": "hikkhu",
+  "dec": "deaajagaamiineaakraapiguu",
+  "r_tail": 0.25,
+  "pali": "dosa-gāmino ca bhikkhū"
+ },
+ {
+  "ch": 4,
+  "idx": 297,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhu",
+  "lw_suf": "hikkhu",
+  "dec": "beagaamiineakyapiku",
+  "r_tail": 0.43,
+  "pali": "bhaya-gāmino ca bhikkhū"
+ },
+ {
+  "ch": 4,
+  "idx": 298,
+  "st": "末词疑似缺失",
+  "lw": "pabbajenti",
+  "lw_suf": "ajenti",
+  "dec": "dadizikayaaabadiyaegejanbabhajandii",
+  "r_tail": 0.4,
+  "pali": "tādisikāya āpattiyā ekaccaṃ pabbājenti"
+ },
+ {
+  "ch": 4,
+  "idx": 299,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "ekaykrannapapakrangsannysanny",
+  "r_tail": 0.0,
+  "pali": "ekaccaṃ na pabbājentī ti"
+ },
+ {
+  "ch": 4,
+  "idx": 300,
+  "st": "末词疑似缺失",
+  "lw": "vacaniyo",
+  "lw_suf": "caniyo",
+  "dec": "sobegiubegiuheiwamasawojanniyoo",
+  "r_tail": 0.53,
+  "pali": "so bhikkhu bhikkhūhi evam·assa vacanīyo"
+ },
+ {
+  "ch": 4,
+  "idx": 301,
+  "st": "末词疑似缺失",
+  "lw": "avaca",
+  "lw_suf": "avaca",
+  "dec": "mayezanmaewonawejaa",
+  "r_tail": 0.46,
+  "pali": "māyasmā evaṃ avaca"
+ },
+ {
+  "ch": 4,
+  "idx": 303,
+  "st": "OK-末词在尾",
+  "lw": "dosagamino",
+  "lw_suf": "gamino",
+  "dec": "minonajabegudozagamino",
+  "r_tail": 0.8,
+  "pali": "na ca bhikkhū dosa-gāmino"
+ },
+ {
+  "ch": 4,
+  "idx": 305,
+  "st": "OK-末词在尾",
+  "lw": "bhayagamino",
+  "lw_suf": "gamino",
+  "dec": "aminoonajabegobeagaminoo",
+  "r_tail": 0.75,
+  "pali": "na ca bhikkhū bhaya-gāmino"
+ },
+ {
+  "ch": 4,
+  "idx": 306,
+  "st": "末词疑似缺失",
+  "lw": "papasamacaro",
+  "lw_suf": "macaro",
+  "dec": "ayeazamaagoogulaaduzagoobabaazamaajaroo",
+  "r_tail": 0.45,
+  "pali": "āyasmā kho kula-dūsako pāpa-samācāro"
+ },
+ {
+  "ch": 4,
+  "idx": 308,
+  "st": "末词疑似缺失",
+  "lw": "ca",
+  "lw_suf": "ca",
+  "dec": "ajaradesandijewasurandika",
+  "r_tail": 0.17,
+  "pali": "dissanti ceva suyyanti ca"
+ },
+ {
+  "ch": 4,
+  "idx": 310,
+  "st": "末词疑似缺失",
+  "lw": "ca",
+  "lw_suf": "ca",
+  "dec": "uthaanidikcantikewaacunrantnkraa",
+  "r_tail": 0.27,
+  "pali": "dissanti ceva suyyanti ca"
+ },
+ {
+  "ch": 4,
+  "idx": 311,
+  "st": "末词疑似缺失",
+  "lw": "avasa",
+  "lw_suf": "avasa",
+  "dec": "bagamadayazemaaimamaawazaa",
+  "r_tail": 0.38,
+  "pali": "pakkamatāyasmā imamhā āvāsā"
+ },
+ {
+  "ch": 4,
+  "idx": 312,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "alandeidaawasenaadny",
+  "r_tail": 0.0,
+  "pali": "alaṃ te idha vāsenā ti"
+ },
+ {
+  "ch": 4,
+  "idx": 313,
+  "st": "OK-末词在尾",
+  "lw": "vuccamano",
+  "lw_suf": "camano",
+  "dec": "ewenjazoobegubegueojamanoo",
+  "r_tail": 0.59,
+  "pali": "evañca so bhikkhu bhikkhūhi vuccamāno"
+ },
+ {
+  "ch": 4,
+  "idx": 314,
+  "st": "OK-末词在尾",
+  "lw": "pagganheyya",
+  "lw_suf": "nheyya",
+  "dec": "dateewaabeganeeyaa",
+  "r_tail": 0.57,
+  "pali": "tatheva paggaṇheyya"
+ },
+ {
+  "ch": 4,
+  "idx": 316,
+  "st": "末词疑似缺失",
+  "lw": "samanubhasitabbo",
+  "lw_suf": "itabbo",
+  "dec": "apegiuiraawadadiranjamaniubhajidabeaa",
+  "r_tail": 0.29,
+  "pali": "yāva-tatiyaṃ samanubhāsitabbo"
+ },
+ {
+  "ch": 4,
+  "idx": 317,
+  "st": "末词疑似缺失",
+  "lw": "patinissaggaya",
+  "lw_suf": "aggaya",
+  "dec": "takjaapatinhejakkaara",
+  "r_tail": 0.4,
+  "pali": "tassa paṭinissaggāya"
+ },
+ {
+  "ch": 4,
+  "idx": 319,
+  "st": "OK-末词在尾",
+  "lw": "patinissajjeyya",
+  "lw_suf": "jjeyya",
+  "dec": "debadinesejeya",
+  "r_tail": 0.67,
+  "pali": "taṃ paṭinissajjeyya"
+ },
+ {
+  "ch": 4,
+  "idx": 320,
+  "st": "末词疑似缺失",
+  "lw": "kusalam",
+  "lw_suf": "usalam",
+  "dec": "ejeedanguzelan",
+  "r_tail": 0.5,
+  "pali": "iccetaṃ kusalaṃ"
+ },
+ {
+  "ch": 4,
+  "idx": 321,
+  "st": "末词疑似缺失",
+  "lw": "sanghadiseso",
+  "lw_suf": "diseso",
+  "dec": "neaakrapatinitcakkreracankatiyceceaa",
+  "r_tail": 0.19,
+  "pali": "no ce paṭinissajjeyya saṅghādiseso"
+ },
+ {
+  "ch": 4,
+  "idx": 322,
+  "st": "末词疑似缺失",
+  "lw": "ayasmanto",
+  "lw_suf": "smanto",
+  "dec": "udaytaakhwaaaracamanteaa",
+  "r_tail": 0.5,
+  "pali": "Uddiṭṭhā kho āyasmanto"
+ },
+ {
+  "ch": 4,
+  "idx": 323,
+  "st": "末词疑似缺失",
+  "lw": "dhamma",
+  "lw_suf": "dhamma",
+  "dec": "deelezazangadizezaadenmaa",
+  "r_tail": 0.38,
+  "pali": "terasa saṅghādisesā dhammā"
+ },
+ {
+  "ch": 4,
+  "idx": 324,
+  "st": "末词疑似缺失",
+  "lw": "pathamapattika",
+  "lw_suf": "attika",
+  "dec": "nawabadamabadiig",
+  "r_tail": 0.31,
+  "pali": "nava paṭhamāpattikā"
+ },
+ {
+  "ch": 4,
+  "idx": 325,
+  "st": "OK-末词在尾",
+  "lw": "yavatatiyaka",
+  "lw_suf": "tiyaka",
+  "dec": "ikaakyadaateaarawatatannyyakka",
+  "r_tail": 0.56,
+  "pali": "cattāro yāva-tatiyakā"
+ },
+ {
+  "ch": 4,
+  "idx": 327,
+  "st": "OK-末词在尾",
+  "lw": "paticchadeti",
+  "lw_suf": "hadeti",
+  "dec": "yawadiihamjaanaadejaadetii",
+  "r_tail": 0.59,
+  "pali": "yāvatīhaṃ jānaṃ paṭicchādeti"
+ },
+ {
+  "ch": 4,
+  "idx": 329,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhuna",
+  "lw_suf": "kkhuna",
+  "dec": "adabanpriudapriwaacenaabekunaa",
+  "r_tail": 0.44,
+  "pali": "Parivuttha-parivāsena bhikkhunā"
+ },
+ {
+  "ch": 4,
+  "idx": 330,
+  "st": "末词疑似缺失",
+  "lw": "patipajjitabbam",
+  "lw_suf": "tabbam",
+  "dec": "udariikhyaraktanpekiumanataaraapatannypakkretakpan",
+  "r_tail": 0.23,
+  "pali": "uttari chārattaṃ bhikkhu-mānattāya paṭipajjitabbaṃ"
+ },
+ {
+  "ch": 4,
+  "idx": 331,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhu",
+  "lw_suf": "hikkhu",
+  "dec": "jenamanatobegu",
+  "r_tail": 0.17,
+  "pali": "ciṇṇa-mānatto bhikkhu"
+ },
+ {
+  "ch": 4,
+  "idx": 332,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhusangho",
+  "lw_suf": "sangho",
+  "dec": "yataziyaawidawizadiganoobeguzangoo",
+  "r_tail": 0.4,
+  "pali": "yattha siyā vīsati-gaṇo bhikkhusaṅgho"
+ },
+ {
+  "ch": 4,
+  "idx": 333,
+  "st": "OK-末词在尾",
+  "lw": "abbhetabbo",
+  "lw_suf": "etabbo",
+  "dec": "dantazoobegoabedaboo",
+  "r_tail": 0.57,
+  "pali": "tattha so bhikkhu abbhetabbo"
+ },
+ {
+  "ch": 4,
+  "idx": 334,
+  "st": "末词疑似缺失",
+  "lw": "visatigano",
+  "lw_suf": "tigano",
+  "dec": "iginabijeiunoowijediigenoo",
+  "r_tail": 0.47,
+  "pali": "Ekenapi ce ūno vīsati-gaṇo"
+ },
+ {
+  "ch": 4,
+  "idx": 335,
+  "st": "末词疑似缺失",
+  "lw": "abbheyya",
+  "lw_suf": "bheyya",
+  "dec": "bheguajankeaatanbekunapbheraa",
+  "r_tail": 0.44,
+  "pali": "bhikkhu-saṅgho taṃ bhikkhuṃ abbheyya"
+ },
+ {
+  "ch": 4,
+  "idx": 338,
+  "st": "OK-末词在尾",
+  "lw": "samici",
+  "lw_suf": "samici",
+  "dec": "areshayantatajamiiki",
+  "r_tail": 0.57,
+  "pali": "ayaṃ tattha sāmīci"
+ },
+ {
+  "ch": 4,
+  "idx": 339,
+  "st": "末词疑似缺失",
+  "lw": "parisuddha",
+  "lw_suf": "suddha",
+  "dec": "tatthaaracamanteputkhraamiikaikhyipthaapariicuntaa",
+  "r_tail": 0.15,
+  "pali": "Tatthāyasmante pucchāmi kaccittha parisuddhā"
+ },
+ {
+  "ch": 6,
+  "idx": 434,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhuna",
+  "lw_suf": "kkhuna",
+  "dec": "jandarautabaramantenaapekunaa",
+  "r_tail": 0.44,
+  "pali": "santaruttara-paramaṃ tena bhikkhunā"
+ },
+ {
+  "ch": 6,
+  "idx": 437,
+  "st": "OK-末词在尾",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "neisegiyambajetiyam",
+  "r_tail": 0.71,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 449,
+  "st": "末词疑似缺失",
+  "lw": "upadaya",
+  "lw_suf": "padaya",
+  "dec": "kalaraanaakamyatanuupaataara",
+  "r_tail": 0.44,
+  "pali": "kalyāṇa-kamyataṃ upādāya"
+ },
+ {
+  "ch": 6,
+  "idx": 454,
+  "st": "末词疑似缺失",
+  "lw": "paccekacivaracetapannehi",
+  "lw_suf": "annehi",
+  "dec": "imeimeyanbejegajiwatajedabaneye",
+  "r_tail": 0.32,
+  "pali": "imehi mayaṃ pacceka-cīvara-cetāpannehi"
+ },
+ {
+  "ch": 6,
+  "idx": 459,
+  "st": "末词疑似缺失",
+  "lw": "ayasmanto",
+  "lw_suf": "smanto",
+  "dec": "saaduwadaamaayazamadoo",
+  "r_tail": 0.4,
+  "pali": "sādhu vata maṃ āyasmanto"
+ },
+ {
+  "ch": 6,
+  "idx": 464,
+  "st": "OK-末词在尾",
+  "lw": "upadaya",
+  "lw_suf": "padaya",
+  "dec": "gaalayaanaakamyatanuupaadaara",
+  "r_tail": 0.56,
+  "pali": "kalyāṇa-kamyataṃ upādāya"
+ },
+ {
+  "ch": 6,
+  "idx": 468,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "bhranmanneaawaagaapatiikiaawaa",
+  "r_tail": 0.14,
+  "pali": "brāhmaṇo vā gaha-patiko vā"
+ },
+ {
+  "ch": 6,
+  "idx": 490,
+  "st": "末词疑似缺失",
+  "lw": "saretabbo",
+  "lw_suf": "etabbo",
+  "dec": "dodegadunkyodedabojadidaba",
+  "r_tail": 0.35,
+  "pali": "dvatti-kkhattuṃ codetabbo sāretabbo"
+ },
+ {
+  "ch": 6,
+  "idx": 491,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "ateaameaaauceaakriiwatenaasanny",
+  "r_tail": 0.13,
+  "pali": "attho me āvuso cīvarenā ti"
+ },
+ {
+  "ch": 6,
+  "idx": 492,
+  "st": "末词疑似缺失",
+  "lw": "sarayamano",
+  "lw_suf": "yamano",
+  "dec": "dadaighadanjoriamaanajaariamaana",
+  "r_tail": 0.42,
+  "pali": "dvattikkhattuṃ codayamāno sārayamāno"
+ },
+ {
+  "ch": 6,
+  "idx": 495,
+  "st": "OK-末词在尾",
+  "lw": "abhinipphadeyya",
+  "lw_suf": "adeyya",
+  "dec": "nljlabhinahibhadyya",
+  "r_tail": 0.71,
+  "pali": "no ce abhinipphādeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 496,
+  "st": "末词疑似缺失",
+  "lw": "chakkhattuparamam",
+  "lw_suf": "aramam",
+  "dec": "jadogadonbenjagadoncegaduubaraman",
+  "r_tail": 0.5,
+  "pali": "catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 497,
+  "st": "末词疑似缺失",
+  "lw": "thatabbam",
+  "lw_suf": "tabbam",
+  "dec": "dunnibhutenaautecathaatakpan",
+  "r_tail": 0.33,
+  "pali": "tuṇhībhūtena uddissa ṭhātabbaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 498,
+  "st": "末词疑似缺失",
+  "lw": "chakkhattuparamam",
+  "lw_suf": "aramam",
+  "dec": "jadugadonbenjagadonjegaduubarama",
+  "r_tail": 0.53,
+  "pali": "catukkhattuṃ pañcakkhattuṃ chakkhattuparamaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 500,
+  "st": "OK-末词在尾",
+  "lw": "abhinipphadeyya",
+  "lw_suf": "adeyya",
+  "dec": "tanjiwaranabinaipadeeya",
+  "r_tail": 0.62,
+  "pali": "taṃ cīvaraṃ abhinipphādeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 501,
+  "st": "OK-末词在尾",
+  "lw": "kusalam",
+  "lw_suf": "usalam",
+  "dec": "ejeedaaguzalaa",
+  "r_tail": 0.67,
+  "pali": "iccetaṃ kusalaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 502,
+  "st": "OK-末词在尾",
+  "lw": "vayamamano",
+  "lw_suf": "mamano",
+  "dec": "dadoojeeoderiiwaemamanao",
+  "r_tail": 0.75,
+  "pali": "tato ce uttari vāyamamāno"
+ },
+ {
+  "ch": 6,
+  "idx": 503,
+  "st": "OK-末词在尾",
+  "lw": "abhinipphadeyya",
+  "lw_suf": "adeyya",
+  "dec": "danjiwaranabinebadeya",
+  "r_tail": 0.67,
+  "pali": "taṃ cīvaraṃ abhinipphādeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 504,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "nezegiyabajaidiya",
+  "r_tail": 0.46,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 505,
+  "st": "末词疑似缺失",
+  "lw": "abhinipphadeyya",
+  "lw_suf": "adeyya",
+  "dec": "neaakraypiinitpaadera",
+  "r_tail": 0.53,
+  "pali": "No ce abhinipphādeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 506,
+  "st": "末词疑似缺失",
+  "lw": "abhatam",
+  "lw_suf": "bhatam",
+  "dec": "yadazajiwurajirabanaabada",
+  "r_tail": 0.38,
+  "pali": "yatassa cīvara-cetāpannaṃ ābhataṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 507,
+  "st": "末词疑似缺失",
+  "lw": "gantabbam",
+  "lw_suf": "tabbam",
+  "dec": "dadaazaamanwagandabaan",
+  "r_tail": 0.4,
+  "pali": "tattha sāmaṃ vā gantabbaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 508,
+  "st": "末词疑似缺失",
+  "lw": "pahetabbo",
+  "lw_suf": "etabbo",
+  "dec": "duudeaawaabaahedapeaa",
+  "r_tail": 0.27,
+  "pali": "dūto vā pāhetabbo"
+ },
+ {
+  "ch": 6,
+  "idx": 509,
+  "st": "末词疑似缺失",
+  "lw": "ayasmanto",
+  "lw_suf": "smanto",
+  "dec": "yankoodoomeayazamandoo",
+  "r_tail": 0.53,
+  "pali": "yaṃ kho tumhe āyasmanto"
+ },
+ {
+  "ch": 6,
+  "idx": 510,
+  "st": "末词疑似缺失",
+  "lw": "pahinittha",
+  "lw_suf": "nittha",
+  "dec": "bhekunauptejariiwarakhredapannanpiihinetaa",
+  "r_tail": 0.35,
+  "pali": "bhikkhuṃ uddissa cīvara-cetāpannaṃ pahiṇittha"
+ },
+ {
+  "ch": 6,
+  "idx": 511,
+  "st": "OK-末词在尾",
+  "lw": "bhikkhuno",
+  "lw_suf": "kkhuno",
+  "dec": "nnadandazabekunoo",
+  "r_tail": 0.62,
+  "pali": "na taṃ tassa bhikkhuno"
+ },
+ {
+  "ch": 6,
+  "idx": 513,
+  "st": "末词疑似缺失",
+  "lw": "sakam",
+  "lw_suf": "sakam",
+  "dec": "yunkrantayajamhantaajakan",
+  "r_tail": 0.4,
+  "pali": "yuñjantāyasmanto sakaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 514,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "maawoozegaunazaadii",
+  "r_tail": 0.2,
+  "pali": "mā vo sakaṃ vinassā ti"
+ },
+ {
+  "ch": 6,
+  "idx": 515,
+  "st": "OK-末词在尾",
+  "lw": "samici",
+  "lw_suf": "samici",
+  "dec": "arantathaacamikri",
+  "r_tail": 0.62,
+  "pali": "ayaṃ tattha sāmīci"
+ },
+ {
+  "ch": 6,
+  "idx": 518,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "nesegiyabakediya",
+  "r_tail": 0.46,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 519,
+  "st": "末词疑似缺失",
+  "lw": "elakalomanam",
+  "lw_suf": "omanam",
+  "dec": "gabanaabegusokdaagalaganaelagaalomana",
+  "r_tail": 0.48,
+  "pali": "Yo pana bhikkhu suddha-kāḷakānaṃ eḷaka-lomānaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 522,
+  "st": "末词疑似缺失",
+  "lw": "karayamanena",
+  "lw_suf": "manena",
+  "dec": "nunbanaabegunaazendedangariamaninaa",
+  "r_tail": 0.5,
+  "pali": "Navaṃ pana bhikkhunā santhataṃ kārayamānena"
+ },
+ {
+  "ch": 6,
+  "idx": 523,
+  "st": "末词疑似缺失",
+  "lw": "adatabba",
+  "lw_suf": "atabba",
+  "dec": "doibaagazoudagalagaanaelagaalomanaaadaadabaa",
+  "r_tail": 0.33,
+  "pali": "dve bhāgā suddha-kāḷakānaṃ eḷaka-lomānaṃ ādātabbā"
+ },
+ {
+  "ch": 6,
+  "idx": 525,
+  "st": "末词疑似缺失",
+  "lw": "elakalomanam",
+  "lw_suf": "omanam",
+  "dec": "anaadaajerapitkiutwebhaakhaichuptagalagaananelagaaleaampaana",
+  "r_tail": 0.27,
+  "pali": "Anādā ce bhikkhu dve bhāge suddha-kāḷakānaṃ eḷaka-lomānaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 526,
+  "st": "末词疑似缺失",
+  "lw": "gocariyanam",
+  "lw_suf": "iyanam",
+  "dec": "dadiiyaodaadanajadodangojariyaana",
+  "r_tail": 0.5,
+  "pali": "tatiyaṃ odātānaṃ catutthaṃ gocariyānaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 529,
+  "st": "末词疑似缺失",
+  "lw": "karapetva",
+  "lw_suf": "apetva",
+  "dec": "nobanaabigunazandadangarapidawa",
+  "r_tail": 0.32,
+  "pali": "Navaṃ pana bhikkhunā santhataṃ kārāpetvā"
+ },
+ {
+  "ch": 6,
+  "idx": 530,
+  "st": "末词疑似缺失",
+  "lw": "dharetabbam",
+  "lw_suf": "tabbam",
+  "dec": "chabazanedaredaba",
+  "r_tail": 0.46,
+  "pali": "chabbassāni dhāretabbaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 531,
+  "st": "末词疑似缺失",
+  "lw": "vassanam",
+  "lw_suf": "ssanam",
+  "dec": "orinaakekhannanwojana",
+  "r_tail": 0.4,
+  "pali": "orena ce channaṃ vassānaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 532,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "danzandandanwezejadawawaawaejadawawa",
+  "r_tail": 0.12,
+  "pali": "taṃ santhataṃ vissajjetvā vā avissajjetvā vā"
+ },
+ {
+  "ch": 6,
+  "idx": 533,
+  "st": "末词疑似缺失",
+  "lw": "karapeyya",
+  "lw_suf": "apeyya",
+  "dec": "enyanawozandadangarabeya",
+  "r_tail": 0.5,
+  "pali": "aññaṃ navaṃ santhataṃ kārāpeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 535,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "diyanesegiyapajediya",
+  "r_tail": 0.43,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 536,
+  "st": "末词疑似缺失",
+  "lw": "karayamanena",
+  "lw_suf": "manena",
+  "dec": "nijeranaajandadanbanaabeguunaakariamanenaa",
+  "r_tail": 0.52,
+  "pali": "Nisīdana-santhataṃ pana bhikkhunā kārayamānena"
+ },
+ {
+  "ch": 6,
+  "idx": 537,
+  "st": "末词疑似缺失",
+  "lw": "adatabba",
+  "lw_suf": "atabba",
+  "dec": "buranasandadazaazamandasugadawidadiadadaba",
+  "r_tail": 0.35,
+  "pali": "purāṇa-santhatassa sāmantā sugata-vidatthi ādātabbā"
+ },
+ {
+  "ch": 6,
+  "idx": 538,
+  "st": "OK-末词在尾",
+  "lw": "dubbannakaranaya",
+  "lw_suf": "ranaya",
+  "dec": "dubannagaranaara",
+  "r_tail": 0.77,
+  "pali": "dubbaṇṇa-karaṇāya"
+ },
+ {
+  "ch": 6,
+  "idx": 540,
+  "st": "末词疑似缺失",
+  "lw": "karapeyya",
+  "lw_suf": "apeyya",
+  "dec": "nawonizerenaazandadangarabeeya",
+  "r_tail": 0.44,
+  "pali": "navaṃ nisīdana-santhataṃ kārāpeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 541,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "neseegiyabajediya",
+  "r_tail": 0.46,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 543,
+  "st": "末词疑似缺失",
+  "lw": "patiggahetabbani",
+  "lw_suf": "abbani",
+  "dec": "aagangamananaabegunaabadegaydabaanie",
+  "r_tail": 0.48,
+  "pali": "ākaṅkhamānena bhikkhunā paṭiggahetabbāni"
+ },
+ {
+  "ch": 6,
+  "idx": 544,
+  "st": "OK-末词在尾",
+  "lw": "tiyojanaparamam",
+  "lw_suf": "aramam",
+  "dec": "badaigehedawadiyoojanaabaraman",
+  "r_tail": 0.56,
+  "pali": "paṭiggahetvā tiyojana-paramaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 545,
+  "st": "末词疑似缺失",
+  "lw": "harake",
+  "lw_suf": "harake",
+  "dec": "zahadahiridabaniiazandeharegee",
+  "r_tail": 0.44,
+  "pali": "sahatthā haritabbāni asante hārake"
+ },
+ {
+  "ch": 6,
+  "idx": 547,
+  "st": "OK-末词在尾",
+  "lw": "harake",
+  "lw_suf": "harake",
+  "dec": "reyaajandeepiiharage",
+  "r_tail": 0.71,
+  "pali": "asantepi hārake"
+ },
+ {
+  "ch": 6,
+  "idx": 548,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "nezegiyapajediya",
+  "r_tail": 0.46,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 549,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhuniya",
+  "lw_suf": "huniya",
+  "dec": "reaapannaabekhiuangnyaatannykaarabekhiuneraa",
+  "r_tail": 0.33,
+  "pali": "Yo pana bhikkhu aññātikāya bhikkhuniyā"
+ },
+ {
+  "ch": 6,
+  "idx": 550,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "elagalomanidowabeyawarajabeyawawujadabeyawa",
+  "r_tail": 0.1,
+  "pali": "eḷaka-lomāni dhovāpeyya vā rajāpeyya vā vijaṭāpeyya vā"
+ },
+ {
+  "ch": 6,
+  "idx": 551,
+  "st": "OK-末词在尾",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "nisegiyapajetiya",
+  "r_tail": 0.62,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 553,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "uganneyawaaughannaabeyaawaa",
+  "r_tail": 0.15,
+  "pali": "uggaṇheyya vā uggaṇhāpeyya vā"
+ },
+ {
+  "ch": 6,
+  "idx": 555,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "eyanezegiyapajediya",
+  "r_tail": 0.43,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 557,
+  "st": "末词疑似缺失",
+  "lw": "samapajjeyya",
+  "lw_suf": "jjeyya",
+  "dec": "aarakanruubiasangwoharansamaabejeya",
+  "r_tail": 0.4,
+  "pali": "rūpiya-saṃvohāraṃ samāpajjeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 558,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "yanezegiyaabajediyaa",
+  "r_tail": 0.43,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 559,
+  "st": "末词疑似缺失",
+  "lw": "nanappakarakam",
+  "lw_suf": "arakam",
+  "dec": "yoobanaabegunannabagaragaa",
+  "r_tail": 0.47,
+  "pali": "Yo pana bhikkhu nāna-ppakārakaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 560,
+  "st": "末词疑似缺失",
+  "lw": "samapajjeyya",
+  "lw_suf": "jjeyya",
+  "dec": "kayaaweigayansamabejeya",
+  "r_tail": 0.5,
+  "pali": "kaya-vikkayaṃ samāpajjeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 561,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "yanijaygaranpaakhritannyyan",
+  "r_tail": 0.35,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 563,
+  "st": "末词疑似缺失",
+  "lw": "dharetabbo",
+  "lw_suf": "etabbo",
+  "dec": "dajaabaramaadirikabadodaaridaboo",
+  "r_tail": 0.32,
+  "pali": "Dasāha-paramaṃ atireka-patto dhāretabbo"
+ },
+ {
+  "ch": 6,
+  "idx": 565,
+  "st": "末词疑似缺失",
+  "lw": "pattena",
+  "lw_suf": "attena",
+  "dec": "yeaabanaabaikuunabangkyabhandanenaapatdena",
+  "r_tail": 0.35,
+  "pali": "Yo pana bhikkhu ūnapañca-bandhanena pattena"
+ },
+ {
+  "ch": 6,
+  "idx": 567,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "beyanesegiyabajediya",
+  "r_tail": 0.43,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 568,
+  "st": "末词疑似缺失",
+  "lw": "nissajjitabbo",
+  "lw_suf": "itabbo",
+  "dec": "deenabegunaseaobadaabegubarisayanesegidabao",
+  "r_tail": 0.33,
+  "pali": "Tena bhikkhunā so patto bhikkhu-parisāya nissajjitabbo"
+ },
+ {
+  "ch": 6,
+  "idx": 569,
+  "st": "末词疑似缺失",
+  "lw": "pattapariyanto",
+  "lw_suf": "iyanto",
+  "dec": "yoozaadazaabigobirizaayaabadabiryandoo",
+  "r_tail": 0.45,
+  "pali": "yo ca tassā bhikkhu-parisāya patta-pariyanto"
+ },
+ {
+  "ch": 6,
+  "idx": 572,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "raawaabedanaradaaritapasanny",
+  "r_tail": 0.14,
+  "pali": "yāva bhedanāya dhāretabbo ti"
+ },
+ {
+  "ch": 6,
+  "idx": 573,
+  "st": "OK-末词在尾",
+  "lw": "samici",
+  "lw_suf": "samici",
+  "dec": "arantatthaacaamikrii",
+  "r_tail": 0.57,
+  "pali": "ayaṃ tattha sāmīci"
+ },
+ {
+  "ch": 6,
+  "idx": 574,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhunam",
+  "lw_suf": "khunam",
+  "dec": "yanikobanadaniigilananabeguuna",
+  "r_tail": 0.33,
+  "pali": "Yāni kho pana tāni gilānānaṃ bhikkhūnaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 575,
+  "st": "末词疑似缺失",
+  "lw": "bhesajjani",
+  "lw_suf": "ajjani",
+  "dec": "parijayaniyanibejagraananny",
+  "r_tail": 0.35,
+  "pali": "paṭisāyanīyāni bhesajjāni"
+ },
+ {
+  "ch": 6,
+  "idx": 576,
+  "st": "末词疑似缺失",
+  "lw": "phanitam",
+  "lw_suf": "anitam",
+  "dec": "cerathidancabinaranitantelanmaduphaanitan",
+  "r_tail": 0.43,
+  "pali": "seyyathidaṃ sappi navanītaṃ telaṃ madhu phāṇitaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 578,
+  "st": "末词疑似缺失",
+  "lw": "paribhunjitabbani",
+  "lw_suf": "abbani",
+  "dec": "sadahabaramajanidekarakanbaribungidabhaannny",
+  "r_tail": 0.33,
+  "pali": "sattāha-paramaṃ sannidhi-kārakaṃ paribhuñjitabbāni"
+ },
+ {
+  "ch": 6,
+  "idx": 579,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "tantigaamarateaanecagiiranpaakritannyya",
+  "r_tail": 0.27,
+  "pali": "taṃ atikkāmayato nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 581,
+  "st": "末词疑似缺失",
+  "lw": "pariyesitabbam",
+  "lw_suf": "tabbam",
+  "dec": "bekuunaawacekacaatikakraiiwadanparirecnatatpan",
+  "r_tail": 0.24,
+  "pali": "bhikkhunā vassika-sāṭika-cīvaraṃ pariyesitabbaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 582,
+  "st": "末词疑似缺失",
+  "lw": "nivasetabbam",
+  "lw_suf": "tabbam",
+  "dec": "atamhajeaajeceaaginmaanantaiykatawaanaiywaacetatpan",
+  "r_tail": 0.22,
+  "pali": "addhamāso seso gimhānan ti katvā nivāsetabbaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 584,
+  "st": "末词疑似缺失",
+  "lw": "pariyeseyya",
+  "lw_suf": "eseyya",
+  "dec": "wakcekajadikakriiwaranpatreceraa",
+  "r_tail": 0.32,
+  "pali": "vassika-sāṭika-cīvaraṃ pariyeseyya"
+ },
+ {
+  "ch": 6,
+  "idx": 587,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "nesegiyabajediya",
+  "r_tail": 0.46,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 589,
+  "st": "末词疑似缺失",
+  "lw": "datva",
+  "lw_suf": "datva",
+  "dec": "kocaasamanjriwarandatawa",
+  "r_tail": 0.53,
+  "pali": "sāmaṃ cīvaraṃ datvā"
+ },
+ {
+  "ch": 6,
+  "idx": 590,
+  "st": "OK-末词在尾",
+  "lw": "anattamano",
+  "lw_suf": "tamano",
+  "dec": "kubidonadamvnoo",
+  "r_tail": 0.67,
+  "pali": "kupito anattamano"
+ },
+ {
+  "ch": 6,
+  "idx": 592,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "awanezegiyapajediya",
+  "r_tail": 0.43,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 593,
+  "st": "末词疑似缺失",
+  "lw": "vinnapetva",
+  "lw_suf": "apetva",
+  "dec": "yeaabannaabegujamancupdaanwunyaabadawaa",
+  "r_tail": 0.18,
+  "pali": "Yo pana bhikkhu sāmaṃ suttaṃ viññāpetvā"
+ },
+ {
+  "ch": 6,
+  "idx": 599,
+  "st": "末词疑似缺失",
+  "lw": "appavarito",
+  "lw_suf": "varito",
+  "dec": "dadarajesobegubobeabawaridoo",
+  "r_tail": 0.44,
+  "pali": "tatra ce so bhikkhu pubbe appavārito"
+ },
+ {
+  "ch": 6,
+  "idx": 601,
+  "st": "末词疑似缺失",
+  "lw": "apajjeyya",
+  "lw_suf": "jjeyya",
+  "dec": "idawasiwerewikabanavejeya",
+  "r_tail": 0.5,
+  "pali": "cīvare vikappaṃ āpajjeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 603,
+  "st": "OK-末词在尾",
+  "lw": "karotha",
+  "lw_suf": "arotha",
+  "dec": "ayadinzagarotha",
+  "r_tail": 1.0,
+  "pali": "āyatañca karotha"
+ },
+ {
+  "ch": 6,
+  "idx": 604,
+  "st": "OK-末词在尾",
+  "lw": "appitanca",
+  "lw_suf": "itanca",
+  "dec": "wedadangjaapidangja",
+  "r_tail": 0.57,
+  "pali": "vitthatañca appitañca"
+ },
+ {
+  "ch": 6,
+  "idx": 605,
+  "st": "OK-末词在尾",
+  "lw": "suppavayitanca",
+  "lw_suf": "itanca",
+  "dec": "chuwitangcancupeawaritangcaa",
+  "r_tail": 0.67,
+  "pali": "suvītañca suppavāyitañca"
+ },
+ {
+  "ch": 6,
+  "idx": 606,
+  "st": "末词疑似缺失",
+  "lw": "karotha",
+  "lw_suf": "arotha",
+  "dec": "cuwilakygetangjaacaitecitangjaakateaataa",
+  "r_tail": 0.27,
+  "pali": "suvilekhitañca suvitacchitañca karotha"
+ },
+ {
+  "ch": 6,
+  "idx": 608,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "ayazamadanagenjimadananubedejeyamadi",
+  "r_tail": 0.12,
+  "pali": "āyasmantānaṃ kiñci-mattaṃ anupadajjeyyāmā ti"
+ },
+ {
+  "ch": 6,
+  "idx": 610,
+  "st": "末词疑似缺失",
+  "lw": "anupadajjeyya",
+  "lw_suf": "jjeyya",
+  "dec": "wakinkriimhatananupatacjreraa",
+  "r_tail": 0.33,
+  "pali": "kiñci-mattaṃ anupadajjeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 613,
+  "st": "末词疑似缺失",
+  "lw": "kattikatemasikapunnamam",
+  "lw_suf": "nnamam",
+  "dec": "dajanaagatankatiikatemaacikaapunamhan",
+  "r_tail": 0.38,
+  "pali": "Dasāhānāgataṃ kattika-temāsika-puṇṇamaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 614,
+  "st": "末词疑似缺失",
+  "lw": "uppajjeyya",
+  "lw_suf": "jjeyya",
+  "dec": "begunobanewaejegajiweranubejeya",
+  "r_tail": 0.42,
+  "pali": "bhikkhuno paneva acceka-cīvaraṃ uppajjeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 615,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhuna",
+  "lw_suf": "kkhuna",
+  "dec": "yajaiganminyamaninabeguna",
+  "r_tail": 0.38,
+  "pali": "accekaṃ maññamānena bhikkhunā"
+ },
+ {
+  "ch": 6,
+  "idx": 618,
+  "st": "末词疑似缺失",
+  "lw": "nikkhipeyya",
+  "lw_suf": "ipeyya",
+  "dec": "tatteaagyaiautarenakipera",
+  "r_tail": 0.5,
+  "pali": "Tato ce uttari nikkhipeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 620,
+  "st": "末词疑似缺失",
+  "lw": "kattikapunnamam",
+  "lw_suf": "nnamam",
+  "dec": "ubawajangaabanaagadiikaabunnama",
+  "r_tail": 0.53,
+  "pali": "Upavassaṃ kho pana kattika-puṇṇamaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 621,
+  "st": "末词疑似缺失",
+  "lw": "senasanani",
+  "lw_suf": "sanani",
+  "dec": "ranikheaabanadaniaaarannyakaanannycenaakanaananny",
+  "r_tail": 0.31,
+  "pali": "yāni kho pana tāni āraññakāni senāsanāni"
+ },
+ {
+  "ch": 6,
+  "idx": 625,
+  "st": "末词疑似缺失",
+  "lw": "nikkhipeyya",
+  "lw_suf": "ipeyya",
+  "dec": "enyadaranjewaranandraagarenekibeya",
+  "r_tail": 0.4,
+  "pali": "aññataraṃ cīvaraṃ antara-ghare nikkhipeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 628,
+  "st": "末词疑似缺失",
+  "lw": "vippavasaya",
+  "lw_suf": "vasaya",
+  "dec": "denagewarenaawipawajaya",
+  "r_tail": 0.5,
+  "pali": "tena cīvarena vippavāsāya"
+ },
+ {
+  "ch": 6,
+  "idx": 631,
+  "st": "末词疑似缺失",
+  "lw": "vippavaseyya",
+  "lw_suf": "aseyya",
+  "dec": "dadaagyayudariebawajeya",
+  "r_tail": 0.5,
+  "pali": "Tato ce uttari vippavaseyya"
+ },
+ {
+  "ch": 6,
+  "idx": 632,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhusammutiya",
+  "lw_suf": "mutiya",
+  "dec": "jeraanyatarabhekhiucaamutannyra",
+  "r_tail": 0.53,
+  "pali": "aññatra bhikkhu-sammutiyā"
+ },
+ {
+  "ch": 6,
+  "idx": 633,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "ynesegiyapajediya",
+  "r_tail": 0.46,
+  "pali": "nissaggiyaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 6,
+  "idx": 635,
+  "st": "OK-末词在尾",
+  "lw": "parinameyya",
+  "lw_suf": "ameyya",
+  "dec": "barainaadanadancbirinaameya",
+  "r_tail": 0.59,
+  "pali": "pariṇataṃ attano pariṇāmeyya"
+ },
+ {
+  "ch": 6,
+  "idx": 638,
+  "st": "末词疑似缺失",
+  "lw": "ayasmanto",
+  "lw_suf": "smanto",
+  "dec": "gutantaakheaaaracamanteaa",
+  "r_tail": 0.5,
+  "pali": "Uddiṭṭhā kho āyasmanto"
+ },
+ {
+  "ch": 6,
+  "idx": 639,
+  "st": "末词疑似缺失",
+  "lw": "dhamma",
+  "lw_suf": "dhamma",
+  "dec": "deenzanezegiabadjediyaadama",
+  "r_tail": 0.47,
+  "pali": "tiṃsa nissaggiyā pācittiyā dhammā"
+ },
+ {
+  "ch": 6,
+  "idx": 641,
+  "st": "末词疑似缺失",
+  "lw": "parisuddha",
+  "lw_suf": "suddha",
+  "dec": "duutiramprepugraamanikakhrindaparicutaa",
+  "r_tail": 0.18,
+  "pali": "dutiyampi pucchāmi kaccittha parisuddhā"
+ },
+ {
+  "ch": 7,
+  "idx": 681,
+  "st": "末词疑似缺失",
+  "lw": "kappeyya",
+  "lw_suf": "ppeyya",
+  "dec": "jaanabobubagadanbegoadubagajajeyankabeya",
+  "r_tail": 0.36,
+  "pali": "jānaṃ pubbupagataṃ bhikkhuṃ anupakhajja seyyaṃ kappeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 686,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "cangigaawiharanigadeyawaanegadaabeawabhagridiian",
+  "r_tail": 0.15,
+  "pali": "saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 699,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "cimgrerawacinkyaberawaapaakrittannyran",
+  "r_tail": 0.36,
+  "pali": "siñceyya vā siñcāpeyya vā pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 705,
+  "st": "末词疑似缺失",
+  "lw": "upasankamitva",
+  "lw_suf": "amitva",
+  "dec": "yaubannaabegubeguunubazinanubazingameidawaa",
+  "r_tail": 0.33,
+  "pali": "Yo pana bhikkhu bhikkhun(ī)-upassayaṃ upasaṅkamitvā"
+ },
+ {
+  "ch": 7,
+  "idx": 707,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhuni",
+  "lw_suf": "kkhuni",
+  "dec": "tatthaarancakmaireaakilaanaaheaatannypekhune",
+  "r_tail": 0.33,
+  "pali": "Tatthāyaṃ samayo gilānā hoti bhikkhunī"
+ },
+ {
+  "ch": 7,
+  "idx": 716,
+  "st": "末词疑似缺失",
+  "lw": "patipajjeyya",
+  "lw_suf": "jjeyya",
+  "dec": "egadanameganbatibejeya",
+  "r_tail": 0.53,
+  "pali": "ekaddhāna-maggaṃ paṭipajjeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 728,
+  "st": "末词疑似缺失",
+  "lw": "bhunjeyya",
+  "lw_suf": "njeyya",
+  "dec": "bhiguunhibarebhaagredanbingdabaadanbhunkrera",
+  "r_tail": 0.25,
+  "pali": "bhikkhuni-paripācitaṃ piṇḍapātaṃ bhuñjeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 733,
+  "st": "末词疑似缺失",
+  "lw": "bhunjitabbo",
+  "lw_suf": "itabbo",
+  "dec": "aagilaanenapigunaaekeaaaaawaacatapinteaabunkriitatpeaa",
+  "r_tail": 0.21,
+  "pali": "Agilānena bhikkhunā eko āvasatha-piṇḍo bhuñjitabbo"
+ },
+ {
+  "ch": 7,
+  "idx": 735,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "kannaabeaakhyangneannyaktaracamerapaakriptannyran",
+  "r_tail": 0.15,
+  "pali": "Gaṇa-bhojane aññatra samayā pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 737,
+  "st": "末词疑似缺失",
+  "lw": "addhanagamanasamayo",
+  "lw_suf": "samayo",
+  "dec": "jiwaragaarazemeyooadannaagamnazemeyoo",
+  "r_tail": 0.48,
+  "pali": "cīvara-kāra-samayo addhāna-gamana-samayo"
+ },
+ {
+  "ch": 7,
+  "idx": 741,
+  "st": "末词疑似缺失",
+  "lw": "civaradanasamayo",
+  "lw_suf": "samayo",
+  "dec": "dadaayanzamayoogilannazameyoociiwaradanaazameyoo",
+  "r_tail": 0.31,
+  "pali": "Tatthāyaṃ samayo gilāna-samayo cīvara-dāna-samayo"
+ },
+ {
+  "ch": 7,
+  "idx": 743,
+  "st": "末词疑似缺失",
+  "lw": "upagatam",
+  "lw_suf": "agatam",
+  "dec": "beghunbaneewaagulanubagadaa",
+  "r_tail": 0.47,
+  "pali": "Bhikkhuṃ paneva kulaṃ upagataṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 753,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "anadiretenaakhaadaniirenaawaabheaaganiirenawaa",
+  "r_tail": 0.1,
+  "pali": "anatirittena khādanīyena vā bhojanīyena vā"
+ },
+ {
+  "ch": 7,
+  "idx": 754,
+  "st": "OK-末词在尾",
+  "lw": "pavareyya",
+  "lw_suf": "areyya",
+  "dec": "abiihadongbawaadeya",
+  "r_tail": 0.57,
+  "pali": "abhihaṭṭhuṃ pavāreyya"
+ },
+ {
+  "ch": 7,
+  "idx": 755,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "handabegiughaadawaabunkrawaatanny",
+  "r_tail": 0.12,
+  "pali": "handa bhikkhu khāda vā bhuñja vā ti"
+ },
+ {
+  "ch": 7,
+  "idx": 757,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "yaubanaabekuwigaalekaraniyanwabojiniyanwa",
+  "r_tail": 0.11,
+  "pali": "Yo pana bhikkhu vikāle khādanīyaṃ vā bhojanīyaṃ vā"
+ },
+ {
+  "ch": 7,
+  "idx": 759,
+  "st": "末词疑似缺失",
+  "lw": "sannidhikarakam",
+  "lw_suf": "arakam",
+  "dec": "yobanababegujanidnnigaraga",
+  "r_tail": 0.47,
+  "pali": "Yo pana bhikkhu sannidhi-kārakaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 760,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "kharaniiranwaabheaaganiiranwaa",
+  "r_tail": 0.14,
+  "pali": "khādanīyaṃ vā bhojanīyaṃ vā"
+ },
+ {
+  "ch": 7,
+  "idx": 763,
+  "st": "末词疑似缺失",
+  "lw": "phanitam",
+  "lw_suf": "anitam",
+  "dec": "jerathitancakpriinhawanetantelammatuphaanetan",
+  "r_tail": 0.33,
+  "pali": "seyyathidaṃ sappi navanītaṃ telaṃ madhu phāṇitaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 765,
+  "st": "末词疑似缺失",
+  "lw": "panitabhojanani",
+  "lw_suf": "janani",
+  "dec": "reaabanaapekhiuewaarubaanepanidaapeaagyanaananny",
+  "r_tail": 0.31,
+  "pali": "Yo pana bhikkhu evarūpāni paṇīta-bhojanāni"
+ },
+ {
+  "ch": 7,
+  "idx": 767,
+  "st": "末词疑似缺失",
+  "lw": "mukhadvaram",
+  "lw_suf": "dvaram",
+  "dec": "yobanaabeguaadeinaamugaadwaraa",
+  "r_tail": 0.44,
+  "pali": "Yo pana bhikkhu adinnaṃ mukha-dvāraṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 769,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "annyatarautagadandabeaanaabaakretinyran",
+  "r_tail": 0.36,
+  "pali": "aññatra udaka-danta-ponā pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 770,
+  "st": "末词疑似缺失",
+  "lw": "catuttho",
+  "lw_suf": "tuttho",
+  "dec": "beagranawaygakyatutha",
+  "r_tail": 0.53,
+  "pali": "Bhojana-vaggo catuttho"
+ },
+ {
+  "ch": 7,
+  "idx": 774,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "ehaauujeaagamanwaaniganmanwaapindaarapwecitcaamaatanny",
+  "r_tail": 0.08,
+  "pali": "ehāvuso gāmaṃ vā nigamaṃ vā piṇḍāya pavisissāmā ti"
+ },
+ {
+  "ch": 7,
+  "idx": 776,
+  "st": "末词疑似缺失",
+  "lw": "saddhim",
+  "lw_suf": "addhim",
+  "dec": "gekhraawuuseaanamedayaajadany",
+  "r_tail": 0.22,
+  "pali": "gacchāvuso na me tayā saddhiṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 780,
+  "st": "末词疑似缺失",
+  "lw": "kule",
+  "lw_suf": "kule",
+  "dec": "reaabatnaaphiykhuacapeaakyanekuln",
+  "r_tail": 0.33,
+  "pali": "Yo pana bhikkhu sabhojane kule"
+ },
+ {
+  "ch": 7,
+  "idx": 781,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "anubhakkhaigraaniicaikhyankaperaapaakrittannyran",
+  "r_tail": 0.31,
+  "pali": "anupakhajja nisajjaṃ kappeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 783,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "rahabarikhramnaajaneanikyayjankapbheraapaakhrittannyran",
+  "r_tail": 0.29,
+  "pali": "raho paṭicchanne āsane nisajjaṃ kappeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 786,
+  "st": "OK-末词在尾",
+  "lw": "samano",
+  "lw_suf": "samano",
+  "dec": "yobanaobegunimaandidoosabadoosamanoo",
+  "r_tail": 0.57,
+  "pali": "Yo pana bhikkhu nimantito sabhatto samāno"
+ },
+ {
+  "ch": 7,
+  "idx": 787,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "jamtanpikeuaanaapukhraapurebhattanwaaapackhyaaphattanwaa",
+  "r_tail": 0.08,
+  "pali": "santaṃ bhikkhuṃ anāpucchā pure-bhattaṃ vā pacchā-bhattaṃ vā"
+ },
+ {
+  "ch": 7,
+  "idx": 788,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "kulecukraarittancamaaaapackreraannyaktaracanmarabhaakhrittannyran",
+  "r_tail": 0.25,
+  "pali": "kulesu cārittaṃ āpajjeyya aññatra samayā pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 789,
+  "st": "末词疑似缺失",
+  "lw": "samayo",
+  "lw_suf": "samayo",
+  "dec": "dadayazamya",
+  "r_tail": 0.55,
+  "pali": "Tatthāyaṃ samayo"
+ },
+ {
+  "ch": 7,
+  "idx": 791,
+  "st": "OK-末词在尾",
+  "lw": "samayo",
+  "lw_suf": "samayo",
+  "dec": "ayandataasemeyoo",
+  "r_tail": 0.62,
+  "pali": "ayaṃ tattha samayo"
+ },
+ {
+  "ch": 7,
+  "idx": 792,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhuna",
+  "lw_suf": "kkhuna",
+  "dec": "agilanenaabegunaa",
+  "r_tail": 0.46,
+  "pali": "Agilānena bhikkhunā"
+ },
+ {
+  "ch": 7,
+  "idx": 795,
+  "st": "OK-末词在尾",
+  "lw": "niccapavaranaya",
+  "lw_suf": "ranaya",
+  "dec": "hnyadranyjabwarnaya",
+  "r_tail": 0.71,
+  "pali": "aññatra nicca-pavāraṇāya"
+ },
+ {
+  "ch": 7,
+  "idx": 801,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhuna",
+  "lw_suf": "kkhuna",
+  "dec": "diradaadiradandenaabekunaa",
+  "r_tail": 0.47,
+  "pali": "dirattatirattaṃ tena bhikkhunā"
+ },
+ {
+  "ch": 7,
+  "idx": 806,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "krenaapruhanwaanikadakcanaanwaakaikreraapaakhretannyran",
+  "r_tail": 0.21,
+  "pali": "senābyūhaṃ vā anīkadassanaṃ vā gaccheyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 807,
+  "st": "末词疑似缺失",
+  "lw": "pancamo",
+  "lw_suf": "ancamo",
+  "dec": "ajeilagaawegobinjamoo",
+  "r_tail": 0.53,
+  "pali": "Acelakavaggo pañcamo"
+ },
+ {
+  "ch": 7,
+  "idx": 808,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "suramereabanebajedian",
+  "r_tail": 0.27,
+  "pali": "Surā-meraya-pāne pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 810,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "udagehajadamebakridiran",
+  "r_tail": 0.25,
+  "pali": "Udake hasadhamme pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 813,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "gumbensabeabagediya",
+  "r_tail": 0.43,
+  "pali": "bhiṃsāpeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 814,
+  "st": "末词疑似缺失",
+  "lw": "visibbanapekkho",
+  "lw_suf": "pekkho",
+  "dec": "yeaabanaabeguaagilaaneaawuceibanaabakkeaa",
+  "r_tail": 0.26,
+  "pali": "Yo pana bhikkhu agilāno visibbanāpekkho"
+ },
+ {
+  "ch": 7,
+  "idx": 815,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "jodenzamahadaheyawajamahadahabeyawa",
+  "r_tail": 0.12,
+  "pali": "jotiṃ samādaheyya vā samādahāpeyya vā"
+ },
+ {
+  "ch": 7,
+  "idx": 816,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "annrantaraatararubhapacghraraapaakhritannyran",
+  "r_tail": 0.25,
+  "pali": "aññatra tathārūpa-ppaccayā pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 817,
+  "st": "末词疑似缺失",
+  "lw": "nahayeyya",
+  "lw_suf": "ayeyya",
+  "dec": "yobanaobeguorinadamazanhayiya",
+  "r_tail": 0.44,
+  "pali": "Yo pana bhikkhu orenaddha-māsaṃ nahāyeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 819,
+  "st": "末词疑似缺失",
+  "lw": "samayo",
+  "lw_suf": "samayo",
+  "dec": "datayanzemeyoo",
+  "r_tail": 0.5,
+  "pali": "Tatthāyaṃ samayo"
+ },
+ {
+  "ch": 7,
+  "idx": 820,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "tiyateamaseaacejeaginmanauntanny",
+  "r_tail": 0.13,
+  "pali": "diyaḍḍho māso seso gimhānan ti"
+ },
+ {
+  "ch": 7,
+  "idx": 821,
+  "st": "末词疑似缺失",
+  "lw": "maso",
+  "lw_suf": "maso",
+  "dec": "wozanezabatamoomaazoo",
+  "r_tail": 0.46,
+  "pali": "vassānassa paṭhamo māso"
+ },
+ {
+  "ch": 7,
+  "idx": 822,
+  "st": "OK-末词在尾",
+  "lw": "addhateyyamasa",
+  "lw_suf": "yamasa",
+  "dec": "ejihedeiadadiyamasaa",
+  "r_tail": 0.86,
+  "pali": "iccete aḍḍhateyyamāsā"
+ },
+ {
+  "ch": 7,
+  "idx": 824,
+  "st": "OK-末词在尾",
+  "lw": "kammasamayo",
+  "lw_suf": "samayo",
+  "dec": "gilaanaazemeyooganmaazemeyoo",
+  "r_tail": 0.56,
+  "pali": "gilāna-samayo kamma-samayo"
+ },
+ {
+  "ch": 7,
+  "idx": 826,
+  "st": "OK-末词在尾",
+  "lw": "samayo",
+  "lw_suf": "samayo",
+  "dec": "ayandataazameyoo",
+  "r_tail": 0.62,
+  "pali": "ayaṃ tattha samayo"
+ },
+ {
+  "ch": 7,
+  "idx": 827,
+  "st": "末词疑似缺失",
+  "lw": "civaralabhena",
+  "lw_suf": "abhena",
+  "dec": "nawanbanaabekhunakriiwaralaapena",
+  "r_tail": 0.42,
+  "pali": "Navaṃ pana bhikkhunā cīvara-lābhena"
+ },
+ {
+  "ch": 7,
+  "idx": 828,
+  "st": "末词疑似缺失",
+  "lw": "adatabbam",
+  "lw_suf": "tabbam",
+  "dec": "dainadubanaagarananainyadanadubanaagaranaadaadaba",
+  "r_tail": 0.23,
+  "pali": "tiṇṇaṃ dubbaṇṇa-karaṇānaṃ aññataraṃ dubbaṇṇa-karaṇaṃ ādātabbaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 829,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "nilawagadamawagalazamawa",
+  "r_tail": 0.17,
+  "pali": "nīlaṃ vā kaddamaṃ vā kāḷasāmaṃ vā"
+ },
+ {
+  "ch": 7,
+  "idx": 832,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "yaobanaabegubekouzawabeguniyawa",
+  "r_tail": 0.13,
+  "pali": "Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā"
+ },
+ {
+  "ch": 7,
+  "idx": 834,
+  "st": "末词疑似缺失",
+  "lw": "vikappetva",
+  "lw_suf": "ppetva",
+  "dec": "samajewarawwkapardawa",
+  "r_tail": 0.27,
+  "pali": "sāmaṃ cīvaraṃ vikappetvā"
+ },
+ {
+  "ch": 7,
+  "idx": 835,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "abaygrupdaranaparibhunkhreapaakriptannyran",
+  "r_tail": 0.26,
+  "pali": "ap|paccuddhāraṇaṃ paribhuñjeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 836,
+  "st": "末词疑似缺失",
+  "lw": "bhikkhussa",
+  "lw_suf": "khussa",
+  "dec": "reaabannaabekiubhekhutcraa",
+  "r_tail": 0.47,
+  "pali": "Yo pana bhikkhu bhikkhussa"
+ },
+ {
+  "ch": 7,
+  "idx": 839,
+  "st": "末词疑似缺失",
+  "lw": "va",
+  "lw_suf": "va",
+  "dec": "ayaabandananwaabanideyawaabanidaapeyawa",
+  "r_tail": 0.11,
+  "pali": "kāya-bandhanaṃ vā apanidheyya vā apanidhāpeyya vā"
+ },
+ {
+  "ch": 7,
+  "idx": 840,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "andamaseoahajabakhobibakretnnyam",
+  "r_tail": 0.42,
+  "pali": "antamaso hasa-apekkhopi pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 842,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "yeaabanabekhiucanykhrakrabanangiiwidaaworeoberapakraidiya",
+  "r_tail": 0.21,
+  "pali": "Yo pana bhikkhu sañcicca pāṇaṃ jīvitā voropeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 843,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "yobanaabegujaananjabanaganudaganbiribongeabageidiya",
+  "r_tail": 0.22,
+  "pali": "Yo pana bhikkhu jānaṃ sappāṇakaṃ udakaṃ paribhuñjeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 844,
+  "st": "末词疑似缺失",
+  "lw": "nihataadhikaranam",
+  "lw_suf": "aranam",
+  "dec": "yabanawabegiughrananyataadamanihadaasanykarana",
+  "r_tail": 0.4,
+  "pali": "Yo pana bhikkhu jānaṃ yathā-dhammaṃ nihata-adhikaraṇaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 845,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "bunaganmayaugadeabakrediyan",
+  "r_tail": 0.35,
+  "pali": "puna-kammāya ukkoṭeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 846,
+  "st": "末词疑似缺失",
+  "lw": "janam",
+  "lw_suf": "janam",
+  "dec": "yabanawabegubekhosagraana",
+  "r_tail": 0.4,
+  "pali": "Yo pana bhikkhu bhikkhussa jānaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 847,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "thunthunlaabadinbatikhyaadeyaapaakediira",
+  "r_tail": 0.18,
+  "pali": "duṭṭhullaṃ āpattiṃ paṭicchādeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 848,
+  "st": "OK-末词在尾",
+  "lw": "janam",
+  "lw_suf": "janam",
+  "dec": "yabanabegujana",
+  "r_tail": 0.73,
+  "pali": "Yo pana bhikkhu jānaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 849,
+  "st": "末词疑似缺失",
+  "lw": "upasampadeyya",
+  "lw_suf": "adeyya",
+  "dec": "unawezadewajanbogalanubajambadeya",
+  "r_tail": 0.5,
+  "pali": "ūnavīsati-vassaṃ puggalaṃ upasampādeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 852,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "garesaaidandasmegbajediya",
+  "r_tail": 0.38,
+  "pali": "idaṃ tasmiṃ pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 854,
+  "st": "OK-末词在尾",
+  "lw": "samvidhaya",
+  "lw_suf": "idhaya",
+  "dec": "teyazadeenazadeensamwiidaayaa",
+  "r_tail": 0.56,
+  "pali": "theyya-satthena saddhiṃ saṃvidhāya"
+ },
+ {
+  "ch": 7,
+  "idx": 857,
+  "st": "末词疑似缺失",
+  "lw": "samvidhaya",
+  "lw_suf": "idhaya",
+  "dec": "yobanarabegumadugaaminazadensanwidaayaa",
+  "r_tail": 0.45,
+  "pali": "Yo pana bhikkhu mātu-gāmena saddhiṃ saṃvidhāya"
+ },
+ {
+  "ch": 7,
+  "idx": 859,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "geraandamajeagamantaranpipaakhritannyran",
+  "r_tail": 0.27,
+  "pali": "antamaso gāma-antarampi pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 860,
+  "st": "OK-末词在尾",
+  "lw": "vadeyya",
+  "lw_suf": "adeyya",
+  "dec": "yaobanaabaguewonwadeya",
+  "r_tail": 0.67,
+  "pali": "Yo pana bhikkhu evaṃ vadeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 861,
+  "st": "OK-末词在尾",
+  "lw": "ajanami",
+  "lw_suf": "janami",
+  "dec": "dadahanbagawadadamandezidanajanamii",
+  "r_tail": 0.6,
+  "pali": "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi"
+ },
+ {
+  "ch": 7,
+  "idx": 862,
+  "st": "末词疑似缺失",
+  "lw": "bhagavata",
+  "lw_suf": "gavata",
+  "dec": "yathaaremeamtariikaadamauttaapagawataa",
+  "r_tail": 0.45,
+  "pali": "yathā yeme antarāyikā dhammā vuttā bhagavatā"
+ },
+ {
+  "ch": 7,
+  "idx": 863,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "sepasicewaseaanalaandarararasanny",
+  "r_tail": 0.0,
+  "pali": "te paṭisevato nālaṃ antarāyāyā ti"
+ },
+ {
+  "ch": 7,
+  "idx": 864,
+  "st": "OK-末词在尾",
+  "lw": "vacaniyo",
+  "lw_suf": "caniyo",
+  "dec": "sobegobegoheiwamasawajaniyoo",
+  "r_tail": 0.56,
+  "pali": "so bhikkhu bhikkhūhi evamassa vacanīyo"
+ },
+ {
+  "ch": 7,
+  "idx": 865,
+  "st": "末词疑似缺失",
+  "lw": "avaca",
+  "lw_suf": "avaca",
+  "dec": "mayazanmaewonaweja",
+  "r_tail": 0.31,
+  "pali": "māyasmā evaṃ avaca"
+ },
+ {
+  "ch": 7,
+  "idx": 866,
+  "st": "末词疑似缺失",
+  "lw": "abbhacikkhi",
+  "lw_suf": "cikkhi",
+  "dec": "maabagawondanabaajeke",
+  "r_tail": 0.13,
+  "pali": "mā bhagavantaṃ abbhācikkhi"
+ },
+ {
+  "ch": 7,
+  "idx": 867,
+  "st": "末词疑似缺失",
+  "lw": "abbhakkhanam",
+  "lw_suf": "khanam",
+  "dec": "naheezaadubagawedocabekaana",
+  "r_tail": 0.47,
+  "pali": "na hi sādhu bhagavato abbhakkhānaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 869,
+  "st": "末词疑似缺失",
+  "lw": "avuso",
+  "lw_suf": "avuso",
+  "dec": "adeyaanegabiriyayenahujaa",
+  "r_tail": 0.27,
+  "pali": "aneka-pariyāyena āvuso"
+ },
+ {
+  "ch": 7,
+  "idx": 870,
+  "st": "末词疑似缺失",
+  "lw": "bhagavata",
+  "lw_suf": "gavata",
+  "dec": "andaraigadamaandaraigawudabagawota",
+  "r_tail": 0.5,
+  "pali": "antarāyikā dhammā antarāyikā vuttā bhagavatā"
+ },
+ {
+  "ch": 7,
+  "idx": 871,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "aalanggyapaknaadepiricewateaaandaraararasanny",
+  "r_tail": 0.0,
+  "pali": "alañca pana te paṭisevato antarāyāyā ti"
+ },
+ {
+  "ch": 7,
+  "idx": 872,
+  "st": "末词疑似缺失",
+  "lw": "pagganheyya",
+  "lw_suf": "nheyya",
+  "dec": "ewangkryaaceaapekiupekuhewutkramhaaneaatathewaaapakganneraa",
+  "r_tail": 0.27,
+  "pali": "Evañca so bhikkhu bhikkhūhi vuccamāno tatheva paggaṇheyya"
+ },
+ {
+  "ch": 7,
+  "idx": 873,
+  "st": "末词疑似缺失",
+  "lw": "yavatatiyam",
+  "lw_suf": "atiyam",
+  "dec": "seoabegiubegiureyaawadakdiyran",
+  "r_tail": 0.44,
+  "pali": "so bhikkhu bhikkhūhi yāva-tatiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 874,
+  "st": "末词疑似缺失",
+  "lw": "patinissaggaya",
+  "lw_suf": "aggaya",
+  "dec": "jamanniubhaajeatatbheaatatcaapatinejakkaara",
+  "r_tail": 0.25,
+  "pali": "samanubhāsitabbo tassa paṭinissaggāya"
+ },
+ {
+  "ch": 7,
+  "idx": 875,
+  "st": "末词疑似缺失",
+  "lw": "patinissajjeyya",
+  "lw_suf": "jjeyya",
+  "dec": "raawaadatirangghyecamanubhaaciiyamhaneaadanbatinhaccakkhreraa",
+  "r_tail": 0.13,
+  "pali": "Yāva-tatiyañce samanubhāsiyamāno taṃ paṭinissajjeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 878,
+  "st": "OK-末词在尾",
+  "lw": "janam",
+  "lw_suf": "janam",
+  "dec": "yobanaabegujana",
+  "r_tail": 0.73,
+  "pali": "Yo pana bhikkhu jānaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 882,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "sahawaseyangapeyabajediyan",
+  "r_tail": 0.35,
+  "pali": "saha vā seyyaṃ kappeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 883,
+  "st": "末词疑似缺失",
+  "lw": "vadeyya",
+  "lw_suf": "adeyya",
+  "dec": "samanupdejeaabiikreaewonwadera",
+  "r_tail": 0.44,
+  "pali": "Samaṇuddesopi ce evaṃ vadeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 884,
+  "st": "OK-末词在尾",
+  "lw": "ajanami",
+  "lw_suf": "janami",
+  "dec": "datahanbagawadadamandeesidanajanamii",
+  "r_tail": 0.57,
+  "pali": "tathāhaṃ bhagavatā dhammaṃ desitaṃ ājānāmi"
+ },
+ {
+  "ch": 7,
+  "idx": 885,
+  "st": "末词疑似缺失",
+  "lw": "bhagavata",
+  "lw_suf": "gavata",
+  "dec": "brataayemeandraigadamaudaabagawadaa",
+  "r_tail": 0.4,
+  "pali": "yathā yeme antarāyikā dhammā vuttā bhagavatā"
+ },
+ {
+  "ch": 7,
+  "idx": 886,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "debadijewadaanalanandrayayadanny",
+  "r_tail": 0.0,
+  "pali": "te paṭisevato nālaṃ antarāyāyā ti"
+ },
+ {
+  "ch": 7,
+  "idx": 888,
+  "st": "末词疑似缺失",
+  "lw": "avaca",
+  "lw_suf": "avaca",
+  "dec": "mawuzoozomnudeezaiwonaweja",
+  "r_tail": 0.38,
+  "pali": "māvuso samaṇuddesa evaṃ avaca"
+ },
+ {
+  "ch": 7,
+  "idx": 889,
+  "st": "末词疑似缺失",
+  "lw": "abbhacikkhi",
+  "lw_suf": "cikkhi",
+  "dec": "mabagaundanabajege",
+  "r_tail": 0.0,
+  "pali": "mā bhagavantaṃ abbhācikkhi"
+ },
+ {
+  "ch": 7,
+  "idx": 891,
+  "st": "末词疑似缺失",
+  "lw": "vadeyya",
+  "lw_suf": "adeyya",
+  "dec": "nahiibegawaewunwudeya",
+  "r_tail": 0.53,
+  "pali": "na hi bhagavā evaṃ vadeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 893,
+  "st": "末词疑似缺失",
+  "lw": "bhagavata",
+  "lw_suf": "gavata",
+  "dec": "andarayigadamaandarayigawodabagawoda",
+  "r_tail": 0.38,
+  "pali": "antarāyikā dhammā antarāyikā vuttā bhagavatā"
+ },
+ {
+  "ch": 7,
+  "idx": 894,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "alangkrapannadepaticewaseaaandaraararaasanny",
+  "r_tail": 0.0,
+  "pali": "alañca pana te paṭisevato antarāyāyā ti"
+ },
+ {
+  "ch": 7,
+  "idx": 896,
+  "st": "末词疑似缺失",
+  "lw": "pagganheyya",
+  "lw_suf": "nheyya",
+  "dec": "egoyeoujaamanoodatewaabegandeya",
+  "r_tail": 0.42,
+  "pali": "vuccamāno tatheva paggaṇheyya"
+ },
+ {
+  "ch": 7,
+  "idx": 897,
+  "st": "末词疑似缺失",
+  "lw": "vacaniyo",
+  "lw_suf": "caniyo",
+  "dec": "soozamnodezoobegoheiwamasaawojaniyoo",
+  "r_tail": 0.48,
+  "pali": "so samaṇuddeso bhikkhūhi evamassa vacanīyo"
+ },
+ {
+  "ch": 7,
+  "idx": 899,
+  "st": "末词疑似缺失",
+  "lw": "apadisitabbo",
+  "lw_suf": "itabbo",
+  "dec": "naajewazoobagawaazadaabadizedaboo",
+  "r_tail": 0.4,
+  "pali": "na ceva so bhagavā satthā apadisitabbo"
+ },
+ {
+  "ch": 7,
+  "idx": 900,
+  "st": "末词疑似缺失",
+  "lw": "labhanti",
+  "lw_suf": "bhanti",
+  "dec": "peaarambicannyrecamaniudnnyjaalakpantanny",
+  "r_tail": 0.26,
+  "pali": "yampi caññe samaṇuddesā labhanti"
+ },
+ {
+  "ch": 7,
+  "idx": 901,
+  "st": "末词疑似缺失",
+  "lw": "sahaseyyam",
+  "lw_suf": "seyyam",
+  "dec": "beguezadaindiadadiadansahaje",
+  "r_tail": 0.22,
+  "pali": "bhikkhūhi saddhiṃ dirattatirattaṃ sahaseyyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 902,
+  "st": "OK-末词在尾",
+  "lw": "natthi",
+  "lw_suf": "natthi",
+  "dec": "jeajabidenathi",
+  "r_tail": 0.83,
+  "pali": "sāpi te natthi"
+ },
+ {
+  "ch": 7,
+  "idx": 903,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "jalaabireewinazaadi",
+  "r_tail": 0.2,
+  "pali": "cara pire vinassā ti"
+ },
+ {
+  "ch": 7,
+  "idx": 907,
+  "st": "OK-末词在尾",
+  "lw": "sattamo",
+  "lw_suf": "attamo",
+  "dec": "sabanagawegoozadamoo",
+  "r_tail": 0.57,
+  "pali": "Sappāṇakavaggo sattamo"
+ },
+ {
+  "ch": 7,
+  "idx": 910,
+  "st": "末词疑似缺失",
+  "lw": "avuso",
+  "lw_suf": "avuso",
+  "dec": "nadawahaawuuzoo",
+  "r_tail": 0.36,
+  "pali": "na tāvāhaṃ āvuso"
+ },
+ {
+  "ch": 7,
+  "idx": 915,
+  "st": "OK-末词在尾",
+  "lw": "samici",
+  "lw_suf": "samici",
+  "dec": "paayantahtaacamikri",
+  "r_tail": 0.57,
+  "pali": "ayaṃ tattha sāmīci"
+ },
+ {
+  "ch": 7,
+  "idx": 922,
+  "st": "末词疑似缺失",
+  "lw": "vadeyya",
+  "lw_suf": "adeyya",
+  "dec": "yeaabannabegaanadaamhacanbaadiimeaakayaudejamhaneewanwadera",
+  "r_tail": 0.27,
+  "pali": "Yo pana bhikkhu anvaddha-māsaṃ pātimokkhe uddissamāne evaṃ vadeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 923,
+  "st": "末词疑似缺失",
+  "lw": "janami",
+  "lw_suf": "janami",
+  "dec": "idanewaakheaaahankraanaamae",
+  "r_tail": 0.47,
+  "pali": "idān(i) eva kho ahaṃ jānāmi"
+ },
+ {
+  "ch": 7,
+  "idx": 924,
+  "st": "末词疑似缺失",
+  "lw": "suttapariyapanno",
+  "lw_suf": "apanno",
+  "dec": "eyambigiradamozaudaagadozaudaabriyapano",
+  "r_tail": 0.45,
+  "pali": "ayampi kira dhammo suttāgato sutta-pariyāpanno"
+ },
+ {
+  "ch": 7,
+  "idx": 927,
+  "st": "末词疑似缺失",
+  "lw": "uddissamane",
+  "lw_suf": "samane",
+  "dec": "iminabhegunaatwatekatupaatimheaakkhaiaiutecaamana",
+  "r_tail": 0.31,
+  "pali": "iminā bhikkhunā dvatti-kkhattuṃ pātimokkhe uddissamāne"
+ },
+ {
+  "ch": 7,
+  "idx": 928,
+  "st": "末词疑似缺失",
+  "lw": "bhiyyo",
+  "lw_suf": "bhiyyo",
+  "dec": "mankobanawaadooobinyo",
+  "r_tail": 0.53,
+  "pali": "ko pana vādo bhiyyo"
+ },
+ {
+  "ch": 7,
+  "idx": 934,
+  "st": "末词疑似缺失",
+  "lw": "uddissamane",
+  "lw_suf": "samane",
+  "dec": "laadajadadunladanrantwanbatimaaukaiudejamane",
+  "r_tail": 0.42,
+  "pali": "tassa te dulladdhaṃ yaṃ tvaṃ pātimokkhe uddissamāne"
+ },
+ {
+  "ch": 7,
+  "idx": 936,
+  "st": "末词疑似缺失",
+  "lw": "ti",
+  "lw_suf": "ti",
+  "dec": "wamanneesiikaroosidi",
+  "r_tail": 0.2,
+  "pali": "manasi karosī ti"
+ },
+ {
+  "ch": 7,
+  "idx": 937,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "idandajameimeohanegebajaidiyan",
+  "r_tail": 0.33,
+  "pali": "idaṃ tasmiṃ mohanake pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 938,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "yeabanaarabekiubhegujaaakupideaanatdamaneaabaharandadiyabaakridannyra",
+  "r_tail": 0.18,
+  "pali": "Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṃ dadeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 941,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "raapanaaraapikiubhigunaaamulakanaacankaaticecenaanhupdanceraapaakhriptannyran",
+  "r_tail": 0.16,
+  "pali": "Yo pana bhikkhu bhikkhuṃ amūlakena saṅghādisesena anuddhaṃseyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 942,
+  "st": "末词疑似缺失",
+  "lw": "upadaheyya",
+  "lw_suf": "aheyya",
+  "dec": "reaabanaaabekhiubekhutjaacangkhekrakukukreanubatehera",
+  "r_tail": 0.29,
+  "pali": "Yo pana bhikkhu bhikkhussa sañcicca kukkuccaṃ upadaheyya"
+ },
+ {
+  "ch": 7,
+  "idx": 944,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "heedadeewabejiangaridawaaninyabajediya",
+  "r_tail": 0.27,
+  "pali": "etadeva paccayaṃ karitvā anaññaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 945,
+  "st": "末词疑似缺失",
+  "lw": "bhandanajatanam",
+  "lw_suf": "atanam",
+  "dec": "yobanaabegubegunambananaazalana",
+  "r_tail": 0.32,
+  "pali": "Yo pana bhikkhu bhikkhūnaṃ bhaṇḍana-jātānaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 948,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "edadewabejeangaridawaaninyabajeidiyan",
+  "r_tail": 0.29,
+  "pali": "etadeva paccayaṃ karitvā anaññaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 950,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "bejaakeenadamaabejeaabajediya",
+  "r_tail": 0.33,
+  "pali": "pacchā khīyana-dhammaṃ āpajjeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 951,
+  "st": "末词疑似缺失",
+  "lw": "vattamanaya",
+  "lw_suf": "manaya",
+  "dec": "yobanawabeguzangewunejiagadaayawodama",
+  "r_tail": 0.38,
+  "pali": "Yo pana bhikkhu saṅghe vinicchaya-kathāya vattamānāya"
+ },
+ {
+  "ch": 7,
+  "idx": 952,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "khrandanadadawaudayajanabegamarabhaakhyetinra",
+  "r_tail": 0.25,
+  "pali": "chandaṃ adatvā uṭṭhāyāsanā pakkameyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 955,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "yathacanthuatanpekhucankikalaapanparinaamrangtitannypaakhretannyran",
+  "r_tail": 0.24,
+  "pali": "yathā-santhutaṃ bhikkhū saṅghikaṃ lābhaṃ pariṇāmentī ti pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 956,
+  "st": "末词疑似缺失",
+  "lw": "parinatam",
+  "lw_suf": "inatam",
+  "dec": "yaabanawabegujananjangiganlabanbrinadi",
+  "r_tail": 0.27,
+  "pali": "Yo pana bhikkhu jānaṃ saṅghikaṃ lābhaṃ pariṇataṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 962,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "wedideaaaindaakilanadagameraabakredira",
+  "r_tail": 0.18,
+  "pali": "inda-khīlaṃ atikkāmeyya pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 968,
+  "st": "末词疑似缺失",
+  "lw": "nikkhipitabbam",
+  "lw_suf": "tabbam",
+  "dec": "diwaugeheedwawaugabedwawanigibidaba",
+  "r_tail": 0.3,
+  "pali": "uggahetvā vā uggahāpetvā vā nikkhipitabbaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 970,
+  "st": "末词疑似缺失",
+  "lw": "samici",
+  "lw_suf": "samici",
+  "dec": "catitannyarantatthaachanmanikrii",
+  "r_tail": 0.42,
+  "pali": "ayaṃ tattha sāmīci"
+ },
+ {
+  "ch": 7,
+  "idx": 972,
+  "st": "末词疑似缺失",
+  "lw": "paviseyya",
+  "lw_suf": "iseyya",
+  "dec": "wigaalekaamapwice",
+  "r_tail": 0.31,
+  "pali": "vikāle gāmaṃ paviseyya"
+ },
+ {
+  "ch": 7,
+  "idx": 976,
+  "st": "末词疑似缺失",
+  "lw": "karayamanena",
+  "lw_suf": "manena",
+  "dec": "nobanaabegunamenganwabidanwakareamanenu",
+  "r_tail": 0.45,
+  "pali": "Navaṃ pana bhikkhunā mañcaṃ vā pīṭhaṃ vā kārayamānena"
+ },
+ {
+  "ch": 7,
+  "idx": 979,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "daniyadandegaamaadeaakheranakanbagetiyan",
+  "r_tail": 0.36,
+  "pali": "Taṃ atikkāmayato chedanakaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 980,
+  "st": "末词疑似缺失",
+  "lw": "pacittiyam",
+  "lw_suf": "ttiyam",
+  "dec": "yeaabanaarabekhumangkranwabiidhanwatileaanadangaraberaudalanakanbhakhritaiiyan",
+  "r_tail": 0.21,
+  "pali": "Yo pana bhikkhu mañcaṃ vā pīṭhaṃ vā tūla-onaddhaṃ kārāpeyya uddālanakaṃ pācittiyaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 981,
+  "st": "末词疑似缺失",
+  "lw": "karayamanena",
+  "lw_suf": "manena",
+  "dec": "nnjeranabanaabekunaakaraamane",
+  "r_tail": 0.44,
+  "pali": "Nisīdanaṃ pana bhikkhunā kārayamānena"
+ },
+ {
+  "ch": 7,
+  "idx": 983,
+  "st": "末词疑似缺失",
+  "lw": "sugatavidatthiya",
+  "lw_suf": "tthiya",
+  "dec": "dadeledanbamanadigadoodoewidadiozugadawidati",
+  "r_tail": 0.17,
+  "pali": "tatridaṃ pamāṇaṃ dīghaso dve vidatthiyo sugata-vidatthiyā"
+ },
+ {
+  "ch": 7,
+  "idx": 984,
+  "st": "末词疑似缺失",
+  "lw": "vidatthi",
+  "lw_suf": "datthi",
+  "dec": "tiriyandiyadandazaawida",
+  "r_tail": 0.38,
+  "pali": "tiriyaṃ diyaḍḍhaṃ dasā vidatthi"
+ },
+ {
+  "ch": 7,
+  "idx": 986,
+  "st": "末词疑似缺失",
+  "lw": "karayamanena",
+  "lw_suf": "manena",
+  "dec": "kanduprekhyatanbanaabekunaakaariaamane",
+  "r_tail": 0.36,
+  "pali": "Kaṇḍu-ppaṭicchādiṃ pana bhikkhunā kārayamānena"
+ },
+ {
+  "ch": 7,
+  "idx": 987,
+  "st": "末词疑似缺失",
+  "lw": "karetabba",
+  "lw_suf": "etabba",
+  "dec": "manenabamanigagarada",
+  "r_tail": 0.29,
+  "pali": "pamāṇikā kāretabbā"
+ },
+ {
+  "ch": 7,
+  "idx": 993,
+  "st": "末词疑似缺失",
+  "lw": "karetabba",
+  "lw_suf": "etabba",
+  "dec": "maninabamanigagareda",
+  "r_tail": 0.29,
+  "pali": "pamāṇikā kāretabbā"
+ },
+ {
+  "ch": 7,
+  "idx": 997,
+  "st": "末词疑似缺失",
+  "lw": "karapeyya",
+  "lw_suf": "apeyya",
+  "dec": "yabanawabekuzugadajiwaraabamanajiwarangarabe",
+  "r_tail": 0.17,
+  "pali": "Yo pana bhikkhu sugata-cīvara-ppamāṇaṃ cīvaraṃ kārāpeyya"
+ },
+ {
+  "ch": 7,
+  "idx": 999,
+  "st": "末词疑似缺失",
+  "lw": "sugatacivarappamanam",
+  "lw_suf": "amanam",
+  "dec": "dadiridancugadajaacugadakriiwarabamana",
+  "r_tail": 0.45,
+  "pali": "Tatridaṃ sugatassa sugata-cīvara-ppamāṇaṃ"
+ },
+ {
+  "ch": 7,
+  "idx": 1000,
+  "st": "末词疑似缺失",
+  "lw": "sugatavidatthiya",
+  "lw_suf": "tthiya",
+  "dec": "mdiigazonawawiradiyozugadawiladi",
+  "r_tail": 0.21,
+  "pali": "dīghaso nava vidatthiyo sugata-vidatthiyā"
+ },
+ {
+  "ch": 7,
+  "idx": 1002,
+  "st": "末词疑似缺失",
+  "lw": "sugatacivarappamananti",
+  "lw_suf": "ananti",
+  "dec": "kraawiratereaaidancukadacacukadakriiwarapamanasanny",
+  "r_tail": 0.3,
+  "pali": "idaṃ sugatassa sugata-cīvara-ppamāṇanti"
+ },
+ {
+  "ch": 7,
+  "idx": 1003,
+  "st": "OK-末词在尾",
+  "lw": "navamo",
+  "lw_suf": "navamo",
+  "dec": "radenawegonawamo",
+  "r_tail": 0.77,
+  "pali": "Ratanavaggo navamo"
+ },
+ {
+  "ch": 7,
+  "idx": 1004,
+  "st": "末词疑似缺失",
+  "lw": "dhamma",
+  "lw_suf": "dhamma",
+  "dec": "udiithaakheaaarajanpanteaalweniudepaakritanraadam",
+  "r_tail": 0.23,
+  "pali": "Uddiṭṭhā kho āyasmanto dvenavuti pācittiyā dhammā"
+ },
+ {
+  "ch": 8,
+  "idx": 1058,
+  "st": "OK-末词在尾",
+  "lw": "ayasmanto",
+  "lw_suf": "smanto",
+  "dec": "uteitaakaayasamanteaa",
+  "r_tail": 0.67,
+  "pali": "Uddiṭṭhā kho āyasmanto"
+ },
+ {
+  "ch": 8,
+  "idx": 1062,
+  "st": "末词疑似缺失",
+  "lw": "parisuddha",
+  "lw_suf": "suddha",
+  "dec": "tatiniyarampriiphugraamniykaikhritdaapariicuta",
+  "r_tail": 0.16,
+  "pali": "tatiyampi pucchāmi kaccittha parisuddhā"
+ },
+ {
+  "ch": 8,
+  "idx": 1063,
+  "st": "OK-末词在尾",
+  "lw": "parisuddhetthayasmanto",
+  "lw_suf": "smanto",
+  "dec": "bezodedayazamandoo",
+  "r_tail": 0.57,
+  "pali": "parisuddhetthāyasmanto"
+ },
+ {
+  "ch": 9,
+  "idx": 1075,
+  "st": "末词疑似缺失",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "aagitagrayghuanraakarenincetaicaamnntannychikaakaraninra",
+  "r_tail": 0.34,
+  "pali": "Okkhitta-cakkhu antara-ghare nisīdissāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1116,
+  "st": "末词疑似缺失",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "nabungyamanaajabaahadamugaypakipaijaamiidiicaigaagaraniiya",
+  "r_tail": 0.4,
+  "pali": "Na bhuñjamāno sabba-hatthaṃ mukhe pakkhipissāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1118,
+  "st": "末词疑似缺失",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "naabendoghebaganbunjeijamidicaikakaranniya",
+  "r_tail": 0.52,
+  "pali": "Na piṇḍ(a)-ukkhepakaṃ bhuñjissāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1123,
+  "st": "末词疑似缺失",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "nhjywnanysarganbwnjyasamydyzykakrnnyya",
+  "r_tail": 0.36,
+  "pali": "Na jivhā-nicchārakaṃ bhuñjissāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1126,
+  "st": "末词疑似缺失",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "nazuuruzurugaraganbungezamidiizeigaagaraniya",
+  "r_tail": 0.5,
+  "pali": "Na surusuru-kārakaṃ bhuñjissāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1128,
+  "st": "末词疑似缺失",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "napataneleakanbunkhrecaamiitinychekakarantiiya",
+  "r_tail": 0.48,
+  "pali": "Na patta-nillehakaṃ bhuñjissāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1129,
+  "st": "末词疑似缺失",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "naauthaaninglayhaikaranbunghejaamiidechaikaakarangniiya",
+  "r_tail": 0.43,
+  "pali": "Na oṭṭha-nillehakaṃ bhuñjissāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1133,
+  "st": "末词疑似缺失",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "grasadyzamydizaigagrnia",
+  "r_tail": 0.5,
+  "pali": "chaḍḍessāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1141,
+  "st": "OK-末词在尾",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "saadamandizezaamirizeigagarandiya",
+  "r_tail": 0.6,
+  "pali": "dhammaṃ desessāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1146,
+  "st": "OK-末词在尾",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "zadomandizezamidizegakalaniya",
+  "r_tail": 0.56,
+  "pali": "dhammaṃ desessāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1154,
+  "st": "OK-末词在尾",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "danmandecajaamiitnycakaakaranniiya",
+  "r_tail": 0.6,
+  "pali": "dhammaṃ desessāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1156,
+  "st": "OK-末词在尾",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "damandeeseejamidesaykakarandiya",
+  "r_tail": 0.63,
+  "pali": "dhammaṃ desessāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1163,
+  "st": "末词疑似缺失",
+  "lw": "agilanassa",
+  "lw_suf": "anassa",
+  "dec": "nlbljldwgthlndwbwrldgchlndslagllnsl",
+  "r_tail": 0.3,
+  "pali": "Na pacchato gacchanto purato gacchantassa agilānassa"
+ },
+ {
+  "ch": 9,
+  "idx": 1165,
+  "st": "末词疑似缺失",
+  "lw": "agilanassa",
+  "lw_suf": "anassa",
+  "dec": "nawbdhenakejandobdhenakejandajaaglanaja",
+  "r_tail": 0.36,
+  "pali": "Na uppathena gacchanto pathena gacchantassa agilānassa"
+ },
+ {
+  "ch": 9,
+  "idx": 1166,
+  "st": "OK-末词在尾",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "damandezeezamiideeseekagaraniya",
+  "r_tail": 0.63,
+  "pali": "dhammaṃ desessāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1168,
+  "st": "OK-末词在尾",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "akryzamydyzagagrndya",
+  "r_tail": 0.57,
+  "pali": "karissāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1170,
+  "st": "OK-末词在尾",
+  "lw": "karaniya",
+  "lw_suf": "raniya",
+  "dec": "laawaagrisamitisaekagrandia",
+  "r_tail": 0.59,
+  "pali": "karissāmīti sikkhā karaṇīyā"
+ },
+ {
+  "ch": 9,
+  "idx": 1175,
+  "st": "末词疑似缺失",
+  "lw": "parisuddha",
+  "lw_suf": "suddha",
+  "dec": "nanthaaracamantaiputgraamekhaikhritapariciuta",
+  "r_tail": 0.17,
+  "pali": "Tatthāyasmante pucchāmi kaccittha parisuddhā"
+ },
+ {
+  "ch": 9,
+  "idx": 1177,
+  "st": "末词疑似缺失",
+  "lw": "parisuddha",
+  "lw_suf": "suddha",
+  "dec": "lakdiiramprephukhyaamiikakhritaaparicutaa",
+  "r_tail": 0.17,
+  "pali": "tatiyampi pucchāmi kaccittha parisuddhā"
+ },
+ {
+  "ch": 9,
+  "idx": 1179,
+  "st": "末词疑似缺失",
+  "lw": "dharayamiti",
+  "lw_suf": "yamiti",
+  "dec": "anseaadajamaduneewaamedandatraamei",
+  "r_tail": 0.3,
+  "pali": "tasmā tuṇhī evametaṃ dhārayāmīti"
+ }
+]
