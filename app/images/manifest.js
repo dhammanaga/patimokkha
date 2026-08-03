@@ -848,5 +848,6 @@ window.PM_IMAGES = {
  "asmiṃ utumhi aṭṭha dasa uposathā": "images/pm_31.jpg",
  "iminā pakkhena eko uposatho sampatto tayo uposathā atikkantā cattāro uposathā avasiṭṭhā": "images/pm_31.jpg",
  "etāni pañcakammāni chandāharaṇādīni pātimokkhuddesato pavāraṇākammato paṭhamaṃ kattabbattā": "images/pm_40.jpg",
- "uposathassa uposathakammassa pavāraṇāya pavāraṇākammassa pubbakiccanti vuccati": "images/pm_40.jpg"
+ "uposathassa uposathakammassa pavāraṇāya pavāraṇākammassa pubbakiccanti vuccati": "images/pm_40.jpg",
+ "ime kho panāyasmanto satta adhikaraṇa-samathā dhammā uddesaṃ āgacchanti": "images/pm_137.jpg"
 };
