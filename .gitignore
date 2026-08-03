@@ -19,6 +19,10 @@ node_modules/
 pm_sample_*.mp3
 pm_test.mp3
 
+# ===== Decode / align temp caches =====
+app/audio/_dec_tmp.wav
+app/audio/_*_tmp.wav
+
 # ===== Generated bulky alignment HTML reports (not source) =====
 /*.html
 /align_reports/
