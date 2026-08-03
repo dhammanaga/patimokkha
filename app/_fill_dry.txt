@@ -1,0 +1,35 @@
+待处理 31 句: 1141,1143,1144,1145,1147,1148,1149,1150,1151,1152,1153,1154,1155,1156,1157,1158,1159,1160,1161,1162,1163,1164,1165,1166,1167,1168,1169,1170,1171,1172,1174
+  idx1141  dur= 3.91s 词数4    Tatthāyasmante pucchāmi kaccittha parisuddhā
+  idx1143  dur= 3.83s 词数4    tatiyampi pucchāmi kaccittha parisuddhā
+  idx1144  dur= 2.13s 词数1    parisuddhetthāyasmanto
+  idx1145  dur= 3.12s 词数4    tasmā tuṇhī evametaṃ dhārayāmīti
+  idx1147  dur= 6.39s 词数8    Ime kho panāyasmanto satta adhikaraṇa-samathā dh
+  idx1148  dur= 5.42s 词数4    Uppann(a)-uppannānaṃ adhikaraṇānaṃ samathāya vūp
+  idx1149  dur= 2.16s 词数2    sammukhā-vinayo dātabbo
+  idx1150  dur= 2.05s 词数2    Sati-vinayo dātabbo
+  idx1151  dur= 1.89s 词数2    Amūḷha-vinayo dātabbo
+  idx1152  dur= 2.81s 词数2    Paṭiññāya kāretabbaṃ
+  idx1153  dur= 1.42s 词数1    Yebhuyyasikā
+  idx1154  dur= 1.45s 词数1    Tassa-pāpiyasikā
+  idx1155  dur= 2.47s 词数1    Tiṇa-vatthārakoti
+  idx1156  dur= 5.03s 词数6    Uddiṭṭhā kho āyasmanto satta adhikaraṇasamathā d
+  idx1157  dur= 4.12s 词数4    Tatthāyasmante pucchāmi kaccittha parisuddhā
+  idx1158  dur= 4.09s 词数4    dutiyampi pucchāmi kaccittha parisuddhā
+  idx1159  dur= 3.28s 词数4    tatiyampi pucchāmi kaccittha parisuddhā
+  idx1160  dur= 6.34s 词数5    parisuddhetthāyasmanto tasmā tuṇhī evametaṃ dhār
+  idx1161  dur= 3.72s 词数4    Satta adhikaraṇasamathā dhammā niṭṭhitā.
+  idx1162  dur= 3.31s 词数4    Uddiṭṭhaṃ kho āyasmanto nidānaṃ
+  idx1163  dur= 3.41s 词数4    Uddiṭṭhā cattāro pārājikā dhammā
+  idx1164  dur= 4.17s 词数4    Uddiṭṭhā terasa saṅghādisesā dhammā
+  idx1165  dur= 2.89s 词数4    Uddiṭṭhā dve aniyatā dhammā
+  idx1166  dur= 3.91s 词数5    Uddiṭṭhā tiṃsa nissaggiyā pācittiyā dhammā
+  idx1167  dur= 3.49s 词数4    Uddiṭṭhā dvenavuti pācittiyā dhammā
+  idx1168  dur= 3.72s 词数4    Uddiṭṭhā cattāro pāṭidesanīyā dhammā
+  idx1169  dur= 2.91s 词数3    Uddiṭṭhā sekhiyā dhammā
+  idx1170  dur= 3.70s 词数4    Uddiṭṭhā satta adhikaraṇasamathā dhammā
+  idx1171  dur= 7.93s 词数8    ettakaṃ tassa bhagavato sutta-āgataṃ sutta-pariy
+  idx1172  dur= 5.29s 词数6    tattha sabbeh(i)eva samaggehi sammodamānehi aviv
+  idx1174  dur= 2.81s 词数2    Bhikkhupātimokkhaṃ niṭṭhitaṃ
+
+生成 31 条记录
+(演练模式, 加 --apply 写入)

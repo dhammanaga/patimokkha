@@ -1,0 +1,2 @@
+file 'C:/Users/dhamm/WorkBuddy/巴帝摩卡背诵/app/audio/sent_new/1150.mp3'
+file 'C:/Users/dhamm/WorkBuddy/巴帝摩卡背诵/app/audio/sent_new/1151.mp3'

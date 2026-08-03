@@ -10,6 +10,17 @@ openl_creds.json
 __pycache__/
 *.pyc
 node_modules/
+
+# ===== TTS / 对齐 临时测试产物（非 app 数据，不入版） =====
+_test_*.mp3
+_test_*.html
+_test_*_data.json
+_test_*/
+_test_*.mp3
+_test_*.py
+_test_*.txt
+_test_*.list
+_test_hindi_list.txt
 .DS_Store
 
 # ===== Local logs =====
