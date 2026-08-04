@@ -144,6 +144,58 @@
   }
   function sectionOf(rule) { return DATA.sections[rule.secOrder]; }
 
+  // ---------- 章节目录（学习/熟读/连诵 通用跳转条）----------
+  function ensureToc(containerId, mode) {
+    var box = document.getElementById(containerId);
+    if (!box) return;
+    if (box.dataset.mode === mode && box.childElementCount) return; // 已挂载则免重建
+    box.dataset.mode = mode;
+    box.innerHTML = '';
+    box.appendChild(el('<span class="toc-label">章目录</span>'));
+    DATA.sections.forEach(function (s) {
+      var b = el('<button type="button" class="toc-item" data-sec="' + s.order + '">' + esc(s.title) + '</button>');
+      b.onclick = function () {
+        if (mode === 'study') jumpStudyToSection(s.order);
+        else if (mode === 'read') jumpReadToSection(s.order);
+        else if (mode === 'recite') jumpReciteToSection(s.order);
+      };
+      box.appendChild(b);
+    });
+  }
+  function highlightToc(containerId, order) {
+    var box = document.getElementById(containerId);
+    if (!box) return;
+    box.querySelectorAll('.toc-item').forEach(function (b) {
+      b.classList.toggle('active', Number(b.dataset.sec) === Number(order));
+    });
+  }
+  function jumpStudyToSection(order) {
+    if (!session.queue.length) { banner('请先开始学习。', 'warn'); return; }
+    var idx = session.queue.findIndex(function (r) { return sectionOf(r).order === order; });
+    if (idx < 0) { banner('该章暂不在今日学习队列中。可前往「熟读」逐章浏览。', 'warn'); return; }
+    session.pos = idx; session.revealed = false;
+    highlightToc('studyToc', order);
+    renderStudyCard();
+  }
+  function jumpReadToSection(order) {
+    if (!readSession.queue.length) return;
+    var idx = readSession.queue.findIndex(function (r) { return sectionOf(r).order === order; });
+    if (idx < 0) return;
+    readSession.pos = idx; stopReadLoop();
+    highlightToc('readToc', order);
+    renderReadCard();
+  }
+  function jumpReciteToSection(order) {
+    var k = reciteFrontier();
+    if (k < 0) { banner('还没有可连诵的句子。', 'warn'); return; }
+    if (order > sectionOf(DATA.rules[k]).order) { banner('该章尚未进入连诵范围（需前面全部达「稳固」）。', 'warn'); return; }
+    var firstRule = null;
+    for (var i = 0; i <= k; i++) { if (!DATA.rules[i].hidden && sectionOf(DATA.rules[i]).order === order) { firstRule = DATA.rules[i]; break; } }
+    if (!firstRule) return;
+    var node = document.getElementById('recite-item-' + firstRule.idx);
+    if (node) { node.scrollIntoView({ behavior: 'smooth', block: 'start' }); highlightToc('reciteToc', order); }
+  }
+
   // ---------- 工具 ----------
   function el(html) { var t = document.createElement('template'); t.innerHTML = html.trim(); return t.content.firstChild; }
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]; }); }
@@ -237,6 +289,7 @@
     session.queue = buildQueue();
     session.pos = 0; session.revealed = false;
     showView('study');
+    ensureToc('studyToc', 'study');
     if (!session.queue.length) { renderStudyDone(); return; }
     renderStudyCard();
   }
@@ -244,6 +297,7 @@
   function enterStudy() {
     if (session.queue.length && session.pos < session.queue.length) {
       showView('study');
+      ensureToc('studyToc', 'study');
       renderStudyCard();
     } else {
       startStudy();
@@ -301,6 +355,7 @@
     if (session.revealed) doReveal();
     document.getElementById('stPrev').onclick = function () { studyNav(-1); };
     document.getElementById('stNext').onclick = function () { studyNav(1); };
+    highlightToc('studyToc', sectionOf(rule).order);
   }
   function studyNav(dir) {
     var np = session.pos + dir;
@@ -335,10 +390,11 @@
     readSession.queue = DATA.rules.filter(function (r) { return !r.hidden; });
     readSession.pos = 0;
     showView('read');
+    ensureToc('readToc', 'read');
     renderReadCard();
   }
   function enterRead() {
-    if (readSession.queue.length && readSession.pos < readSession.queue.length) { showView('read'); renderReadCard(); }
+    if (readSession.queue.length && readSession.pos < readSession.queue.length) { showView('read'); ensureToc('readToc', 'read'); renderReadCard(); }
     else startRead();
   }
   function readCount() {
@@ -467,11 +523,13 @@
     document.getElementById('rdNext').onclick = function () { stopReadLoop(); if (readSession.pos < total - 1) { readSession.pos++; renderReadCard(); } };
     document.getElementById('rdTogglePali').onclick = function () { readSession.showPali = !readSession.showPali; renderReadCard(); };
     document.getElementById('rdMark').onclick = function () { markRead(rule); };
+    highlightToc('readToc', sectionOf(rule).order);
   }
 
   // ---------- 连诵 ----------
   var blurOn = true;
   function renderRecite() {
+    ensureToc('reciteToc', 'recite');
     var k = reciteFrontier();
     var info = document.getElementById('reciteInfo');
     var list = document.getElementById('reciteList');
@@ -488,7 +546,7 @@
       var words = rule.words.slice(0, 10).map(function (wd) {
         return '<span class="wm"><span class="p">' + esc(wd.p) + '</span><span class="z">' + esc(wd.z) + '</span></span>';
       }).join('');
-      var item = el('<div class="recite-item"><div class="top">' + illusHTML(rule, 'illus') +
+      var item = el('<div class="recite-item" id="recite-item-' + i + '"><div class="top">' + illusHTML(rule, 'illus') +
         '<div class="meta"><div class="idx">' + esc(sec.title) + ' · 第 ' + (i + 1) + ' 句</div>' +
         '<div class="meaning">' + esc(rule.meaning) + '</div>' +
         recSentBtn(rule.idx) + speakBtn(rule.pali, 'speak-full', rule.key) +
@@ -514,7 +572,9 @@
         var p = state.progress[r.key];
         var box = p ? p.box : 0;
         var dotcls = box >= 1 ? 'b' + box : '';
-        var row = el('<div class="rule-row" id="rule-' + r.idx + '" data-idx="' + r.idx + '">' + illusHTML(r, 'illus') +
+        var row = el('<div class="rule-row" id="rule-' + r.idx + '" data-idx="' + r.idx + '">' +
+          '<span class="r-idx" title="全局第 ' + (r.idx + 1) + ' 句">' + (r.idx + 1) + '</span>' +
+          illusHTML(r, 'illus') +
           '<div class="r-main"><div class="r-pali pali">' + speakBtn(r.pali, 'speak-full', r.key) + esc(r.pali) + '</div>' +
           '<div class="r-meaning">' + esc(r.meaning) + '</div>' +
           '<div class="r-words">' + r.words.map(function (w, wi) { return '<span class="rw">' + speakBtn(w.p, null, w.p) + esc(w.p) + (w.z ? '(' + esc(w.z) + ')' : '') + '</span>'; }).join(' · ') + '</div></div>' +

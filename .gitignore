@@ -63,6 +63,7 @@ app/*_单文件版.html
 app/巴帝摩卡背诵_单文件版.html
 
 # ===== Dev scratch / temp / backups (not source) =====
+_gen_tmp/
 app/_bak/
 app/_bad_*/
 app/_evidence/

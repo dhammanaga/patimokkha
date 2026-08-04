@@ -50,6 +50,16 @@ nav.tabs button {
 nav.tabs button:hover { border-color: var(--maroon-soft); }
 nav.tabs button.active { background: var(--maroon); color: #fff; border-color: var(--maroon); }
 
+/* 章节目录跳转条（学习/熟读/连诵 通用） */
+.toc { position: sticky; top: 0; z-index: 6; display: flex; align-items: center; gap: 6px;
+  padding: 8px 4px; background: var(--bg); border-bottom: 1px solid var(--line);
+  overflow-x: auto; white-space: nowrap; scrollbar-width: thin; -webkit-overflow-scrolling: touch; }
+.toc-label { flex: 0 0 auto; font-size: 12px; color: var(--muted); margin-right: 6px; user-select: none; }
+.toc-item { flex: 0 0 auto; border: 1px solid var(--line); background: var(--panel); color: var(--ink);
+  border-radius: 999px; padding: 5px 13px; font-size: 13px; cursor: pointer; transition: .15s; }
+.toc-item:hover { border-color: var(--maroon-soft); color: var(--maroon); }
+.toc-item.active { background: var(--maroon); color: #fff; border-color: var(--maroon); }
+
 main { max-width: 920px; margin: 22px auto 60px; padding: 0 16px; }
 .view { display: none; animation: fade .25s ease; }
 .view.active { display: block; }
@@ -193,6 +203,9 @@ main { max-width: 920px; margin: 22px auto 60px; padding: 0 16px; }
 .rule-row .r-pali { font-size: 17px; color: var(--maroon); }
 .rule-row .r-meaning { color: var(--ink); font-size: 13px; margin-top: 2px; }
 .rule-row .r-words { color: var(--muted); font-size: 12px; margin-top: 3px; }
+.rule-row .r-idx { flex: 0 0 auto; align-self: center; width: 30px; height: 30px; border-radius: 50%;
+  background: var(--maroon); color: #fff; font-size: 13px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center; }
 .rule-row .r-box { flex: 0 0 auto; text-align: center; font-size: 11px; color: var(--muted); }
 .rule-row .r-box .dot { width: 12px; height: 12px; border-radius: 50%; margin: 0 auto 4px; background: #ddd; }
 .rule-row .r-box .dot.b1 { background: #d9b38c; } .rule-row .r-box .dot.b2 { background: var(--gold); }
