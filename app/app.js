@@ -277,6 +277,7 @@
     renderReadCard();
   }
   function jumpReciteToSection(order) {
+    if (reciter.active) stopReciter(); // 从背诵器退出回到列表再跳转
     var k = reciteFrontier();
     if (k < 0) { banner('还没有可连诵的句子。', 'warn'); return; }
     if (order > sectionOf(DATA.rules[k]).order) { banner('该章尚未进入连诵范围（需前面全部达「稳固」）。', 'warn'); return; }
@@ -349,6 +350,32 @@
     grid.innerHTML =
       stat(total, '总句数') + stat(studied, '已学', 'gold') + stat(readN, '已熟读', 'read') +
       stat(mastered, '熟练', 'teal') + stat(rf + 1, '连诵可达', 'maroon');
+    // ===== v1.15 今日行动卡片：告诉用户现在该做什么 =====
+    var action = document.getElementById('todayAction');
+    if (action) {
+      var dueNow = 0, newAvail = 0;
+      var now = Date.now();
+      var queue = buildQueue();
+      dueNow = queue.filter(function (r) { return state.progress[r.key] && state.progress[r.key].due <= now; }).length;
+      var introducedIdx = [];
+      DATA.rules.forEach(function (r) { if (state.progress[r.key]) introducedIdx.push(r.idx); });
+      var maxIntro = introducedIdx.length ? Math.max.apply(null, introducedIdx) : -1;
+      var allowed = Math.max(0, state.settings.dailyNew - newTodayCount());
+      var frontierRated = maxIntro === -1 || (state.progress[DATA.rules[maxIntro].key].reps >= 1);
+      if (frontierRated && allowed > 0) newAvail = allowed;
+      var nextNew = maxIntro + 1 < DATA.rules.length ? DATA.rules[maxIntro + 1] : null;
+      var act = '';
+      if (dueNow > 0) {
+        act = '<div class="today-do"><span class="dot due"></span><b>' + dueNow + ' 句复习到期</b><button class="btn ghost" onclick="PM.study()">去复习 →</button></div>';
+      } else if (nextNew && frontierRated) {
+        act = '<div class="today-do"><span class="dot new"></span><b>可学新句</b><span class="sub">下一句：' + esc(nextNew.pali.slice(0, 40)) + '…</span><button class="btn ghost" onclick="PM.study()">开始学习 →</button></div>';
+      } else if (rf >= 0) {
+        act = '<div class="today-do"><span class="dot recite"></span><b>已可连诵 ' + (rf + 1) + ' 句</b><button class="btn ghost gold" onclick="PM.recite()">去连诵 →</button></div>';
+      } else {
+        act = '<div class="today-do"><span class="dot idle"></span><b>今天暂时没有待办</b><span class="sub">可去「浏览」温习全文，或「设置」调整每日目标。</span></div>';
+      }
+      action.innerHTML = '<div class="today-title">🪷 今日修行</div>' + act;
+    }
     // 章节条
     var bars = document.getElementById('sectionBars'); bars.innerHTML = '';
     DATA.sections.forEach(function (s) {
@@ -431,6 +458,7 @@
         return '<div class="word" data-idx="' + rule.idx + '" data-wi="' + i + '">' + speakBtn(wd.p, null, wd.p) + '<span class="p">' + esc(wd.p) + '</span><span class="z' + (wd.z ? '' : ' empty') + '">' + esc(wd.z || '—') + '</span></div>';
       }).join('');
       a.innerHTML = recSentBtn(rule.idx) + speakBtn(rule.pali, 'speak-full', rule.key) + '<div class="pali-full pali" data-idx="' + rule.idx + '">' + esc(rule.pali) + '</div>' + '<div class="words">' + words + '</div>' +
+        '<div class="selfcheck-row"><button class="btn ghost" id="selfCheckBtn">🧠 逐词自检（先回忆译意）</button></div>' +
         '<div class="rating">' +
         '<button class="again" data-r="again">忘了</button>' +
         '<button class="hard" data-r="hard">困难</button>' +
@@ -439,6 +467,28 @@
       a.classList.add('show');
       a.querySelectorAll('.rating button').forEach(function (b) {
         b.onclick = function () { rate(rule, b.dataset.r); };
+      });
+      // v1.15 逐词自检：点按钮后隐藏所有词的译文，逐个点词显示译意并朗读
+      document.getElementById('selfCheckBtn').onclick = function () {
+        var selfMode = this.classList.toggle('active');
+        a.querySelectorAll('.word').forEach(function (wd) {
+          var z = wd.querySelector('.z');
+          if (selfMode) { wd.classList.add('selfcheck'); if (z) z.style.display = 'none'; }
+          else { wd.classList.remove('selfcheck'); if (z) z.style.display = ''; }
+        });
+        this.textContent = selfMode ? '✓ 自检中（点词看译意）' : '🧠 逐词自检（先回忆译意）';
+      };
+      // 自检模式下点词：显示译意 + 播放真人发音（阻止冒泡避免全局委托重复播放）
+      a.querySelectorAll('.word').forEach(function (wd) {
+        wd.addEventListener('click', function (ev) {
+          if (!wd.classList.contains('selfcheck')) return;
+          if (ev && ev.stopPropagation) ev.stopPropagation();
+          var z = wd.querySelector('.z');
+          if (z && z.style.display === 'none') {
+            z.style.display = '';
+            playWordClick(rule.idx, parseInt(wd.dataset.wi, 10));
+          }
+        });
       });
     }
     document.getElementById('revealBtn').onclick = doReveal;
@@ -476,6 +526,36 @@
   var readAudio = new Audio(); readAudio.preload = 'auto';
   var readLoop = { running: false, timer: null };
   var mediaRec = { rec: null, chunks: [], stream: null, url: null, audio: null, recording: false };
+  // ===== v1.15 连续诵读：像诵戒一样从头顺读全文 =====
+  var flowRead = { running: false, pos: 0, timer: null };
+  function startFlowRead() {
+    if (readSession.queue.length === 0) return;
+    flowRead.running = true; flowRead.pos = readSession.pos;
+    flowRead.timer = setTimeout(function () { flowStep(); }, 500);
+    updateFlowBtn();
+  }
+  function stopFlowRead() {
+    flowRead.running = false;
+    if (flowRead.timer) clearTimeout(flowRead.timer);
+    try { readAudio.pause(); } catch (e) {}
+    updateFlowBtn();
+  }
+  function flowStep() {
+    if (!flowRead.running) return;
+    if (flowRead.pos >= readSession.queue.length) { flowRead.running = false; updateFlowBtn(); banner('🪷 全文诵读完成！随喜功德。', 'info'); return; }
+    readSession.pos = flowRead.pos;
+    renderReadCard();
+    var idx = readSession.queue[flowRead.pos].idx;
+    playReadSentence(idx, readSession.rate, function () {
+      if (!flowRead.running) return;
+      flowRead.pos++;
+      flowRead.timer = setTimeout(flowStep, 600);
+    });
+  }
+  function updateFlowBtn() {
+    var b = document.getElementById('flowBtn');
+    if (b) b.textContent = flowRead.running ? '■ 停止诵读' : '📖 连续诵读';
+  }
 
   function startRead() {
     readSession.queue = DATA.rules.filter(function (r) { return !r.hidden; });
@@ -493,7 +573,7 @@
     Object.keys(state.progress).forEach(function (k) { if (state.progress[k] && state.progress[k].read) n++; });
     return n;
   }
-  function stopReadLoop() { readLoop.running = false; if (readLoop.timer) clearTimeout(readLoop.timer); try { readAudio.pause(); } catch (e) {} updateReadLoopBtn(); }
+  function stopReadLoop() { readLoop.running = false; if (readLoop.timer) clearTimeout(readLoop.timer); try { readAudio.pause(); } catch (e) {} updateReadLoopBtn(); if (flowRead && flowRead.running) { flowRead.running = false; if (flowRead.timer) clearTimeout(flowRead.timer); updateFlowBtn(); } }
   function playReadSentence(idx, rate, cb) {
     var m = REC.sentences[String(idx)];
     if (!m || !m.clip) { if (cb) cb(); return; }
@@ -581,12 +661,13 @@
         '<div class="grp"><span class="lbl">原音速度</span><span class="seg" id="rateSeg">' + rateBtns + '</span></div>' +
         '<div class="grp"><span class="lbl">🔁 循环</span><select id="loopSel">' + loopOpts + '</select>' +
           '<button class="btn ghost" id="loopBtn" style="padding:6px 12px;font-size:13px">' + (readLoop.running ? '■ 停止' : '▶ 开始循环') + '</button></div>' +
+        '<button class="btn ghost gold" id="flowBtn" style="padding:6px 14px;font-size:13px">' + (flowRead.running ? '■ 停止诵读' : '📖 连续诵读') + '</button>' +
         '<div class="grp"><span class="lbl">🎙 录音</span>' +
           '<button class="btn ghost" id="recBtn" style="padding:6px 12px;font-size:13px">' + (mediaRec.recording ? '■ 停止并回放' : '● 开始录音') + '</button>' +
           '<button class="btn ghost" id="myRecBtn" style="padding:6px 12px;font-size:13px"' + (mediaRec.url ? '' : ' disabled') + '>再听我的录音</button>' +
           '<span class="rec-status"><span class="rec-dot' + (mediaRec.recording ? ' on' : '') + '"></span>' + (mediaRec.recording ? '录音中…' : '跟读对比') + '</span></div>' +
       '</div>' +
-      '<div class="read-prog">方法：先听原音（可放慢），再<b>跟读</b>；用 🔁 循环把它读顺，用 🎙 录下自己与原音对比。整句读熟后点「✓ 标记已熟读」。</div>' +
+      '<div class="read-prog">方法：先听原音（可放慢），再<b>跟读</b>；用 🔁 循环把它读顺，用 🎙 录下自己与原音对比。整句读熟后点「✓ 标记已熟读」；<b>「📖 连续诵读」</b>可像诵戒一样从头顺读全文。</div>' +
       '<div class="card">' + illusHTML(rule) +
         '<div class="body">' +
           '<div class="sec-tag">' + esc(sec.title) + ' · 第 ' + (rule.idx + 1) + ' 句</div>' +
@@ -607,6 +688,7 @@
     });
     document.getElementById('loopSel').onchange = function (e) { readSession.loopTimes = e.target.value === 'inf' ? 'inf' : parseInt(e.target.value, 10); };
     document.getElementById('loopBtn').onclick = function () { if (readLoop.running) stopReadLoop(); else startReadLoop(); };
+    document.getElementById('flowBtn').onclick = function () { if (flowRead.running) stopFlowRead(); else { stopReadLoop(); startFlowRead(); } };
     document.getElementById('recBtn').onclick = function () { if (mediaRec.recording) stopRec(); else startRec(); };
     document.getElementById('myRecBtn').onclick = function () { if (mediaRec.audio) mediaRec.audio.play(); };
     document.getElementById('rdPrev').onclick = function () { stopReadLoop(); if (readSession.pos > 0) { readSession.pos--; renderReadCard(); } };
@@ -618,8 +700,91 @@
 
   // ---------- 连诵 ----------
   var blurOn = true;
+  // ===== v1.15 背诵器：逐句推进的背诵闭环 =====
+  var reciter = { active: false, pos: 0, queue: [], revealed: false };
+  function startReciter() {
+    var k = reciteFrontier();
+    if (k < 0) { banner('还没有可连诵的句子。先去「学习」把前面的句子练到「稳固」(box≥2) 吧。', 'warn'); return; }
+    reciter.queue = [];
+    for (var i = 0; i <= k; i++) { if (!DATA.rules[i].hidden) reciter.queue.push(DATA.rules[i]); }
+    reciter.pos = 0; reciter.active = true; reciter.revealed = false;
+    document.getElementById('reciter').style.display = '';
+    document.getElementById('reciteList').style.display = 'none';
+    document.getElementById('reciteInfo').textContent = '';
+    renderReciterCard();
+  }
+  function stopReciter() {
+    reciter.active = false;
+    var r = document.getElementById('reciter');
+    if (r) r.style.display = 'none';
+    var l = document.getElementById('reciteList');
+    if (l) l.style.display = '';
+    renderRecite();
+  }
+  function reciteRate(rule, rating) {
+    // 背诵自评直接作用于间隔重复：背错降级，背对保持/升级
+    var p = getProg(rule, true);
+    if (rating === 'wrong') {
+      p.lapses = (p.lapses || 0) + 1;
+      p.box = Math.max(1, p.box - 1);
+      p.due = Date.now() + 10 * 60 * 1000; // 10 分钟后再来
+    } else if (rating === 'ok') {
+      p.box = Math.min(5, p.box + 1);
+      p.due = Date.now() + DAY * BOX[p.box];
+    } else { // skip
+      p.due = Date.now() + 30 * 60 * 1000; // 跳过：30 分钟后
+    }
+    save();
+    banner(rule.idx + 1 + ' 句「' + ({ wrong: '背错·稍后复习', ok: '背对·已巩固', skip: '已跳过' })[rating] + '」', rating === 'wrong' ? 'warn' : 'info');
+  }
+  function renderReciterCard() {
+    if (!reciter.active) return;
+    var rule = reciter.queue[reciter.pos];
+    if (!rule) { stopReciter(); banner('🎉 本次背诵完成！已全部过完 ' + reciter.queue.length + ' 句。', 'info'); return; }
+    var sec = sectionOf(rule);
+    var card = document.getElementById('reciterCard');
+    var actions = document.getElementById('reciterActions');
+    var bar = document.getElementById('reciterBar');
+    var posEl = document.getElementById('reciterPos');
+    posEl.textContent = '背诵中 · 第 ' + (reciter.pos + 1) + ' / ' + reciter.queue.length + ' 句 · ' + sec.title;
+    bar.style.width = ((reciter.pos) / reciter.queue.length * 100) + '%';
+    // 卡片：先隐藏巴利（只露译文/图），点「显示巴利」揭示
+    var paliBlock = reciter.revealed
+      ? ('<div class="reciter-pali pali">' + esc(rule.pali) + '</div>')
+      : '<div class="reciter-blur pali">' + esc(rule.pali) + '</div>';
+    card.innerHTML = illusHTML(rule, 'reciter-illus') +
+      '<div class="reciter-body">' +
+        '<div class="sec-tag">' + esc(sec.title) + ' · 第 ' + (rule.idx + 1) + ' 句</div>' +
+        '<div class="meaning">' + esc(rule.meaning || '（无参考译文）') + '</div>' +
+        paliBlock +
+      '</div>';
+    // 操作按钮
+    if (!reciter.revealed) {
+      actions.innerHTML =
+        '<button class="btn ghost" id="rcPlay">🔊 先听一遍</button>' +
+        '<button class="btn" id="rcReveal">显示巴利 · 对照</button>';
+      document.getElementById('rcPlay').onclick = function () { playRecSentence(rule.idx); };
+      document.getElementById('rcReveal').onclick = function () { reciter.revealed = true; renderReciterCard(); };
+    } else {
+      actions.innerHTML =
+        '<button class="btn rc-ok" id="rcOk">✓ 背对了</button>' +
+        '<button class="btn rc-wrong" id="rcWrong">✗ 背错了</button>' +
+        '<button class="btn ghost" id="rcSkip">跳过</button>' +
+        '<button class="btn ghost" id="rcAgain">🔊 再听一遍</button>';
+      document.getElementById('rcOk').onclick = function () { reciteRate(rule, 'ok'); nextReciter(); };
+      document.getElementById('rcWrong').onclick = function () { reciteRate(rule, 'wrong'); nextReciter(); };
+      document.getElementById('rcSkip').onclick = function () { reciteRate(rule, 'skip'); nextReciter(); };
+      document.getElementById('rcAgain').onclick = function () { playRecSentence(rule.idx); };
+    }
+  }
+  function nextReciter() {
+    reciter.pos++;
+    reciter.revealed = false;
+    renderReciterCard();
+  }
   function renderRecite() {
     ensureToc('reciteToc', 'recite');
+    if (reciter.active) { renderReciterCard(); return; }
     var k = reciteFrontier();
     var info = document.getElementById('reciteInfo');
     var list = document.getElementById('reciteList');
@@ -629,6 +794,9 @@
     }
     info.textContent = '连诵范围：第 1 – ' + (k + 1) + ' 句（从开头起，全部达「稳固」）';
     list.innerHTML = '';
+    // 背诵器入口按钮
+    list.appendChild(el('<div class="reciter-entry"><button class="btn gold" id="startReciterBtn">🎯 开始背诵（逐句推进）</button><span class="hint">隐藏巴利 → 默背 → 对照自评，背错的会自动进入复习</span></div>'));
+    document.getElementById('startReciterBtn').onclick = startReciter;
     for (var i = 0; i <= k; i++) {
       var rule = DATA.rules[i];
       if (rule.hidden) continue;
@@ -779,7 +947,7 @@
     document.getElementById('startStudy').onclick = startStudy;
     document.getElementById('startRecite').onclick = function () { showView('recite'); };
     document.getElementById('gotoBrowse').onclick = function () { showView('browse'); };
-    document.getElementById('reciteRefresh').onclick = renderRecite;
+    document.getElementById('reciteRefresh').onclick = function () { if (reciter.active) stopReciter(); else renderRecite(); };
     document.getElementById('toggleBlur').onclick = function () { blurOn = !blurOn; renderRecite(); };
 
     var dn = document.getElementById('dailyNew');
@@ -811,6 +979,87 @@
       bs.addEventListener('input', function () { renderBrowse(bs.value); });
     }
 
+    // 浏览页跳转句号：输入 N 直接定位到第 N 句
+    var jumpBtn = document.getElementById('jumpBtn');
+    var jumpInput = document.getElementById('jumpInput');
+    function doJump() {
+      var n = parseInt(jumpInput.value, 10);
+      if (isNaN(n) || n < 1 || n > DATA.rules.length) { banner('请输入 1 – ' + DATA.rules.length + ' 之间的句号。', 'warn'); return; }
+      var idx = n - 1;
+      var node = document.getElementById('rule-' + idx);
+      if (!node) {
+        // 若搜索过滤导致未渲染，先清空搜索再渲染
+        if (bs) bs.value = '';
+        renderBrowse('');
+        node = document.getElementById('rule-' + idx);
+      }
+      if (!node) { banner('未找到第 ' + n + ' 句。', 'err'); return; }
+      var sec = node.closest('.browse-sec');
+      if (sec) sec.classList.add('open');
+      node.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      node.classList.add('rule-flash');
+      setTimeout(function () { node.classList.remove('rule-flash'); }, 2600);
+      banner('已定位到第 ' + n + ' 句。', 'info');
+    }
+    if (jumpBtn && jumpInput) {
+      jumpBtn.onclick = doJump;
+      jumpInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); doJump(); } });
+    }
+
+    // ===== 学习/熟读/连诵 页跳转句号 =====
+    // 通用校验：解析输入句号
+    function parseJump(inputEl) {
+      var n = parseInt(inputEl.value, 10);
+      if (isNaN(n) || n < 1 || n > DATA.rules.length) { banner('请输入 1 – ' + DATA.rules.length + ' 之间的句号。', 'warn'); return null; }
+      return n;
+    }
+    // 学习页：定位到学习队列中的该句
+    function doStudyJump(n) {
+      if (!session.queue.length) { banner('请先开始学习。', 'warn'); return; }
+      var idx = n - 1;
+      var pos = session.queue.findIndex(function (r) { return r.idx === idx; });
+      if (pos < 0) { banner('第 ' + n + ' 句暂不在今日学习队列中。可前往「熟读」跳转。', 'warn'); return; }
+      session.pos = pos; session.revealed = false;
+      renderStudyCard();
+      banner('已跳转到第 ' + n + ' 句（学习）。', 'info');
+    }
+    // 熟读页：定位到熟读队列中的该句
+    function doReadJump(n) {
+      if (!readSession.queue.length) { banner('请先进入熟读。', 'warn'); return; }
+      var idx = n - 1;
+      var pos = readSession.queue.findIndex(function (r) { return r.idx === idx; });
+      if (pos < 0) { banner('未找到第 ' + n + ' 句。', 'err'); return; }
+      stopReadLoop(); stopFlowRead();
+      readSession.pos = pos;
+      renderReadCard();
+      banner('已跳转到第 ' + n + ' 句（熟读）。', 'info');
+    }
+    // 连诵页：若该句在连诵范围内则滚动高亮，否则提示
+    function doReciteJump(n) {
+      if (reciter.active) stopReciter();
+      var idx = n - 1;
+      var k = reciteFrontier();
+      if (k < 0) { banner('还没有可连诵的句子。', 'warn'); return; }
+      if (idx > k) { banner('第 ' + n + ' 句尚未进入连诵范围（需前面全部达「稳固」）。', 'warn'); return; }
+      var node = document.getElementById('recite-item-' + idx);
+      if (!node) { renderRecite(); node = document.getElementById('recite-item-' + idx); }
+      if (!node) { banner('未找到第 ' + n + ' 句。', 'err'); return; }
+      node.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      node.classList.add('rule-flash');
+      setTimeout(function () { node.classList.remove('rule-flash'); }, 2600);
+      banner('已定位到第 ' + n + ' 句（连诵）。', 'info');
+    }
+    function bindJump(idPrefix, fn) {
+      var btn = document.getElementById(idPrefix + 'JumpBtn');
+      var input = document.getElementById(idPrefix + 'JumpInput');
+      if (!btn || !input) return;
+      btn.onclick = function () { var n = parseJump(input); if (n) fn(n); };
+      input.addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); var n = parseJump(input); if (n) fn(n); } });
+    }
+    bindJump('study', doStudyJump);
+    bindJump('read', doReadJump);
+    bindJump('recite', doReciteJump);
+
     document.getElementById('exportBtn').onclick = exportProgress;
     document.getElementById('importProgress').onchange = importProgress;
     document.getElementById('resetBtn').onclick = function () {
@@ -822,7 +1071,11 @@
     document.getElementById('dataInfo').textContent = '当前数据集哈希：' + HASH + ' · 来源：' + DATA.meta.source;
 
     // 全局快捷
-    window.PM = { dash: function () { showView('dashboard'); }, recite: function () { showView('recite'); } };
+    window.PM = {
+      dash: function () { showView('dashboard'); },
+      recite: function () { showView('recite'); },
+      study: function () { enterStudy(); }
+    };
 
     // v1.4 Header 吸附收起：滚下隐藏、滚上显示、到顶必展开
     (function () {
