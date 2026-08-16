@@ -46,6 +46,97 @@
     return playRecClip(m.clip, w.t0, w.t1);
   }
 
+  // ===== v1.4 按钮化：整句/逐词切换播放状态 =====
+  var sentState = { idx: -1 };
+  var wordAudio = new Audio();
+  wordAudio.preload = 'none';
+  recAudio.onended = function () { sentState.idx = -1; updatePlayingUI(); };
+
+  function clearPlayingUI() {
+    document.querySelectorAll('.playing').forEach(function (e) { e.classList.remove('playing'); });
+  }
+  function updatePlayingUI() {
+    clearPlayingUI();
+    if (sentState.idx >= 0) {
+      var s = '[data-idx="' + sentState.idx + '"].pali, .recite-item[data-idx="' + sentState.idx + '"] .pali, .rule-row[data-idx="' + sentState.idx + '"] .r-pali';
+      document.querySelectorAll(s).forEach(function (e) { e.classList.add('playing'); });
+    }
+  }
+
+  // 整句：同句再点停止；不同句切换
+  function playSentenceToggle(idx) {
+    if (sentState.idx === idx && !recAudio.paused && recAudio.src) {
+      recAudio.pause(); recAudio.currentTime = 0;
+      sentState.idx = -1; updatePlayingUI(); return;
+    }
+    if (!recAudio.paused) recAudio.pause();
+    sentState.idx = idx; updatePlayingUI();
+    if (!playRecSentence(idx)) {
+      // 没有真人录音时用 TTS 朗读全文
+      if (window.PaliTTS) {
+        var rule = DATA.rules[idx];
+        var pali = rule && rule.pali;
+        if (pali) window.PaliTTS.speak(pali, { rate: state.settings.speakRate || 0.72 });
+        else { sentState.idx = -1; updatePlayingUI(); }
+      } else { sentState.idx = -1; updatePlayingUI(); }
+    }
+  }
+
+  // 逐词：独立 wordAudio，不打断整句；无真人录音时回退 TTS
+  function playWordClick(idx, wi) {
+    var rule = DATA.rules[idx];
+    var m = REC.sentences[String(idx)];
+    var w = (m && m.words) ? m.words[wi] : null;
+    var pali = (rule && rule.words && rule.words[wi]) ? rule.words[wi].p : null;
+    var el = document.querySelector('.word[data-idx="' + idx + '"][data-wi="' + wi + '"], .wm[data-idx="' + idx + '"][data-wi="' + wi + '"], .rw[data-idx="' + idx + '"][data-wi="' + wi + '"]');
+    clearPlayingUI();
+    if (el) el.classList.add('playing');
+    // 无真人录音、无该词、或时间戳无效（未念的括号注释词）→ 优先播预生成 mp3（Kannada TTS 真人感），未命中再走 Web Speech
+    if (!w || w.t0 == null || w.t1 == null || !pali) {
+      // 词文本去括号匹配 PM_PALI_WORDS（"(pavāraṇāya)" → "pavāraṇāya"）
+      var key = pali.replace(/[()]/g, '').trim();
+      var pre = (window.PM_PALI_WORDS || {})[key];
+      var played = false;
+      if (el) el.classList.remove('playing');
+      if (pre) {
+        var a = new Audio('audio/' + pre);
+        a.onended = function () { if (el) el.classList.remove('playing'); };
+        if (el) el.classList.add('playing');
+        a.play().catch(function () {
+          if (el) el.classList.remove('playing');
+          if (window.PaliTTS) window.PaliTTS.speak(pali, { rate: state.settings.speakRate || 0.72 });
+        });
+        played = true;
+      }
+      if (!played && window.PaliTTS) {
+        var ok = window.PaliTTS.speak(pali, { rate: state.settings.speakRate || 0.72 });
+        if (!ok && window.PaliTTS.supported && !window.PaliTTS.supported()) banner('该词暂无发音（浏览器不支持巴利 TTS）', 'warn');
+      } else if (!played) {
+        if (el) banner('该词暂无发音', 'warn');
+      }
+      return;
+    }
+    try {
+      wordAudio.pause();
+      wordAudio.onloadedmetadata = function () {
+        try { wordAudio.currentTime = w.t0 || 0; } catch (e) {}
+        var stopAt = w.t1 || (wordAudio.duration || 0);
+        wordAudio.play().catch(function () { /* 静默失败 */ });
+        wordAudio.ontimeupdate = function () {
+          if (wordAudio.currentTime >= stopAt) {
+            wordAudio.pause(); wordAudio.ontimeupdate = null;
+            if (el) el.classList.remove('playing');
+          }
+        };
+      };
+      wordAudio.onended = function () { if (el) el.classList.remove('playing'); };
+      wordAudio.src = m.clip;
+      wordAudio.load();
+    } catch (e) {
+      if (el) el.classList.remove('playing');
+    }
+  }
+
   // ---------- 状态 ----------
   var state = loadState();
 
@@ -337,10 +428,9 @@
       session.revealed = true;
       var a = document.getElementById('answer');
       var words = rule.words.map(function (wd, i) {
-        return '<div class="word">' + speakBtn(wd.p, null, wd.p) + '<span class="p">' + esc(wd.p) + '</span><span class="z' + (wd.z ? '' : ' empty') + '">' + esc(wd.z || '—') + '</span></div>';
+        return '<div class="word" data-idx="' + rule.idx + '" data-wi="' + i + '">' + speakBtn(wd.p, null, wd.p) + '<span class="p">' + esc(wd.p) + '</span><span class="z' + (wd.z ? '' : ' empty') + '">' + esc(wd.z || '—') + '</span></div>';
       }).join('');
-      var readLine = '<div class="pali-read"><b>读音参考</b>（据巴利发音规则转写） ' + esc(window.PaliTTS ? PaliTTS.toReadable(rule.pali) : rule.pali) + '</div>';
-      a.innerHTML = recSentBtn(rule.idx) + speakBtn(rule.pali, 'speak-full', rule.key) + '<div class="pali-full pali">' + esc(rule.pali) + '</div>' + readLine + '<div class="words">' + words + '</div>' +
+      a.innerHTML = recSentBtn(rule.idx) + speakBtn(rule.pali, 'speak-full', rule.key) + '<div class="pali-full pali" data-idx="' + rule.idx + '">' + esc(rule.pali) + '</div>' + '<div class="words">' + words + '</div>' +
         '<div class="rating">' +
         '<button class="again" data-r="again">忘了</button>' +
         '<button class="hard" data-r="hard">困难</button>' +
@@ -361,6 +451,7 @@
     var np = session.pos + dir;
     if (np < 0 || np >= session.queue.length) return;
     session.pos = np;
+    session.revealed = false; // 新句重新隐藏答案，保持「先回忆再揭示」
     renderStudyCard();
   }
   function studiedToday() {
@@ -469,11 +560,10 @@
     var total = readSession.queue.length;
     var isRead = !!(state.progress[rule.key] && state.progress[rule.key].read);
     var words = rule.words.map(function (wd, i) {
-      return '<div class="word">' + speakBtn(wd.p, null, wd.p) + '<span class="p">' + esc(wd.p) + '</span><span class="z' + (wd.z ? '' : ' empty') + '">' + esc(wd.z || '—') + '</span></div>';
+      return '<div class="word" data-idx="' + rule.idx + '" data-wi="' + i + '">' + speakBtn(wd.p, null, wd.p) + '<span class="p">' + esc(wd.p) + '</span><span class="z' + (wd.z ? '' : ' empty') + '">' + esc(wd.z || '—') + '</span></div>';
     }).join('');
-    var readLine = '<div class="pali-read"><b>读音参考</b> ' + esc(window.PaliTTS ? PaliTTS.toReadable(rule.pali) : rule.pali) + '</div>';
     var paliHtml = readSession.showPali
-      ? (recSentBtn(rule.idx) + speakBtn(rule.pali, 'speak-full', rule.key) + '<div class="pali-full pali">' + esc(rule.pali) + '</div>' + readLine)
+      ? (recSentBtn(rule.idx) + speakBtn(rule.pali, 'speak-full', rule.key) + '<div class="pali-full pali" data-idx="' + rule.idx + '">' + esc(rule.pali) + '</div>')
       : '<div class="hint" style="color:var(--muted)">巴利文已隐藏（跟读模式）。点「显示巴利」查看。</div>';
 
     var rateBtns = [['0.6', '慢'], ['1', '常速'], ['1.3', '快']].map(function (p) {
@@ -543,10 +633,10 @@
       var rule = DATA.rules[i];
       if (rule.hidden) continue;
       var sec = sectionOf(rule);
-      var words = rule.words.slice(0, 10).map(function (wd) {
-        return '<span class="wm"><span class="p">' + esc(wd.p) + '</span><span class="z">' + esc(wd.z) + '</span></span>';
+      var words = rule.words.map(function (wd, wi) {
+        return '<span class="wm" data-idx="' + i + '" data-wi="' + wi + '"><span class="p">' + esc(wd.p) + '</span><span class="z">' + esc(wd.z) + '</span></span>';
       }).join('');
-      var item = el('<div class="recite-item" id="recite-item-' + i + '"><div class="top">' + illusHTML(rule, 'illus') +
+      var item = el('<div class="recite-item" id="recite-item-' + i + '" data-idx="' + i + '"><div class="top">' + illusHTML(rule, 'illus') +
         '<div class="meta"><div class="idx">' + esc(sec.title) + ' · 第 ' + (i + 1) + ' 句</div>' +
         '<div class="meaning">' + esc(rule.meaning) + '</div>' +
         recSentBtn(rule.idx) + speakBtn(rule.pali, 'speak-full', rule.key) +
@@ -555,7 +645,11 @@
       list.appendChild(item);
     }
     list.querySelectorAll('.pali.hidden').forEach(function (p) {
-      p.onclick = function () { p.classList.remove('hidden'); };
+      p.onclick = function (ev) {
+        p.classList.remove('hidden');
+        p.onclick = null; // 本次仅「显示」；解除后再次点击走正常播放
+        if (ev && ev.stopPropagation) ev.stopPropagation();
+      };
     });
   }
 
@@ -575,9 +669,9 @@
         var row = el('<div class="rule-row" id="rule-' + r.idx + '" data-idx="' + r.idx + '">' +
           '<span class="r-idx" title="全局第 ' + (r.idx + 1) + ' 句">' + (r.idx + 1) + '</span>' +
           illusHTML(r, 'illus') +
-          '<div class="r-main"><div class="r-pali pali">' + speakBtn(r.pali, 'speak-full', r.key) + esc(r.pali) + '</div>' +
+          '<div class="r-main"><div class="r-pali pali" data-idx="' + r.idx + '">' + speakBtn(r.pali, 'speak-full', r.key) + esc(r.pali) + '</div>' +
           '<div class="r-meaning">' + esc(r.meaning) + '</div>' +
-          '<div class="r-words">' + r.words.map(function (w, wi) { return '<span class="rw">' + speakBtn(w.p, null, w.p) + esc(w.p) + (w.z ? '(' + esc(w.z) + ')' : '') + '</span>'; }).join(' · ') + '</div></div>' +
+          '<div class="r-words">' + r.words.map(function (w, wi) { return '<span class="rw" data-idx="' + r.idx + '" data-wi="' + wi + '">' + speakBtn(w.p, null, w.p) + esc(w.p) + (w.z ? '(' + esc(w.z) + ')' : '') + '</span>'; }).join(' · ') + '</div></div>' +
           '<div class="r-box"><div class="dot ' + dotcls + '"></div>' + BOX_LABEL[box] + '</div></div>');
         rows.push(row);
       }
@@ -592,6 +686,9 @@
     // 默认展开前两个有内容的章节
     var opened = 0;
     list.querySelectorAll('.browse-sec').forEach(function (s) { if (opened < 2) { s.classList.add('open'); opened++; } });
+    if (!list.childElementCount) {
+      list.innerHTML = '<div class="empty-hint">没有匹配「' + esc(filter) + '」的句子。</div>';
+    }
   }
 
   // ---------- 设置：重新导入源文件 ----------
@@ -631,6 +728,22 @@
     // 发音按钮全局委托（整句 / 逐词通用）
     document.addEventListener('click', function (e) {
       var t = e.target;
+
+      // v1.4 按钮化：整句本身可点 → toggle 播放/停止
+      var sentEl = (t && t.closest) ? t.closest('.pali-full.pali[data-idx], .recite-item[data-idx] .pali, .rule-row[data-idx] .r-pali') : null;
+      if (sentEl) {
+        var container = sentEl.closest('[data-idx]');
+        var idx = container && parseInt(container.dataset.idx, 10);
+        if (!isNaN(idx)) { e.preventDefault(); playSentenceToggle(idx); return; }
+      }
+      // v1.4 按钮化：逐词本身可点 → 播该词（不打断整句）
+      var wordEl = (t && t.closest) ? t.closest('.word[data-idx][data-wi], .wm[data-idx][data-wi], .rw[data-idx][data-wi]') : null;
+      if (wordEl) {
+        e.preventDefault();
+        playWordClick(parseInt(wordEl.dataset.idx, 10), parseInt(wordEl.dataset.wi, 10));
+        return;
+      }
+
       var b = (t && t.closest) ? t.closest('.speak') : null;
       if (b && b.dataset && b.dataset.speak) {
         e.preventDefault();
@@ -692,6 +805,12 @@
     drop.ondragleave = function () { drop.classList.remove('drag'); };
     drop.ondrop = function (e) { e.preventDefault(); drop.classList.remove('drag'); if (e.dataTransfer.files[0]) handleImportFile(e.dataTransfer.files[0]); };
 
+    // 浏览页搜索：输入即过滤（巴利 / 汉译）
+    var bs = document.getElementById('browseSearch');
+    if (bs) {
+      bs.addEventListener('input', function () { renderBrowse(bs.value); });
+    }
+
     document.getElementById('exportBtn').onclick = exportProgress;
     document.getElementById('importProgress').onchange = importProgress;
     document.getElementById('resetBtn').onclick = function () {
@@ -704,6 +823,26 @@
 
     // 全局快捷
     window.PM = { dash: function () { showView('dashboard'); }, recite: function () { showView('recite'); } };
+
+    // v1.4 Header 吸附收起：滚下隐藏、滚上显示、到顶必展开
+    (function () {
+      var lastY = 0, accum = 0, raf = 0;
+      var h = null;
+      function tick() {
+        raf = 0;
+        var y = window.scrollY || window.pageYOffset || 0;
+        var dy = y - lastY;
+        lastY = y;
+        if (!h) h = document.querySelector('header.top');
+        if (!h) return;
+        if (y < 80) { h.classList.remove('is-collapsed'); accum = 0; return; }
+        if (dy > 3) { accum = Math.min(accum + dy, 220); if (accum > 60) h.classList.add('is-collapsed'); }
+        else if (dy < -3) { accum = Math.max(accum + dy, -220); if (accum < -30) h.classList.remove('is-collapsed'); }
+      }
+      window.addEventListener('scroll', function () {
+        if (!raf) raf = requestAnimationFrame(tick);
+      }, { passive: true });
+    }());
   }
 
   function exportProgress() {
