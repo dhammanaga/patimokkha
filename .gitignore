@@ -92,3 +92,6 @@ app/images/_pollinations_reject/
 
 # ===== Audio generation bug: duplicated nested dir (should be flat) =====
 app/audio/words/words/
+
+# ===== corrupted object DB backup (2026-09-07, safe to delete after verification) =====
+.git_broken_*/
