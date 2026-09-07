@@ -83,3 +83,12 @@ app/listen35.html
 app/_gen_check.js
 app/_gen_listen35.js
 app/_listen_formula.html
+app/_*.py
+app/_*.js
+app/_*.json
+
+# ===== Rejected / temp generation artifacts =====
+app/images/_pollinations_reject/
+
+# ===== Audio generation bug: duplicated nested dir (should be flat) =====
+app/audio/words/words/
